@@ -276,8 +276,9 @@
       ? `${jobs.length} Praktika · zuletzt aktualisiert am ${upd.toLocaleDateString("de-DE", { day: "2-digit", month: "long", year: "numeric" })}`
       : "Noch keine Daten: Der erste automatische Abruf läuft nach dem Eintragen der Firmen.";
     renderSources(data);
-    const named = data.firmen.slice(0, 3).map((f) => f.name).join(", ");
-    $("n-firmen").textContent = data.firmen.length ? `${data.firmen.length} Arbeitgeber${named ? ", z. B. " + named : ""}` : "folgt";
+    const named = data.firmen.filter((f) => f.aktiv !== false && f.stellen > 0).slice(0, 3).map((f) => f.name).join(", ");
+    const aktiv = data.firmen.filter((f) => f.aktiv !== false).length;
+    $("n-firmen").textContent = aktiv ? `${aktiv} Arbeitgeber${named ? ", z. B. " + named : ""}` : "folgt";
 
     document.body.addEventListener("click", (e) => {
       const fav = e.target.closest(".fav");
