@@ -1,0 +1,113 @@
+BMW|https://www.bmwgroup.jobs/de/de/jobs.html
+Mercedes-Benz|https://group.mercedes-benz.com/karriere/jobsuche/
+Siemens|https://jobs.siemens.com/careers
+Siemens Energy|https://jobs.siemens-energy.com/en_US/jobs/Jobs
+Bosch|https://jobs.bosch.com/de/
+SAP|https://jobs.sap.com/search/?q=intern
+Munich Re|https://www.munichre.com/de/karriere/jobs.html
+ERGO|https://www.ergo.com/de/karriere/jobs
+Allianz|https://careers.allianz.com/de_DE.html
+Volkswagen|https://jobs.volkswagen-group.com/
+Porsche|https://jobs.porsche.com/
+Audi|https://www.audi.com/de/company/careers/jobsearch.html
+Adidas|https://careers.adidas-group.com/jobs
+Deutsche Telekom|https://www.telekom.com/de/karriere/jobsuche
+E.ON|https://jobs.eon.com/
+Bayernwerk|https://www.bayernwerk.de/de/karriere.html
+Infineon|https://jobs.infineon.com/careers
+Lufthansa|https://www.lufthansagroup.careers/de/jobsuche
+Bayer|https://career.bayer.com/de/jobs-search
+BASF|https://basf.jobs/
+Trade Republic|https://traderepublic.com/careers
+Scalable Capital|https://de.scalable.capital/karriere
+PwC|https://jobs.pwc.de/
+PwC Global|https://www.pwc.com/gx/en/careers.html
+KPMG|https://kpmg.com/de/de/home/karriere/stellenangebote.html
+EY|https://careers.ey.com/ey/search/?q=intern
+Deloitte|https://job.deloitte.com/
+Deloitte Global|https://www2.deloitte.com/global/en/careers/job-search.html
+Knorr-Bremse|https://www.knorr-bremse.com/de/careers/
+Linde|https://www.linde.com/careers
+ZF|https://jobs.zf.com/
+Schaeffler|https://jobs.schaeffler.com/
+KraussMaffei|https://www.kraussmaffei.com/de/karriere
+Sixt|https://jobs.sixt.com/
+ams OSRAM|https://ams-osram.com/de/ueber-uns/karriere
+MTU Aero Engines|https://www.mtu.de/de/karriere/stellenangebote/
+Salesforce|https://careers.salesforce.com/en/jobs/
+Google|https://www.google.com/about/careers/applications/jobs/results/?q=intern
+Apple|https://jobs.apple.com/de-de/search?search=intern
+Microsoft|https://jobs.careers.microsoft.com/global/en/search?q=intern
+Meta|https://www.metacareers.com/jobs?q=intern
+Continental|https://jobs.continental.com/de/
+Aumovio|https://www.aumovio.com/en/careers.html
+OMV|https://www.omv.com/en/careers/jobs
+DHL|https://careers.dhl.com/global/en
+Red Bull|https://jobs.redbull.com/
+Verbund|https://www.verbund.com/de-at/ueber-verbund/karriere/jobs
+Bulgarian Energy Holding|https://www.bgenh.com/en/
+UniCredit|https://careers.unicredit.eu/
+INA|https://www.ina.hr/en/careers/
+HEP|https://www.hep.hr/en
+Skoda|https://www.skoda-auto.com/company/career
+Novo Nordisk|https://www.novonordisk.com/careers/find-a-job.html
+Maersk|https://www.maersk.com/careers
+LEGO|https://www.lego.com/en-us/careers
+Bolt|https://bolt.eu/en/careers/positions/
+LVMH|https://www.lvmh.com/en/join-us/our-job-offers
+Reckitt|https://careers.reckitt.com/
+Nokia|https://www.nokia.com/about-us/careers/
+Samsung|https://www.samsung.com/de/about-us/careers/
+TotalEnergies|https://jobs.totalenergies.com/
+AXA|https://careers.axa.com/
+BNP Paribas|https://group.bnpparibas/en/careers/all-job-offers
+Renault|https://www.renaultgroup.com/en/careers/
+Ryanair|https://careers.ryanair.com/
+Eni|https://www.eni.com/en-IT/careers.html
+Generali|https://www.generali.com/careers
+Ferrero|https://www.ferrerocareers.com/
+Ferrari|https://www.ferrari.com/en-EN/corporate/careers
+airBaltic|https://www.airbaltic.com/en/careers
+HSBC|https://www.hsbc.com/careers
+Stellantis|https://careers.stellantis.com/
+ING|https://www.ing.jobs/
+Philips|https://www.careers.philips.com/
+Heineken|https://careers.theheinekencompany.com/
+ASML|https://www.asml.com/en/careers/find-your-job
+Volvo Group|https://www.volvogroup.com/en/careers.html
+Volvo Cars|https://jobs.volvocars.com/
+H&M|https://career.hm.com/
+Spotify|https://www.lifeatspotify.com/jobs
+Roche|https://careers.roche.com/global/en
+UBS|https://www.ubs.com/global/en/careers.html
+Shell|https://www.shell.com/careers.html
+Unilever|https://careers.unilever.com/
+AstraZeneca|https://careers.astrazeneca.com/
+Barclays|https://search.jobs.barclays/
+Hilti|https://careers.hilti.group/
+thyssenkrupp|https://jobs.thyssenkrupp.com/
+Walmart|https://careers.walmart.com/
+BHP|https://www.bhp.com/careers
+Wesfarmers|https://www.wesfarmers.com.au/careers
+Coles Group|https://colescareers.com.au/
+Commonwealth Bank|https://www.commbank.com.au/about-us/careers.html
+Woolworths|https://www.woolworthsgroup.com.au/au/en/careers.html
+Fonterra|https://careers.fonterra.com/
+Fletcher Building|https://www.fletcherbuilding.com/careers/
+Foodstuffs|https://www.foodstuffs.co.nz/careers
+ANZ|https://careers.anz.com/
+ASB Bank|https://careers.asb.co.nz/
+Contact Energy|https://contact.co.nz/aboutus/careers
+Lenovo|https://jobs.lenovo.com/
+Huawei|https://career.huawei.com/
+Tencent|https://careers.tencent.com/en-us/
+BYD|https://www.byd.com/eu/careers
+Xiaomi|https://hr.xiaomi.com/
+Honda|https://www.honda.de/karriere.html
+Mitsubishi Electric|https://www.mitsubishielectric.com/en/careers/
+Sony|https://www.sony.com/en/SonyInfo/Careers/
+Panasonic|https://www.panasonic.com/global/corporate/careers.html
+Hyundai Motor|https://www.hyundai.com/eu/careers.html
+Kia|https://www.kia.com/eu/about-kia/careers/
+Sky|https://careers.sky.com/
+DAZN|https://careers.dazn.com/
