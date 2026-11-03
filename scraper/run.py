@@ -18,7 +18,7 @@ from .common import (DEBUG_DIR, KA, LAENDER_OUT, OUTPUT_FILE, STATE_FILE, Http, 
                      load_companies, load_settings, load_yaml, slug, title_is_internship)
 from .geo import Geo
 
-MAX_DETAILS_PER_COMPANY = 300
+MAX_DETAILS_PER_COMPANY = 800
 STATE_VERSION = 1
 
 

@@ -42,9 +42,15 @@
   career_url: https://www.nvidia.com/en-us/about-nvidia/careers/
 
 - name: Infineon
-  ats: eightfold
-  url: https://jobs.infineon.com/careers
-  domain: infineon.com
+  ats: browser   # Schnittstelle blockiert automatische Abrufe, daher echter Browser
+  career_url: https://jobs.infineon.com/careers
+  list_url: https://jobs.infineon.com/careers?query=intern&sort_by=timestamp
+  job_link: /careers/job/\d+
+  job_url: https://jobs.infineon.com/careers/job/{id}
+  pages:
+    template: https://jobs.infineon.com/careers?query=intern&sort_by=timestamp&start={offset}
+    step: 10
+    max_pages: 30
 
 - name: Stripe
   ats: greenhouse

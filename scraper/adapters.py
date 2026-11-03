@@ -279,8 +279,14 @@ class SuccessFactors:
             for start in range(0, comp.get("max_rows", 500), 25):
                 q = urlencode({"q": term, "locale": locale, "startrow": start,
                                "sortColumn": "referencedate", "sortDirection": "desc"})
-                raw = http.get(f"{base}/search/?{q}").text
+                raw = http.get(f"{base}/search/?{q}", headers={"Accept": "text/html"}).text
                 rows = self.ROW.findall(raw)
+                if not rows:  # anderes Layout: alle Links auf /job/... nehmen
+                    rows = [m.group(0) for m in re.finditer(r'<a[^>]+href="[^"]*/job/[^"]+"[^>]*>.*?</a>', raw, re.S | re.I)]
+                    rows = [r if "jobTitle-link" in r else r.replace("<a ", '<a class="jobTitle-link" ', 1) for r in rows]
+                    if start == 0 and term == _search_terms(comp, settings)[0]:
+                        print(f"    [successfactors] keine Tabellenzeilen; {len(rows)} /job/-Links; "
+                              f"Seite {len(raw)} Zeichen, Anfang: {clean(html_to_text(raw))[:160]!r}")
                 for row in rows:
                     m = self.LINK.search(row)
                     if not m:
