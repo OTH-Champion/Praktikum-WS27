@@ -27,9 +27,14 @@
 # Sobald die eigentliche Firmenliste steht, werden sie ersetzt.
 
 - name: SAP
-  ats: successfactors
-  url: https://jobs.sap.com
+  ats: browser   # Ergebnisliste wird per JavaScript geladen
   career_url: https://jobs.sap.com
+  list_url: https://jobs.sap.com/search/?q=intern&locale=en_US&sortColumn=referencedate&sortDirection=desc
+  job_link: /job/[^/?#]+/\d+
+  pages:
+    template: https://jobs.sap.com/search/?q=intern&locale=en_US&sortColumn=referencedate&sortDirection=desc&startrow={offset}
+    step: 25
+    max_pages: 20
 
 - name: Bosch
   ats: smartrecruiters

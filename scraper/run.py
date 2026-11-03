@@ -222,8 +222,8 @@ def main() -> int:
                         print(f"  ! Detailseite fehlgeschlagen: {url} ({e.__class__.__name__})")
                         continue
                     c["text"] = d.get("text", "")
-                    if d.get("locations"):
-                        c["locations"] = list(d["locations"]) + list(c.get("locations") or [])
+                    if d.get("locations"):  # Detailseite ist genauer als die Liste
+                        c["locations"] = list(d["locations"])
                     c["country_hints"] = c.get("country_hints") or d.get("country_hints") or []
                     c["posted"] = c.get("posted") or d.get("posted")
                     c["extra"] = d.get("extra", "")

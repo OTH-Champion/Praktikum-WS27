@@ -80,7 +80,7 @@ def assess(title: str, department: str, text: str) -> dict:
         body = (text or "")[:6000]
         b = len(BWL_TEXT.findall(body))
         tt = len(TECH_TEXT.findall(body))
-        relevant = b >= 3 and b > tt * 2
+        relevant = (b >= 2 and tt == 0) or (b >= 3 and b > tt * 2)
         grund = f"Text: {b} kaufmännische vs. {tt} technische Begriffe"
         if relevant:
             counts = [(len(r.findall(body)), n) for n, r in FACH_RES]
