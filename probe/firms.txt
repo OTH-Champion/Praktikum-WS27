@@ -1,113 +1,97 @@
-BMW|https://www.bmwgroup.jobs/de/de/jobs.html
-Mercedes-Benz|https://group.mercedes-benz.com/karriere/jobsuche/
-Siemens|https://jobs.siemens.com/careers
-Siemens Energy|https://jobs.siemens-energy.com/en_US/jobs/Jobs
-Bosch|https://jobs.bosch.com/de/
-SAP|https://jobs.sap.com/search/?q=intern
-Munich Re|https://www.munichre.com/de/karriere/jobs.html
-ERGO|https://www.ergo.com/de/karriere/jobs
-Allianz|https://careers.allianz.com/de_DE.html
-Volkswagen|https://jobs.volkswagen-group.com/
-Porsche|https://jobs.porsche.com/
-Audi|https://www.audi.com/de/company/careers/jobsearch.html
-Adidas|https://careers.adidas-group.com/jobs
-Deutsche Telekom|https://www.telekom.com/de/karriere/jobsuche
-E.ON|https://jobs.eon.com/
-Bayernwerk|https://www.bayernwerk.de/de/karriere.html
-Infineon|https://jobs.infineon.com/careers
-Lufthansa|https://www.lufthansagroup.careers/de/jobsuche
-Bayer|https://career.bayer.com/de/jobs-search
-BASF|https://basf.jobs/
-Trade Republic|https://traderepublic.com/careers
-Scalable Capital|https://de.scalable.capital/karriere
-PwC|https://jobs.pwc.de/
-PwC Global|https://www.pwc.com/gx/en/careers.html
-KPMG|https://kpmg.com/de/de/home/karriere/stellenangebote.html
+BMW|https://www.bmwgroup.jobs/de/de/jobfinder.html|https://www.bmwgroup.jobs/de/de/jobs.html?textSearch=praktikum
+Mercedes-Benz|https://jobs.mercedes-benz.com/?searchText=praktikum|https://jobs.mercedes-benz.com/en
+Siemens|https://jobs.siemens.com/de_DE/externaljobs/SearchJobs/?search=praktikum|https://jobs.siemens.com/careers?query=intern
+SAP|https://jobs.sap.com/en/jobs/?q=intern|https://jobs.sap.com/en/jobs/?keywords=intern
+Munich Re|https://careers.munichre.com/de/jobsuche?search=praktikum|https://careers.munichre.com/en/jobs
+Allianz|https://careers.allianz.com/de_DE/jobs.html|https://jobs.allianz.com/
+Volkswagen|https://jobs.volkswagen-group.com/search/?q=praktikum|https://jobs.volkswagen-group.com/Volkswagen/search/?q=praktikum
+Porsche|https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword=praktikum
+Audi|https://www.audi.com/de/karriere.html|https://karriere.audi.de/
+Adidas|https://jobs.adidas-group.com/|https://careers.adidas-group.com/jobs?keywords=intern
+Deutsche Telekom|https://careers.telekom.com/de/jobs?keywords=praktikum
+E.ON|https://jobs.eon.com/de?search=praktikum
+Bayernwerk|https://www.bayernwerk.de/de/karriere/stellenangebote.html
+Lufthansa|https://www.lufthansagroup.careers/de/jobsuche?searchTerm=praktikum
+Bayer|https://career.bayer.com/en/jobs-search?keywords=intern|https://www.bayer.com/en/career/jobs-search
+Trade Republic|https://traderepublic.com/en-de/careers|https://traderepublic.com/careers
+Scalable Capital|https://de.scalable.capital/en/careers|https://scalable.capital/careers
+PwC|https://jobs.pwc.de/de/de/search-results?keywords=praktikum
+KPMG|https://kpmg.com/de/de/karriere/jobs.html|https://jobs.kpmg.de/
 EY|https://careers.ey.com/ey/search/?q=intern
-Deloitte|https://job.deloitte.com/
-Deloitte Global|https://www2.deloitte.com/global/en/careers/job-search.html
-Knorr-Bremse|https://www.knorr-bremse.com/de/careers/
-Linde|https://www.linde.com/careers
-ZF|https://jobs.zf.com/
-Schaeffler|https://jobs.schaeffler.com/
-KraussMaffei|https://www.kraussmaffei.com/de/karriere
-Sixt|https://jobs.sixt.com/
-ams OSRAM|https://ams-osram.com/de/ueber-uns/karriere
-MTU Aero Engines|https://www.mtu.de/de/karriere/stellenangebote/
-Salesforce|https://careers.salesforce.com/en/jobs/
+Deloitte|https://job.deloitte.com/search?search=praktikum
+Knorr-Bremse|https://www.knorr-bremse.com/en/careers/job-search|https://jobs.knorr-bremse.com/
+Linde|https://www.linde.com/careers/job-search|https://jobs.linde.com/
+ZF|https://jobs.zf.com/search/?q=intern
+Schaeffler|https://jobs.schaeffler.com/search/?q=intern
+KraussMaffei|https://www.kraussmaffei.com/de/karriere/stellenangebote|https://www.kraussmaffei.com/de/karriere
+Sixt|https://jobs.sixt.com/|https://careers.sixt.com/
+ams OSRAM|https://ams-osram.com/about-us/careers/job-search|https://ams-osram.com/about-us/careers
+MTU Aero Engines|https://www.mtu.de/careers/job-offers/|https://www.mtu.de/de/karriere/
+Salesforce|https://careers.salesforce.com/en/jobs/?search=intern
 Google|https://www.google.com/about/careers/applications/jobs/results/?q=intern
 Apple|https://jobs.apple.com/de-de/search?search=intern
-Microsoft|https://jobs.careers.microsoft.com/global/en/search?q=intern
+Microsoft|https://apply.careers.microsoft.com/careers?query=intern
 Meta|https://www.metacareers.com/jobs?q=intern
-Continental|https://jobs.continental.com/de/
-Aumovio|https://www.aumovio.com/en/careers.html
-OMV|https://www.omv.com/en/careers/jobs
-DHL|https://careers.dhl.com/global/en
-Red Bull|https://jobs.redbull.com/
-Verbund|https://www.verbund.com/de-at/ueber-verbund/karriere/jobs
-Bulgarian Energy Holding|https://www.bgenh.com/en/
-UniCredit|https://careers.unicredit.eu/
-INA|https://www.ina.hr/en/careers/
-HEP|https://www.hep.hr/en
-Skoda|https://www.skoda-auto.com/company/career
-Novo Nordisk|https://www.novonordisk.com/careers/find-a-job.html
-Maersk|https://www.maersk.com/careers
-LEGO|https://www.lego.com/en-us/careers
+OMV|https://jobs.omv.com/|https://www.omv.com/en/careers
+DHL|https://careers.dhl.com/global/en/search-results?keywords=intern
+Verbund|https://www.verbund.com/de-at/karriere/jobs|https://www.verbund.com/de-at/karriere
+Bulgarian Energy Holding|https://bgenh.com/en/careers
+UniCredit|https://careers.unicredit.eu/de_DE/jobsuche?keyword=praktikum|https://careers.unicredit.eu/en_GB/jobsearch
+INA|https://www.ina.hr/en/career/|https://www.ina.hr/karijera/
+HEP|https://www.hep.hr/en/careers|https://www.hep.hr/karijere
+Skoda|https://kariera.skoda-auto.cz/|https://www.skoda-auto.com/company/career
+Novo Nordisk|https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern
+Maersk|https://www.maersk.com/careers/vacancies?search=intern
 Bolt|https://bolt.eu/en/careers/positions/
-LVMH|https://www.lvmh.com/en/join-us/our-job-offers
-Reckitt|https://careers.reckitt.com/
-Nokia|https://www.nokia.com/about-us/careers/
-Samsung|https://www.samsung.com/de/about-us/careers/
-TotalEnergies|https://jobs.totalenergies.com/
-AXA|https://careers.axa.com/
-BNP Paribas|https://group.bnpparibas/en/careers/all-job-offers
-Renault|https://www.renaultgroup.com/en/careers/
-Ryanair|https://careers.ryanair.com/
-Eni|https://www.eni.com/en-IT/careers.html
-Generali|https://www.generali.com/careers
-Ferrero|https://www.ferrerocareers.com/
-Ferrari|https://www.ferrari.com/en-EN/corporate/careers
-airBaltic|https://www.airbaltic.com/en/careers
-HSBC|https://www.hsbc.com/careers
-Stellantis|https://careers.stellantis.com/
-ING|https://www.ing.jobs/
-Philips|https://www.careers.philips.com/
-Heineken|https://careers.theheinekencompany.com/
-ASML|https://www.asml.com/en/careers/find-your-job
-Volvo Group|https://www.volvogroup.com/en/careers.html
-Volvo Cars|https://jobs.volvocars.com/
-H&M|https://career.hm.com/
-Spotify|https://www.lifeatspotify.com/jobs
-Roche|https://careers.roche.com/global/en
-UBS|https://www.ubs.com/global/en/careers.html
-Shell|https://www.shell.com/careers.html
-Unilever|https://careers.unilever.com/
-AstraZeneca|https://careers.astrazeneca.com/
-Barclays|https://search.jobs.barclays/
-Hilti|https://careers.hilti.group/
-thyssenkrupp|https://jobs.thyssenkrupp.com/
-Walmart|https://careers.walmart.com/
-BHP|https://www.bhp.com/careers
-Wesfarmers|https://www.wesfarmers.com.au/careers
-Coles Group|https://colescareers.com.au/
-Commonwealth Bank|https://www.commbank.com.au/about-us/careers.html
-Woolworths|https://www.woolworthsgroup.com.au/au/en/careers.html
-Fonterra|https://careers.fonterra.com/
-Fletcher Building|https://www.fletcherbuilding.com/careers/
-Foodstuffs|https://www.foodstuffs.co.nz/careers
-ANZ|https://careers.anz.com/
-ASB Bank|https://careers.asb.co.nz/
-Contact Energy|https://contact.co.nz/aboutus/careers
-Lenovo|https://jobs.lenovo.com/
-Huawei|https://career.huawei.com/
-Tencent|https://careers.tencent.com/en-us/
-BYD|https://www.byd.com/eu/careers
-Xiaomi|https://hr.xiaomi.com/
-Honda|https://www.honda.de/karriere.html
-Mitsubishi Electric|https://www.mitsubishielectric.com/en/careers/
-Sony|https://www.sony.com/en/SonyInfo/Careers/
-Panasonic|https://www.panasonic.com/global/corporate/careers.html
-Hyundai Motor|https://www.hyundai.com/eu/careers.html
-Kia|https://www.kia.com/eu/about-kia/careers/
-Sky|https://careers.sky.com/
-DAZN|https://careers.dazn.com/
+LVMH|https://www.lvmh.com/en/join-us/our-job-offers?search=intern|https://www.lvmh.com/en/join-us
+Reckitt|https://careers.reckitt.com/jobs?keywords=intern|https://careers.reckitt.com/search-jobs
+Nokia|https://jobs.nokia.com/|https://www.nokia.com/about-us/careers/job-search/
+TotalEnergies|https://jobs.totalenergies.com/en_US/careers/SearchJobs?keyword=intern|https://jobs.totalenergies.com/en_US/careers
+AXA|https://careers.axa.com/careers-home/jobs?keywords=intern|https://careers-en-axa.icims.com/jobs/search?ss=1&searchKeyword=intern
+BNP Paribas|https://group.bnpparibas/en/careers/all-job-offers?q=intern|https://careers.bnpparibas/
+Renault|https://www.renaultgroup.com/en/careers/job-offers/|https://www.renaultgroup.com/en/careers/
+Ryanair|https://careers.ryanair.com/search/|https://careers.ryanair.com/
+Eni|https://www.eni.com/en-IT/careers/job-opportunities.html|https://www.eni.com/en-IT/careers.html
+Generali|https://www.generali.com/careers/job-opportunities|https://www.generali.com/careers/jobs
+Ferrero|https://www.ferrerocareers.com/int/en/jobs?keywords=intern
+Ferrari|https://corporate.ferrari.com/en/careers|https://careers.ferrari.com/
+airBaltic|https://careers.airbaltic.com/en/jobs|https://careers.airbaltic.com/en
+HSBC|https://mycareer.hsbc.com/en_GB/external/SearchJobs?keyword=intern|https://www.hsbc.com/careers/students-and-graduates
+Stellantis|https://careers.stellantis.com/search/?q=intern|https://careers.stellantis.com/
+ING|https://careers.ing.com/en/jobs?keyword=intern|https://careers.ing.com/en
+Philips|https://www.careers.philips.com/global/en/search-results?keywords=intern
+Heineken|https://careers.theheinekencompany.com/jobs?search=intern|https://careers.theheinekencompany.com/
+ASML|https://www.asml.com/en/careers/find-your-job?query=intern
+Volvo Group|https://jobs.volvogroup.com/|https://www.volvogroup.com/en/careers/job-search.html
+Volvo Cars|https://jobs.volvocars.com/search/?q=intern
+H&M|https://career.hm.com/en/jobs?q=intern|https://hmgroup.com/careers/
+Spotify|https://www.lifeatspotify.com/jobs?q=intern
+UBS|https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012|https://www.ubs.com/global/en/careers/search-jobs.html
+Unilever|https://careers.unilever.com/en/search-jobs?k=intern
+AstraZeneca|https://careers.astrazeneca.com/search-jobs?k=intern
+Hilti|https://careers.hilti.group/de-de/jobs/?search=praktikum
+thyssenkrupp|https://jobs.thyssenkrupp.com/de?search=praktikum
+Walmart|https://careers.walmart.com/results?q=intern
+BHP|https://careers.bhp.com/|https://www.bhp.com/careers/search-jobs
+Wesfarmers|https://www.wesfarmers.com.au/careers/job-search|https://careers.wesfarmers.com.au/
+Coles Group|https://colescareers.com.au/au/en/search-results?keywords=intern
+Woolworths|https://careers.woolworthsgroup.com.au/en_GB/apply/SearchJobs/?keyword=intern
+Fonterra|https://careers.fonterra.com/jobs/search?q=intern|https://careers.fonterra.com/
+Fletcher Building|https://fletcherbuilding.com/careers/|https://careers.fletcherbuilding.com/
+Foodstuffs|https://www.foodstuffs.co.nz/careers/|https://careers.foodstuffs.co.nz/
+ANZ|https://careers.anz.com/search/?q=intern
+ASB Bank|https://www.asb.co.nz/about-us/careers.html|https://careers.asb.co.nz/jobs
+Lenovo|https://jobs.lenovo.com/en_US/careers/SearchJobs/?keyword=intern
+Tencent|https://careers.tencent.com/en-us/search.html?query=intern
+BYD|https://www.bydeurope.com/careers|https://job-boards.greenhouse.io/byd
+Huawei|https://career.huawei.com/reccampportal/portal5/index.html|https://www.huawei.com/en/careers
+Xiaomi|https://xiaomi.jobs.feishu.cn/|https://www.mi.com/global/about/careers
+Honda|https://www.honda.de/karriere|https://www.honda-eu.com/careers
+Mitsubishi Electric|https://www.mitsubishielectric.com/en/careers/|https://de.mitsubishielectric.com/de/about-us/career/index.page
+Sony|https://www.sony.com/en/SonyInfo/Careers/|https://www.sony.eu/careers
+Panasonic|https://www.panasonic.com/global/corporate/careers.html|https://www.panasonic.com/de/corporate/karriere.html
+Hyundai Motor|https://jobs.hyundai-europe.com/search/?q=intern
+Kia|https://www.kia.com/eu/about-kia/careers.html|https://www.kia.com/de/ueber-kia/karriere/
+Samsung|https://sec.wd3.myworkdayjobs.com/Samsung_Careers
+Sky|https://careers.sky.com/jobs?search=intern
+DAZN|https://careers.dazn.com/jobs|https://careers.dazn.com/

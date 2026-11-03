@@ -25,13 +25,13 @@ SIGS = {
     "ashby": re.compile(r"jobs\.ashbyhq\.com/([A-Za-z0-9_.-]+)"),
     "personio": re.compile(r"([a-z0-9-]+)\.jobs\.personio\.(?:de|com)"),
     "recruitee": re.compile(r"([a-z0-9-]+)\.recruitee\.com"),
-    "successfactors": re.compile(r"(rmkcdn\.successfactors\.com|jobs2web|career\d*\.successfactors\.(?:eu|com)[^\"' ]*|sapsf\.com)"),
-    "eightfold": re.compile(r"([a-z0-9.-]*eightfold\.ai[^\"' ]{0,60}|/api/apply/v2/jobs[^\"' ]{0,80})"),
+    "successfactors": re.compile(r"(rmkcdn\.successfactors\.com|jobs2web|career\d*\.successfactors\.(?:eu|com)[^\"'\s<>]*|sapsf\.com)"),
+    "eightfold": re.compile(r"([a-z0-9.-]*eightfold\.ai[^\"'\s<>]{0,60}|/api/apply/v2/jobs[^\"'\s<>]{0,80})"),
     "phenom": re.compile(r"(phenompeople\.com|cdn\.phenompeople|/widgets\b|phApp\.)"),
     "avature": re.compile(r"([a-z0-9-]+\.avature\.net)"),
     "taleo": re.compile(r"([a-z0-9-]+\.taleo\.net)"),
     "icims": re.compile(r"([a-z0-9-]+\.icims\.com)"),
-    "oracle": re.compile(r"([a-z0-9-]+\.fa\.[a-z0-9-]+\.oraclecloud\.com[^\"' ]{0,80})"),
+    "oracle": re.compile(r"([a-z0-9-]+\.fa\.[a-z0-9-]+\.oraclecloud\.com[^\"'\s<>]{0,80})"),
     "teamtailor": re.compile(r"([a-z0-9-]+\.teamtailor\.com)"),
     "workable": re.compile(r"apply\.workable\.com/([A-Za-z0-9_-]+)"),
     "softgarden": re.compile(r"([a-z0-9-]+\.softgarden\.io)"),
@@ -96,6 +96,31 @@ def api_probe(name: str) -> list[str]:
     return hits
 
 
+def patterns(links):
+    from collections import Counter
+    from urllib.parse import urlparse
+    c = Counter(); ex = {}
+    for l in links:
+        u = urlparse(l)
+        if not u.path or len(u.path) < 6:
+            continue
+        pat = re.sub(r"\d{3,}", r"\\d+", u.path)
+        pat = re.sub(r"/[^/]*\\d\+[^/]*", lambda m: m.group(0), pat)
+        segs = pat.split("/")
+        # Slug-Segmente (lang, mit Bindestrichen) vereinheitlichen
+        segs = ["[^/]+" if (s.count("-") >= 2 and "\\d+" not in s) else s for s in segs]
+        pat = u.netloc + "/".join(segs)
+        c[pat] += 1; ex.setdefault(pat, l)
+    return [f"{n}x {p}  e.g. {ex[p]}" for p, n in c.most_common(5) if n >= 3]
+
+
+async def visit_multi(browser, name, urls, sem):
+    out = []
+    for u in urls:
+        out.append(await visit(browser, name, u, sem))
+    return out
+
+
 async def visit(browser, name, url, sem):
     async with sem:
         res = {"name": name, "url": url, "final": None, "title": None, "sigs": {}, "links": [], "error": None}
@@ -127,10 +152,47 @@ async def visit(browser, name, url, sem):
             if JOBLINK.search(l) and l not in seen and not l.startswith("mailto"):
                 seen.append(l)
         res["links"] = seen[:25]
-        res["api"] = await asyncio.to_thread(api_probe, name)
+        res["patterns"] = patterns(links)
+        res["api"] = []
         await ctx.close()
         print(f"fertig: {name} -> {list(res['sigs'])} {res['api']}", flush=True)
         return res
+
+
+def extra_api():
+    s = requests.Session()
+    s.headers["User-Agent"] = "Mozilla/5.0 (praktikum-ws27 probe)"
+    out = []
+    for line in (HERE / "workday.txt").read_text().split():
+        t, w, site = line.split("/")
+        url = f"https://{t}.{w}.myworkdayjobs.com/wday/cxs/{t}/{site}/jobs"
+        try:
+            r = s.post(url, json={"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": "intern"}, timeout=20)
+            out.append(f"workday {line}: {r.status_code} total={r.json().get('total') if r.ok else ''}")
+        except Exception as e:
+            out.append(f"workday {line}: ERR {e}")
+    for ats, slug in [("gh", "traderepublicbank"), ("gh", "traderepublic"), ("gh", "scalablecapital"), ("gh", "byd"),
+                      ("gh", "bolt"), ("gh", "dazn"), ("gh", "spotify"), ("lever", "spotify"), ("lever", "dazn"),
+                      ("sr", "Sixt"), ("sr", "Continental"), ("sr", "Aumovio"), ("sr", "RedBull"), ("sr", "ContactEnergy"),
+                      ("sr", "ScalableCapital"), ("sr", "DAZN"), ("sr", "airBaltic"), ("sr", "Bolt"), ("sr", "Ryanair")]:
+        try:
+            if ats == "gh":
+                r = s.get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs", timeout=15)
+                n = len(r.json().get("jobs", [])) if r.ok else r.status_code
+                ex = [j["title"] + " @ " + j.get("location", {}).get("name", "") for j in r.json().get("jobs", [])[:3]] if r.ok else []
+            elif ats == "lever":
+                r = s.get(f"https://api.lever.co/v0/postings/{slug}?mode=json", timeout=15)
+                n = len(r.json()) if r.ok else r.status_code
+                ex = [j["text"] for j in r.json()[:3]] if r.ok else []
+            else:
+                r = s.get(f"https://api.smartrecruiters.com/v1/companies/{slug}/postings?q=intern&limit=5", timeout=15)
+                j = r.json() if r.ok else {}
+                n = j.get("totalFound", r.status_code)
+                ex = [p["name"] + " @ " + p.get("location", {}).get("city", "") + " / " + p.get("company", {}).get("name", "") for p in j.get("content", [])[:3]]
+            out.append(f"{ats} {slug}: {n} {ex}")
+        except Exception as e:
+            out.append(f"{ats} {slug}: ERR {e}")
+    return out
 
 
 async def main():
@@ -138,14 +200,17 @@ async def main():
     for line in (HERE / "firms.txt").read_text().splitlines():
         if "|" in line:
             n, u = line.split("|", 1)
-            firms.append((n.strip(), u.strip()))
+            firms.append((n.strip(), [x.strip() for x in u.split("|")]))
     if len(sys.argv) > 1:
         firms = [f for f in firms if f[0] in sys.argv[1:]]
-    sem = asyncio.Semaphore(5)
+    sem = asyncio.Semaphore(6)
     async with async_playwright() as p:
         browser = await p.chromium.launch()
-        results = await asyncio.gather(*(visit(browser, n, u, sem) for n, u in firms))
+        nested = await asyncio.gather(*(visit_multi(browser, n, u, sem) for n, u in firms))
         await browser.close()
+    results = [r for grp in nested for r in grp]
+    results.append({"name": "_API", "url": "", "final": None, "title": None, "sigs": {}, "links": [], "error": None,
+                    "patterns": [], "api": extra_api()})
     OUT.write_text(json.dumps(results, ensure_ascii=False, indent=1))
     lines = []
     for r in results:
@@ -155,7 +220,9 @@ async def main():
             lines.append(f"   {k}: {v}")
         if r["api"]:
             lines.append(f"   api: {r['api']}")
-        for l in r["links"][:12]:
+        for l in r.get("patterns", []):
+            lines.append(f"   pattern: {l}")
+        for l in r["links"][:6]:
             lines.append(f"   link: {l}")
     TXT.write_text("\n".join(lines))
 
