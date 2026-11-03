@@ -282,6 +282,14 @@ class SuccessFactors:
                                "sortColumn": "referencedate", "sortDirection": "desc"})
                 raw = http.get(f"{base}{prefix}/search/?{q}", headers={"Accept": "text/html"}).text
                 rows = self.ROW.findall(raw)
+                if not rows and start == 0 and "CSRFToken" in raw:
+                    # neues Career-Site-Builder-Layout: Stellen kommen per JSON-API
+                    found = self._csb(http, base, raw, term, locale, comp)
+                    if term == _search_terms(comp, settings)[0]:
+                        print(f"    [successfactors] CSB-API: {len(found)} Stellen")
+                    if found:
+                        out += found
+                        break
                 if not rows:  # anderes Layout: alle Links auf /job/... nehmen
                     rows = [m.group(0) for m in re.finditer(r'<a[^>]+href="[^"]*/job/[^"]+"[^>]*>.*?</a>', raw, re.S | re.I)]
                     rows = [r if "jobTitle-link" in r else r.replace("<a ", '<a class="jobTitle-link" ', 1) for r in rows]
@@ -304,6 +312,38 @@ class SuccessFactors:
                 if len(rows) < 25:
                     break
         return _uniq(out)
+
+    def _csb(self, http, base, raw, term, locale, comp):
+        tok = re.search(r'CSRFToken\s*=\s*["\']([^"\']+)', raw)
+        headers = {"Content-Type": "application/json", "Accept": "application/json",
+                   "X-CSRF-Token": tok.group(1) if tok else "", "Referer": base + "/"}
+        out = []
+        for page in range(0, comp.get("max_rows", 500) // 10):
+            body = {"locale": locale, "pageNumber": page, "sortBy": "", "keywords": term, "location": "",
+                    "facetFilters": {}, "brand": "", "skills": [], "categoryId": 0, "alertId": "", "rcmCandidateId": ""}
+            try:
+                data = http.json(f"{base}/services/recruiting/v1/jobs", method="POST", json=body, headers=headers)
+            except Exception as e:
+                print(f"    [successfactors] CSB-API Fehler: {e}")
+                break
+            items = data.get("jobSearchResult") or []
+            for it in items:
+                r = it.get("response") or it
+                jid, slug = r.get("id"), r.get("urlTitle") or "job"
+                if not jid:
+                    continue
+                locs = r.get("jobLocationShort") or r.get("jobLocationState") or []
+                if isinstance(locs, str):
+                    locs = [locs]
+                out.append({
+                    "url": f"{base}/job/{slug}/{jid}-{locale}/",
+                    "title": clean(html_to_text(r.get("unifiedStandardTitle") or r.get("title") or "")),
+                    "locations": [clean(html_to_text(l)) for l in locs if l],
+                    "posted": parse_date(r.get("unifiedStandardStart") or ""),
+                })
+            if len(items) < 10 or len(out) >= (data.get("totalJobs") or 0):
+                break
+        return out
 
     def detail(self, http, comp, job):
         return fetch_html_detail(http, job["url"])

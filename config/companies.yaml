@@ -193,7 +193,7 @@
 
 - name: Knorr-Bremse
   ats: successfactors
-  url: https://jobs.knorr-bremse.com
+  url: https://careers.knorr-bremse.com
   career_url: https://www.knorr-bremse.com/en/careers/
 
 - name: Linde
@@ -349,6 +349,7 @@
 
 # ============================================================ Europa
 - name: OMV
+  enabled: false   # jobs.omv.com lässt Verbindungen vom Aktualisierungs-Server nicht zu (Timeout)
   ats: successfactors
   url: https://jobs.omv.com
   career_url: https://www.omv.com/en/careers
@@ -455,6 +456,7 @@
   job_link: careers\.ryanair\.com/jobs/[a-z0-9-]+/?$
 
 - name: Eni
+  enabled: false   # jobs.eni.com lässt Verbindungen vom Aktualisierungs-Server nicht zu (Timeout)
   ats: oracle
   url: https://jobs.eni.com/en-US/sites/CX_1001
   career_url: https://www.eni.com/en-IT/careers.html

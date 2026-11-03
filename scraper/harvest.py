@@ -66,7 +66,7 @@ def _collect_links(page: Page, link_re: str) -> list[dict]:
             const out = [];
             for (const a of document.querySelectorAll('a[href]')) {
                 const href = a.href;
-                if (!re.test(href)) continue;
+                if (!/^https?:/.test(href) || !re.test(href)) continue;
                 // Karte = nächster Vorfahre, der deutlich mehr Text als der Link enthält
                 const linkLen = (a.innerText || '').trim().length;
                 let card = a.closest('li, article, tr');
