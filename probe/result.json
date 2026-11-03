@@ -1,279 +1,221 @@
 [
  {
-  "name": "Audi",
-  "url": "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum",
-  "final": "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum",
-  "title": "Praktikum - Volkswagen AG Jobs",
+  "name": "Mercedes-Benz",
+  "url": "https://jobs.mercedes-benz.com/?searchText=praktikum",
+  "final": "https://jobs.mercedes-benz.com/?searchText=praktikum",
+  "title": "Jobsuche | Mercedes-Benz Group > Karriere > Jobsuche",
   "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu",
-    "rmkcdn.successfactors.com"
-   ]
-  },
-  "links": [
-   "https://jobs.volkswagen-group.com/content/Cookie-Policy/?locale=en_US",
-   "https://jobs.volkswagen-group.com/content/Privacy-Policy/?locale=en_US",
-   "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum#content",
-   "https://jobs.volkswagen-group.com/Audi/?locale=en_US",
-   "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum#",
-   "https://jobs.volkswagen-group.com/?locale=en_US",
-   "https://jobs.volkswagen-group.com/Audi/?locale=de_DE",
-   "https://jobs.volkswagen-group.com/Audi/?locale=es_MX",
-   "https://jobs.volkswagen-group.com/Audi/?locale=es_ES",
-   "https://jobs.volkswagen-group.com/Audi/?locale=hu_HU",
-   "https://jobs.volkswagen-group.com/Audi/?locale=pt_BR",
-   "https://jobs.volkswagen-group.com/Audi?locale=es_MX",
-   "https://jobs.volkswagen-group.com/Audi?locale=fr_FR",
-   "https://jobs.volkswagen-group.com/Audi/",
-   "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum",
-   "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum&sortColumn=sort_title&sortDirection=desc&searchby=location&d=10#hdrTitleButton",
-   "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum&sortColumn=sort_facility&sortDirection=desc&searchby=location&d=10#hdrFacilityButton",
-   "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum&sortColumn=sort_department&sortDirection=desc&searchby=location&d=10#hdrDepartmentButton",
-   "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum&sortColumn=sort_location&sortDirection=desc&searchby=location&d=10#hdrLocationButton",
-   "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum&sortColumn=referencedate&sortDirection=desc&searchby=location&d=10#hdrDateButton",
-   "https://jobs.volkswagen-group.com/Audi/job/San-Jos%C3%A9-Chiapa-ESPECIALISTA-DE-CUENTAS-POR-PAGAR-PUE-75012/1454022233/",
-   "https://jobs.volkswagen-group.com/Audi/job/San-Jos%C3%A9-Chiapa-PLANEADOR-DE-PROYECTOS-%28SDV-TOOLING%29-PUE-75012/1434105433/",
-   "https://jobs.volkswagen-group.com/Audi/job/San-Jos%C3%A9-Chiapa-TECNICO-DE-MANTENIMIENTO-PUE-75012/1444023933/",
-   "https://jobs.volkswagen-group.com/Audi/job/San-Jos%C3%A9-Chiapa-ESPECIALISTA-DE-DESARROLLO-TI-DSC-PUE-75012/1412565233/",
-   "https://jobs.volkswagen-group.com/Audi/job/San-Jos%C3%A9-Chiapa-BOLSA-DE-TALENTO-EXTERNO-LOGISTICA-PUE-75012/1433642433/"
-  ],
-  "error": null,
-  "patterns": [
-   "21x jobs.volkswagen-group.com/Audi/  e.g. https://jobs.volkswagen-group.com/Audi/?locale=en_US",
-   "16x jobs.volkswagen-group.com/Audi/search/  e.g. https://jobs.volkswagen-group.com/Audi/search/?q=praktikum#content"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Skoda",
-  "url": "https://jobs.volkswagen-group.com/Skoda/search/?q=intern",
-  "final": "https://jobs.volkswagen-group.com/Skoda/search/?q=intern",
-  "title": "Intern - Volkswagen AG Jobs",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu",
-    "rmkcdn.successfactors.com"
-   ]
-  },
-  "links": [
-   "https://jobs.volkswagen-group.com/content/Cookie-Policy/?locale=en_US",
-   "https://jobs.volkswagen-group.com/content/Privacy-Policy/?locale=en_US",
-   "https://jobs.volkswagen-group.com/Skoda/search/?q=intern#content",
-   "https://jobs.volkswagen-group.com/Skoda/?locale=en_US",
-   "https://jobs.volkswagen-group.com/Skoda/search/?q=intern#",
-   "https://jobs.volkswagen-group.com/?locale=en_US",
-   "https://jobs.volkswagen-group.com/Skoda/?locale=cs_CZ",
-   "https://jobs.volkswagen-group.com/Skoda/?locale=sk_SK",
-   "https://jobs.volkswagen-group.com/Skoda/",
-   "https://jobs.volkswagen-group.com/Skoda/search/?q=intern",
-   "https://jobs.volkswagen-group.com/Skoda/search/?q=intern&sortColumn=sort_title&sortDirection=desc&searchby=location&d=10#hdrTitleButton",
-   "https://jobs.volkswagen-group.com/Skoda/search/?q=intern&sortColumn=sort_facility&sortDirection=desc&searchby=location&d=10#hdrFacilityButton",
-   "https://jobs.volkswagen-group.com/Skoda/search/?q=intern&sortColumn=sort_department&sortDirection=desc&searchby=location&d=10#hdrDepartmentButton",
-   "https://jobs.volkswagen-group.com/Skoda/search/?q=intern&sortColumn=sort_location&sortDirection=desc&searchby=location&d=10#hdrLocationButton",
-   "https://jobs.volkswagen-group.com/Skoda/search/?q=intern&sortColumn=referencedate&sortDirection=desc&searchby=location&d=10#hdrDateButton",
-   "https://jobs.volkswagen-group.com/Skoda/job/Mlad%C3%A1-Boleslav-Business-trainee-program/1453785133/",
-   "https://jobs.volkswagen-group.com/content/Terms-of-Use/?locale=en_US",
-   "https://jobs.volkswagen-group.com/Skoda/search/?q=intern#cookieManagerModal",
-   "https://jobs.volkswagen-group.com/content/FAQ/?locale=en_US"
-  ],
-  "error": null,
-  "patterns": [
-   "16x jobs.volkswagen-group.com/Skoda/search/  e.g. https://jobs.volkswagen-group.com/Skoda/search/?q=intern#content",
-   "11x jobs.volkswagen-group.com/Skoda/  e.g. https://jobs.volkswagen-group.com/Skoda/?locale=en_US"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Porsche",
-  "url": "https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword=praktikum",
-  "final": "https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12",
-  "title": "Unsere Stellenangebote | Karriereportal | Dr. Ing. h.c. F. Porsche AG",
-  "sigs": {
-   "phenom": [
-    "/widgets"
-   ],
    "beesite": [
     "beesite"
    ]
   },
   "links": [
-   "https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading",
-   "https://jobs.porsche.com/index.php?ac=login",
-   "https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading",
-   "https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#",
-   "https://jobs.porsche.com/index.php",
-   "https://jobs.porsche.com/index.php?ac=search_result",
-   "https://jobs.porsche.com/index.php?ac=onspec_application",
-   "https://jobs.porsche.com/#",
-   "https://jobs.porsche.com/index.php?ac=jobabo",
-   "https://jobs.porsche.com/index.php?ac=lost_password",
-   "https://jobs.porsche.com/index.php?ac=lost_username",
-   "https://jobs.porsche.com/index.php?ac=register",
-   "https://jobs.porsche.com/index.php?ac=statuspage",
-   "https://jobs.porsche.com/index.php?ac=applicationstate",
-   "https://jobs.porsche.com/index.php?ac=messages",
-   "https://jobs.porsche.com/index.php?ac=logindata",
-   "https://jobs.porsche.com/index.php?ac=job_merker",
-   "https://jobs.porsche.com/index.php?ac=jobabo_overview",
-   "https://jobs.porsche.com/index.php?ac=event",
-   "https://jobs.porsche.com/index.php?ac=profile_application",
-   "https://jobs.porsche.com/index.php?ac=privacy_statements",
-   "https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-search-result-heading",
-   "https://jobs.porsche.com/index.php?ac=jobad&id=22043",
-   "https://jobs.porsche.com/index.php?ac=jobad&id=2662",
-   "https://jobs.porsche.com/index.php?ac=jobad&id=22041"
+   "https://jobs.mercedes-benz.com/driver-assistance-projects-76762-mer00029xa",
+   "https://jobs.mercedes-benz.com/ausbildung-zum-giessereimechaniker-wmd-fachrichtung-druck-und-kokillenguss-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218904-mer00043ec",
+   "https://jobs.mercedes-benz.com/ausbildung-zum-mechatroniker-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218596-mer00043co",
+   "https://jobs.mercedes-benz.com/ausbildung-zum-elektroniker-wmd-fur-automatisierungstechnik-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218603-mer00043cr",
+   "https://jobs.mercedes-benz.com/ausbildung-zum-kfz-mechatroniker-wmd-system-und-hochvolttechnik-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218609-mer00043cu",
+   "https://jobs.mercedes-benz.com/ausbildung-zum-fachinformatiker-fachrichtung-daten-und-prozessanalyse-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218613-mer00043cv",
+   "https://jobs.mercedes-benz.com/ausbildung-zum-fertigungsmechaniker-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218622-mer00043cy",
+   "https://jobs.mercedes-benz.com/ausbildung-zum-industriemechaniker-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218627-mer00043cw",
+   "https://jobs.mercedes-benz.com/ausbildung-zum-kfz-mechatroniker-wmd-system-und-hochvolttechnik-mercedes-benz-ag-werk-dusseldorf-ausbildungsbeginn-01092027-217169-mer00042z0",
+   "https://jobs.mercedes-benz.com/ausbildung-zum-kraftfahrzeugmechatroniker-wmd-fur-personenwagentechnik-mercedes-benz-ag-werk-dusseldorf-ausbildungsbeginn-01092027-217257-mer00042zd",
+   "https://jobs.mercedes-benz.com/?searchText=praktikum",
+   "https://jobs.mercedes-benz.com/en?searchText=praktikum",
+   "https://jobs.mercedes-benz.com/hu?searchText=praktikum",
+   "https://jobs.mercedes-benz.com/?searchText=praktikum#"
   ],
   "error": null,
   "patterns": [
-   "60x jobs.porsche.com/index.php  e.g. https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading",
-   "11x void(0);  e.g. javascript:void(0);"
+   "4x group.mercedes-benz.com/karriere/  e.g. https://group.mercedes-benz.com/karriere/",
+   "3x group.mercedes-benz.com/unternehmen/  e.g. https://group.mercedes-benz.com/unternehmen/",
+   "3x group.mercedes-benz.com/nachhaltigkeit/  e.g. https://group.mercedes-benz.com/nachhaltigkeit/",
+   "3x group.mercedes-benz.com/investoren/  e.g. https://group.mercedes-benz.com/investoren/",
+   "3x group.mercedes-benz.com/presse/  e.g. https://group.mercedes-benz.com/presse/"
   ],
-  "jsons": [
-   "4 Treffer in https://jobs.porsche.com/assets/js/jobboard-pag.config.json | keys=['channel', 'date', 'id', 'job_id', 'location', 'organization_id', 'title', 'uri'] | z.B. PositionTitle"
-  ],
+  "jsons": [],
   "api": []
  },
  {
-  "name": "Allianz",
-  "url": "https://careers.allianz.com/search/?q=praktikum",
-  "final": "https://careers.allianz.com/global/en",
-  "title": "Careers at Allianz Group",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu/career?career_company=AZGROUPPROD&amp;lang=en_GB&amp;loginFlowRequired=true",
-    "career5.successfactors.eu/career?career_company=AZGROUPPROD&lang=en_GB&loginFlowRequired=true"
-   ],
-   "phenom": [
-    "/widgets",
-    "cdn.phenompeople",
-    "phApp.",
-    "phenompeople.com"
-   ]
-  },
-  "links": [
-   "https://careers.allianz.com/global/search-results",
-   "https://careers.allianz.com/global/en#skipToMainContent",
-   "https://careers.allianz.com/",
-   "https://career5.successfactors.eu/career?career_company=AZGROUPPROD&lang=en_GB&loginFlowRequired=true",
-   "https://internal-careers.allianz.com/?isInternalUser=true&locale=en_GB",
-   "https://careers.allianz.com/global/en/explore-allianz",
-   "https://careers.allianz.com/global/en/who-we-are",
-   "https://careers.allianz.com/global/en/inclusive-workplace",
-   "https://careers.allianz.com/global/en/life-at-allianz",
-   "https://careers.allianz.com/global/en/our-people",
-   "https://careers.allianz.com/global/en/olympic-paralympic-movements",
-   "https://careers.allianz.com/global/en/sustainability",
-   "https://careers.allianz.com/global/en/benefits",
-   "https://careers.allianz.com/global/en/career-development",
-   "https://careers.allianz.com/global/en/health-and-well-being",
-   "https://careers.allianz.com/global/en/hybrid-working",
-   "https://careers.allianz.com/global/en/search-results",
-   "https://careers.allianz.com/global/en/your-journey",
-   "https://careers.allianz.com/global/en/locations-business-units",
-   "https://careers.allianz.com/global/en/application-tips",
-   "https://careers.allianz.com/global/en/job-fields",
-   "https://careers.allianz.com/global/en/jobcart",
-   "https://careers.allianz.com/global/en/students",
-   "https://careers.allianz.com/global/en/entry-level",
-   "https://careers.allianz.com/global/en/professionals"
-  ],
-  "error": null,
-  "patterns": [
-   "22x careers.allianz.com/global/en/[^/]+  e.g. https://careers.allianz.com/global/en/who-we-are",
-   "3x careers.allianz.com/global/en/explore-allianz  e.g. https://careers.allianz.com/global/en/explore-allianz",
-   "3x careers.allianz.com/global/en/our-people  e.g. https://careers.allianz.com/global/en/our-people",
-   "3x careers.allianz.com/global/en/benefits  e.g. https://careers.allianz.com/global/en/benefits",
-   "3x careers.allianz.com/global/en/career-development  e.g. https://careers.allianz.com/global/en/career-development"
-  ],
-  "jsons": [
-   "3 Treffer in https://careers.allianz.com/widgets | keys=['Max Salary for external view', 'Min_Salary_External', 'Multi Category', 'Multi Location', 'OnCallRequired', 'Work_Environment', 'addToCartSaveText', 'addToCartSavedText', 'additionalSkills', 'appliedDate', 'applyNowText', 'atsLastModifieddate', 'businessUnit', 'category'] | z.B. Title",
-   "70 Treffer in https://careers.allianz.com/widgets | keys=['ariaLabel', 'href', 'role', 'text', 'title', 'type'] | z.B. ",
-   "17 Treffer in https://content-ir.phenompeople.com/api/AISAIPGB/getRegionLocales?locale=en_global&siteType=external&deviceType=desktop&payload=%7B%22ddoKey%22%3A%22g | keys=['displayName', 'id', 'isAvailableInMenu', 'isGroup', 'isSiteAvailable', 'language', 'languageDisplayName', 'languagePrimaryDisplayName', 'locale', 'locationDisplayName', 'locationPrimaryDisplayName', 'parentId', 'primaryDisplayName', 'siteUrl'] | z.B. Global (English)"
-  ],
-  "api": []
- },
- {
-  "name": "Allianz",
-  "url": "https://careers.allianz.com/",
-  "final": "https://careers.allianz.com/global/en",
-  "title": "Careers at Allianz Group",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu/career?career_company=AZGROUPPROD&amp;lang=en_GB&amp;loginFlowRequired=true",
-    "career5.successfactors.eu/career?career_company=AZGROUPPROD&lang=en_GB&loginFlowRequired=true"
-   ],
-   "phenom": [
-    "/widgets",
-    "cdn.phenompeople",
-    "phApp.",
-    "phenompeople.com"
-   ]
-  },
-  "links": [
-   "https://careers.allianz.com/global/search-results",
-   "https://careers.allianz.com/global/en#skipToMainContent",
-   "https://careers.allianz.com/",
-   "https://career5.successfactors.eu/career?career_company=AZGROUPPROD&lang=en_GB&loginFlowRequired=true",
-   "https://internal-careers.allianz.com/?isInternalUser=true&locale=en_GB",
-   "https://careers.allianz.com/global/en/explore-allianz",
-   "https://careers.allianz.com/global/en/who-we-are",
-   "https://careers.allianz.com/global/en/inclusive-workplace",
-   "https://careers.allianz.com/global/en/life-at-allianz",
-   "https://careers.allianz.com/global/en/our-people",
-   "https://careers.allianz.com/global/en/olympic-paralympic-movements",
-   "https://careers.allianz.com/global/en/sustainability",
-   "https://careers.allianz.com/global/en/benefits",
-   "https://careers.allianz.com/global/en/career-development",
-   "https://careers.allianz.com/global/en/health-and-well-being",
-   "https://careers.allianz.com/global/en/hybrid-working",
-   "https://careers.allianz.com/global/en/search-results",
-   "https://careers.allianz.com/global/en/your-journey",
-   "https://careers.allianz.com/global/en/locations-business-units",
-   "https://careers.allianz.com/global/en/application-tips",
-   "https://careers.allianz.com/global/en/job-fields",
-   "https://careers.allianz.com/global/en/jobcart",
-   "https://careers.allianz.com/global/en/students",
-   "https://careers.allianz.com/global/en/entry-level",
-   "https://careers.allianz.com/global/en/professionals"
-  ],
-  "error": null,
-  "patterns": [
-   "22x careers.allianz.com/global/en/[^/]+  e.g. https://careers.allianz.com/global/en/who-we-are",
-   "3x careers.allianz.com/global/en/explore-allianz  e.g. https://careers.allianz.com/global/en/explore-allianz",
-   "3x careers.allianz.com/global/en/our-people  e.g. https://careers.allianz.com/global/en/our-people",
-   "3x careers.allianz.com/global/en/benefits  e.g. https://careers.allianz.com/global/en/benefits",
-   "3x careers.allianz.com/global/en/career-development  e.g. https://careers.allianz.com/global/en/career-development"
-  ],
-  "jsons": [
-   "3 Treffer in https://careers.allianz.com/widgets | keys=['Max Salary for external view', 'Min_Salary_External', 'Multi Category', 'Multi Location', 'OnCallRequired', 'Work_Environment', 'addToCartSaveText', 'addToCartSavedText', 'additionalSkills', 'appliedDate', 'applyNowText', 'atsLastModifieddate', 'businessUnit', 'category'] | z.B. Title",
-   "70 Treffer in https://careers.allianz.com/widgets | keys=['ariaLabel', 'href', 'role', 'text', 'title', 'type'] | z.B. ",
-   "17 Treffer in https://content-ir.phenompeople.com/api/AISAIPGB/getRegionLocales?locale=en_global&siteType=external&deviceType=desktop&payload=%7B%22ddoKey%22%3A%22g | keys=['displayName', 'id', 'isAvailableInMenu', 'isGroup', 'isSiteAvailable', 'language', 'languageDisplayName', 'languagePrimaryDisplayName', 'locale', 'locationDisplayName', 'locationPrimaryDisplayName', 'parentId', 'primaryDisplayName', 'siteUrl'] | z.B. Global (English)"
-  ],
-  "api": []
- },
- {
-  "name": "Knorr-Bremse",
-  "url": "https://jobs.knorr-bremse.com/search/?q=praktikum",
-  "final": null,
-  "title": null,
+  "name": "Lufthansa",
+  "url": "https://www.lufthansagroup.careers/de/jobsuche?searchTerm=praktikum",
+  "final": "https://www.lufthansagroup.careers/de/jobsuche?searchTerm=praktikum",
+  "title": "503 Service Unavailable",
   "sigs": {},
   "links": [],
-  "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.knorr-bremse.com/search/?q=praktikum\", waiting until \"domcontentloaded\"\n",
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Deloitte",
+  "url": "https://job.deloitte.com/search?search=praktikum",
+  "final": "https://job.deloitte.com/search?search=praktikum",
+  "title": "Suche nach praktikum",
+  "sigs": {
+   "successfactors": [
+    "career5.successfactors.eu",
+    "career5.successfactors.eu/career",
+    "career5.successfactors.eu/career?company=C0001129853P&amp;lang=de_DE&amp;jobPipeline=AEGNIMWE",
+    "career5.successfactors.eu/career?company=C0001129853P&lang=de_DE&jobPipeline=AEGNIMWE"
+   ]
+  },
+  "links": [
+   "https://job.deloitte.com/search?search=praktikum#",
+   "https://de-job.deloitte.com/?utm_campaign=AEGNIMWE",
+   "https://job.deloitte.com/",
+   "https://jobs.deloitte.de/",
+   "https://job.deloitte.com/bewerbung/bewerbungsprozess",
+   "https://job.deloitte.com/bewerbung/faq",
+   "https://job.deloitte.com/event/recruiting-karriere-events-1",
+   "https://job.deloitte.com/jobs-in-berlin-_c2",
+   "https://job.deloitte.com/jobs-in-dresden-_c3",
+   "https://job.deloitte.com/jobs-in-duesseldorf-_c4",
+   "https://job.deloitte.com/jobs-in-frankfurt-_c5",
+   "https://job.deloitte.com/jobs-in-goerlitz-_c16",
+   "https://job.deloitte.com/jobs-in-halle-saale-_c6",
+   "https://job.deloitte.com/jobs-in-hamburg-_c1",
+   "https://job.deloitte.com/jobs-in-hannover-_c7",
+   "https://job.deloitte.com/jobs-in-koeln-_c8",
+   "https://job.deloitte.com/jobs-in-leipzig-_c9",
+   "https://job.deloitte.com/jobs-in-magdeburg-_c10",
+   "https://job.deloitte.com/jobs-in-mannheim-_c11",
+   "https://job.deloitte.com/jobs-in-muenchen-_c12",
+   "https://job.deloitte.com/jobs-in-nuernberg-_c13",
+   "https://job.deloitte.com/jobs-in-stuttgart-_c14",
+   "https://job.deloitte.com/jobs-in-walldorf-_c15",
+   "https://job.deloitte.com/advisory-jobs_-bu12",
+   "https://job.deloitte.com/audit-assurance-jobs_-bu2",
+   "https://job.deloitte.com/consulting-jobs_-bu10",
+   "https://job.deloitte.com/corporate-functions-jobs_-bu8",
+   "https://job.deloitte.com/tax-jobs_-bu5",
+   "https://job.deloitte.com/ausbildung-jobs-duales-studium-jobs-_pr21",
+   "https://job.deloitte.com/praktikum-werkstudententaetigkeit-_jtc4"
+  ],
+  "error": null,
+  "patterns": [
+   "121x job.deloitte.com/search  e.g. https://job.deloitte.com/search?search=praktikum#",
+   "106x job.deloitte.com/[^/]+  e.g. https://job.deloitte.com/jobs-in-berlin-_c2",
+   "3x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/",
+   "3x job.deloitte.com/favorites  e.g. https://job.deloitte.com/favorites"
+  ],
+  "jsons": [
+   "211 Treffer in https://job.deloitte.com/ajax/get_jobmap_data?search=praktikum | keys=['cities', 'cities_list', 'favorite', 'job_id', 'job_title', 'slug'] | z.B. Consultant Audit (m/w/d)"
+  ],
+  "api": []
+ },
+ {
+  "name": "Novo Nordisk",
+  "url": "https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern",
+  "final": "https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern&countries=Denmark%3BUnited+States%3BChina+Mainland%3BAustralia%3BBrazil%3BCanada%3BCzech+Republic%3BFrance%3BGermany%3BHungary%3BIndia%3BIreland%3BIsrael%3BJapan%3BMalaysia%3BMexico%3BPanama%3BPeru%3BPhilippines%3BPoland%3BPortugal%3BRomania%3BSouth+Africa%3BSouth+Korea%3BSpain%3BSwitzerland%3BTaiwan%3BThailand%3BUkraine%3BUnited+Kingdom%3BVietnam&categories=Business+Development+%26+Strategy%3BBusiness+Support+%26+Administration%3BClinical+Development%3BCommercial+Marketing%3BData+%26+AI%3BDigital+%26+IT%3BEducation%3BEngineering+%26+Technical%3BFinance%3BHuman+Resource+Management%3BLegal%2C+Compliance+%26+Audit%3BManufacturing%3BMedical+Affairs%3BProject+Management+%26+Agile%3BQuality%3BReg+Affairs+%26+Safety+Pharmacovigilance%3BResearch%3BCorporate+Affairs%3BMarket+Access%3BProcurement%3BSales%3BSupply+Chain",
+  "title": "Career search results",
+  "sigs": {},
+  "links": [
+   "https://www.novonordisk.com/careers/find-a-job.html",
+   "https://www.novonordisk.com/careers/find-a-job/career-search-results.html",
+   "https://www.novonordisk.com/careers/job-agent.html",
+   "https://www.novonordisk.com/our-products/falsified-medicines-position.html",
+   "https://www.novonordisk.com/careers/job-agent.html?cid=cr",
+   "https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern&countries=Denmark%3BUnited+States%3BChina+Mainland%3BAustralia%3BBrazil%3BCanada%3BCzech+Republic%3BFrance%3BGermany%3BHungary%3BIndia%3BIreland%3BIsrael%3BJapan%3BMalaysia%3BMexico%3BPanama%3BPeru%3BPhilippines%3BPoland%3BPortugal%3BRomania%3BSouth+Africa%3BSouth+Korea%3BSpain%3BSwitzerland%3BTaiwan%3BThailand%3BUkraine%3BUnited+Kingdom%3BVietnam&categories=Business+Development+%26+Strategy%3BBusiness+Support+%26+Administration%3BClinical+Development%3BCommercial+Marketing%3BData+%26+AI%3BDigital+%26+IT%3BEducation%3BEngineering+%26+Technical%3BFinance%3BHuman+Resource+Management%3BLegal%2C+Compliance+%26+Audit%3BManufacturing%3BMedical+Affairs%3BProject+Management+%26+Agile%3BQuality%3BReg+Affairs+%26+Safety+Pharmacovigilance%3BResearch%3BCorporate+Affairs%3BMarket+Access%3BProcurement%3BSales%3BSupply+Chain#"
+  ],
+  "error": null,
+  "patterns": [
+   "12x www.novonordisk.com/[^/]+/[^/]+  e.g. https://www.novonordisk.com/science-and-technology/research-and-technology-centres.html",
+   "10x void(0)  e.g. javascript:void(0)",
+   "6x www.novonordisk.com/careers/[^/]+  e.g. https://www.novonordisk.com/careers/find-a-job.html",
+   "6x www.novonordisk.com/sustainable-business/[^/]+  e.g. https://www.novonordisk.com/sustainable-business/our-sustainability-approach.html",
+   "5x www.novonordisk.com/about/[^/]+  e.g. https://www.novonordisk.com/about/what-we-do.html"
+  ],
+  "jsons": [
+   "3 Treffer in https://www.novonordisk.com/bin/nncorp/careersearch?keyword=intern&country=Denmark%3BUnited%20States%3BChina%20Mainland%3BAustralia%3BBrazil%3BCanada% | keys=['jobCategory', 'jobCity', 'jobCountry', 'jobId', 'jobLocale', 'jobLocationLabel', 'jobState', 'jobSubCategory', 'jobTitle'] | z.B. Internship- EHS Engineer"
+  ],
+  "api": []
+ },
+ {
+  "name": "Bolt",
+  "url": "https://bolt.eu/en/careers/positions/",
+  "final": "https://bolt.eu/en/careers/positions/",
+  "title": "Job openings | Bolt Careers",
+  "sigs": {},
+  "links": [
+   "https://bolt.sng.link/Epy3j/o5l4/8p88?paffn=%2Fen%2Fcareers%2Fpositions%2F&pscn=Rider&psn=Desktop&pscid=Navigation&psid=direct&lc=en",
+   "https://boltfood.sng.link/Euonx/l1jk/ruyy?paffn=%2Fen%2Fcareers%2Fpositions%2F&pscn=Food&psn=Desktop&pscid=Navigation&psid=direct&lc=en",
+   "https://bolt.eu/careers/positions/",
+   "https://bolt.eu/en/careers/positions/9b174ed7-41bf-4bdb-b443-a329d869de15/?tab=apply",
+   "https://bolt.eu/en/careers/positions/9b174ed7-41bf-4bdb-b443-a329d869de15/",
+   "https://bolt.eu/en/careers/positions/dc2ea9d9-0e7a-40ff-9d9f-a85f95a4a84d/?tab=apply",
+   "https://bolt.eu/en/careers/positions/dc2ea9d9-0e7a-40ff-9d9f-a85f95a4a84d/",
+   "https://bolt.eu/en/careers/positions/f72e3bf4-3eae-451e-9c44-88bbef5db753/?tab=apply",
+   "https://bolt.eu/en/careers/positions/f72e3bf4-3eae-451e-9c44-88bbef5db753/",
+   "https://bolt.eu/en/careers/positions/9455cd30-3d10-4b43-b70c-3115b7b12590/?tab=apply",
+   "https://bolt.eu/en/careers/positions/9455cd30-3d10-4b43-b70c-3115b7b12590/",
+   "https://bolt.eu/en/careers/positions/815e1eb0-51f6-4ba1-af7d-5371dcdffe2e/?tab=apply",
+   "https://bolt.eu/en/careers/positions/815e1eb0-51f6-4ba1-af7d-5371dcdffe2e/",
+   "https://bolt.eu/en/careers/positions/7d104dc7-6c9e-4cdb-9354-c2b4e04d3f28/?tab=apply",
+   "https://bolt.eu/en/careers/positions/7d104dc7-6c9e-4cdb-9354-c2b4e04d3f28/",
+   "https://bolt.eu/en/careers/positions/841e0865-d532-45e1-a40d-6d04b9d1e34a/?tab=apply",
+   "https://bolt.eu/en/careers/positions/841e0865-d532-45e1-a40d-6d04b9d1e34a/",
+   "https://bolt.eu/en/careers/positions/a551d417-3c2d-47d0-9066-1e61920e5a1a/?tab=apply",
+   "https://bolt.eu/en/careers/positions/a551d417-3c2d-47d0-9066-1e61920e5a1a/",
+   "https://bolt.eu/en/careers/positions/853cb9d2-66f4-4145-83aa-7eb8ab844490/?tab=apply",
+   "https://bolt.eu/en/careers/positions/853cb9d2-66f4-4145-83aa-7eb8ab844490/",
+   "https://bolt.eu/en/careers/positions/63c87f24-8fa9-4062-a447-e170f198af00/?tab=apply",
+   "https://bolt.eu/en/careers/positions/63c87f24-8fa9-4062-a447-e170f198af00/",
+   "https://bolt.eu/en/careers/positions/4826aa6d-843b-422d-8b19-8fff1536731e/?tab=apply",
+   "https://bolt.eu/en/careers/positions/4826aa6d-843b-422d-8b19-8fff1536731e/",
+   "https://bolt.eu/en/careers/positions/fd66fdf4-e263-46cb-af35-a85ad09e4c24/?tab=apply",
+   "https://bolt.eu/en/careers/positions/fd66fdf4-e263-46cb-af35-a85ad09e4c24/",
+   "https://bolt.eu/en/careers/positions/3a45811e-a80a-40c9-ba04-c95b7c84596a/?tab=apply",
+   "https://bolt.eu/en/careers/positions/3a45811e-a80a-40c9-ba04-c95b7c84596a/",
+   "https://bolt.eu/en/careers/positions/801ecb28-6f72-49c4-b3dc-2cca72f0da84/?tab=apply"
+  ],
+  "error": null,
+  "patterns": [
+   "8x bolt.eu/en/careers/positions/  e.g. https://bolt.eu/en/careers/positions/?",
+   "7x bolt.eu/en/support/  e.g. https://bolt.eu/en/support/",
+   "7x bolt.eu/en/support/categories/\\d+/  e.g. https://bolt.eu/en/support/categories/115000431394/",
+   "6x bolt.eu/en/plus/  e.g. https://bolt.eu/en/plus/",
+   "4x bolt.eu/en/scooters/safety-lab/  e.g. https://bolt.eu/en/scooters/safety-lab/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "airBaltic",
+  "url": "https://careers.airbaltic.com/en/vacancies",
+  "final": "https://careers.airbaltic.com/en/vacancies",
+  "title": "airBaltic vacancies | All open positions",
+  "sigs": {},
+  "links": [
+   "https://careers.airbaltic.com/en/vacancies",
+   "https://careers.airbaltic.com/en/vacancies/office/flight-dispatcher"
+  ],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Maersk",
+  "url": "https://www.maersk.com/careers/vacancies?search=intern",
+  "final": "https://www.maersk.com/careers/vacancies?search=intern",
+  "title": "Vacancies | Careers at Maersk",
+  "sigs": {},
+  "links": [],
+  "error": null,
   "patterns": [],
   "jsons": [],
   "api": []
  },
  {
   "name": "Linde",
-  "url": "https://www.linde.com/careers",
-  "final": "https://www.linde.com/careers",
+  "url": "https://www.linde.com/careers/search-jobs",
+  "final": "https://www.linde.com/careers/search-jobs",
   "title": "404 Page Not Found | Linde",
   "sigs": {},
   "links": [
-   "https://www.linde.com/careers#main",
-   "https://www.lindecareers.com/",
+   "https://www.linde.com/careers/search-jobs#main",
    "https://www.linde.com/sustainability/policies-and-position-statements",
    "https://www.linde.com/sustainability/policies-and-position-statements/sustainable-development-and-climate-change-position-statement",
    "https://www.linde.com/sustainability/policies-and-position-statements/human-rights-policy",
@@ -300,26 +242,20 @@
  },
  {
   "name": "Linde",
-  "url": "https://www.linde-gas.de/karriere",
-  "final": "https://www.linde-gas.de/shop/de/de-ig/home",
-  "title": "Technische Gase von Linde Gas online kaufen",
+  "url": "https://www.linde-engineering.com/careers",
+  "final": "https://www.linde-engineering.com/careers",
+  "title": "404 Page Not Found | A Linde Company",
   "sigs": {},
-  "links": [
-   "https://www.linde-gas.de/shop/de/de-ig/online-shop/gaszubehoer/druckminderer/hauptstellendruckregler",
-   "https://www.linde-gas.de/shop/de/de-ig/lichtbogen-am-direct-arc-deposition",
-   "https://www.lindecareers.com/de/"
-  ],
+  "links": [],
   "error": null,
   "patterns": [
-   "149x www.linde-gas.de/shop/de/de-ig/[^/]+  e.g. https://www.linde-gas.de/shop/de/de-ig/chemie-und-pharma-industrie",
-   "13x www.linde-gas.de/shop/de/de-ig/online-shop/gase-kaufen/[^/]+  e.g. https://www.linde-gas.de/shop/de/de-ig/online-shop/gase-kaufen/schneid-und-schwei%C3%9Fgase",
-   "11x www.linde-gas.de/shop/NonAjaxAccountProfileFormView  e.g. https://www.linde-gas.de/shop/NonAjaxAccountProfileFormView?catalogId=3074457345616681318&storeId=715845184&langId=-3",
-   "11x www.linde-gas.de/shop/de/de-ig/standorte  e.g. https://www.linde-gas.de/shop/de/de-ig/standorte",
-   "10x www.linde-gas.de/shop/de/de-ig/home  e.g. https://www.linde-gas.de/shop/de/de-ig/home#"
+   "15x www.linde-engineering.com/about/[^/]+/[^/]+  e.g. https://www.linde-engineering.com/about/corporate-social-responsibility/the-many-faces-of-charitable-work",
+   "14x www.linde-engineering.com/[^/]+/process-plants/[^/]+/[^/]+  e.g. https://www.linde-engineering.com/products-and-services/process-plants/adsorption-and-membrane-plants/hydrogen-recovery-and-purification",
+   "10x www.linde-engineering.com/[^/]+/process-plants/[^/]+  e.g. https://www.linde-engineering.com/products-and-services/process-plants/adsorption-and-membrane-plants",
+   "8x www.linde-engineering.com/[^/]+/linde-plantserv/[^/]+  e.g. https://www.linde-engineering.com/products-and-services/linde-plantserv/asset-health-checks",
+   "7x www.linde-engineering.com/[^/]+  e.g. https://www.linde-engineering.com/news-and-events"
   ],
-  "jsons": [
-   "4 Treffer in https://api.wordlift.io/data/https/www.linde-gas.de/shop/de/de-ig/home?__wl_lang=de | keys=['@context', '@id', '@type', 'address', 'alternateName', 'contactPoint', 'department', 'description', 'email', 'identifier', 'knowsAbout', 'legalName', 'leiCode', 'logo'] | z.B. Linde Gas"
-  ],
+  "jsons": [],
   "api": []
  },
  {
@@ -331,12 +267,7 @@
   "links": [
    "https://www.kraussmaffei.com/de/karriere/stellenangebote#",
    "https://www.kraussmaffei.com/de/karriere/stellenangebote#content",
-   "https://www.kraussmaffei.com/de/karriere",
    "https://www.kraussmaffei.com/de/karriere#open-positions",
-   "https://www.kraussmaffei.com/de/karriere#applications",
-   "https://www.kraussmaffei.com/de/karriere#your-start",
-   "https://www.kraussmaffei.com/de/karriere#links",
-   "https://www.kraussmaffei.com/de/karriere/Unsere%20Ausbildung",
    "https://www.kraussmaffei.com/de/karriere/stellenangebote"
   ],
   "error": null,
@@ -352,18 +283,11 @@
  },
  {
   "name": "ams OSRAM",
-  "url": "https://ams-osram.com/careers",
-  "final": "https://ams-osram.com/careers",
+  "url": "https://ams-osram.com/about-us/career",
+  "final": "https://ams-osram.com/about-us/career",
   "title": "404 not found | ams OSRAM",
   "sigs": {},
-  "links": [
-   "https://careers.ams-osram.com/en",
-   "https://ams-osram.com/careers",
-   "https://ams-osram.com/ja/careers",
-   "https://ams-osram.com/de/careers",
-   "https://ams-osram.com/ko/careers",
-   "https://ams-osram.com/careers#"
-  ],
+  "links": [],
   "error": null,
   "patterns": [
    "12x ams-osram.com/applications/automotive-mobility/[^/]+  e.g. https://ams-osram.com/applications/automotive-mobility/application-block-diagrams",
@@ -377,18 +301,16 @@
  },
  {
   "name": "ams OSRAM",
-  "url": "https://ams-osram.com/de/careers",
-  "final": "https://ams-osram.com/de/careers",
+  "url": "https://ams-osram.com/de/ueber-uns/karriere/jobs",
+  "final": "https://ams-osram.com/de/ueber-uns/karriere/jobs",
   "title": "404 not found | ams OSRAM",
   "sigs": {},
   "links": [
-   "https://careers.ams-osram.com/",
-   "https://ams-osram.com/careers",
-   "https://ams-osram.com/ja/careers",
-   "https://ams-osram.com/de/careers",
-   "https://ams-osram.com/ko/careers",
-   "https://ams-osram.com/de/careers#",
-   "https://careers.ams-osram.com/de"
+   "https://ams-osram.com/ueber-uns/karriere/jobs",
+   "https://ams-osram.com/ja/ueber-uns/karriere/jobs",
+   "https://ams-osram.com/de/ueber-uns/karriere/jobs",
+   "https://ams-osram.com/ko/ueber-uns/karriere/jobs",
+   "https://ams-osram.com/de/ueber-uns/karriere/jobs#"
   ],
   "error": null,
   "patterns": [
@@ -402,37 +324,17 @@
   "api": []
  },
  {
-  "name": "MTU Aero Engines",
-  "url": "https://www.mtu.de/de/karriere/jobs/",
-  "final": "https://www.mtu.de/de/karriere/jobs/",
+  "name": "MTU",
+  "url": "https://www.mtu.de/de/karriere/stellenangebote/jobsuche/",
+  "final": "https://www.mtu.de/de/karriere/stellenangebote/jobsuche/",
   "title": "404 - Seite nicht gefunden - MTU Aero Engines",
   "sigs": {},
   "links": [
-   "https://www.mtu.de/de/karriere/jobs/#mainnav",
-   "https://www.mtu.de/de/karriere/jobs/#mainContent",
-   "https://www.mtu.de/de/karriere/jobs/#pageFooter",
-   "https://www.mtu.de/de/karriere/",
+   "https://www.mtu.de/de/karriere/stellenangebote/jobsuche/#mainnav",
+   "https://www.mtu.de/de/karriere/stellenangebote/jobsuche/#mainContent",
+   "https://www.mtu.de/de/karriere/stellenangebote/jobsuche/#pageFooter",
    "https://www.mtu.de/de/karriere/jobboerse/",
-   "https://www.mtu.de/de/karriere/schueler/",
-   "https://www.mtu.de/de/karriere/schueler/gewerbliche-ausbildung/",
-   "https://www.mtu.de/de/karriere/schueler/gewerbliche-ausbildung/hannover/",
-   "https://www.mtu.de/de/karriere/schueler/gewerbliche-ausbildung/berlin/",
-   "https://www.mtu.de/de/karriere/schueler/gewerbliche-ausbildung/muenchen/",
-   "https://www.mtu.de/de/karriere/schueler/duales-studium/",
-   "https://www.mtu.de/de/karriere/schueler/duales-studium/muenchen/",
-   "https://www.mtu.de/de/karriere/schueler/duales-studium/hannover/",
-   "https://www.mtu.de/de/karriere/schueler/duales-studium/berlin/",
-   "https://www.mtu.de/de/karriere/schueler/schuelerpraktikum/",
-   "https://www.mtu.de/de/karriere/schueler/angebote-fuer-abiturienten/",
-   "https://www.mtu.de/de/karriere/schueler/internationale-austauschprogramme/",
-   "https://www.mtu.de/de/karriere/schueler/deine-bewerbung/",
-   "https://www.mtu.de/de/karriere/schueler/virtueller-rundgang-durch-die-ausbildung/",
-   "https://www.mtu.de/de/karriere/studierende/",
-   "https://www.mtu.de/de/karriere/studierende/bewerbungsprozess-fuer-studierende/",
-   "https://www.mtu.de/de/karriere/studierende/praktikum/",
-   "https://www.mtu.de/de/karriere/studierende/werkstudententaetigkeit/",
-   "https://www.mtu.de/de/karriere/studierende/studien-und-abschlussarbeiten/",
-   "https://www.mtu.de/de/karriere/berufseinstieg/"
+   "https://www.mtu.de/de/karriere/stellenangebote/jobsuche/#"
   ],
   "error": null,
   "patterns": [
@@ -446,78 +348,21 @@
   "api": []
  },
  {
-  "name": "MTU Aero Engines",
-  "url": "https://www.mtu.de/careers/",
-  "final": "https://www.mtu.de/careers/",
-  "title": "Careers - MTU Aero Engines",
+  "name": "MTU",
+  "url": "https://www.mtu.de/de/karriere/",
+  "final": "https://www.mtu.de/de/karriere/",
+  "title": "Karriere - MTU Aero Engines",
   "sigs": {},
   "links": [
-   "https://www.mtu.de/careers/#mainnav",
-   "https://www.mtu.de/careers/#mainContent",
-   "https://www.mtu.de/careers/#pageFooter",
-   "https://www.mtu.de/de/karriere/",
-   "https://www.mtu.de/careers/",
-   "https://www.mtu.de/careers/online-job-market/",
-   "https://www.mtu.de/careers/learners/",
-   "https://www.mtu.de/careers/learners/how-to-apply-correctly/",
-   "https://www.mtu.de/careers/learners/virtual-tour/",
-   "https://www.mtu.de/careers/students/",
-   "https://www.mtu.de/careers/students/application-process-for-students/",
-   "https://www.mtu.de/careers/students/internship/",
-   "https://www.mtu.de/careers/students/student-jobs/",
-   "https://www.mtu.de/careers/students/diploma-bachelor-or-master-thesis-internship/",
-   "https://www.mtu.de/careers/career-entry/",
-   "https://www.mtu.de/careers/professionals/",
-   "https://www.mtu.de/careers/job-areas/",
-   "https://www.mtu.de/careers/job-areas/program-management/",
-   "https://www.mtu.de/careers/job-areas/it/",
-   "https://www.mtu.de/careers/job-areas/purchasing-and-logistics/",
-   "https://www.mtu.de/careers/job-areas/development-and-technology/",
-   "https://www.mtu.de/careers/job-areas/production/",
-   "https://www.mtu.de/careers/job-areas/maintenance-repair-and-overhaul/",
-   "https://www.mtu.de/careers/job-areas/enablement-site-development-and-support/",
-   "https://www.mtu.de/careers/job-areas/assembly-and-testing/"
+   "https://www.mtu.de/de/karriere/jobboerse/"
   ],
   "error": null,
   "patterns": [
-   "19x www.mtu.de/engines/  e.g. https://www.mtu.de/engines/",
-   "17x www.mtu.de/about-us/mtu-worldwide/[^/]+/  e.g. https://www.mtu.de/about-us/mtu-worldwide/mtu-aero-engines/",
-   "16x www.mtu.de/careers/  e.g. https://www.mtu.de/careers/#mainnav",
-   "15x www.mtu.de/maintenance/commercial-maintenance/[^/]+/  e.g. https://www.mtu.de/maintenance/commercial-maintenance/mtuplus-intelligent-solutions/",
-   "13x www.mtu.de/investors/  e.g. https://www.mtu.de/investors/"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "OMV",
-  "url": "https://jobs.omv.com/search/?q=intern",
-  "final": null,
-  "title": null,
-  "sigs": {},
-  "links": [],
-  "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.omv.com/search/?q=intern\", waiting until \"domcontentloaded\"\n",
-  "patterns": [],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Verbund",
-  "url": "https://www.verbund.com/de-at/karriere/stellenangebote",
-  "final": "https://www.verbund.com/de/404notfound",
-  "title": "404: Seite nicht gefunden",
-  "sigs": {},
-  "links": [
-   "https://www.verbund.com/de/karriere",
-   "https://jobs.verbund.com/de",
-   "https://www.verbund.de/de/jobs",
-   "https://jobs.verbund.com/de/lehre"
-  ],
-  "error": null,
-  "patterns": [
-   "3x www.verbund.com/de/konzern  e.g. https://www.verbund.com/de/konzern",
-   "3x www.verbund.com/de/konzern/verantwortung  e.g. https://www.verbund.com/de/konzern/verantwortung",
-   "3x www.verbund.com/de/konzern/investor-relations  e.g. https://www.verbund.com/de/konzern/investor-relations"
+   "22x www.mtu.de/de/karriere/  e.g. https://www.mtu.de/de/karriere/#mainnav",
+   "19x www.mtu.de/de/engines/  e.g. https://www.mtu.de/de/engines/",
+   "15x www.mtu.de/de/ueber-uns/mtu-weltweit/[^/]+/  e.g. https://www.mtu.de/de/ueber-uns/mtu-weltweit/mtu-aero-engines/",
+   "15x www.mtu.de/de/maintenance/zivile-maintenance/[^/]+/  e.g. https://www.mtu.de/de/maintenance/zivile-maintenance/mtuplus-intelligent-solutions/",
+   "13x www.mtu.de/de/investoren/  e.g. https://www.mtu.de/de/investoren/"
   ],
   "jsons": [],
   "api": []
@@ -529,9 +374,6 @@
   "title": "Karriere bei VERBUND - Österreichs größtes Energieunternehmen",
   "sigs": {},
   "links": [
-   "https://www.verbund.com/de/karriere#main-content",
-   "https://www.verbund.com/de/karriere",
-   "https://www.verbund.com/en/careers",
    "https://jobs.verbund.com/de",
    "https://www.verbund.de/de/jobs?country=Deutschland",
    "https://jobs.verbund.com/de/jobportal/offene-stellen",
@@ -541,6 +383,109 @@
   "error": null,
   "patterns": [
    "3x www.verbund.com/de/karriere  e.g. https://www.verbund.com/de/karriere#main-content"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Generali",
+  "url": "https://www.generali.com/careers/our-job-opportunities",
+  "final": "https://www.generali.com/careers/our-job-opportunities",
+  "title": "PAGE NOT FOUND - Generali Group",
+  "sigs": {},
+  "links": [
+   "https://www.generali.com/careers/our-job-opportunities#mainnav",
+   "https://www.generali.com/work-with-us/join-us/job-search",
+   "https://www.generali.com/careers/our-job-opportunities#content",
+   "https://www.generali.com/careers/our-job-opportunities#collapseWorldMap",
+   "https://www.generali.com/careers/our-job-opportunities#",
+   "https://www.generali.com/who-we-are/global-positioning",
+   "https://www.generali.com/who-we-are/global-positioning/insurance-division",
+   "https://www.generali.com/who-we-are/global-positioning/asset-management",
+   "https://www.generali.com/who-we-are/global-positioning/wealth-management",
+   "https://www.generali.com/investors/debt-ratings/debt-composition-and-maturity",
+   "https://www.generali.com/careers/our-job-opportunities#mm-3",
+   "https://www.generali.com/careers/our-job-opportunities#mm-13",
+   "https://www.generali.com/careers/our-job-opportunities#mm-17",
+   "https://www.generali.com/careers/our-job-opportunities#mm-37",
+   "https://www.generali.com/careers/our-job-opportunities#mm-45",
+   "https://www.generali.com/careers/our-job-opportunities#mm-59",
+   "https://www.generali.com/careers/our-job-opportunities#mm-67",
+   "https://www.generali.com/careers/our-job-opportunities#mm-1",
+   "https://www.generali.com/careers/our-job-opportunities#mm-5",
+   "https://www.generali.com/careers/our-job-opportunities#mm-7",
+   "https://www.generali.com/careers/our-job-opportunities#mm-9",
+   "https://www.generali.com/careers/our-job-opportunities#mm-11",
+   "https://www.generali.com/careers/our-job-opportunities#mm-15",
+   "https://www.generali.com/careers/our-job-opportunities#mm-19",
+   "https://www.generali.com/careers/our-job-opportunities#mm-21",
+   "https://www.generali.com/careers/our-job-opportunities#mm-23",
+   "https://www.generali.com/careers/our-job-opportunities#mm-25",
+   "https://www.generali.com/careers/our-job-opportunities#mm-27",
+   "https://www.generali.com/careers/our-job-opportunities#mm-29",
+   "https://www.generali.com/careers/our-job-opportunities#mm-31"
+  ],
+  "error": null,
+  "patterns": [
+   "136x www.generali.com/careers/[^/]+  e.g. https://www.generali.com/careers/our-job-opportunities#mainnav",
+   "28x www.generali.com/[^/]+/[^/]+/[^/]+  e.g. https://www.generali.com/who-we-are/Strategic-Plan-Lifetime-Partner-27/Excellence-in-Core-Capabilities",
+   "22x www.generali.com/governance/[^/]+/[^/]+  e.g. https://www.generali.com/governance/corporate-governance-system/articles-of-association",
+   "20x www.generali.com/[^/]+/[^/]+  e.g. https://www.generali.com/who-we-are/Strategic-Plan-Lifetime-Partner-27",
+   "17x www.generali.com/governance/[^/]+  e.g. https://www.generali.com/governance/corporate-governance-system"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Generali",
+  "url": "https://www.generali.de/karriere",
+  "final": "https://www.generali.de/karriere",
+  "title": "Karriere bei Generali: Jobs, Ausbildung & Duales Studium",
+  "sigs": {},
+  "links": [
+   "https://www.generali.de/karriere#unsere-kultur-praegt-unsere-zusammenarbeit.-99666",
+   "https://www.generali.de/karriere#99808",
+   "https://www.generali.de/karriere#lust-mit-uns-zu-wachsen-37078",
+   "https://www.generali.de/karriere#was-wir-bieten-37014",
+   "https://www.generali.de/karriere#aktuelle-stellenangenbote-37080",
+   "https://www.generali.de/karriere/jobboerse"
+  ],
+  "error": null,
+  "patterns": [
+   "12x www.generali.de/privatkunden/rundum-schutz/[^/]+  e.g. https://www.generali.de/privatkunden/rundum-schutz/vermoegensaufbau-und-sicherheitsplan",
+   "7x www.generali.de/karriere  e.g. https://www.generali.de/karriere#unsere-kultur-praegt-unsere-zusammenarbeit.-99666",
+   "6x www.generali.de/service-kontakt/formularcenter  e.g. https://www.generali.de/service-kontakt/formularcenter",
+   "5x www.generali.de/privatkunden/fahrzeug-zuhause/kfz-versicherung  e.g. https://www.generali.de/privatkunden/fahrzeug-zuhause/kfz-versicherung",
+   "5x www.generali.de/privatkunden/recht-haftung/privathaftpflichtversicherung  e.g. https://www.generali.de/privatkunden/recht-haftung/privathaftpflichtversicherung"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "UBS",
+  "url": "https://jobs.ubs.com/TGnewUI/Search/Home/Home?partnerid=25008&siteid=5012",
+  "final": "https://jobs.ubs.com/TGnewUI/Search/Home/Home?partnerid=25008&siteid=5012#home",
+  "title": "Search Jobs at UBS - Experienced professionals - job boards",
+  "sigs": {},
+  "links": [
+   "https://jobs.ubs.com/#0",
+   "https://www.ubs.com/global/en/careers/search-jobs/faq.html",
+   "https://jobs.ubs.com/#",
+   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352247",
+   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352274",
+   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352245",
+   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=353391",
+   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=353274",
+   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=353393",
+   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=351914",
+   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=343051",
+   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=353395",
+   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5050&PageType=JobDetails&jobid=351164&frmSiteId=5012"
+  ],
+  "error": null,
+  "patterns": [
+   "10x jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad  e.g. https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352247",
+   "3x www.ubs.com/global/en/legal/privacy/users.html  e.g. https://www.ubs.com/global/en/legal/privacy/users.html"
   ],
   "jsons": [],
   "api": []
@@ -558,436 +503,55 @@
   "api": []
  },
  {
-  "name": "Generali",
-  "url": "https://www.generali.com/careers/vacancies",
-  "final": "https://www.generali.com/careers/vacancies",
-  "title": "PAGE NOT FOUND - Generali Group",
-  "sigs": {},
-  "links": [
-   "https://www.generali.com/careers/vacancies#mainnav",
-   "https://www.generali.com/work-with-us/join-us/job-search",
-   "https://www.generali.com/careers/vacancies#content",
-   "https://www.generali.com/careers/vacancies#collapseWorldMap",
-   "https://www.generali.com/careers/vacancies#",
-   "https://www.generali.com/who-we-are/global-positioning",
-   "https://www.generali.com/who-we-are/global-positioning/insurance-division",
-   "https://www.generali.com/who-we-are/global-positioning/asset-management",
-   "https://www.generali.com/who-we-are/global-positioning/wealth-management",
-   "https://www.generali.com/people-and-careers",
-   "https://www.generali.com/people-and-careers/our-culture",
-   "https://www.generali.com/people-and-careers/our-culture/the-excellence-culture-framework",
-   "https://www.generali.com/people-and-careers/our-culture/diversity-and-inclusion",
-   "https://www.generali.com/people-and-careers/our-culture/well-being",
-   "https://www.generali.com/people-and-careers/our-culture/engagement",
-   "https://www.generali.com/people-and-careers/our-culture/group-performance-management",
-   "https://www.generali.com/people-and-careers/our-ways-of-working",
-   "https://www.generali.com/people-and-careers/our-ways-of-working/hybrid-forward",
-   "https://www.generali.com/people-and-careers/our-ways-of-working/ai-gen-ai-adoption",
-   "https://www.generali.com/people-and-careers/our-ways-of-working/workforce-planning",
-   "https://www.generali.com/people-and-careers/our-learning-and-development",
-   "https://www.generali.com/people-and-careers/our-learning-and-development/learning-for-the-future",
-   "https://www.generali.com/people-and-careers/our-learning-and-development/managerial-talent-and-leadership-development",
-   "https://www.generali.com/people-and-careers/our-rewards",
-   "https://www.generali.com/people-and-careers/work-with-us"
-  ],
-  "error": null,
-  "patterns": [
-   "136x www.generali.com/careers/vacancies  e.g. https://www.generali.com/careers/vacancies#mainnav",
-   "28x www.generali.com/[^/]+/[^/]+/[^/]+  e.g. https://www.generali.com/who-we-are/Strategic-Plan-Lifetime-Partner-27/Excellence-in-Core-Capabilities",
-   "22x www.generali.com/governance/[^/]+/[^/]+  e.g. https://www.generali.com/governance/corporate-governance-system/articles-of-association",
-   "20x www.generali.com/[^/]+/[^/]+  e.g. https://www.generali.com/who-we-are/Strategic-Plan-Lifetime-Partner-27",
-   "17x www.generali.com/governance/[^/]+  e.g. https://www.generali.com/governance/corporate-governance-system"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Generali",
-  "url": "https://www.generali.com/careers",
-  "final": "https://www.generali.com/careers",
-  "title": "PAGE NOT FOUND - Generali Group",
-  "sigs": {},
-  "links": [
-   "https://www.generali.com/careers#mainnav",
-   "https://www.generali.com/work-with-us/join-us/job-search",
-   "https://www.generali.com/careers#content",
-   "https://www.generali.com/careers#collapseWorldMap",
-   "https://www.generali.com/careers#",
-   "https://www.generali.com/who-we-are/global-positioning",
-   "https://www.generali.com/who-we-are/global-positioning/insurance-division",
-   "https://www.generali.com/who-we-are/global-positioning/asset-management",
-   "https://www.generali.com/who-we-are/global-positioning/wealth-management",
-   "https://www.generali.com/people-and-careers",
-   "https://www.generali.com/people-and-careers/our-culture",
-   "https://www.generali.com/people-and-careers/our-culture/the-excellence-culture-framework",
-   "https://www.generali.com/people-and-careers/our-culture/diversity-and-inclusion",
-   "https://www.generali.com/people-and-careers/our-culture/well-being",
-   "https://www.generali.com/people-and-careers/our-culture/engagement",
-   "https://www.generali.com/people-and-careers/our-culture/group-performance-management",
-   "https://www.generali.com/people-and-careers/our-ways-of-working",
-   "https://www.generali.com/people-and-careers/our-ways-of-working/hybrid-forward",
-   "https://www.generali.com/people-and-careers/our-ways-of-working/ai-gen-ai-adoption",
-   "https://www.generali.com/people-and-careers/our-ways-of-working/workforce-planning",
-   "https://www.generali.com/people-and-careers/our-learning-and-development",
-   "https://www.generali.com/people-and-careers/our-learning-and-development/learning-for-the-future",
-   "https://www.generali.com/people-and-careers/our-learning-and-development/managerial-talent-and-leadership-development",
-   "https://www.generali.com/people-and-careers/our-rewards",
-   "https://www.generali.com/people-and-careers/work-with-us"
-  ],
-  "error": null,
-  "patterns": [
-   "136x www.generali.com/careers  e.g. https://www.generali.com/careers#mainnav",
-   "28x www.generali.com/[^/]+/[^/]+/[^/]+  e.g. https://www.generali.com/who-we-are/Strategic-Plan-Lifetime-Partner-27/Excellence-in-Core-Capabilities",
-   "22x www.generali.com/governance/[^/]+/[^/]+  e.g. https://www.generali.com/governance/corporate-governance-system/articles-of-association",
-   "20x www.generali.com/[^/]+/[^/]+  e.g. https://www.generali.com/who-we-are/Strategic-Plan-Lifetime-Partner-27",
-   "17x www.generali.com/governance/[^/]+  e.g. https://www.generali.com/governance/corporate-governance-system"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
   "name": "Stellantis",
-  "url": "https://careers.stellantis.com/job-search/",
-  "final": "https://careers.stellantis.com/job-search/",
-  "title": "Page Not Found | Please Retry Your Search",
+  "url": "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057",
+  "final": "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057",
+  "title": "STELLANTIS - Search results(394 vacancies/1)-Display all",
   "sigs": {},
   "links": [
-   "https://careers.stellantis.com/job-search/#main",
-   "https://careers.stellantis.com/job-search/#",
-   "https://careers.stellantis.com/",
-   "https://careers.stellantis.com/our-brands-2/",
-   "https://careers.stellantis.com/career-areas-2/",
-   "https://careers.stellantis.com/about-us/",
-   "https://careers.stellantis.com/where-we-are/",
-   "https://careers.stellantis.com/different-drives-one-destination/",
-   "https://careers.stellantis.com/early-careers/",
-   "https://careers.stellantis.com/global-students/",
-   "https://careers.stellantis.com/early-careers/students-north-america/",
-   "https://careers.stellantis.com/early-careers/graduate-program/",
-   "https://careers.stellantis.com/nextgen/",
-   "https://careers.stellantis.com/it/pagina-404/",
-   "https://careers.stellantis.com/fr-ca/404page/",
-   "https://careers.stellantis.com/pt-br/404page/",
-   "https://careers.stellantis.com/zh-hans/404page/",
-   "https://careers.stellantis.com/ja/404page/",
-   "https://careers.stellantis.com/ko/404-%ed%8e%98%ec%9d%b4%ec%a7%80/",
-   "https://careers.stellantis.com/es/404page/",
-   "https://careers.stellantis.com/en/profile/join/",
-   "https://careers.stellantis.com/campaign/veterans-recruiting-program/",
-   "https://careers.stellantis.com/404page/",
-   "https://careers.stellantis.com/wp-content/uploads/sites/2404/2023/03/FCA-Applicant-Privacy-Notice-01.01.2023-1.pdf",
-   "https://careers.stellantis.com/wp-content/uploads/sites/2404/2020/01/FCA-Applicant-Privacy-Notice-DLA-CCPA-final-v01-30-20.pdf"
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=1040",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057#smp_SkipLink",
+   "https://psa-recrute.talent-soft.com/job/my-basket-of-jobs.aspx",
+   "https://psa-recrute.talent-soft.com/job/list-of-all-jobs.aspx?all=1&mode=layer#ancrecontenu",
+   "https://psa-recrute.talent-soft.com/job/all-rss-feeds.aspx",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057&mode=layer",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057&mode=list",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057&showSearchUrl=1",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=2&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=3&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=4&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=5&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=6&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=7&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=8&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=9&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=10&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=11&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=12&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=13&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=14&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=15&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=16&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=17&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=18&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=19&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=20&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=21&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=22&LCID=2057",
+   "https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=23&LCID=2057"
   ],
   "error": null,
   "patterns": [
-   "8x careers.stellantis.com/[^/]+/  e.g. https://careers.stellantis.com/our-brands-2/",
-   "4x careers.stellantis.com/job-search/  e.g. https://careers.stellantis.com/job-search/#main"
+   "125x psa-recrute.talent-soft.com/job/[^/]+  e.g. https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=1040"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Stellantis",
-  "url": "https://careers.stellantis.com/jobs/",
-  "final": "https://careers.stellantis.com/jobs/",
-  "title": "Page Not Found | Please Retry Your Search",
-  "sigs": {},
-  "links": [
-   "https://careers.stellantis.com/jobs/#main",
-   "https://careers.stellantis.com/jobs/#",
-   "https://careers.stellantis.com/",
-   "https://careers.stellantis.com/our-brands-2/",
-   "https://careers.stellantis.com/career-areas-2/",
-   "https://careers.stellantis.com/about-us/",
-   "https://careers.stellantis.com/where-we-are/",
-   "https://careers.stellantis.com/different-drives-one-destination/",
-   "https://careers.stellantis.com/early-careers/",
-   "https://careers.stellantis.com/global-students/",
-   "https://careers.stellantis.com/early-careers/students-north-america/",
-   "https://careers.stellantis.com/early-careers/graduate-program/",
-   "https://careers.stellantis.com/nextgen/",
-   "https://careers.stellantis.com/it/pagina-404/",
-   "https://careers.stellantis.com/fr-ca/404page/",
-   "https://careers.stellantis.com/pt-br/404page/",
-   "https://careers.stellantis.com/zh-hans/404page/",
-   "https://careers.stellantis.com/ja/404page/",
-   "https://careers.stellantis.com/ko/404-%ed%8e%98%ec%9d%b4%ec%a7%80/",
-   "https://careers.stellantis.com/es/404page/",
-   "https://careers.stellantis.com/en/profile/join/",
-   "https://careers.stellantis.com/campaign/veterans-recruiting-program/",
-   "https://careers.stellantis.com/404page/",
-   "https://careers.stellantis.com/wp-content/uploads/sites/2404/2023/03/FCA-Applicant-Privacy-Notice-01.01.2023-1.pdf",
-   "https://careers.stellantis.com/wp-content/uploads/sites/2404/2020/01/FCA-Applicant-Privacy-Notice-DLA-CCPA-final-v01-30-20.pdf"
-  ],
-  "error": null,
-  "patterns": [
-   "8x careers.stellantis.com/[^/]+/  e.g. https://careers.stellantis.com/our-brands-2/",
-   "4x careers.stellantis.com/jobs/  e.g. https://careers.stellantis.com/jobs/#main"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Heineken",
-  "url": "https://careers.theheinekencompany.com/search",
-  "final": "https://careers.theheinekencompany.com/Job-Listing",
-  "title": "Job Listing | HEINEKEN Careers",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu-slide",
-    "career5.successfactors.eu/careers?company=C0000032666P&amp;navBarLevel=MY_PROFILE",
-    "career5.successfactors.eu/careers?company=C0000032666P&navBarLevel=MY_PROFILE"
-   ]
-  },
-  "links": [
-   "https://careers.theheinekencompany.com/terms-and-conditions",
-   "https://careers.theheinekencompany.com/privacy-policy",
-   "https://careers.theheinekencompany.com/Job-Listing#main-content",
-   "https://careers.theheinekencompany.com/",
-   "https://careers.theheinekencompany.com/why-join-us",
-   "https://careers.theheinekencompany.com/what-we-do",
-   "https://careers.theheinekencompany.com/Early-Careers",
-   "https://careers.theheinekencompany.com/Job-Listing",
-   "https://careers.theheinekencompany.com/Francais/Tango",
-   "https://careers.theheinekencompany.com/KWAL",
-   "https://careers.theheinekencompany.com/BRALIRWA",
-   "https://careers.theheinekencompany.com/Brarudi",
-   "https://careers.theheinekencompany.com/Francais/Brasseries-de-Bourbon",
-   "https://careers.theheinekencompany.com/HBI",
-   "https://careers.theheinekencompany.com/Al-Ahram-Beverages",
-   "https://careers.theheinekencompany.com/Portugues/HEINEKEN-Mozambique",
-   "https://careers.theheinekencompany.com/HEINEKEN-Beverages",
-   "https://careers.theheinekencompany.com/HEINEKEN-Ethiopia",
-   "https://careers.theheinekencompany.com/Namibia-Breweries",
-   "https://careers.theheinekencompany.com/SONOBRA-Group",
-   "https://careers.theheinekencompany.com/Francais/Brassivoire",
-   "https://careers.theheinekencompany.com/Nigerian-Breweries",
-   "https://careers.theheinekencompany.com/Commonwealth-Brewery",
-   "https://careers.theheinekencompany.com/Red-Stripe",
-   "https://careers.theheinekencompany.com/HEINEKEN-Saint-Lucia"
-  ],
-  "error": null,
-  "patterns": [
-   "14x careers.theheinekencompany.com/job/heineken-brazil/brazil/[^/]+  e.g. https://careers.theheinekencompany.com/job/heineken-brazil/brazil/pessoa-ajudante-interno-armazenagem-goiania",
-   "13x careers.theheinekencompany.com/[^/]+  e.g. https://careers.theheinekencompany.com/terms-and-conditions",
-   "6x void(0)  e.g. javascript:void(0)",
-   "5x careers.theheinekencompany.com/Job-Listing  e.g. https://careers.theheinekencompany.com/Job-Listing#main-content"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Heineken",
-  "url": "https://careers.theheinekencompany.com/jobs",
-  "final": "https://careers.theheinekencompany.com/Job-Listing",
-  "title": "Job Listing | HEINEKEN Careers",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu-slide",
-    "career5.successfactors.eu/careers?company=C0000032666P&amp;navBarLevel=MY_PROFILE",
-    "career5.successfactors.eu/careers?company=C0000032666P&navBarLevel=MY_PROFILE"
-   ]
-  },
-  "links": [
-   "https://careers.theheinekencompany.com/terms-and-conditions",
-   "https://careers.theheinekencompany.com/privacy-policy",
-   "https://careers.theheinekencompany.com/Job-Listing#main-content",
-   "https://careers.theheinekencompany.com/",
-   "https://careers.theheinekencompany.com/why-join-us",
-   "https://careers.theheinekencompany.com/what-we-do",
-   "https://careers.theheinekencompany.com/Early-Careers",
-   "https://careers.theheinekencompany.com/Job-Listing",
-   "https://careers.theheinekencompany.com/Francais/Tango",
-   "https://careers.theheinekencompany.com/KWAL",
-   "https://careers.theheinekencompany.com/BRALIRWA",
-   "https://careers.theheinekencompany.com/Brarudi",
-   "https://careers.theheinekencompany.com/Francais/Brasseries-de-Bourbon",
-   "https://careers.theheinekencompany.com/HBI",
-   "https://careers.theheinekencompany.com/Al-Ahram-Beverages",
-   "https://careers.theheinekencompany.com/Portugues/HEINEKEN-Mozambique",
-   "https://careers.theheinekencompany.com/HEINEKEN-Beverages",
-   "https://careers.theheinekencompany.com/HEINEKEN-Ethiopia",
-   "https://careers.theheinekencompany.com/Namibia-Breweries",
-   "https://careers.theheinekencompany.com/SONOBRA-Group",
-   "https://careers.theheinekencompany.com/Francais/Brassivoire",
-   "https://careers.theheinekencompany.com/Nigerian-Breweries",
-   "https://careers.theheinekencompany.com/Commonwealth-Brewery",
-   "https://careers.theheinekencompany.com/Red-Stripe",
-   "https://careers.theheinekencompany.com/HEINEKEN-Saint-Lucia"
-  ],
-  "error": null,
-  "patterns": [
-   "14x careers.theheinekencompany.com/job/heineken-brazil/brazil/[^/]+  e.g. https://careers.theheinekencompany.com/job/heineken-brazil/brazil/pessoa-ajudante-interno-armazenagem-goiania",
-   "13x careers.theheinekencompany.com/[^/]+  e.g. https://careers.theheinekencompany.com/terms-and-conditions",
-   "6x void(0)  e.g. javascript:void(0)",
-   "5x careers.theheinekencompany.com/Job-Listing  e.g. https://careers.theheinekencompany.com/Job-Listing#main-content"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "ASML",
-  "url": "https://www.asml.com/en/careers/find-your-job",
-  "final": "https://www.asml.com/en/careers/find-your-job",
-  "title": "Find your job - Careers at ASML",
-  "sigs": {},
-  "links": [
-   "https://www.asml.com/en/careers/find-your-job#content",
-   "https://www.asml.com/en/careers/saved-jobs",
-   "https://www.asml.com/en/careers",
-   "https://www.asml.com/en/careers/find-your-job",
-   "https://www.asml.com/en/careers/interview-tips",
-   "https://www.asml.com/en/careers/working-at-asml",
-   "https://www.asml.com/en/careers/working-at-asml/netherlands",
-   "https://www.asml.com/en/careers/working-at-asml/united-states",
-   "https://www.asml.com/en/careers/working-at-asml/taiwan",
-   "https://www.asml.com/en/careers/working-at-asml/south-korea",
-   "https://www.asml.com/en/careers/working-at-asml/china",
-   "https://www.asml.com/en/careers/working-at-asml/japan",
-   "https://www.asml.com/en/careers/working-at-asml/germany",
-   "https://www.asml.com/en/careers/technical-fields",
-   "https://www.asml.com/en/careers/teams",
-   "https://www.asml.com/en/careers/students-new-graduates",
-   "https://www.asml.com/en/careers/students-new-graduates/early-career-programs",
-   "https://www.asml.com/en/careers/students-new-graduates/netherlands",
-   "https://www.asml.com/en/careers/students-new-graduates/us",
-   "https://www.asml.com/en/careers/students-new-graduates/taiwan",
-   "https://www.asml.com/en/careers/students-new-graduates/south-korea",
-   "https://www.asml.com/en/careers/students-new-graduates/china",
-   "https://www.asml.com/en/careers/job-alert-subscription?job_type=Fix",
-   "https://www.asml.com/en/careers/find-your-job/mechatronics-engineer-j00349616",
-   "https://www.asml.com/en/careers/find-your-job/competence-engineer-lab-owner-j00353539"
-  ],
-  "error": null,
-  "patterns": [
-   "8x www.asml.com/en/careers/[^/]+  e.g. https://www.asml.com/en/careers/find-your-job#content",
-   "4x www.asml.com/en/careers  e.g. https://www.asml.com/en/careers",
-   "4x www.asml.com/en/technology/lithography-principles/[^/]+  e.g. https://www.asml.com/en/technology/lithography-principles/light-and-lasers",
-   "3x www.asml.com/en/products/[^/]+  e.g. https://www.asml.com/en/products/euv-lithography-systems",
-   "3x www.asml.com/en/cookie-notice  e.g. https://www.asml.com/en/cookie-notice"
-  ],
-  "jsons": [
-   "25 Treffer in https://discover-euc1.sitecorecloud.io/discover/v2/126200477 | keys=['description', 'id', 'job_city', 'job_city_state', 'job_country', 'job_date_posted', 'job_degrees', 'job_educational_backgrounds', 'job_experience_levels', 'job_id', 'job_location', 'job_state', 'job_teams', 'job_technical_fields'] | z.B. Mechatronics Engineer",
-   "3 Treffer in https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/mechatronics-engineer-j00349616.json | keys=['id', 'name', 'path'] | z.B. Default V2",
-   "3 Treffer in https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/competence-engineer-lab-owner-j00353539.json | keys=['id', 'name', 'path'] | z.B. Default V2"
-  ],
-  "api": []
- },
- {
-  "name": "Sky",
-  "url": "https://careers.sky.com/jobs",
-  "final": "https://careers.sky.com/jobs",
-  "title": "Sky Careers | Jobs",
-  "sigs": {},
-  "links": [
-   "https://careers.sky.com/jobs#main",
-   "https://careers.sky.com/",
-   "https://careers.sky.com/about",
-   "https://careers.sky.com/lifeatsky",
-   "https://careers.sky.com/teams",
-   "https://careers.sky.com/earlycareers",
-   "https://careers.sky.com/locations",
-   "https://careers.sky.com/application-journey",
-   "https://careers.sky.com/blog",
-   "https://careers.sky.com/jobs/t-R0057687",
-   "https://careers.sky.com/jobs/t-R0060462",
-   "https://careers.sky.com/jobs/t-R0059192",
-   "https://careers.sky.com/jobs/t-R0060283",
-   "https://careers.sky.com/jobs/t-R0059379",
-   "https://careers.sky.com/jobs/t-R0060122",
-   "https://careers.sky.com/jobs/t-R0059691",
-   "https://careers.sky.com/jobs/t-R0060125",
-   "https://careers.sky.com/jobs/t-R0059624",
-   "https://careers.sky.com/jobs/t-R0059726",
-   "https://careers.sky.com/cz",
-   "https://careers.sky.com/ie",
-   "https://careers.sky.com/it",
-   "https://jobs.comcast.com/",
-   "https://www.nbcunicareers.com/"
-  ],
-  "error": null,
-  "patterns": [
-   "10x careers.sky.com/jobs/t-R\\d+  e.g. https://careers.sky.com/jobs/t-R0057687",
-   "3x www.sky.com/help/articles/[^/]+  e.g. https://www.sky.com/help/articles/sky-terms-and-conditions"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "DAZN",
-  "url": "https://careers.dazn.com/jobs",
-  "final": "https://careers.dazn.com/jobs",
-  "title": "Jobs at DAZN | DAZN Careers",
-  "sigs": {},
-  "links": [
-   "https://careers.dazn.com/",
-   "https://careers.dazn.com/about-us",
-   "https://dazn.pinpointhq.com/?scroll_to=teams-scroll-position",
-   "https://careers.dazn.com/all-jobs",
-   "https://careers.dazn.com/?scroll_to=js-careers-jobs-block",
-   "https://careers.dazn.com/jobs#js-careers-jobs-block",
-   "https://careers.dazn.com/technology",
-   "https://careers.dazn.com/product",
-   "https://careers.dazn.com/content-production",
-   "https://careers.dazn.com/business-support",
-   "https://careers.dazn.com/operations",
-   "https://careers.dazn.com/media",
-   "https://careers.dazn.com/data-analytics",
-   "https://careers.dazn.com/commercial-and-business-development",
-   "https://careers.dazn.com/marketing-pr",
-   "https://careers.dazn.com/design-ux",
-   "https://careers.dazn.com/london",
-   "https://careers.dazn.com/india",
-   "https://careers.dazn.com/katowice",
-   "https://careers.dazn.com/leeds",
-   "https://careers.dazn.com/tokyo",
-   "https://careers.dazn.com/munich",
-   "https://careers.dazn.com/new-york",
-   "https://careers.dazn.com/milan",
-   "https://careers.dazn.com/madrid"
-  ],
-  "error": null,
-  "patterns": [],
-  "jsons": [
-   "525 Treffer in https://careers.dazn.com/postings.json?division_id%5B%5D=11796&_=1793740366720 | keys=['benefits', 'benefits_header', 'compensation', 'compensation_currency', 'compensation_frequency', 'compensation_maximum', 'compensation_minimum', 'compensation_visible', 'deadline_at', 'description', 'employment_type', 'employment_type_text', 'id', 'job'] | z.B. Freelance Broadcast Professional"
-  ],
-  "api": []
- },
- {
-  "name": "airBaltic",
-  "url": "https://careers.airbaltic.com/en/vacancies",
-  "final": "https://careers.airbaltic.com/en/vacancies",
-  "title": "airBaltic vacancies | All open positions",
-  "sigs": {},
-  "links": [
-   "https://careers.airbaltic.com/en",
-   "https://careers.airbaltic.com/en/vacancies",
-   "https://careers.airbaltic.com/en/teams/cabin-crew",
-   "https://careers.airbaltic.com/en/teams/pilots",
-   "https://careers.airbaltic.com/en/technical-academy",
-   "https://careers.airbaltic.com/en/culture",
-   "https://careers.airbaltic.com/en/teams/aircraft-technicians",
-   "https://careers.airbaltic.com/en/teams/office",
-   "https://careers.airbaltic.com/en/teams/airport",
-   "https://careers.airbaltic.com/en/teams/training-centre",
-   "https://careers.airbaltic.com/en/teams/pilot-academy",
-   "https://careers.airbaltic.com/en/teams/baltic-cargo-centre",
-   "https://careers.airbaltic.com/en/internship",
-   "https://careers.airbaltic.com/en/vacancies/office/flight-dispatcher",
-   "https://careers.airbaltic.com/en/privacy-policy",
-   "https://careers.airbaltic.com/en/cookie-policy",
-   "https://careers.airbaltic.com/en/contacts"
-  ],
-  "error": null,
-  "patterns": [],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Maersk",
-  "url": "https://www.maersk.com/careers/vacancies?search=intern",
-  "final": "https://www.maersk.com/careers/vacancies?search=intern",
-  "title": "Vacancies | Careers at Maersk",
+  "name": "Honda",
+  "url": "https://www.honda.de/cars/karriere.html",
+  "final": "https://www.honda.de/cars/karriere.html",
+  "title": "Leider ist ein Fehler aufgetreten",
   "sigs": {},
   "links": [],
   "error": null,
@@ -996,847 +560,43 @@
   "api": []
  },
  {
-  "name": "Novo Nordisk",
-  "url": "https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern",
-  "final": "https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern&countries=Denmark%3BUnited+States%3BChina+Mainland%3BAustralia%3BBrazil%3BCanada%3BCzech+Republic%3BFrance%3BGermany%3BHungary%3BIndia%3BIreland%3BIsrael%3BJapan%3BMalaysia%3BMexico%3BPanama%3BPeru%3BPhilippines%3BPoland%3BPortugal%3BRomania%3BSouth+Africa%3BSouth+Korea%3BSpain%3BSwitzerland%3BTaiwan%3BThailand%3BUkraine%3BUnited+Kingdom%3BVietnam&categories=Business+Development+%26+Strategy%3BBusiness+Support+%26+Administration%3BClinical+Development%3BCommercial+Marketing%3BData+%26+AI%3BDigital+%26+IT%3BEducation%3BEngineering+%26+Technical%3BFinance%3BHuman+Resource+Management%3BLegal%2C+Compliance+%26+Audit%3BManufacturing%3BMedical+Affairs%3BProject+Management+%26+Agile%3BQuality%3BReg+Affairs+%26+Safety+Pharmacovigilance%3BResearch%3BCorporate+Affairs%3BMarket+Access%3BProcurement%3BSales%3BSupply+Chain",
-  "title": "Career search results",
+  "name": "Honda",
+  "url": "https://hondaeurope.jobs/",
+  "final": null,
+  "title": null,
   "sigs": {},
-  "links": [
-   "https://www.novonordisk.com/careers/find-a-job.html",
-   "https://www.novonordisk.com/careers/find-a-job/career-search-results.html",
-   "https://www.novonordisk.com/careers/careers-at-novo.html",
-   "https://www.novonordisk.com/careers/job-agent.html",
-   "https://www.novonordisk.com/careers/early-career-programmes.html",
-   "https://www.novonordisk.com/careers/career-areas.html",
-   "https://www.novonordisk.com/careers/our-recruitment-process.html",
-   "https://www.novonordisk.com/careers/notice-on-recruitment-fraud.html",
-   "https://www.novonordisk.com/our-products/falsified-medicines-position.html",
-   "https://www.novonordisk.com/careers/job-agent.html?cid=cr",
-   "https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern&countries=Denmark%3BUnited+States%3BChina+Mainland%3BAustralia%3BBrazil%3BCanada%3BCzech+Republic%3BFrance%3BGermany%3BHungary%3BIndia%3BIreland%3BIsrael%3BJapan%3BMalaysia%3BMexico%3BPanama%3BPeru%3BPhilippines%3BPoland%3BPortugal%3BRomania%3BSouth+Africa%3BSouth+Korea%3BSpain%3BSwitzerland%3BTaiwan%3BThailand%3BUkraine%3BUnited+Kingdom%3BVietnam&categories=Business+Development+%26+Strategy%3BBusiness+Support+%26+Administration%3BClinical+Development%3BCommercial+Marketing%3BData+%26+AI%3BDigital+%26+IT%3BEducation%3BEngineering+%26+Technical%3BFinance%3BHuman+Resource+Management%3BLegal%2C+Compliance+%26+Audit%3BManufacturing%3BMedical+Affairs%3BProject+Management+%26+Agile%3BQuality%3BReg+Affairs+%26+Safety+Pharmacovigilance%3BResearch%3BCorporate+Affairs%3BMarket+Access%3BProcurement%3BSales%3BSupply+Chain#"
-  ],
-  "error": null,
-  "patterns": [
-   "12x www.novonordisk.com/[^/]+/[^/]+  e.g. https://www.novonordisk.com/science-and-technology/research-and-technology-centres.html",
-   "10x void(0)  e.g. javascript:void(0)",
-   "6x www.novonordisk.com/careers/[^/]+  e.g. https://www.novonordisk.com/careers/find-a-job.html",
-   "6x www.novonordisk.com/sustainable-business/[^/]+  e.g. https://www.novonordisk.com/sustainable-business/our-sustainability-approach.html",
-   "5x www.novonordisk.com/about/[^/]+  e.g. https://www.novonordisk.com/about/what-we-do.html"
-  ],
-  "jsons": [
-   "3 Treffer in https://www.novonordisk.com/bin/nncorp/careersearch?keyword=intern&country=Denmark%3BUnited%20States%3BChina%20Mainland%3BAustralia%3BBrazil%3BCanada% | keys=['jobCategory', 'jobCity', 'jobCountry', 'jobId', 'jobLocale', 'jobLocationLabel', 'jobState', 'jobSubCategory', 'jobTitle'] | z.B. Internship- EHS Engineer"
-  ],
-  "api": []
- },
- {
-  "name": "Deloitte",
-  "url": "https://job.deloitte.com/search?search=praktikum",
-  "final": "https://job.deloitte.com/search?search=praktikum",
-  "title": "Suche nach praktikum",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu/career?company=C0001129853P&amp;lang=de_DE",
-    "career5.successfactors.eu/career?company=C0001129853P&lang=de_DE"
-   ]
-  },
-  "links": [
-   "https://job.deloitte.com/search?search=praktikum#",
-   "https://de-job.deloitte.com/",
-   "https://job.deloitte.com/",
-   "https://jobs.deloitte.de/",
-   "https://www.deloitte.com/de/de/careers.html",
-   "https://job.deloitte.com/bewerbung/bewerbungsprozess",
-   "https://job.deloitte.com/bewerbung/faq",
-   "https://job.deloitte.com/event/recruiting-karriere-events-1",
-   "https://job.deloitte.com/jobs-in-berlin-_c2",
-   "https://job.deloitte.com/jobs-in-dresden-_c3",
-   "https://job.deloitte.com/jobs-in-duesseldorf-_c4",
-   "https://job.deloitte.com/jobs-in-frankfurt-_c5",
-   "https://job.deloitte.com/jobs-in-goerlitz-_c16",
-   "https://job.deloitte.com/jobs-in-halle-saale-_c6",
-   "https://job.deloitte.com/jobs-in-hamburg-_c1",
-   "https://job.deloitte.com/jobs-in-hannover-_c7",
-   "https://job.deloitte.com/jobs-in-koeln-_c8",
-   "https://job.deloitte.com/jobs-in-leipzig-_c9",
-   "https://job.deloitte.com/jobs-in-magdeburg-_c10",
-   "https://job.deloitte.com/jobs-in-mannheim-_c11",
-   "https://job.deloitte.com/jobs-in-muenchen-_c12",
-   "https://job.deloitte.com/jobs-in-nuernberg-_c13",
-   "https://job.deloitte.com/jobs-in-stuttgart-_c14",
-   "https://job.deloitte.com/jobs-in-walldorf-_c15",
-   "https://job.deloitte.com/advisory-jobs_-bu12"
-  ],
-  "error": null,
-  "patterns": [
-   "119x job.deloitte.com/search  e.g. https://job.deloitte.com/search?search=praktikum#",
-   "106x job.deloitte.com/[^/]+  e.g. https://job.deloitte.com/jobs-in-berlin-_c2",
-   "3x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/",
-   "3x job.deloitte.com/favorites  e.g. https://job.deloitte.com/favorites"
-  ],
+  "links": [],
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hondaeurope.jobs/\nCall log:\n  - navigating to \"https://hondaeurope.jobs/\", waiting until \"domcontentloaded\"\n",
+  "patterns": [],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Mercedes-Benz",
-  "url": "https://jobs.mercedes-benz.com/?searchText=praktikum",
-  "final": "https://jobs.mercedes-benz.com/?searchText=praktikum",
-  "title": "Jobsuche | Mercedes-Benz Group > Karriere > Jobsuche",
-  "sigs": {
-   "beesite": [
-    "beesite"
-   ]
-  },
-  "links": [
-   "https://jobs.mercedes-benz.com/driver-assistance-projects-76762-mer00029xa",
-   "https://jobs.mercedes-benz.com/ausbildung-zum-giessereimechaniker-wmd-fachrichtung-druck-und-kokillenguss-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218904-mer00043ec",
-   "https://jobs.mercedes-benz.com/ausbildung-zum-mechatroniker-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218596-mer00043co",
-   "https://jobs.mercedes-benz.com/ausbildung-zum-elektroniker-wmd-fur-automatisierungstechnik-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218603-mer00043cr",
-   "https://jobs.mercedes-benz.com/ausbildung-zum-kfz-mechatroniker-wmd-system-und-hochvolttechnik-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218609-mer00043cu",
-   "https://jobs.mercedes-benz.com/ausbildung-zum-fachinformatiker-fachrichtung-daten-und-prozessanalyse-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218613-mer00043cv",
-   "https://jobs.mercedes-benz.com/ausbildung-zum-fertigungsmechaniker-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218622-mer00043cy",
-   "https://jobs.mercedes-benz.com/ausbildung-zum-industriemechaniker-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218627-mer00043cw",
-   "https://jobs.mercedes-benz.com/ausbildung-zum-kfz-mechatroniker-wmd-system-und-hochvolttechnik-mercedes-benz-ag-werk-dusseldorf-ausbildungsbeginn-01092027-217169-mer00042z0",
-   "https://jobs.mercedes-benz.com/ausbildung-zum-kraftfahrzeugmechatroniker-wmd-fur-personenwagentechnik-mercedes-benz-ag-werk-dusseldorf-ausbildungsbeginn-01092027-217257-mer00042zd",
-   "https://www.facebook.com/mercedesbenzcareers",
-   "https://www.instagram.com/mercedesbenz_careers",
-   "https://jobs.mercedes-benz.com/?searchText=praktikum",
-   "https://jobs.mercedes-benz.com/en?searchText=praktikum",
-   "https://jobs.mercedes-benz.com/hu?searchText=praktikum",
-   "https://jobs.mercedes-benz.com/?searchText=praktikum#",
-   "https://group.mercedes-benz.com/karriere/",
-   "https://group.mercedes-benz.com/karriere/kontakt/bewerbersystem-support.html",
-   "https://group.mercedes-benz.com/karriere/kontakt/",
-   "https://group.mercedes-benz.com/karriere/ueber-uns/standorte/",
-   "https://group.mercedes-benz.com/karriere/general-terms-conditions.html"
-  ],
-  "error": null,
-  "patterns": [
-   "4x group.mercedes-benz.com/karriere/  e.g. https://group.mercedes-benz.com/karriere/",
-   "3x group.mercedes-benz.com/unternehmen/  e.g. https://group.mercedes-benz.com/unternehmen/",
-   "3x group.mercedes-benz.com/nachhaltigkeit/  e.g. https://group.mercedes-benz.com/nachhaltigkeit/",
-   "3x group.mercedes-benz.com/investoren/  e.g. https://group.mercedes-benz.com/investoren/",
-   "3x group.mercedes-benz.com/presse/  e.g. https://group.mercedes-benz.com/presse/"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Lufthansa",
-  "url": "https://www.lufthansagroup.careers/de/jobsuche?searchTerm=praktikum",
-  "final": "https://www.lufthansagroup.careers/de/jobsuche?searchTerm=praktikum",
-  "title": "Lufthansa Group Careers",
-  "sigs": {
-   "beesite": [
-    "beesite"
-   ]
-  },
-  "links": [
-   "https://www.lufthansagroup.careers/de/404Page#jump-to-main-content",
-   "https://www.lufthansagroup.careers/de/404Page#jump-to-filters",
-   "https://www.lufthansagroup.careers/de/404Page#jump-to-navigation",
-   "https://www.lufthansagroup.careers/de/404Page#jump-to-bottom",
-   "https://apply.lufthansagroup.careers/index.php?&language=1",
-   "https://apply.lufthansagroup.careers/index.php?ac=logindata&language=1",
-   "https://www.lufthansagroup.careers/de",
-   "https://www.facebook.com/LufthansaGroupCareers",
-   "https://www.youtube.com/LufthansaGroupCareers",
-   "https://instagram.com/lufthansagroup.careers",
-   "https://www.tiktok.com/@lufthansagroupcareers",
-   "https://blog.lufthansagroup.careers/?pk_vid=ab411debab509ce31785771379c6a7d0",
-   "https://www.lufthansagroup.careers/de/datenschutz",
-   "https://www.lufthansagroup.careers/de/impressum",
-   "https://www.lufthansagroup.careers/de/nutzungsbedingungen",
-   "https://www.lufthansagroup.careers/de/faq",
-   "https://www.lufthansagroup.careers/de/404Page#jump-to-top"
-  ],
-  "error": null,
-  "patterns": [
-   "7x www.lufthansagroup.careers/de/\\d+Page  e.g. https://www.lufthansagroup.careers/de/404Page#jump-to-main-content"
-  ],
-  "jsons": [
-   "42 Treffer in https://api.lufthansagroup.careers/rest/get-objects-from-selected-tags/staticpage?cache=1790155137235 | keys=['linktext', 'maincontent', 'title', 'url'] | z.B. Datenschutzinformationen",
-   "42 Treffer in https://api.lufthansagroup.careers/rest/get-objects-from-selected-tags/staticpage?cache=1790155137235 | keys=['linktext', 'maincontent', 'title', 'url'] | z.B. Datenschutzinformationen"
-  ],
-  "api": []
- },
- {
-  "name": "Bolt",
-  "url": "https://bolt.eu/en/careers/positions/",
-  "final": "https://bolt.eu/en/careers/positions/",
-  "title": "Job openings | Bolt Careers",
+  "name": "Mitsubishi Electric",
+  "url": "https://www.mitsubishielectric.com/en/careers/",
+  "final": "https://www.mitsubishielectric.com/en/careers/",
+  "title": "Careers | MITSUBISHI ELECTRIC Global website",
   "sigs": {},
-  "links": [
-   "https://bolt.eu/careers/",
-   "https://bolt.sng.link/Epy3j/o5l4/8p88?paffn=%2Fen%2Fcareers%2Fpositions%2F&pscn=Rider&psn=Desktop&pscid=Navigation&psid=direct&lc=en",
-   "https://boltfood.sng.link/Euonx/l1jk/ruyy?paffn=%2Fen%2Fcareers%2Fpositions%2F&pscn=Food&psn=Desktop&pscid=Navigation&psid=direct&lc=en",
-   "https://bolt.eu/careers/teams/",
-   "https://bolt.eu/careers/locations/",
-   "https://bolt.eu/careers/life-at-bolt/",
-   "https://bolt.eu/careers/diversity-and-inclusion/",
-   "https://bolt.eu/careers/relocation/",
-   "https://bolt.eu/careers/positions/",
-   "https://bolt.eu/en/careers/positions/9b174ed7-41bf-4bdb-b443-a329d869de15/?tab=apply",
-   "https://bolt.eu/en/careers/positions/9b174ed7-41bf-4bdb-b443-a329d869de15/",
-   "https://bolt.eu/en/careers/positions/dc2ea9d9-0e7a-40ff-9d9f-a85f95a4a84d/?tab=apply",
-   "https://bolt.eu/en/careers/positions/dc2ea9d9-0e7a-40ff-9d9f-a85f95a4a84d/",
-   "https://bolt.eu/en/careers/positions/f72e3bf4-3eae-451e-9c44-88bbef5db753/?tab=apply",
-   "https://bolt.eu/en/careers/positions/f72e3bf4-3eae-451e-9c44-88bbef5db753/",
-   "https://bolt.eu/en/careers/positions/9455cd30-3d10-4b43-b70c-3115b7b12590/?tab=apply",
-   "https://bolt.eu/en/careers/positions/9455cd30-3d10-4b43-b70c-3115b7b12590/",
-   "https://bolt.eu/en/careers/positions/815e1eb0-51f6-4ba1-af7d-5371dcdffe2e/?tab=apply",
-   "https://bolt.eu/en/careers/positions/815e1eb0-51f6-4ba1-af7d-5371dcdffe2e/",
-   "https://bolt.eu/en/careers/positions/7d104dc7-6c9e-4cdb-9354-c2b4e04d3f28/?tab=apply",
-   "https://bolt.eu/en/careers/positions/7d104dc7-6c9e-4cdb-9354-c2b4e04d3f28/",
-   "https://bolt.eu/en/careers/positions/841e0865-d532-45e1-a40d-6d04b9d1e34a/?tab=apply",
-   "https://bolt.eu/en/careers/positions/841e0865-d532-45e1-a40d-6d04b9d1e34a/",
-   "https://bolt.eu/en/careers/positions/a551d417-3c2d-47d0-9066-1e61920e5a1a/?tab=apply",
-   "https://bolt.eu/en/careers/positions/a551d417-3c2d-47d0-9066-1e61920e5a1a/"
-  ],
+  "links": [],
   "error": null,
   "patterns": [
-   "8x bolt.eu/en/careers/positions/  e.g. https://bolt.eu/en/careers/positions/?",
-   "7x bolt.eu/en/support/  e.g. https://bolt.eu/en/support/",
-   "7x bolt.eu/en/support/categories/\\d+/  e.g. https://bolt.eu/en/support/categories/115000431394/",
-   "6x bolt.eu/en/plus/  e.g. https://bolt.eu/en/plus/",
-   "4x bolt.eu/en/scooters/safety-lab/  e.g. https://bolt.eu/en/scooters/safety-lab/"
+   "13x www.mitsubishielectric.com/en/careers/  e.g. https://www.mitsubishielectric.com/en/careers/#",
+   "4x www.mitsubishielectric.com/en/about/  e.g. https://www.mitsubishielectric.com/en/about/",
+   "4x www.mitsubishielectric.com/en/pr/  e.g. https://www.mitsubishielectric.com/en/pr/",
+   "3x www.mitsubishielectric.com/en/sustainability/  e.g. https://www.mitsubishielectric.com/en/sustainability/"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Google",
-  "url": "https://www.google.com/about/careers/applications/jobs/results/?q=intern",
-  "final": "https://www.google.com/about/careers/applications/jobs/results/?q=intern",
-  "title": "Search Jobs — Google Careers",
+  "name": "Kia",
+  "url": "https://www.kia.com/de/ueber-kia/karriere/",
+  "final": null,
+  "title": null,
   "sigs": {},
-  "links": [
-   "https://www.google.com/about/careers/applications/",
-   "https://www.google.com/about/careers/applications/?q=intern",
-   "https://www.google.com/about/careers/applications/jobs/results?q=intern",
-   "https://www.google.com/about/careers/applications/students?q=intern",
-   "https://www.google.com/about/careers/applications/teams?q=intern",
-   "https://www.google.com/about/careers/applications/how-we-hire?q=intern",
-   "https://www.google.com/about/careers/applications/dashboard?q=intern",
-   "https://support.google.com/googlecareers",
-   "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Fwww.google.com%2Fabout%2Fcareers%2Fapplications%2Fjobs%2Fresults%2F%3Fq%3Dintern&followup=https%3A%2F%2Fwww.google.com%2Fabout%2Fcareers%2Fapplications%2Fjobs%2Fresults%2F%3Fq%3Dintern&ec=GAZA6QE",
-   "https://www.google.com/about/careers/applications/jobs/recommendations?q=intern",
-   "https://www.google.com/about/careers/applications/jobs/saved?q=intern",
-   "https://www.google.com/about/careers/applications/jobs/alerts?q=intern",
-   "https://www.google.com/about/careers/applications/ai?q=intern",
-   "https://www.google.com/about/careers/applications/cloud?q=intern",
-   "https://www.google.com/about/careers/applications/youtube?q=intern",
-   "https://www.linkedin.com/company/google/jobs/",
-   "https://www.google.com/about/careers/applications/eeo/",
-   "https://careers.google.com/jobs/dist/legal/EEOC_KnowYourRights_10_20.pdf",
-   "https://careers.google.com/how-we-hire/",
-   "https://www.google.com/about/careers/applications/privacy-policy",
-   "https://support.google.com/googlecareers/#topic=6095159",
-   "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027?q=intern",
-   "https://www.google.com/about/careers/applications/jobs/results/121103710599160518-mba-intern-summer-2027?q=intern",
-   "https://www.google.com/about/careers/applications/jobs/results/110899190426411718-mba-intern-2027?q=intern",
-   "https://www.google.com/about/careers/applications/jobs/results/136529930677560006-silicon-engineering-intern-phd-summer-2027?q=intern"
-  ],
-  "error": null,
-  "patterns": [
-   "5x www.google.com/about/careers/applications/  e.g. https://www.google.com/about/careers/applications/",
-   "3x www.instagram.com/lifeatgoogle/  e.g. https://www.instagram.com/lifeatgoogle/",
-   "3x twitter.com/lifeatgoogle  e.g. https://twitter.com/lifeatgoogle",
-   "3x www.youtube.com/lifeatgoogle  e.g. https://www.youtube.com/lifeatgoogle",
-   "3x www.linkedin.com/company/google/jobs/  e.g. https://www.linkedin.com/company/google/jobs/"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "SAP",
-  "url": "https://jobs.sap.com/en/jobs/?q=intern",
-  "final": "https://jobs.sap.com/en/jobs/?q=intern",
-  "title": "Jobs | SAP Careers",
-  "sigs": {
-   "phenom": [
-    "/widgets"
-   ]
-  },
-  "links": [
-   "https://careers.sap.com/",
-   "https://jobs.sap.com/en/jobs/?q=intern#main-content",
-   "https://jobs.sap.com/en/",
-   "https://jobs.sap.com/en/jobs/",
-   "https://jobs.sap.com/en/students-and-graduates/",
-   "https://jobs.sap.com/en/blog/",
-   "https://jobs.sap.com/en/jobs/saved-jobs/",
-   "https://jobs.sap.com/en/jobs/744000159494177/project-principal-consultant-mfd/",
-   "https://jobs.sap.com/en/jobs/744000159493798/delivery-executive-west-market-unit/",
-   "https://jobs.sap.com/en/jobs/744000159461106/sap-concur-senior-solution-sales-executive-nationals/",
-   "https://jobs.sap.com/en/jobs/744000159461179/senior-security-devops-engineer/",
-   "https://jobs.sap.com/en/jobs/744000159456473/sap-concur-senior-solution-sales-executive-nationals/",
-   "https://jobs.sap.com/en/jobs/744000159455369/sap-concur-senior-solution-sales-executive-nationals/",
-   "https://jobs.sap.com/en/jobs/744000159452334/strategic-projects-ai-transformation-associate-temporary-contract/",
-   "https://jobs.sap.com/en/jobs/744000159422121/program-manager-west-market-unit/",
-   "https://jobs.sap.com/en/jobs/744000159423369/program-manager-west-market-unit/",
-   "https://jobs.sap.com/en/jobs/744000159422489/program-manager-west-market-unit/",
-   "https://jobs.sap.com/en/jobs/744000159421999/program-manager-west-market-unit/",
-   "https://jobs.sap.com/en/jobs/744000159418924/program-manager-west-market-unit/",
-   "https://careers.sap.com/en/lp/Talent_Community_HD/80497c2721276fd6/?locale=en_US?locale=en_US",
-   "https://jobs.sap.com/en/recruiting-scams-and-fraud/?locale=en_US",
-   "https://www.dremio.com/careers/job-postings/",
-   "https://www.reltio.com/careers/",
-   "https://www.smartrecruiterscareers.com/",
-   "https://taulia.com/company/careers/"
-  ],
-  "error": null,
-  "patterns": [
-   "12x jobs.sap.com/en/jobs/\\d+/[^/]+/  e.g. https://jobs.sap.com/en/jobs/744000159494177/project-principal-consultant-mfd/",
-   "4x jobs.sap.com/en/jobs/  e.g. https://jobs.sap.com/en/jobs/?q=intern#main-content",
-   "4x jobs.sap.com/en/[^/]+/  e.g. https://jobs.sap.com/en/students-and-graduates/"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "DHL",
-  "url": "https://careers.dhl.com/global/en/search-results?keywords=intern",
-  "final": "https://careers.dhl.com/global/en/search-results?keywords=intern",
-  "title": "Search Jobs at DHL | DHL Job Search Listings Worldwide",
-  "sigs": {
-   "phenom": [
-    "/widgets",
-    "cdn.phenompeople",
-    "phApp.",
-    "phenompeople.com"
-   ],
-   "avature": [
-    "dhlconsulting.avature.net",
-    "dpdhlgroup.avature.net"
-   ]
-  },
-  "links": [
-   "https://careers.dhl.com/global/en/search-results?keywords=intern#skipToMainContent",
-   "https://careers.dhl.com/home",
-   "https://careers.dhl.com/global/en/frontlineworkers",
-   "https://careers.dhl.com/global/en/c/delivery-jobs",
-   "https://careers.dhl.com/global/en/c/operations-jobs",
-   "https://careers.dhl.com/global/en/c/warehouse-and-package-handling-jobs",
-   "https://careers.dhl.com/global/en/officeworkers",
-   "https://careers.dhl.com/global/en/c/administration-jobs",
-   "https://careers.dhl.com/global/en/c/finance-and-controlling-jobs",
-   "https://careers.dhl.com/global/en/c/human-resources-jobs",
-   "https://careers.dhl.com/global/en/c/it-jobs",
-   "https://careers.dhl.com/global/en/c/sales-and-business-development-jobs",
-   "https://careers.dhl.com/global/en/students-graduates",
-   "https://careers.dhl.com/global/en/apprenticeships",
-   "https://careers.dhl.com/global/en/trainee-programs",
-   "https://careers.dhl.com/global/en/our-values",
-   "https://careers.dhl.com/global/en/working-with-dhl",
-   "https://careers.dhl.com/global/en/ecommercesolutions",
-   "https://careers.dhl.com/global/en/dhl-express/life-at-dhl-express",
-   "https://careers.dhl.com/global/en/globalforwardingfreight",
-   "https://careers.dhl.com/global/en/post-parcel",
-   "https://careers.dhl.com/global/en/supplychain",
-   "https://careers.dhl.com/global/en/search-results",
-   "https://careers.dhl.com/global/en/home",
-   "https://careers.dhl.com/global/en/jobcart"
-  ],
-  "error": null,
-  "patterns": [
-   "14x careers.dhl.com/global/en/search-results  e.g. https://careers.dhl.com/global/en/search-results?keywords=intern#skipToMainContent",
-   "14x void(0)  e.g. javascript:void(0)",
-   "9x careers.dhl.com/global/en/c/[^/]+  e.g. https://careers.dhl.com/global/en/c/warehouse-and-package-handling-jobs",
-   "4x careers.dhl.com/global/en/[^/]+  e.g. https://careers.dhl.com/global/en/working-with-dhl",
-   "4x careers.dhl.com/global/en/job/DPDHGLOBALAV\\d+ENGLOBALEXTERNAL/[^/]+  e.g. https://careers.dhl.com/global/en/job/DPDHGLOBALAV368788ENGLOBALEXTERNAL/Data-Analytics-and-Data-Catalog-Intern"
-  ],
-  "jsons": [
-   "4 Treffer in https://careers.dhl.com/widgets | keys=['addToCartSaveText', 'addToCartSavedText', 'applyNowText', 'category', 'closeAriaLabelText', 'clubName', 'department', 'descriptionTeaser', 'downArrowIcon', 'expiryDate', 'featuredJobText', 'filterJobsText', 'filterTotalJobs', 'jobDateFormat'] | z.B. Title",
-   "23 Treffer in https://careers.dhl.com/widgets | keys=['href', 'target', 'text', 'title', 'type'] | z.B. Terms Of Use",
-   "33 Treffer in https://content-ir.phenompeople.com/api/DPDHGLOBAL/getRegionLocales?locale=en_global&siteType=external&deviceType=desktop&payload=%7B%22ddoKey%22%3A%2 | keys=['displayName', 'id', 'isAvailableInMenu', 'isGroup', 'isSiteAvailable', 'language', 'languageDisplayName', 'languagePrimaryDisplayName', 'locale', 'locationDisplayName', 'locationPrimaryDisplayName', 'parentId', 'primaryDisplayName', 'siteUrl'] | z.B. 简体中文 (Simplified Chinese)"
-  ],
-  "api": []
- },
- {
-  "name": "Coles Group",
-  "url": "https://colescareers.com.au/au/en/search-results?keywords=intern",
-  "final": "https://colescareers.com.au/au/en/search-results?keywords=intern",
-  "title": "Search results | Find available job openings at Coles Group",
-  "sigs": {
-   "phenom": [
-    "/widgets",
-    "cdn.phenompeople",
-    "phApp.",
-    "phenompeople.com"
-   ]
-  },
-  "links": [
-   "https://colescareers.com.au/au/en/search-results?keywords=intern#skipToMainContent",
-   "https://colescareers.com.au/au/en/home",
-   "https://colescareers.com.au/au/en/store-teams-career-paths",
-   "https://colescareers.com.au/au/en/cfc",
-   "https://colescareers.com.au/au/en/corporate-career-paths",
-   "https://colescareers.com.au/au/en/distribution-manufacturing-career-paths",
-   "https://colescareers.com.au/au/en/talent-programs",
-   "https://colescareers.com.au/au/en/my-first-job",
-   "https://colescareers.com.au/au/en/our-recruitment-process",
-   "https://colescareers.com.au/au/en/culture",
-   "https://colescareers.com.au/au/en/benefits",
-   "https://colescareers.com.au/au/en/diversityandinclusion",
-   "https://colescareers.com.au/au/en/community-and-sustainability",
-   "https://colescareers.com.au/au/en/blog",
-   "https://colescareers.com.au/au/en/faq",
-   "https://colescareers.com.au/au/en/search-results",
-   "https://colescareers.com.au/au/en/jobcart",
-   "https://colescareers.com.au/au/en/cookiesettings",
-   "https://colescareers.com.au/au/en/jointalentcommunity",
-   "https://colescareers.com.au/",
-   "https://colescareers.com.au/au/en/emailpersonalinfo",
-   "https://colescareers.com.au/au/en/recruitment-scam"
-  ],
-  "error": null,
-  "patterns": [
-   "12x colescareers.com.au/au/en/[^/]+  e.g. https://colescareers.com.au/au/en/store-teams-career-paths",
-   "9x void(0)  e.g. javascript:void(0)",
-   "3x colescareers.com.au/au/en/search-results  e.g. https://colescareers.com.au/au/en/search-results?keywords=intern#skipToMainContent"
-  ],
-  "jsons": [
-   "3 Treffer in https://colescareers.com.au/widgets | keys=['addToCartSaveText', 'addToCartSavedText', 'applyNowText', 'category', 'closeAriaLabelText', 'clubName', 'department', 'descriptionTeaser', 'drivingTime', 'experience', 'experienceRequired', 'expiryDate', 'jobId', 'jobIdConnectingText'] | z.B. Title",
-   "27 Treffer in https://colescareers.com.au/widgets | keys=['_cid', 'link', 'position', 'title'] | z.B. Personal Information Request"
-  ],
-  "api": []
- },
- {
-  "name": "UniCredit",
-  "url": "https://careers.unicredit.eu/en_GB/jobsearch?keyword=intern",
-  "final": "https://careers.unicredit.eu/en_GB/jobsearch?keyword=intern",
-  "title": "Job Search | UniCredit",
-  "sigs": {},
-  "links": [
-   "https://careers.unicredit.eu/en_GB/jobsearch?keyword=intern#",
-   "https://careers.unicredit.eu/en_GB/jobsearch?keyword=intern#main",
-   "https://careers.unicredit.eu/en_GB/jobsearch",
-   "https://www.unicreditgroup.eu/en/careers/company-welfare.html",
-   "https://www.unicreditgroup.eu/en/careers/learning-and-development.html",
-   "https://www.unicreditgroup.eu/en/careers/compensation-and-benefits---.html",
-   "https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs",
-   "https://careers.unicredit.eu/en_GB/jobsearch/TalentCommunity",
-   "https://careers.unicredit.eu/en_GB/jobsearch/Login?keyword=intern",
-   "https://careers.unicredit.eu/de_DE/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/en_GB/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/hr_HR/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/it_IT/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/hu_HU/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/pl_PL/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/ro_RO/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/sr_RS/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/sl_SI/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/sk_SK/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/bs_BA/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/cs_CZ/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/bg_BG/jobsearch?keyword=intern",
-   "https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs/?jobRecordsPerPage=15&jobOffset=15",
-   "https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs/?jobRecordsPerPage=15&jobOffset=30",
-   "https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs/?jobRecordsPerPage=15&jobOffset=45"
-  ],
-  "error": null,
-  "patterns": [
-   "30x www.facebook.com/sharer/sharer.php  e.g. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcareers.unicredit.eu%2Fen_GB%2Fjobsearch%2FJobDetail%2F34188&display=popup",
-   "30x careers.unicredit.eu/_linkedinApiv2  e.g. https://careers.unicredit.eu/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.unicredit.eu%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers.unicredit.eu%2Fen_GB%2Fjobsearch%2FJobDetail%2F34188",
-   "30x twitter.com/intent/tweet  e.g. http://twitter.com/intent/tweet?url=https%3A%2F%2Fcareers.unicredit.eu%2Fen_GB%2Fjobsearch%2FJobDetail%2F34188&text=%D0%A1%D1%82%D0%B0%D1%80%D1%88%D0%B8+%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D0%BD+%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D1%82+%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%2C+%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B5%D0%BD+%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D1%87%D0%B5%D0%BD+%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80",
-   "30x www.xing.com/spi/shares/new  e.g. https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fcareers.unicredit.eu%2Fen_GB%2Fjobsearch%2FJobDetail%2F34188",
-   "15x careers.unicredit.eu/en_GB/jobsearch/ApplicationMethods  e.g. https://careers.unicredit.eu/en_GB/jobsearch/ApplicationMethods?jobId=34188"
-  ],
-  "jsons": [
-   "3 Treffer in https://careers.unicredit.eu/4/_portalCookieUserConsent?method=getAll | keys=['canBeDisabled', 'description', 'id', 'isBuiltin', 'isEnabled', 'languageId', 'name', 'sortOrder', 'variableName'] | z.B. Essential"
-  ],
-  "api": []
- },
- {
-  "name": "HSBC",
-  "url": "https://mycareer.hsbc.com/en_GB/external/SearchJobs?keyword=intern",
-  "final": "https://mycareer.hsbc.com/en_GB/external/SearchJobs?keyword=intern",
-  "title": "Job Search | HSBC Group",
-  "sigs": {},
-  "links": [
-   "https://mycareer.hsbc.com/en_GB/external/SearchJobs?keyword=intern#main",
-   "https://mycareer.hsbc.com/en_GB/external/Speedbump?url=headerLink_logo",
-   "https://mycareer.hsbc.com/en_GB/external/SearchJobs",
-   "https://mycareer.hsbc.com/en_GB/external/Speedbump?url=headerLink_earlyCareers",
-   "https://mycareer.hsbc.com/en_GB/external/Speedbump?url=headerLink_whereWeHire",
-   "https://mycareer.hsbc.com/en_GB/external/ContactCreate",
-   "https://mycareer.hsbc.com/en_GB/external/Speedbump?url=headerLink_contacts",
-   "https://mycareer.hsbc.com/en_GB/external/Speedbump?url=headerLink_profile",
-   "https://mycareer.hsbc.com/en_GB/external/SearchJobs?keyword=intern#",
-   "https://mycareer.hsbc.com/en_GB/external/SearchJobs?keyword=intern",
-   "https://mycareer.hsbc.com/es_ES/external/SearchJobs?keyword=intern",
-   "https://mycareer.hsbc.com/fr_CA/external/SearchJobs?keyword=intern",
-   "https://mycareer.hsbc.com/fr_FR/external/SearchJobs?keyword=intern",
-   "https://mycareer.hsbc.com/zh_CN/external/SearchJobs?keyword=intern",
-   "https://portal.careers.hsbc.com/careers",
-   "https://mycareer.hsbc.com/en_GB/talentcommunity",
-   "https://mycareer.hsbc.com/jobrecommendations/",
-   "https://mycareer.hsbc.com/en_GB/external/SearchJobs?scrollToJobsSection=true",
-   "https://mycareer.hsbc.com/en_GB/external/RecentlyViewedJobsPopup",
-   "https://mycareer.hsbc.com/en_GB/external/PipelineDetail/GSC-Senior-Developer-Relations-Engineer/288707",
-   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmycareer.hsbc.com%2Fen_GB%2Fexternal%2FPipelineDetail%2FGSC-Senior-Developer-Relations-Engineer%2F288707&display=popup",
-   "http://twitter.com/intent/tweet?url=https%3A%2F%2Fmycareer.hsbc.com%2Fen_GB%2Fexternal%2FPipelineDetail%2FGSC-Senior-Developer-Relations-Engineer%2F288707&text=GSC%3A+Senior+Developer+Relations+Engineer",
-   "https://mycareer.hsbc.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fmycareer.hsbc.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fmycareer.hsbc.com%2Fen_GB%2Fexternal%2FPipelineDetail%2FGSC-Senior-Developer-Relations-Engineer%2F288707",
-   "https://mycareer.hsbc.com/en_GB/external/Speedbump?url=socialLink_twitter",
-   "https://mycareer.hsbc.com/en_GB/external/Speedbump?url=socialLink_linkedIn"
-  ],
-  "error": null,
-  "patterns": [
-   "11x mycareer.hsbc.com/en_GB/external/Speedbump  e.g. https://mycareer.hsbc.com/en_GB/external/Speedbump?url=headerLink_logo",
-   "6x mycareer.hsbc.com/en_GB/external/SearchJobs  e.g. https://mycareer.hsbc.com/en_GB/external/SearchJobs?keyword=intern#main"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "UBS",
-  "url": "https://www.ubs.com/global/en/careers/search-jobs.html",
-  "final": "https://www.ubs.com/global/en/careers/search-jobs.html",
-  "title": "Search jobs | UBS Global",
-  "sigs": {},
-  "links": [
-   "https://www.ubs.com/global/en/careers/search-jobs.html#pagehead-id",
-   "https://www.ubs.com/global/en/careers/search-jobs.html#mainnavigation",
-   "https://www.ubs.com/global/en/careers.html",
-   "https://www.ubs.com/global/en/careers/search-jobs.html",
-   "https://www.ubs.com/global/de/careers/search-jobs.html",
-   "https://www.ubs.com/global/fr/careers/search-jobs.html",
-   "https://www.ubs.com/global/it/careers/search-jobs.html",
-   "https://www.ubs.com/global/en/careers/about-us.html",
-   "https://www.ubs.com/global/en/careers/professional-careers.html",
-   "https://www.ubs.com/global/en/careers/early-careers.html",
-   "https://www.ubs.com/global/en/careers/apprenticeships.html",
-   "https://www.ubs.com/global/en/careers/apprenticeships/che.html",
-   "https://www.ubs.com/global/en/careers/apprenticeships/che/banking.html",
-   "https://www.ubs.com/global/en/careers/apprenticeships/che/ict.html",
-   "https://www.ubs.com/global/en/careers/apprenticeships/che/bem.html",
-   "https://www.ubs.com/global/en/careers/apprenticeships/che/way-up.html",
-   "https://www.ubs.com/global/en/careers/apprenticeships/gbr.html",
-   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkquery&LinkID=15231",
-   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232",
-   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5054&PageType=searchResults&SearchType=linkquery&LinkID=15233",
-   "https://www.ubs.com/global/en/careers/search-jobs/faq.html",
-   "https://www.ubs.com/global/en/careers/search-jobs/support/request-due-to-adjustment-and-accommodation.html",
-   "https://www.ubs.com/global/en/careers/search-jobs.html#doc"
-  ],
-  "error": null,
-  "patterns": [
-   "6x www.ubs.com/global/en/careers/search-jobs.html  e.g. https://www.ubs.com/global/en/careers/search-jobs.html#pagehead-id",
-   "4x www.ubs.com/global/en/careers.html  e.g. https://www.ubs.com/global/en/careers.html",
-   "3x www.ubs.com/global/en/ubs-logins/[^/]+  e.g. https://www.ubs.com/global/en/ubs-logins/ubs-logins-mobile.html",
-   "3x jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad  e.g. https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkquery&LinkID=15231"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Tencent",
-  "url": "https://careers.tencent.com/en-us/search.html?query=intern",
-  "final": "https://careers.tencent.com/en-us/search.html?query=intern",
-  "title": "Search | Tencent Careers",
-  "sigs": {},
-  "links": [
-   "https://careers.tencent.com/en-us/blog.html",
-   "https://careers.tencent.com/en-us/search.html?query=intern",
-   "https://careers.tencent.com/en-us/termsservice.html",
-   "https://careers.tencent.com/en-us/policy.html"
-  ],
-  "error": null,
-  "patterns": [
-   "10x careers.tencent.com/en-us/search.html  e.g. https://careers.tencent.com/en-us/search.html?query=intern",
-   "6x void(0)  e.g. javascript:void(0)"
-  ],
-  "jsons": [
-   "10 Treffer in https://careers.tencent.com/tencentcareer/api/post/Query?timestamp=1793740422304&countryId=&cityId=&bgIds=&productId=&categoryId=&parentCategoryId=&at | keys=['BGName', 'CategoryName', 'ComCode', 'ComName', 'CountryName', 'Id', 'IsCollect', 'IsValid', 'LastUpdateTime', 'LocationName', 'PostId', 'PostURL', 'ProductName', 'RecruitPostId'] | z.B. Network Procurement Business Manager"
-  ],
-  "api": []
- },
- {
-  "name": "KPMG",
-  "url": "https://jobs.kpmg.de/?q=praktikum",
-  "final": "https://jobs.kpmg.de/?q=praktikum&currentPage=1&pageSize=10",
-  "title": "Jobs | KPMG | DE - KPMG Global",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu",
-    "rmkcdn.successfactors.com"
-   ]
-  },
-  "links": [
-   "https://jobs.kpmg.de/?q=praktikum&currentPage=1&pageSize=10#content",
-   "https://jobs.kpmg.de/",
-   "https://jobs.kpmg.de/?q=praktikum&currentPage=1&pageSize=10#",
-   "https://jobs.kpmg.de/?q=praktikum&locale=de_DE",
-   "https://jobs.kpmg.de/?q=praktikum&locale=en_US",
-   "https://home.kpmg/de/de/home/misc/privacy-karriere.html",
-   "https://jobs.kpmg.de/content/profile/?locale=de_DE",
-   "https://jobs.kpmg.de/job-invite/483/?locale=de_DE",
-   "https://jobs.kpmg.de/job-invite/11790/?locale=de_DE",
-   "https://jobs.kpmg.de/job-invite/12887/?locale=de_DE",
-   "https://jobs.kpmg.de/job-invite/11201/?locale=de_DE",
-   "https://jobs.kpmg.de/job-invite/4922/?locale=de_DE",
-   "https://jobs.kpmg.de/job-invite/508/?locale=de_DE",
-   "https://jobs.kpmg.de/job-invite/3101/?locale=de_DE",
-   "https://jobs.kpmg.de/job-invite/13012/?locale=de_DE",
-   "https://jobs.kpmg.de/job-invite/13014/?locale=de_DE",
-   "https://jobs.kpmg.de/job-invite/13011/?locale=de_DE",
-   "https://home.kpmg/de/de/home/karriere/karriere-events.html",
-   "https://jobs.kpmg.de/content/profile/",
-   "https://www.facebook.com/KPMGKarriereDeutschland/",
-   "https://www.instagram.com/kpmgkarrieredeutschland/?hl=de",
-   "https://www.linkedin.com/showcase/kpmg-in-deutschland-karriere",
-   "https://home.kpmg/de/de/home/karriere/bewerben/faqs-bewerbung.html"
-  ],
-  "error": null,
-  "patterns": [
-   "10x jobs.kpmg.de/job-invite/\\d+/  e.g. https://jobs.kpmg.de/job-invite/483/?locale=de_DE",
-   "4x jobs.kpmg.de/content/profile/  e.g. https://jobs.kpmg.de/content/profile/?locale=de_DE",
-   "3x home.kpmg/de/de/home/misc/privacy-karriere.html  e.g. https://home.kpmg/de/de/home/misc/privacy-karriere.html"
-  ],
-  "jsons": [
-   "10 Treffer in https://production.api.recruiting-solutions.org/search | keys=['addresses', 'benefits', 'brand', 'categories', 'contractTypes', 'datePosted', 'description', 'hiringOrganisation', 'id', 'isActive', 'isFeatured', 'isInternal', 'jobFunctions', 'jobId'] | z.B. Assistenz in Vollzeit (w/m/d)",
-   "350 Treffer in https://production.api.recruiting-solutions.org/search | keys=['addresses', 'benefits', 'brand', 'categories', 'contractTypes', 'datePosted', 'description', 'hiringOrganisation', 'id', 'isActive', 'isFeatured', 'isInternal', 'jobFunctions', 'jobId'] | z.B. Assistenz in Vollzeit (w/m/d)"
-  ],
-  "api": []
- },
- {
-  "name": "Telekom",
-  "url": "https://careers.telekom.com/de/jobs?keywords=praktikum",
-  "final": "https://careers.telekom.com/de/jobs?keywords=praktikum",
-  "title": "Globale Jobsuche | Deutsche Telekom Konzern | Global Career Website",
-  "sigs": {
-   "eightfold": [
-    "telekom-deu.eightfold.ai/careers/join?hl=de\\",
-    "telekom-deu.eightfold.ai/careers/join?hl=en\\"
-   ]
-  },
-  "links": [
-   "https://careers.telekom.com/de/jobs?keywords=praktikum#main-content",
-   "https://careers.telekom.com/de/jobs?keywords=praktikum#footer",
-   "https://careers.telekom.com/de",
-   "https://careers.telekom.com/de/what-we-work-on/",
-   "https://careers.telekom.com/de/where-we-are/",
-   "https://careers.telekom.com/de/how-we-work/",
-   "https://careers.telekom.com/de/early-careers/",
-   "https://careers.telekom.com/de/blog/",
-   "https://careers.telekom.com/de/jobs",
-   "https://careers.telekom.com/de/jobs/pricing-analyst-m-f-d-744000059943985",
-   "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321329",
-   "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-at-deutsche-telekom-321621",
-   "https://careers.telekom.com/de/jobs/executive-network-operations-manager-m-f-d-for-industrial-ai-cloud-744000158456684",
-   "https://careers.telekom.com/de/jobs/apprenticeship-retail-management-assistant-m-f-d-312334",
-   "https://careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312847",
-   "https://careers.telekom.com/de/jobs/senior-sap-cash-management-expert-m-f-d-x-744956",
-   "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-321293",
-   "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-commercial-specialist-for-it-system-management-322258",
-   "https://careers.telekom.com/de/jobs/consultant-m-f-d-at-t-mobile-company-store-in-koobrzeg-3580641",
-   "https://careers.telekom.com/de/jobs/apprenticeship-retail-management-assistant-m-f-d-312435",
-   "https://careers.telekom.com/de/jobs/strategic-senior-account-manager-telecommunications-technology-m-f-d-563465374876037",
-   "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321421",
-   "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-at-deutsche-telekom-321544",
-   "https://careers.telekom.com/de/jobs/senior-test-environment-support-consultant-m-f-d-3583701",
-   "https://careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312834"
-  ],
-  "error": null,
-  "patterns": [
-   "4x careers.telekom.com/de/jobs  e.g. https://careers.telekom.com/de/jobs?keywords=praktikum#main-content",
-   "3x careers.telekom.com/de/[^/]+/  e.g. https://careers.telekom.com/de/what-we-work-on/",
-   "3x careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-\\d+  e.g. https://careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312847"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Munich Re",
-  "url": "https://careers.munichre.com/de/jobsuche?search=praktikum",
-  "final": "https://careers.munichre.com/de/jobsuche?search=praktikum",
-  "title": "Nach einer Stellenanzeige bei ERGO | Munich Re | MEAG suchen",
-  "sigs": {
-   "radancy": [
-    "radancy"
-   ]
-  },
-  "links": [
-   "https://careers.munichre.com/de/jobsuche?search=praktikum#content",
-   "https://careers.munichre.com/de/jobsuche?search=praktikum#search-results-list",
-   "https://careers.munichre.com/de/jobsuche?search=praktikum#search-filters",
-   "https://careers.munichre.com/de/",
-   "https://careers.munichre.com/de/jobsuche?search=praktikum#",
-   "https://careers.munichre.com/en/search_jobs?search=praktikum",
-   "https://careers.munichre.com/de/jobsuche?search=praktikum",
-   "https://careers.munichre.com/de/jobsuche?search=praktikum#job-alert-section",
-   "https://careers.munichre.com/de/saved-jobs",
-   "https://careers.munichre.com/de/munichre-suchergebnis",
-   "https://careers.munichre.com/de/stellenbeschreibung/solingen/solingen-ausbildung-kaufleute-m-w-d-fur-versicherungen-und-finanzanlagen-agentur-omeragic/3194/46597710464",
-   "https://careers.munichre.com/de/stellenbeschreibung/hagen-am-teutoburger-wald/hagen-ausbildung-kaufleute-m-w-d-fur-versicherungen-und-finanzanlagen-agentur-steffen/3194/46596381248",
-   "https://careers.munichre.com/de/stellenbeschreibung/munchen/it-project-manager-m-f-d/3342/46591294272",
-   "https://careers.munichre.com/de/stellenbeschreibung/ansbach/quereinsteiger-im-vertrieb/3193/46591135616",
-   "https://careers.munichre.com/de/stellenbeschreibung/dusseldorf/working-student-actuarial-systems-and-data-m-f-d/3382/46590279040",
-   "https://careers.munichre.com/de/stellenbeschreibung/amberg/quereinsteiger-im-vertrieb/3193/46590241600",
-   "https://careers.munichre.com/de/stellenbeschreibung/zirndorf/quereinsteiger-im-vertrieb/3193/46590241536",
-   "https://careers.munichre.com/de/stellenbeschreibung/singapur/senior-actuarial-analyst/3342/46586808640",
-   "https://careers.munichre.com/de/stellenbeschreibung/sudkorea/actuarial-intern/3342/46584666624",
-   "https://careers.munichre.com/de/stellenbeschreibung/dusseldorf/werkstudent-datenschutz-m-w-d/3382/29336788288",
-   "https://careers.munichre.com/de/stellenbeschreibung/diepholz/kundenberater-im-vertrieb/3193/46366688576",
-   "https://careers.munichre.com/de/stellenbeschreibung/princeton/senior-data-engineer/3342/46569144512",
-   "https://careers.munichre.com/de/stellenbeschreibung/london/global-longevity-development-actuary-pricing-lead/3342/46565409472",
-   "https://careers.munichre.com/de/stellenbeschreibung/london/pricing-actuary/3342/45014432896",
-   "https://careers.munichre.com/de/stellenbeschreibung/london/senior-actuarial-analyst-longevity-pricing/3342/42889988992"
-  ],
-  "error": null,
-  "patterns": [
-   "6x careers.munichre.com/de/jobsuche  e.g. https://careers.munichre.com/de/jobsuche?search=praktikum#content"
-  ],
-  "jsons": [
-   "27 Treffer in https://sidebar.bugherd.com/sidebar/resources?apikey=6ytt8h1mmgmttwnjtzvqea | keys=['active', 'active_count', 'archived_at', 'created_at', 'deleted_at', 'id', 'inactive_count', 'name', 'project_id', 'task_count', 'updated_at'] | z.B. MEAG Creative"
-  ],
-  "api": []
- },
- {
-  "name": "ING",
-  "url": "https://careers.ing.com/en/search-jobs?k=intern",
-  "final": "https://careers.ing.com/en/search-jobs?k=intern",
-  "title": "Search our jobs | Working at ING",
-  "sigs": {
-   "radancy": [
-    "radancy",
-    "tbcdn.talentbrew.com"
-   ]
-  },
-  "links": [
-   "https://careers.ing.com/en/search-jobs?k=intern#content",
-   "https://careers.ing.com/en",
-   "https://careers.ing.com/en/search-jobs",
-   "https://careers.ing.com/en/about-ing",
-   "https://careers.ing.com/en/working-at-ing",
-   "https://careers.ing.com/en/diversity-inclusion-belonging",
-   "https://careers.ing.com/en/expertise-teams",
-   "https://careers.ing.com/en/early-careers",
-   "https://careers.ing.com/en/locations",
-   "https://careers.ing.com/en/events",
-   "https://careers.ing.com/en/saved-jobs",
-   "https://careers.ing.com/en/search-jobs?k=intern",
-   "https://careers.ing.com/nl/vacatures-zoeken?k=intern",
-   "https://careers.ing.com/de/jobsuche?k=intern",
-   "https://careers.ing.com/fr/recherche-d'offres?k=intern",
-   "https://careers.ing.com/es/buscar-trabajo?k=intern",
-   "https://careers.ing.com/it/lavori-di-ricerca?k=intern",
-   "https://careers.ing.com/ro",
-   "https://careers.ing.com/pl/szukanie-pracy?k=intern",
-   "https://careers.ing.com/en/job/brussels/hr-communication-intern/3121/45930008960",
-   "https://careers.ing.com/en/job/singapore/intern-hr-operations/3121/46008155648",
-   "https://careers.ing.com/en/job/singapore/intern-rates-trading/3121/46162965376",
-   "https://careers.ing.com/en/job/singapore/intern-global-research/3121/45954099776",
-   "https://careers.ing.com/en/job/singapore/intern-compliance-singapore/3121/45954100096",
-   "https://careers.ing.com/en/job/singapore/intern-compliance-regional/3121/45954098816"
-  ],
-  "error": null,
-  "patterns": [
-   "24x careers.ing.com/en/job/singapore/[^/]+/\\d+/\\d+  e.g. https://careers.ing.com/en/job/singapore/intern-hr-operations/3121/46008155648",
-   "6x careers.ing.com/en/job/brussels/[^/]+/\\d+/\\d+  e.g. https://careers.ing.com/en/job/brussels/hr-communication-intern/3121/45930008960",
-   "4x careers.ing.com/en/search-jobs  e.g. https://careers.ing.com/en/search-jobs?k=intern#content",
-   "4x careers.ing.com/en/[^/]+  e.g. https://careers.ing.com/en/working-at-ing"
-  ],
-  "jsons": [
-   "13 Treffer in https://sidebar.bugherd.com/sidebar/resources?apikey=6d6ra2droxxmeejg0qjrhq | keys=['active', 'active_count', 'archived_at', 'created_at', 'deleted_at', 'id', 'inactive_count', 'name', 'project_id', 'task_count', 'updated_at'] | z.B. Back-End"
-  ],
-  "api": []
- },
- {
-  "name": "Ryanair",
-  "url": "https://careers.ryanair.com/jobs/",
-  "final": "https://careers.ryanair.com/jobs/",
-  "title": "Jobs – Careers",
-  "sigs": {
-   "successfactors": [
-    "career2.successfactors.eu/career?career_company=ryanairdac&amp;lang=en_GB&amp;company=ryanairdac&amp;site=&amp;loginFlowRequired=true",
-    "career2.successfactors.eu/career?career_company=ryanairdac&lang=en_GB&company=ryanairdac&site=&loginFlowRequired=true"
-   ]
-  },
-  "links": [
-   "https://careers.ryanair.com/",
-   "https://careers.ryanair.com/jobs/",
-   "https://jobs.ryanair.com/lp/Talent%20Pool%20Form/7a2f968a7c36fbd8/?locale=en_GB&previewLink=true&overrideEmployeeLogin=false&referrerSave=false",
-   "https://career2.successfactors.eu/career?career_company=ryanairdac&lang=en_GB&company=ryanairdac&site=&loginFlowRequired=true",
-   "https://careers.ryanair.com/pilots/login/",
-   "https://careers.ryanair.com/cabin-crew/",
-   "https://careers.ryanair.com/pilots",
-   "https://careers.ryanair.com/pilots/become-a-pilot",
-   "https://careers.ryanair.com/pilots/cadets/",
-   "https://careers.ryanair.com/pilots/direct-entry-pilots/",
-   "https://careers.ryanair.com/pilots/meet-captain-drew/",
-   "https://careers.ryanair.com/pilots/jobs/",
-   "https://careers.ryanair.com/engineering/",
-   "https://careers.ryanair.com/engineering/engineering-training/",
-   "https://careers.ryanair.com/engineering/line-maintenance/",
-   "https://careers.ryanair.com/engineering/heavy-maintenance/",
-   "https://careers.ryanair.com/engineering/sim-engineering/",
-   "https://careers.ryanair.com/engineering/office-jobs",
-   "https://careers.ryanair.com/office-jobs/",
-   "https://careers.ryanair.com/office-jobs/hr/",
-   "https://careers.ryanair.com/office-jobs/customer-service/",
-   "https://careers.ryanair.com/office-jobs/legal/",
-   "https://careers.ryanair.com/office-jobs/digital-experience/",
-   "https://careers.ryanair.com/office-jobs/sales-marketing/",
-   "https://careers.ryanair.com/office-jobs/commercial/"
-  ],
-  "error": null,
-  "patterns": [
-   "55x careers.ryanair.com/jobs/  e.g. https://careers.ryanair.com/jobs/",
-   "20x careers.ryanair.com/jobs/[^/]+/  e.g. https://careers.ryanair.com/jobs/cat-a-licensed-mechanic-luton-airport/",
-   "8x careers.ryanair.com/[^/]+/[^/]+/  e.g. https://careers.ryanair.com/it-travel-labs/ryanair-labs-portugal/",
-   "4x careers.ryanair.com/pilots/login/  e.g. https://careers.ryanair.com/pilots/login/",
-   "4x careers.ryanair.com/pilots/[^/]+/  e.g. https://careers.ryanair.com/pilots/direct-entry-pilots/"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Ferrero",
-  "url": "https://www.ferrerocareers.com/int/en/jobs?keywords=intern",
-  "final": "https://www.ferrerocareers.com/int/en/jobs?keywords=intern",
-  "title": "Find your next job",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu/careers?company=ferreroint&amp;lang=en_US&amp;clientId=jobs2web&amp;jobPipeline=Direct&amp;navBarLevel=MY_PROFILE",
-    "career5.successfactors.eu/careers?company=ferreroint&amp;lang=en_us&amp;clientid=jobs2web&amp;jobpipeline=direct&amp;navbarlevel=my_profile$login",
-    "career5.successfactors.eu/careers?company=ferreroint&lang=en_US&clientId=jobs2web&jobPipeline=Direct&navBarLevel=MY_PROFILE"
-   ]
-  },
-  "links": [
-   "https://www.ferrerocareers.com/int/en/jobs?keywords=intern#main-content",
-   "https://www.ferrerocareers.com/int/en",
-   "https://www.ferrerocareers.com/int/en/ferrero-unwrapped",
-   "https://www.ferrerocareers.com/int/en/grow-at-ferrero",
-   "https://www.ferrerocareers.com/int/en/our-companies-and-brands",
-   "https://www.ferrerocareers.com/int/en/behind-the-scenes",
-   "https://www.ferrerocareers.com/int/en/ferrero-university",
-   "https://www.ferrerocareers.com/int/en/teams",
-   "https://www.ferrerocareers.com/int/en/teams/research-development",
-   "https://www.ferrerocareers.com/int/en/teams/procurement",
-   "https://www.ferrerocareers.com/int/en/teams/integrated-supply-chain",
-   "https://www.ferrerocareers.com/int/en/teams/csr-and-sustainability",
-   "https://www.ferrerocareers.com/int/en/teams/engineering-industrial-development",
-   "https://www.ferrerocareers.com/int/en/teams/finance-administration-and-control",
-   "https://www.ferrerocareers.com/int/en/teams/quality",
-   "https://www.ferrerocareers.com/int/en/teams/hazelnut-company",
-   "https://www.ferrerocareers.com/int/en/teams/information-technology",
-   "https://www.ferrerocareers.com/int/en/teams/institutional-affairs-corporate-communications",
-   "https://www.ferrerocareers.com/int/en/teams/legal",
-   "https://www.ferrerocareers.com/int/en/teams/manufacturing",
-   "https://www.ferrerocareers.com/int/en/teams/marketing",
-   "https://www.ferrerocareers.com/int/en/teams/people-organization",
-   "https://www.ferrerocareers.com/int/en/teams/retail",
-   "https://www.ferrerocareers.com/int/en/teams/sales",
-   "https://www.ferrerocareers.com/int/en/teams/strategy-and-ma"
-  ],
-  "error": null,
-  "patterns": [
-   "14x www.ferrerocareers.com/int/en/jobs  e.g. https://www.ferrerocareers.com/int/en/jobs?keywords=intern#main-content",
-   "11x www.ferrerocareers.com/int/en/jobs/[^/]+  e.g. https://www.ferrerocareers.com/int/en/jobs/rto-production-supervisor",
-   "8x www.ferrerocareers.com/int/en/[^/]+  e.g. https://www.ferrerocareers.com/int/en/grow-at-ferrero",
-   "7x www.ferrerocareers.com/int/en/teams/[^/]+  e.g. https://www.ferrerocareers.com/int/en/teams/integrated-supply-chain",
-   "3x www.ferrerocareers.com/int/en/ferrero-unwrapped  e.g. https://www.ferrerocareers.com/int/en/ferrero-unwrapped"
-  ],
+  "links": [],
+  "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.kia.com/de/ueber-kia/karriere/\", waiting until \"domcontentloaded\"\n",
+  "patterns": [],
   "jsons": [],
   "api": []
  },
@@ -1847,10 +607,7 @@
   "title": "Careers | Fletcher Building",
   "sigs": {},
   "links": [
-   "https://fletcherbuilding.com/careers",
-   "https://fletcherbuilding.com/careers#",
-   "https://careers.fbcareers.com/careers/SearchJobs/",
-   "https://careers.fbcareers.com/careers/Login"
+   "https://careers.fbcareers.com/careers/SearchJobs/"
   ],
   "error": null,
   "patterns": [
@@ -1864,25 +621,50 @@
   "api": []
  },
  {
-  "name": "Wesfarmers",
-  "url": "https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers",
-  "final": "https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers",
-  "title": "Working at Wesfarmers",
+  "name": "H&M",
+  "url": "https://hmgroup.com/careers/",
+  "final": "https://hmgroup.com/wp-content/uploads/2022/01/careers.jpg",
+  "title": "careers.jpg (1280×720)",
   "sigs": {},
-  "links": [
-   "https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers#",
-   "https://www.wesfarmers.com.au/util/careers",
-   "https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers",
-   "https://www.wesfarmers.com.au/util/careers/current-opportunities"
-  ],
+  "links": [],
   "error": null,
-  "patterns": [
-   "11x www.wesfarmers.com.au/sustainability/fy\\d+  e.g. https://www.wesfarmers.com.au/sustainability/fy2025",
-   "6x www.wesfarmers.com.au/[^/]+/[^/]+  e.g. https://www.wesfarmers.com.au/who-we-are/who-we-are",
-   "3x www.wesfarmers.com.au/investor-centre  e.g. https://www.wesfarmers.com.au/investor-centre",
-   "3x www.wesfarmers.com.au/investor-centre/[^/]+/[^/]+  e.g. https://www.wesfarmers.com.au/investor-centre/company-performance-news/delivering-our-objective",
-   "3x www.wesfarmers.com.au/sustainability  e.g. https://www.wesfarmers.com.au/sustainability"
-  ],
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "LVMH",
+  "url": "https://www.lvmh.com/en/join-us/our-job-offers",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lvmh.com/en/join-us/our-job-offers\nCall log:\n  - navigating to \"https://www.lvmh.com/en/join-us/our-job-offers\", waiting until \"domcontentloaded",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "BNP Paribas",
+  "url": "https://group.bnpparibas/en/careers/all-job-offers",
+  "final": "https://group.bnpparibas/en/careers/all-job-offers",
+  "title": "Access Denied",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Panasonic",
+  "url": "https://careers.panasonic.eu/",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.panasonic.eu/\nCall log:\n  - navigating to \"https://careers.panasonic.eu/\", waiting until \"domcontentloaded\"\n",
+  "patterns": [],
   "jsons": [],
   "api": []
  },
@@ -1892,24 +674,7 @@
   "final": "https://careers.walmart.com/us/en/results?q=intern",
   "title": "Results",
   "sigs": {},
-  "links": [
-   "https://careers.walmart.com/us/en/results?q=intern#main-content",
-   "https://careers.walmart.com/us/en/home",
-   "https://careers.walmart.com/content/careers/us/en/home/careers-areas/Military",
-   "https://careers.walmart.com/us/en/results?q=intern",
-   "https://careers.walmart.com/content/careers/us/en/home/careers-areas/stores-and-clubs",
-   "https://careers.walmart.com/content/careers/us/en/home/careers-areas/supply-chain-and-transportation",
-   "https://careers.walmart.com/content/careers/us/en/home/careers-areas/healthcare",
-   "https://careers.walmart.com/content/careers/us/en/home/careers-areas/technology",
-   "https://careers.walmart.com/content/careers/us/en/home/careers-areas/corporate",
-   "https://careers.walmart.com/content/careers/us/en/home",
-   "https://careers.walmart.com/content/careers/us/en/sams-home",
-   "https://careers.walmart.com/content/careers/us/en/home/vizio",
-   "https://careers.walmart.com/content/careers/us/en/home/resources/hiring-process",
-   "https://careers.walmart.com/content/careers/us/en/home/resources/location",
-   "https://cms.careers.walmart.com/content/dam/careers/federal-employment-laws/applicant-rights-under-federal-employment-laws.pdf",
-   "https://careers.walmart.com/content/careers/us/en/home/resources/terms-and-conditions"
-  ],
+  "links": [],
   "error": null,
   "patterns": [
    "4x careers.walmart.com/us/en/results  e.g. https://careers.walmart.com/us/en/results?q=intern#main-content",
@@ -1924,88 +689,6 @@
   "api": []
  },
  {
-  "name": "Honda",
-  "url": "https://www.honda.de/karriere.html",
-  "final": "https://www.honda.de/karriere.html",
-  "title": "Leider ist ein Fehler aufgetreten",
-  "sigs": {},
-  "links": [],
-  "error": null,
-  "patterns": [],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Mitsubishi Electric",
-  "url": "https://www.mitsubishielectric.com/en/careers/",
-  "final": "https://www.mitsubishielectric.com/en/careers/",
-  "title": "Careers | MITSUBISHI ELECTRIC Global website",
-  "sigs": {},
-  "links": [
-   "https://www.mitsubishielectric.com/en/careers/#",
-   "https://www.mitsubishielectric.com/en/careers/index.html",
-   "https://www.mitsubishielectric.com/en/careers/#Americas",
-   "https://www.mitsubishielectric.com/en/careers/#Asia-Pacific",
-   "https://www.mitsubishielectric.com/en/careers/#Europe,_CIS,_Middle-East&Africa",
-   "https://us.mitsubishielectric.com/en/about/local/careers/",
-   "https://tw.mitsubishielectric.com/zh/about/local/careers/",
-   "https://in.mitsubishielectric.com/en/about/local/careers/",
-   "https://mm.mitsubishielectric.com/en/about/local/careers/",
-   "https://sg.mitsubishielectric.com/en/about/local/careers/",
-   "https://careers.mitsubishielectric.co.th/",
-   "https://fr.mitsubishielectric.com/fr/about/local/careers/",
-   "https://de.mitsubishielectric.com/de/about/local/careers/",
-   "https://de.mitsubishielectric.com/en/about/local/careers/",
-   "https://ie.mitsubishielectric.com/en/about/local/careers/",
-   "https://careers.mitsubishielectric.it/it/",
-   "https://nl.mitsubishielectric.com/nl/about/local/careers/",
-   "https://nl.mitsubishielectric.com/en/about/local/careers/",
-   "https://pl.mitsubishielectric.com/pl/about/local/careers/",
-   "https://pl.mitsubishielectric.com/en/about/local/careers/",
-   "https://ru.mitsubishielectric.com/ru/about/local/careers/",
-   "https://se.mitsubishielectric.com/sv/about/local/careers/",
-   "https://se.mitsubishielectric.com/en/about/local/careers/",
-   "https://gb.mitsubishielectric.com/en/about/local/careers/"
-  ],
-  "error": null,
-  "patterns": [
-   "13x www.mitsubishielectric.com/en/careers/  e.g. https://www.mitsubishielectric.com/en/careers/#",
-   "4x www.mitsubishielectric.com/en/about/  e.g. https://www.mitsubishielectric.com/en/about/",
-   "4x www.mitsubishielectric.com/en/pr/  e.g. https://www.mitsubishielectric.com/en/pr/",
-   "3x www.mitsubishielectric.com/en/sustainability/  e.g. https://www.mitsubishielectric.com/en/sustainability/"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Kia",
-  "url": "https://www.kia.com/eu/about-kia/careers.html",
-  "final": "https://www.kia.com/eu/about-kia/careers.html",
-  "title": "404-page - en | Kia Motors Europe",
-  "sigs": {},
-  "links": [
-   "https://www.kia.com/eu/about-kia/careers.html#contents",
-   "https://www.kia.com/eu/about-kia/careers.html#",
-   "https://www.kia.com/eu/about-kia/career/",
-   "https://www.kia.com/eu/about-kia/career/about-us/",
-   "https://www.kia.com/eu/about-kia/career/culture/",
-   "https://www.kia.com/eu/about-kia/career/benefits/",
-   "https://www.kia.com/eu/about-kia/career/job-opportunities/",
-   "https://www.kia.com/eu/careers/overview/",
-   "https://career.kia.com/eng/main/main.kc?utm_source=kia-dealership-site-ktl&utm_medium=link&utm_campaign=ktl-pr"
-  ],
-  "error": null,
-  "patterns": [
-   "7x www.kia.com/eu/about-kia/careers.html  e.g. https://www.kia.com/eu/about-kia/careers.html#contents",
-   "4x void(0)  e.g. javascript:void(0)",
-   "3x www.kia.com/eu/privacy-notice/  e.g. https://www.kia.com/eu/privacy-notice/",
-   "3x www.kia.com/eu/[^/]+/  e.g. https://www.kia.com/eu/german-privacy-notice/",
-   "3x www.kia.com/eu/about-kia/brand/  e.g. https://www.kia.com/eu/about-kia/brand/"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
   "name": "_API",
   "url": "",
   "final": null,
@@ -2015,7 +698,6 @@
   "error": null,
   "patterns": [],
   "api": [
-   "workday alliancewd/wd3/renault-group-careers: 200 total=284",
    "gh traderepublicbank: 50 ['Accounting Intern @ Headquarter', 'Analytics Engineering (London)  @ London', 'Analytics Engineering (Paris)  @ Paris']",
    "gh traderepublic: 0 []",
    "gh scalablecapital: 404 []",
@@ -2028,7 +710,7 @@
    "sr Sixt: 87 ['Operational Support Associate (Sarasota Int Airport)  @ Sarasota / SIXT', 'Senior AI Growth Strategist CRM (m/f/d) @ Lisbon / SIXT', 'Operational Support Associate (Tampa Downtown) @ Tampa / SIXT']",
    "sr Continental: 127 ['Antitrust Counsel – Americas  @ Fort Mill / Continental', 'Compliance & Privacy Officer – US & Canada @ Fort Mill / Continental', 'Controlling Intern @ Santiago de Querétaro / Continental']",
    "sr Aumovio: 195 ['Compliance Officer EMEA  @ Porto / Aumovio', 'SAM CN_ACTC_Electrical Engineering Engineer @ Chang Chun Shi / Aumovio', 'SAM CN_ACTC_Technical Project Leader @ Chang Chun Shi / Aumovio']",
-   "sr RedBull: 206 ['Distributor Partner Manager @ Guadalajara / Red Bull', 'Junior Personalverrechner / Personaladministration @ Elsbethen / Red Bull', 'Off Premise Insights Intern @ Bogotá / Red Bull']",
+   "sr RedBull: 205 ['Distributor Partner Manager @ Guadalajara / Red Bull', 'Junior Personalverrechner / Personaladministration @ Elsbethen / Red Bull', 'Off Premise Insights Intern @ Bogotá / Red Bull']",
    "sr ContactEnergy: 2 ['Marketing Coordinator @ Auckland / Contact Energy', 'Strategic Sourcing Specialist (Assets) @ Auckland / Contact Energy']",
    "sr ScalableCapital: 0 []",
    "sr DAZN: 0 []",
