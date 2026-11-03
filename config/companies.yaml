@@ -40,8 +40,13 @@
     - https://www.bmwgroup.jobs/de/de/jobs.html?textSearch=internship
 
 - name: Mercedes-Benz
-  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  ats: browser
   career_url: https://jobs.mercedes-benz.com/
+  list_url: https://jobs.mercedes-benz.com/?searchText=praktikum
+  job_link: jobs\.mercedes-benz\.com/[a-z0-9-]+-mer0[0-9a-z]+
+  extra_urls:
+    - https://jobs.mercedes-benz.com/?searchText=internship
+    - https://jobs.mercedes-benz.com/?searchText=intern
 
 - name: Siemens
   ats: browser
@@ -354,8 +359,10 @@
   career_url: https://jobs.redbull.com/
 
 - name: Verbund
-  enabled: false   # Stellenbörse beim Test nicht gefunden
-  career_url: https://www.verbund.com/de/karriere
+  ats: browser
+  career_url: https://jobs.verbund.com/de
+  list_url: https://jobs.verbund.com/de/jobportal/offene-stellen
+  job_link: jobs\.verbund\.com/de/jobportal/[^?#]+/[^/?#]{8,}
 
 - name: Bulgarian Energy Holding
   enabled: false   # keine Online-Stellenbörse
@@ -394,8 +401,10 @@
   career_url: https://www.lego.com/careers
 
 - name: Bolt
-  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  ats: browser
   career_url: https://bolt.eu/en/careers/positions/
+  list_url: https://bolt.eu/en/careers/positions/
+  job_link: bolt\.eu/en/careers/positions/[0-9a-f-]{36}/?$
 
 - name: LVMH
   enabled: false   # Karriereseite blockiert automatische Abrufe
@@ -465,8 +474,10 @@
   career_url: https://www.ferrari.com/en-EN/corporate/careers
 
 - name: airBaltic
-  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  ats: browser
   career_url: https://careers.airbaltic.com/en/vacancies
+  list_url: https://careers.airbaltic.com/en/vacancies
+  job_link: careers\.airbaltic\.com/en/vacancies/[a-z-]+/[a-z0-9-]+
 
 - name: HSBC
   ats: browser
@@ -477,10 +488,10 @@
 - name: Stellantis
   ats: browser
   career_url: https://careers.stellantis.com/
-  list_url: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057
+  list_url: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057&mode=list
   job_link: /job/job-[^/]+_\d+\.aspx
   pages:
-    template: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page={page}&LCID=2057
+    template: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page={page}&LCID=2057&mode=list
     max_pages: 25
 
 - name: ING
@@ -530,8 +541,10 @@
   career_url: https://careers.roche.com/
 
 - name: UBS
-  enabled: false   # Stellenbörse beim Test nicht abrufbar
+  ats: browser
   career_url: https://www.ubs.com/global/en/careers.html
+  list_url: https://jobs.ubs.com/TGnewUI/Search/Home/Home?partnerid=25008&siteid=5012
+  job_link: PageType=JobDetails&jobid=\d+
 
 - name: Shell
   ats: workday
@@ -604,8 +617,10 @@
   job_link: /careers/JobDetail/[^/]+/\d+
 
 - name: Fletcher Building
-  enabled: false   # Stellenbörse beim Test nicht gefunden
+  ats: browser
   career_url: https://fletcherbuilding.com/careers
+  list_url: https://careers.fbcareers.com/careers/SearchJobs/?keyword=intern&jobRecordsPerPage=50
+  job_link: /careers/JobDetail/[^/]+/\d+
 
 - name: Foodstuffs
   enabled: false   # Stellenbörse beim Test nicht erreichbar
