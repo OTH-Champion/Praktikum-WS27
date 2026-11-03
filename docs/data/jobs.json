@@ -1,12 +1,12 @@
 {
- "aktualisiert": "2026-11-03T12:43+00:00",
+ "aktualisiert": "2026-11-03T12:51+00:00",
  "firmen": [
   {
    "name": "SAP",
    "career_url": "https://jobs.sap.com",
-   "ok": false,
-   "note": "Keine Stellen gefunden (Seite oder Schnittstelle evtl. geändert)",
-   "aktiv": true,
+   "ok": true,
+   "aktiv": false,
+   "note": "derzeit nicht automatisch abrufbar",
    "stellen": 0
   },
   {

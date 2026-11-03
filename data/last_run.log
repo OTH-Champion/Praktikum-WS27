@@ -1,16 +1,11 @@
-Firmen (6): SAP, Bosch, NVIDIA, Infineon, Stripe, Palantir
-
-== SAP ==
-    [page] https://jobs.sap.com/search/?q=intern&locale=en_US&sortColumn=referencedate&sortDirection= -> 0 neu
-  0 Stellen gefunden, 0 davon Praktika (Titel)
-  0 nach Ortsfilter (Liste)
+Firmen (5): Bosch, NVIDIA, Infineon, Stripe, Palantir
 
 == Bosch ==
   1447 Stellen gefunden, 729 davon Praktika (Titel)
   455 nach Ortsfilter (Liste)
 
 == NVIDIA ==
-  2211 Stellen gefunden, 188 davon Praktika (Titel)
+  2210 Stellen gefunden, 188 davon Praktika (Titel)
   142 nach Ortsfilter (Liste)
 
 == Infineon ==
@@ -55,9 +50,8 @@ Firmen (6): SAP, Bosch, NVIDIA, Infineon, Stripe, Palantir
   11 nach Ortsfilter (Liste)
 
 Fertig: 271 Praktika online.
-  ERR SAP: {'gefunden': 0, 'praktika': 0, 'ort_ok': 0} 30s Keine Stellen gefunden (Seite oder Schnittstelle evtl. geändert)
-  OK  Bosch: {'gefunden': 1447, 'praktika': 729, 'ort_ok': 455} 10s 
-  OK  NVIDIA: {'gefunden': 2211, 'praktika': 188, 'ort_ok': 142} 257s 
-  OK  Infineon: {'gefunden': 368, 'praktika': 175, 'ort_ok': 175} 145s 
+  OK  Bosch: {'gefunden': 1447, 'praktika': 729, 'ort_ok': 455} 9s 
+  OK  NVIDIA: {'gefunden': 2210, 'praktika': 188, 'ort_ok': 142} 263s 
+  OK  Infineon: {'gefunden': 368, 'praktika': 175, 'ort_ok': 175} 113s 
   OK  Stripe: {'gefunden': 738, 'praktika': 14, 'ort_ok': 14} 1s 
   OK  Palantir: {'gefunden': 305, 'praktika': 48, 'ort_ok': 11} 1s 
