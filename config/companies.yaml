@@ -27,6 +27,7 @@
 # Sobald die eigentliche Firmenliste steht, werden sie ersetzt.
 
 - name: SAP
+  enabled: false   # Karriereseite liefert automatischen Abrufen keine Treffer, muss noch geprüft werden
   ats: browser   # Ergebnisliste wird per JavaScript geladen
   career_url: https://jobs.sap.com
   list_url: https://jobs.sap.com/search/?q=intern&locale=en_US&sortColumn=referencedate&sortDirection=desc
