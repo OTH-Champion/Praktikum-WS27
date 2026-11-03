@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Praktikum WS27</title>
+<meta name="description" content="Praktika für BWLer weltweit, mit Visa- und Förder-Infos. Wöchentlich aktualisiert.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230c3b4f'/><circle cx='16' cy='16' r='9' fill='none' stroke='%23f08a24' stroke-width='2.5'/><path d='M7 16h18M16 7c3 3 3 15 0 18M16 7c-3 3-3 15 0 18' fill='none' stroke='%23f08a24' stroke-width='1.6'/></svg>">
+<link rel="stylesheet" href="style.css?v=20261103a">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Pflichtpraktikum · Wintersemester 2027/28</p>
+    <h1>Praktikum WS27</h1>
+    <p class="lead">Praktika für BWLer weltweit, mit Visa- und Förder-Infos. Die Stellen kommen direkt von den Karriereseiten ausgewählter Unternehmen in Europa, Südamerika, Australien &amp; Neuseeland und Asiens großen Wirtschaftszentren und werden zweimal pro Woche automatisch aktualisiert.</p>
+    <ul class="facts">
+      <li><strong>Für wen</strong>BWL-Studis, gern mit leichtem IT-Bezug</li>
+      <li><strong>Wo</strong>Europa, Südamerika, Ozeanien, Asien</li>
+      <li><strong>Unternehmen</strong><span id="n-firmen">–</span></li>
+      <li><strong>Pflichtpraktikum</strong><span id="n-stunden">720 Std.</span> ≈ 20–22 Wochen</li>
+    </ul>
+    <p class="meta" id="meta">Lade Praktika …</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <nav class="tabs" role="tablist" aria-label="Ansicht">
+    <button type="button" class="tab" role="tab" id="tab-alle" data-tab="alle" aria-selected="true">Alle Praktika</button>
+    <button type="button" class="tab" role="tab" id="tab-fav" data-tab="fav" aria-selected="false"><span class="star" aria-hidden="true">★</span> Favoriten <span class="n" id="fav-n">0</span></button>
+    <button type="button" class="tab" role="tab" id="tab-info" data-tab="info" aria-selected="false">Visa &amp; Förderung</button>
+  </nav>
+
+  <section class="filters" id="filters" aria-label="Filter">
+    <div class="search">
+      <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Suche nach Titel, Firma oder Stadt" autocomplete="off">
+    </div>
+    <div class="selects">
+      <label>Kontinent<select id="f-kont"></select></label>
+      <label>Land<select id="f-land"></select></label>
+      <label>Stadt<select id="f-stadt"></select></label>
+      <label>Firma<select id="f-firma"></select></label>
+      <label>Fachbereich<select id="f-fach"></select></label>
+    </div>
+    <div class="selects selects-2">
+      <label>Start ab<select id="f-von"></select></label>
+      <label>Start bis<select id="f-bis"></select></label>
+      <label>Gesamtdauer<select id="f-dauer">
+        <option value="">Beliebig</option>
+        <option value="min">mind. 20 Wochen (inkl. k. A.)</option>
+        <option value="streng">mind. 20 Wochen</option>
+      </select></label>
+      <label>Veröffentlicht<select id="f-datum">
+        <option value="">Beliebig</option>
+        <option value="7">Letzte 7 Tage</option>
+        <option value="14">Letzte 14 Tage</option>
+        <option value="30">Letzte 30 Tage</option>
+        <option value="90">Letzte 90 Tage</option>
+      </select></label>
+      <button id="reset" class="ghost" type="button">Zurücksetzen</button>
+    </div>
+    <div class="chips" role="group" aria-label="Schnellfilter">
+      <button type="button" class="chip" id="c-ohnevisum" aria-pressed="false">Kein Visum nötig</button>
+      <button type="button" class="chip" id="c-erasmus" aria-pressed="false">Erasmus+-förderfähig</button>
+      <button type="button" class="chip" id="c-ohnestart" aria-pressed="true" title="Stellen ohne Startangabe beim Startfilter trotzdem zeigen">Ohne Startangabe zeigen</button>
+    </div>
+  </section>
+
+  <section class="mailbox" id="mailbox" hidden aria-label="Favoriten per Mail">
+    <div class="mail-head">
+      <h2>Favoriten per Mail schicken</h2>
+      <p>Deine Adresse wird nirgends gespeichert: Sie geht nur an dein eigenes Mailprogramm, das eine fertige Mail mit allen Favoriten öffnet.</p>
+    </div>
+    <form id="mailform" class="mail-row" novalidate>
+      <label class="sr" for="mail">E-Mail-Adresse</label>
+      <input id="mail" type="email" placeholder="deine@adresse.de" autocomplete="email" required>
+      <button class="cta" type="submit">Mail erstellen</button>
+      <button class="ghost" type="button" id="copy">Liste kopieren</button>
+    </form>
+    <p class="mail-msg" id="mail-msg" aria-live="polite"></p>
+    <div class="mail-parts" id="mail-parts"></div>
+  </section>
+
+  <p class="count" id="count" aria-live="polite"></p>
+
+  <div class="table-wrap">
+    <table class="jobs" id="jobs">
+      <thead>
+        <tr>
+          <th>Praktikum</th><th>Ort</th><th>Fachbereich</th><th>Start</th>
+          <th>Gesamtdauer</th><th>Wochenstunden</th><th>Veröffentlicht</th><th><span class="sr">Link</span></th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+  <p class="empty" id="empty" hidden>Keine Praktika passen zu deinen Filtern.</p>
+  <p class="empty" id="empty-fav" hidden>Noch keine Favoriten. Markiere Praktika mit dem Stern ☆, dann findest du sie hier gesammelt und kannst sie dir per Mail schicken. Favoriten werden nur in diesem Browser gespeichert.</p>
+
+  <section class="info" id="info" hidden aria-label="Visa und Förderung"></section>
+
+  <section class="sources" id="sources" aria-label="Unternehmen"></section>
+</main>
+
+<dialog id="land-dialog" aria-labelledby="dlg-title">
+  <div class="dlg-body" id="dlg-body"></div>
+  <form method="dialog"><button class="ghost dlg-close" aria-label="Schließen">Schließen</button></form>
+</dialog>
+
+<footer class="wrap foot">
+  <p>Alle Angaben ohne Gewähr. Maßgeblich ist immer die Originalanzeige auf der Karriereseite des Unternehmens. „k. A.“ heißt: steht nicht in der Anzeige. Ein Datum mit ≈ ist das Datum, an dem die Stelle hier zuerst erfasst wurde. Visa- und Förderinfos gelten für deutsche Staatsangehörige (Stand <span id="stand">2026</span>) und ersetzen keine Beratung durch Botschaft oder International Office.</p>
+  <p><a href="datenschutz.html">Hinweise &amp; Datenschutz</a></p>
+</footer>
+
+<script src="app.js?v=20261103a"></script>
+</body>
+</html>

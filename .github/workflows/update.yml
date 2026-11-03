@@ -1,0 +1,95 @@
+name: Praktika aktualisieren
+
+on:
+  schedule:
+    # Montags früh; Donnerstag als Ersatz, falls GitHub einen Termin auslässt
+    - cron: "23 4 * * 1"
+    - cron: "51 3 * * 4"
+  push:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "scraper/**"
+  workflow_dispatch:
+    inputs:
+      debug:
+        description: "Rohdaten und Entscheidungen im Ordner debug/ speichern"
+        type: boolean
+        default: false
+      only:
+        description: "Nur diese Firmen (leer = alle), z. B. SAP Bosch"
+        type: string
+        default: ""
+      list_only:
+        description: "Test: nur Stellenlisten lesen, nichts veröffentlichen"
+        type: boolean
+        default: false
+      reclassify:
+        description: "Alle Stellen neu bewerten"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-jobs
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Python-Pakete installieren
+        run: pip install -r requirements.txt
+
+      - name: Browser installieren (nur für Firmen mit ats browser)
+        run: |
+          if grep -Eq '^\s*ats:\s*browser' config/companies.yaml; then
+            python -m playwright install --with-deps chromium
+          else
+            echo "Keine Browser-Firmen, überspringe."
+          fi
+
+      - name: Offline-Tests
+        run: python -m tests.test_offline
+
+      - name: Praktika sammeln und bewerten
+        env:
+          IN_DEBUG: ${{ inputs.debug }}
+          IN_RECLASSIFY: ${{ inputs.reclassify }}
+          IN_LIST_ONLY: ${{ inputs.list_only }}
+          IN_ONLY: ${{ inputs.only }}
+        run: |
+          ARGS=()
+          [ "$IN_DEBUG" = "true" ] && ARGS+=(--debug)
+          [ "$IN_RECLASSIFY" = "true" ] && ARGS+=(--reclassify)
+          [ "$IN_LIST_ONLY" = "true" ] && ARGS+=(--list-only)
+          if [ -n "$IN_ONLY" ]; then read -ra ONLY <<< "$IN_ONLY"; ARGS+=(--only "${ONLY[@]}"); fi
+          python -m scraper.run "${ARGS[@]}" 2>&1 | tee data/last_run.log
+          exit ${PIPESTATUS[0]}
+
+      - name: Ergebnis speichern
+        env:
+          IN_LIST_ONLY: ${{ inputs.list_only }}
+        run: |
+          git config user.name "praktikum-ws27-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/last_run.log
+          [ "$IN_LIST_ONLY" = "true" ] || git add docs/data/jobs.json docs/data/laender.json data/state.json
+          if [ -d debug ]; then git add -f debug; fi
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "Praktika aktualisiert $(date +'%Y-%m-%d')"
+            git pull --rebase --autostash || true
+            git push
+          fi

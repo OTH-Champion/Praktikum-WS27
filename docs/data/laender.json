@@ -1,0 +1,1249 @@
+{
+ "stand": "November 2026",
+ "kontinente": [
+  "Europa",
+  "Südamerika",
+  "Ozeanien",
+  "Asien"
+ ],
+ "laender": {
+  "DE": {
+   "name": "Deutschland",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": false,
+   "visum_text": "Inland, kein Visum nötig. Erasmus+ und Auslands-BAföG gelten hier nicht.",
+   "links": [],
+   "foerderung": [],
+   "hubs": []
+  },
+  "AT": {
+   "name": "Österreich",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "BE": {
+   "name": "Belgien",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "BG": {
+   "name": "Bulgarien",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "HR": {
+   "name": "Kroatien",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "CY": {
+   "name": "Zypern",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "CZ": {
+   "name": "Tschechien",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "DK": {
+   "name": "Dänemark",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "EE": {
+   "name": "Estland",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "FI": {
+   "name": "Finnland",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "FR": {
+   "name": "Frankreich",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "dfjw",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "GR": {
+   "name": "Griechenland",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "HU": {
+   "name": "Ungarn",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "IE": {
+   "name": "Irland",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "IT": {
+   "name": "Italien",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "LV": {
+   "name": "Lettland",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "LT": {
+   "name": "Litauen",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "LU": {
+   "name": "Luxemburg",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "MT": {
+   "name": "Malta",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "NL": {
+   "name": "Niederlande",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "PL": {
+   "name": "Polen",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "PT": {
+   "name": "Portugal",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "RO": {
+   "name": "Rumänien",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "SK": {
+   "name": "Slowakei",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "SI": {
+   "name": "Slowenien",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "ES": {
+   "name": "Spanien",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "SE": {
+   "name": "Schweden",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "IS": {
+   "name": "Island",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum und keine Arbeitserlaubnis nötig (EU-Freizügigkeit). Bei mehr als drei Monaten Aufenthalt verlangen viele Länder eine Anmeldung bei der örtlichen Behörde. Krankenversicherung: Europäische Krankenversicherungskarte (EHIC) der Krankenkasse, ggf. Auslandszusatzversicherung.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "LI": {
+   "name": "Liechtenstein",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum nötig (EWR). Für Aufenthalte über drei Monate ist eine Kurzaufenthaltsbewilligung beim Ausländer- und Passamt nötig; Kontingente sind knapp, der Arbeitgeber hilft meist.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "false": {
+   "name": "Norwegen",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": true,
+   "visum_text": "Kein Visum nötig (EWR). Bei mehr als drei Monaten Registrierung bei der Polizei bzw. UDI. Krankenversicherung über die EHIC.",
+   "links": [
+    {
+     "t": "Your Europe: Praktikum im EU-Ausland",
+     "u": "https://europa.eu/youreurope/citizens/education/traineeships/index_de.htm"
+    },
+    {
+     "t": "Europäisches Jugendportal: Praktika im Ausland",
+     "u": "https://youth.europa.eu/go-abroad/traineeships_de"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "CH": {
+   "name": "Schweiz",
+   "kontinent": "Europa",
+   "visum": false,
+   "erasmus": "2027",
+   "visum_text": "Kein Visum. Für Praktika zwischen drei und zwölf Monaten ist eine Kurzaufenthaltsbewilligung L EU/EFTA nötig (läuft über Arbeitgeber und Wohngemeinde); unter drei Monaten reicht das Online-Meldeverfahren. Erasmus+: Die Schweiz soll ab 2027 wieder teilnehmen (Abkommen im November 2025 unterzeichnet, Finanzierung durch das Parlament noch offen).",
+   "links": [
+    {
+     "t": "Staatssekretariat für Migration: Bewilligung L EU/EFTA",
+     "u": "https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/eu_efta/ausweis_l_eu_efta.html"
+    },
+    {
+     "t": "SBFI: Stand Erasmus+-Assoziierung",
+     "u": "https://www.sbfi.admin.ch/en/international-mobility-and-cooperation-in-education"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg",
+    "promos"
+   ],
+   "hubs": []
+  },
+  "GB": {
+   "name": "Vereinigtes Königreich",
+   "kontinent": "Europa",
+   "visum": true,
+   "erasmus": "2027",
+   "visum_text": "Visum nötig. Für Praktika gibt es das „Government Authorised Exchange (Temporary Work)“-Visum über einen zugelassenen Sponsor bzw. Programmträger, maximal 12 Monate. Kosten: Visagebühr (2026 rund 340 £) plus Gesundheitszuschlag (IHS), außerdem Nachweis von rund 1.270 £ Rücklagen. Mit der normalen Einreise als Besucher (ETA) ist kein Praktikum erlaubt. Ein Jugendmobilitätsprogramm zwischen EU und UK wird verhandelt, gilt aber noch nicht. Erasmus+: Das UK nimmt ab dem Studienjahr 2027/28 wieder teil.",
+   "links": [
+    {
+     "t": "GOV.UK: Government Authorised Exchange visa",
+     "u": "https://www.gov.uk/government-authorised-exchange"
+    },
+    {
+     "t": "DAAD: UK kehrt 2027 zu Erasmus+ zurück",
+     "u": "https://www.daad.de/en/press-releases/2026/vereinigtes-koenigreich-kehrt-2027-zu-erasmus-zurueck/"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+    }
+   ],
+   "foerderung": [
+    "erasmus",
+    "auslandsbafoeg",
+    "promos"
+   ],
+   "hubs": []
+  },
+  "AU": {
+   "name": "Australien",
+   "kontinent": "Ozeanien",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Working Holiday Visa (Subclass 417): für Deutsche seit 1. Juli 2026 bis zum 35. Lebensjahr (vorher 30), bis zu 12 Monate. Beim selben Arbeitgeber höchstens 6 Monate, das passt für 20–22 Wochen. Alternative mit Sponsor: Training Visa (Subclass 407).",
+   "links": [
+    {
+     "t": "Home Affairs: Work and Holiday visa (subclass 417)",
+     "u": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417"
+    },
+    {
+     "t": "Home Affairs: Arbeitsbedingungen (6-Monats-Regel)",
+     "u": "https://immi.homeaffairs.gov.au/programs-subsite/Pages/working-holiday-maker/work-conditions.aspx"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/service/laender/australien-node/australiensicherheit-213920"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "NZ": {
+   "name": "Neuseeland",
+   "kontinent": "Ozeanien",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Working Holiday Visa für Deutsche zwischen 18 und 30 Jahren: bis zu 12 Monate Arbeit, bei gleichem oder wechselnden Arbeitgebern. Antrag online bei Immigration New Zealand.",
+   "links": [
+    {
+     "t": "Immigration New Zealand: Germany Working Holiday Visa",
+     "u": "https://www.immigration.govt.nz/visas/germany-working-holiday-visa/"
+    },
+    {
+     "t": "Neuseeländische Botschaft Berlin: Working Holiday Scheme",
+     "u": "https://mfat.govt.nz/en/countries-and-regions/europe/germany/new-zealand-embassy/working-holidays-in-new-zealand"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/neuseelandsicherheit/220146"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "SG": {
+   "name": "Singapur",
+   "kontinent": "Asien",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Work Holiday Pass (Work Holiday Programme): für Studierende und Absolvent:innen deutscher Hochschulen zwischen 18 und 25 Jahren, bis zu 6 Monate, Kontingent 2.000 Plätze. Der Training Employment Pass gilt nur bis zu 3 Monate und reicht für 20–22 Wochen meist nicht.",
+   "links": [
+    {
+     "t": "Ministry of Manpower: Work Holiday Programme",
+     "u": "https://www.mom.gov.sg/passes-and-permits/work-holiday-programme/eligibility"
+    },
+    {
+     "t": "Ministry of Manpower: Training Employment Pass",
+     "u": "https://www.mom.gov.sg/passes-and-permits/training-employment-pass/eligibility"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/service/laender/singapur-node/singapursicherheit-225412"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "HK": {
+   "name": "Hongkong",
+   "kontinent": "Asien",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Working Holiday Scheme Hongkong–Deutschland: 18 bis 30 Jahre, bis zu 12 Monate, jährliches Kontingent. Antrag beim Immigration Department.",
+   "links": [
+    {
+     "t": "Immigration Department: Working Holiday Scheme",
+     "u": "https://www.immd.gov.hk/eng/services/visas/working_holiday_scheme.html"
+    },
+    {
+     "t": "Working Holiday Scheme: Kontingente und Bedingungen",
+     "u": "https://whs.gov.hk/en/quota-and-condition-of-stay.php"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/hongkongsicherheit-200854"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "baychina",
+    "auslandsbafoeg"
+   ],
+   "hubs": []
+  },
+  "CN": {
+   "name": "China",
+   "kontinent": "Asien",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Visum nötig, ein klassisches Working-Holiday-Abkommen gibt es nicht. Für Studierende ausländischer Hochschulen vergeben mehrere Städte (u. a. Shanghai, Peking) einen Aufenthaltstitel mit Vermerk „Praktikum“ (bis zu 1 Jahr); nötig sind eine Einladung des Unternehmens und eine Immatrikulationsbescheinigung. Die visumfreie Einreise (30 Tage) erlaubt kein Praktikum. Den genauen Ablauf mit dem Arbeitgeber und der chinesischen Botschaft klären.",
+   "links": [
+    {
+     "t": "Stadt Shanghai: FAQ Praktikumsvisum für ausländische Studierende",
+     "u": "https://english.shanghai.gov.cn/en-FAQs-StudyinShanghai/20241205/d45322c2d4e84f37841538f8158251dc.html"
+    },
+    {
+     "t": "Stadt Peking: Visum für Praktika ausländischer Studierender",
+     "u": "https://english.beijing.gov.cn/studyinginbeijing/practice/202409/t20240906_3791268.html"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/chinasicherheit-200466"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "baychina",
+    "auslandsbafoeg"
+   ],
+   "hubs": [
+    "Shanghai",
+    "Shenzhen",
+    "Peking",
+    "Guangzhou"
+   ]
+  },
+  "JP": {
+   "name": "Japan",
+   "kontinent": "Asien",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Working Holiday Visum für 18- bis 30-Jährige (bis zu 1 Jahr), Hauptzweck muss aber Urlaub sein. Für ein Vollzeit-Praktikum passt eher „Designated Activities (Internship)“: für Studierende ausländischer Hochschulen, wenn das Praktikum Teil des Studiums ist (Pflichtpraktikum), bis zu 1 Jahr, beantragt über das Unternehmen.",
+   "links": [
+    {
+     "t": "Japanische Botschaft in Deutschland: Working Holiday",
+     "u": "https://www.de.emb-japan.go.jp/itpr_de/konsular_VisaWH_EN.html"
+    },
+    {
+     "t": "Study in Japan (JASSO): Praktika in Japan",
+     "u": "https://www.studyinjapan.go.jp/en/job/internship/"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/japansicherheit-213032"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "auslandsbafoeg"
+   ],
+   "hubs": [
+    "Tokio",
+    "Osaka",
+    "Yokohama"
+   ]
+  },
+  "KR": {
+   "name": "Südkorea",
+   "kontinent": "Asien",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Working Holiday Visum (H-1) für Deutsche zwischen 18 und 30 Jahren, bis zu 1 Jahr. Antrag bei der koreanischen Botschaft bzw. dem Generalkonsulat.",
+   "links": [
+    {
+     "t": "Working Holiday Info Center (Außenministerium Korea)",
+     "u": "https://whic.mofa.go.kr/contents.do?contentsNo=38"
+    },
+    {
+     "t": "Merkblatt Working Holiday Korea (deutsch, PDF)",
+     "u": "https://whic.mofa.go.kr/upload/temp/kr_workingholiday_german.pdf"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/korearepubliksicherheit-216132"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "auslandsbafoeg"
+   ],
+   "hubs": [
+    "Seoul"
+   ]
+  },
+  "TW": {
+   "name": "Taiwan",
+   "kontinent": "Asien",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Working Holiday Visum für Deutsche zwischen 18 und 30 Jahren, bis zu 1 Jahr.",
+   "links": [
+    {
+     "t": "Bureau of Consular Affairs: Working Holiday für Deutsche",
+     "u": "https://www.boca.gov.tw/cp-153-390-4cbaf-2.html"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/taiwansicherheit-200896"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "auslandsbafoeg"
+   ],
+   "hubs": [
+    "Taipeh"
+   ]
+  },
+  "BR": {
+   "name": "Brasilien",
+   "kontinent": "Südamerika",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Working-Holiday-Abkommen Deutschland–Brasilien: 18 bis 30 Jahre, bis zu 12 Monate. Alternativ ein Visum für Praktika über den Arbeitgeber.",
+   "links": [
+    {
+     "t": "Brasilien: Dekret zum Working-Holiday-Abkommen mit Deutschland",
+     "u": "https://www2.camara.leg.br/legin/fed/decret/2019/decreto-10115-19-novembro-2019-789426-publicacaooriginal-159432-pe.html"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/BrasilienSicherheit.html"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "baylat",
+    "auslandsbafoeg"
+   ],
+   "hubs": [
+    "São Paulo"
+   ]
+  },
+  "AR": {
+   "name": "Argentinien",
+   "kontinent": "Südamerika",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Working-Holiday-Abkommen Deutschland–Argentinien: 18 bis 30 Jahre, bis zu 12 Monate.",
+   "links": [
+    {
+     "t": "Argentinisches Außenministerium: Visa für Deutsche",
+     "u": "https://cancilleria.gob.ar/es/servicios/extranjeros/alemania"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/argentiniensicherheit-201326"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "baylat",
+    "auslandsbafoeg"
+   ],
+   "hubs": [
+    "Buenos Aires"
+   ]
+  },
+  "CL": {
+   "name": "Chile",
+   "kontinent": "Südamerika",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Working-Holiday-Abkommen Deutschland–Chile („Vacaciones y Trabajo“): 18 bis 30 Jahre, bis zu 12 Monate.",
+   "links": [
+    {
+     "t": "Chilenische Botschaft Berlin: Visum Vacaciones y Trabajo",
+     "u": "https://chile.gob.cl/alemania/visa-programa-vacaciones-y-trabajo-working-holiday"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/service/laender/chile-node/chilesicherheit-201230"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "baylat",
+    "auslandsbafoeg"
+   ],
+   "hubs": [
+    "Santiago de Chile"
+   ]
+  },
+  "UY": {
+   "name": "Uruguay",
+   "kontinent": "Südamerika",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Working-Holiday-Abkommen Deutschland–Uruguay: 18 bis 30 Jahre, bis zu 12 Monate.",
+   "links": [
+    {
+     "t": "Regierung Uruguay: Vacaciones y Trabajo für ausländische Staatsangehörige",
+     "u": "https://www.gub.uy/tramites/vacaciones-trabajo-working-holiday-vacaciones-trabajo-working-holiday-ciudadanos-extranjeros"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/uruguaysicherheit-201138"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "baylat",
+    "auslandsbafoeg"
+   ],
+   "hubs": [
+    "Montevideo"
+   ]
+  },
+  "CO": {
+   "name": "Kolumbien",
+   "kontinent": "Südamerika",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Kein Working-Holiday-Abkommen. Für Praktika gibt es das Besuchervisum (Visa V) mit dem Zweck „prácticas o pasantías“; Antrag online beim kolumbianischen Außenministerium.",
+   "links": [
+    {
+     "t": "Cancillería Colombia: Visatypen",
+     "u": "https://cancilleria.gov.co/atencion-y-servicio-al-ciudadano/tramites-y-servicios/visa/tipos-de-visa"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kolumbiensicherheit/201516"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "baylat",
+    "auslandsbafoeg"
+   ],
+   "hubs": [
+    "Bogotá"
+   ]
+  },
+  "PE": {
+   "name": "Peru",
+   "kontinent": "Südamerika",
+   "visum": true,
+   "erasmus": false,
+   "visum_text": "Kein Working-Holiday-Abkommen; die visumfreie Einreise als Tourist erlaubt kein Praktikum. Passendes Visum (je nach Vergütung Arbeits- oder Ausbildungsvisum) mit dem Arbeitgeber und dem peruanischen Konsulat klären.",
+   "links": [
+    {
+     "t": "Migraciones Perú: Übersicht befristete Visa (PDF)",
+     "u": "https://www.migraciones.gob.pe/pdf/servicios_inmigracion_visas_temporales.pdf"
+    },
+    {
+     "t": "Auswärtiges Amt: Reise- und Sicherheitshinweise",
+     "u": "https://www.auswaertiges-amt.de/de/service/laender/peru-node/perusicherheit-211938"
+    }
+   ],
+   "foerderung": [
+    "promos",
+    "baylat",
+    "auslandsbafoeg"
+   ],
+   "hubs": [
+    "Lima"
+   ]
+  }
+ },
+ "foerderungen": {
+  "erasmus": {
+   "name": "Erasmus+ Praktikum (über die OTH)",
+   "regionen": [
+    "EU",
+    "EWR",
+    "UK/CH ab 2027/28 voraussichtlich"
+   ],
+   "text": "Zuschuss für Praktika ab 2 Monaten in Vollzeit (mind. 35 Std./Woche) in Erasmus+-Ländern. Im OTH-Projekt 2025–27 sind es 690–750 € pro Monat je nach Land, dazu Aufschläge z. B. für Erstakademiker:innen oder bei Anreise mit Bahn/Bus. Bei einer Vergütung ab 1.000 € brutto fördert die OTH nur die halbe Dauer (max. 3 Monate). Bewerbung über Mobility Online vor Praktikumsbeginn.",
+   "links": [
+    {
+     "t": "OTH: Erasmus+ Auslandspraktikum",
+     "u": "https://www.oth-regensburg.de/studieren/international/erasmus/fuer-studierende/auslandspraktikum"
+    },
+    {
+     "t": "OTH: Merkblatt Erasmus+ Praktikum 2025–27 (PDF)",
+     "u": "https://www.oth-regensburg.de/fileadmin/Bereiche/International_Office/Erasmus/Merkblatt_ERASMUS_Praktikum_2025_27.pdf"
+    },
+    {
+     "t": "DAAD: Erasmus+ für Studierende",
+     "u": "https://eu.daad.de/infos-fuer-einzelpersonen/foerderung-fuer-studierende-und-graduierte/de/"
+    }
+   ]
+  },
+  "promos": {
+   "name": "PROMOS (DAAD, über die OTH)",
+   "regionen": [
+    "vor allem außerhalb Europas"
+   ],
+   "text": "Stipendium für Praktika vor allem außerhalb Europas, vergeben durch das International Office der OTH. Bewerbung über Mobility Online; den Registrierungslink gibt es bei outgoing-praktikum@oth-regensburg.de.",
+   "links": [
+    {
+     "t": "OTH: Finanzierung Auslandspraktikum",
+     "u": "https://www.oth-regensburg.de/studieren/international/auslandspraktikum/finanzierung"
+    },
+    {
+     "t": "DAAD: PROMOS",
+     "u": "https://www.daad.de/de/infos-services-fuer-hochschulen/weiterfuehrende-infos-zu-daad-foerderprogrammen/promos/"
+    }
+   ]
+  },
+  "auslandsbafoeg": {
+   "name": "Auslands-BAföG für Pflichtpraktika",
+   "regionen": [
+    "alle"
+   ],
+   "text": "Pflichtpraktika im Ausland ab 12 Wochen sind weltweit förderfähig. Wegen höherer Bedarfssätze (Reisekosten, Krankenversicherung, ggf. Auslandszuschlag) lohnt der Antrag oft auch für Studierende ohne Inlands-BAföG. Zuständig ist ein Amt je Zielland; Antrag mehrere Monate vorher stellen.",
+   "links": [
+    {
+     "t": "BAföG: zuständiges Amt je Zielland (Weltkarte)",
+     "u": "https://www.xn--bafg-7qa.de/SiteGlobals/Forms/bafoeg/weltkarte/weltkarte_formular.html"
+    }
+   ]
+  },
+  "baylat": {
+   "name": "BAYLAT Mobilitätsbeihilfe (Lateinamerika)",
+   "regionen": [
+    "Südamerika"
+   ],
+   "text": "Bayerisches Hochschulzentrum für Lateinamerika; fördert u. a. Praktika von Studierenden bayerischer Hochschulen in Lateinamerika.",
+   "links": [
+    {
+     "t": "BAYLAT: Mobilitätsbeihilfe",
+     "u": "https://www.baylat.org/foerderprogramme/baylat-mobilitaetsbeihilfe.html"
+    }
+   ]
+  },
+  "baychina": {
+   "name": "BayCHINA Mobilitätszuschuss",
+   "regionen": [
+    "China",
+    "Hongkong"
+   ],
+   "text": "Bayerisches Hochschulzentrum für China; fördert Praktika, Studienaufenthalte und Abschlussarbeiten mit Ziel China.",
+   "links": [
+    {
+     "t": "BayCHINA: Angebote für Studierende",
+     "u": "https://www.baychina.de/fuer-studierende"
+    }
+   ]
+  },
+  "dfjw": {
+   "name": "Deutsch-Französisches Jugendwerk",
+   "regionen": [
+    "Frankreich"
+   ],
+   "text": "Fördert fachbezogene Praktika in Frankreich.",
+   "links": [
+    {
+     "t": "DFJW",
+     "u": "http://www.dfjw.org/"
+    }
+   ]
+  }
+ },
+ "allgemein": [
+  {
+   "name": "DAAD HAW.International: Auslandspraktika",
+   "text": "Stipendien für Auslandspraktika von Studierenden an Hochschulen für angewandte Wissenschaften.",
+   "links": [
+    {
+     "t": "DAAD-Stipendiendatenbank",
+     "u": "https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?detail=57588826"
+    }
+   ]
+  },
+  {
+   "name": "Josef-Stanglmeier-Preis und Reisekostenzuschuss (OTH)",
+   "text": "Drei Studierende mit sehr guten Leistungen erhalten je 2.500 € für ein Auslandspraktikum; zusätzlich gibt es Reisekostenzuschüsse der Stiftung.",
+   "links": [
+    {
+     "t": "OTH: Finanzierung und Stipendien",
+     "u": "https://www.oth-regensburg.de/studieren/im-studium/finanzierung-und-stipendien"
+    },
+    {
+     "t": "Ausschreibung Reisekostenzuschüsse (PDF)",
+     "u": "https://www.oth-regensburg.de/fileadmin/Bereiche/International_Office/Praktikum_im_Ausland/Reisekostenzuschuesse_Josef-Stanglmeier-Stiftung.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Otto Helmut und Alice Eckl-Stiftung (OTH)",
+   "text": "Einmaliger Zuschuss bis 4.000 € für Auslandsaufenthalte ausgewählter Studierender.",
+   "links": [
+    {
+     "t": "OTH: Finanzierung und Stipendien",
+     "u": "https://www.oth-regensburg.de/studieren/im-studium/finanzierung-und-stipendien"
+    }
+   ]
+  },
+  {
+   "name": "Carlo-Schmid-Programm (DAAD)",
+   "text": "Praktika bei internationalen Organisationen, EU-Institutionen und ausgewählten NGOs, z. B. in Brüssel, Genf oder Wien.",
+   "links": [
+    {
+     "t": "DAAD-Stipendiendatenbank",
+     "u": "https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?status=&target=&subjectGrps=&intention=&daad=&q=carlo-schmid-programm%20&page=1&detail=50015209"
+    }
+   ]
+  },
+  {
+   "name": "Bildungskredit und KfW-Studienkredit",
+   "text": "Ergänzende Kredite, wenn Stipendien nicht reichen.",
+   "links": [
+    {
+     "t": "Bundesverwaltungsamt: Bildungskredit",
+     "u": "https://www.bva.bund.de/DE/Services/Buerger/Schule-Ausbildung-Studium/Bildungskredit/Antrag/Studierende/studierende_node.html"
+    },
+    {
+     "t": "KfW-Studienkredit",
+     "u": "https://www.kfw.de/inlandsfoerderung/Privatpersonen/Studieren-Qualifizieren/Finanzierungsangebote/KfW-Studienkredit-%28174%29/"
+    }
+   ]
+  },
+  {
+   "name": "Stipendiendatenbanken",
+   "text": "Weitere Stiftungen und länderspezifische Programme.",
+   "links": [
+    {
+     "t": "DAAD-Stipendiendatenbank",
+     "u": "https://www.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/"
+    },
+    {
+     "t": "OTH: Finanzierung Auslandspraktikum (komplette Liste)",
+     "u": "https://www.oth-regensburg.de/studieren/international/auslandspraktikum/finanzierung"
+    }
+   ]
+  }
+ ],
+ "pflichtstunden": 720
+}

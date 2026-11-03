@@ -1,0 +1,70 @@
+# Einstellungen für die Auswahl der Stellen
+# (Länder, Städte, Visa und Förderungen stehen in laender.yaml)
+
+# Suchbegriffe für Karriereseiten mit Suchfunktion (Workday, SmartRecruiters, SuccessFactors, Eightfold).
+# Die Ergebnisse werden danach trotzdem noch über den Titel gefiltert.
+suchbegriffe:
+  - intern
+  - internship
+  - praktikum
+  - praktikant
+  - prácticas
+  - becario
+
+# Praktikum erkennen: Titel muss eines dieser Muster enthalten
+# (Kleinschreibung egal, Muster gilt ab Wortanfang, Regex erlaubt)
+include_title:
+  - praktik            # Praktikum, Praktikant, Praktika
+  - pflichtprakt
+  - intern(s|ship|ships)?\b   # Intern, Interns, Internship (nicht: international, internal)
+  - pr[aá]cticas?\b    # Prácticas / Práctica profesional
+  - becari[oa]s?\b
+  - pasant[ií]as?\b
+  - stagiaire
+
+# Diese Stellen fliegen immer raus
+exclude_title:
+  - werks?stud
+  - working student
+  - studentische (hilfskraft|aushilfe)
+  - trainee
+  - graduate program
+  - schülerprakt
+  - schuelerprakt
+  - berufsorientierung
+  - schnupper
+  - ausbildung
+  - auszubild
+  - azubi
+  - dual
+  - apprentice
+  - abschlussarbeit
+  - bachelorarbeit
+  - masterarbeit
+  - thesis
+  - tesis
+  - doktor
+  - phd
+  - postdoc
+  - werkvertrag
+
+# Sprachen der Anzeige, die behalten werden (ISO-Codes). Alles andere fliegt raus.
+sprachen: [de, en, es]
+
+# Erlaubte Fachbereiche (so werden sie auf der Seite angezeigt)
+fachbereiche:
+  - Vertrieb & Kundenmanagement
+  - Einkauf & Supply Chain
+  - Marketing & Kommunikation
+  - Finanzen & Controlling
+  - Business Development & Strategie
+  - Beratung (Consulting)
+  - Produktmanagement
+  - Personal (HR)
+  - Projektmanagement
+  - Digitalisierung, Daten & KI
+  - Recht & Compliance
+  - Sonstiges BWL
+
+# Pflichtpraktikum: nötige Stunden (für die Umrechnung auf der Seite)
+pflichtstunden: 720

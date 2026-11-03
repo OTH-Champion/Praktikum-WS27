@@ -1,0 +1,57 @@
+# Firmenliste für Praktikum WS27
+# --------------------------------
+# Neue Firma: Block kopieren, Name und Adresse der Karriereseite eintragen, "Commit changes".
+# enabled: false  -> Firma wird (vorübergehend) nicht abgefragt.
+#
+# Das Feld "ats" sagt, welches Bewerbermanagement-System die Firma nutzt. Bei diesen Systemen
+# reicht die Adresse, alles Weitere passiert automatisch (genaue Daten, kein Browser nötig):
+#
+#   ats             url (Beispiel)
+#   workday         https://firma.wd3.myworkdayjobs.com/External
+#   successfactors  https://jobs.firma.com            (Seiten mit /search/?q=... und /job/...)
+#   smartrecruiters https://jobs.smartrecruiters.com/FirmaId
+#   greenhouse      https://boards.greenhouse.io/firma
+#   lever           https://jobs.lever.co/firma
+#   ashby           https://jobs.ashbyhq.com/firma
+#   personio        https://firma.jobs.personio.de
+#   recruitee       https://firma.recruitee.com
+#   eightfold       https://jobs.firma.com/careers    (zusätzlich domain: firma.com)
+#   browser         Karriereseite ohne passende Schnittstelle: echter Browser wie bei StudiJobs RGB,
+#                   braucht list_url und job_link (Regex für Links zu einzelnen Stellen)
+#
+# Optional für alle:
+#   career_url    Link, der auf der Seite bei "Berücksichtigte Unternehmen" erscheint
+#   suchbegriffe  eigene Suchbegriffe statt der aus settings.yaml
+#
+# HINWEIS: Die Einträge unten sind Beispiele zum Testen der Technik.
+# Sobald die eigentliche Firmenliste steht, werden sie ersetzt.
+
+- name: SAP
+  ats: successfactors
+  url: https://jobs.sap.com
+  career_url: https://jobs.sap.com
+
+- name: Bosch
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/BoschGroup
+  career_url: https://jobs.bosch.com
+
+- name: NVIDIA
+  ats: workday
+  url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+  career_url: https://www.nvidia.com/en-us/about-nvidia/careers/
+
+- name: Infineon
+  ats: eightfold
+  url: https://jobs.infineon.com/careers
+  domain: infineon.com
+
+- name: Stripe
+  ats: greenhouse
+  url: https://boards.greenhouse.io/stripe
+  career_url: https://stripe.com/jobs
+
+- name: Palantir
+  ats: lever
+  url: https://jobs.lever.co/palantir
+  career_url: https://www.palantir.com/careers/
