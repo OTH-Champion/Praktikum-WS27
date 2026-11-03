@@ -1,7 +1,7 @@
 # Firmenliste für Praktikum WS27
 # --------------------------------
 # Neue Firma: Block kopieren, Name und Adresse der Karriereseite eintragen, "Commit changes".
-# enabled: false  -> Firma wird (vorübergehend) nicht abgefragt.
+# enabled: false  -> Firma wird (vorübergehend) nicht abgefragt, erscheint aber in der Firmenliste.
 #
 # Das Feld "ats" sagt, welches Bewerbermanagement-System die Firma nutzt. Bei diesen Systemen
 # reicht die Adresse, alles Weitere passiert automatisch (genaue Daten, kein Browser nötig):
@@ -16,36 +16,118 @@
 #   personio        https://firma.jobs.personio.de
 #   recruitee       https://firma.recruitee.com
 #   eightfold       https://jobs.firma.com/careers    (zusätzlich domain: firma.com)
+#   phenom          https://careers.firma.com/global/en/search-results
+#   oracle          https://jobs.firma.com/en/sites/CX_1   (optional api_host)
+#   radancy         https://careers.firma.com/en/search-jobs
+#   pinpoint        https://careers.firma.com
 #   browser         Karriereseite ohne passende Schnittstelle: echter Browser wie bei StudiJobs RGB,
 #                   braucht list_url und job_link (Regex für Links zu einzelnen Stellen)
 #
 # Optional für alle:
 #   career_url    Link, der auf der Seite bei "Berücksichtigte Unternehmen" erscheint
 #   suchbegriffe  eigene Suchbegriffe statt der aus settings.yaml
-#
-# HINWEIS: Die Einträge unten sind Beispiele zum Testen der Technik.
-# Sobald die eigentliche Firmenliste steht, werden sie ersetzt.
+#   urls          mehrere Stellenbörsen derselben Firma (statt url)
+#   unterfirmen   Tochterfirmen auf derselben Stellenbörse: {Name: Regex}; Treffer im Titel/Ort/Text
+#                 werden unter diesem Namen geführt (z. B. Bayernwerk bei E.ON)
 
-- name: SAP
-  enabled: false   # Karriereseite liefert automatischen Abrufen keine Treffer, muss noch geprüft werden
-  ats: browser   # Ergebnisliste wird per JavaScript geladen
-  career_url: https://jobs.sap.com
-  list_url: https://jobs.sap.com/search/?q=intern&locale=en_US&sortColumn=referencedate&sortDirection=desc
-  job_link: /job/[^/?#]+/\d+
+# ============================================================ Deutschland
+- name: BMW
+  ats: browser
+  career_url: https://www.bmwgroup.jobs/de/de/jobs.html
+  list_url: https://www.bmwgroup.jobs/de/de/jobs.html?textSearch=praktikum
+  job_link: /jobfinder/job-description\.\d+\.html
+  extra_urls:
+    - https://www.bmwgroup.jobs/de/de/jobs.html?textSearch=internship
+
+- name: Mercedes-Benz
+  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  career_url: https://jobs.mercedes-benz.com/
+
+- name: Siemens
+  ats: browser
+  career_url: https://jobs.siemens.com/
+  list_url: https://jobs.siemens.com/de_DE/externaljobs/SearchJobs/?search=praktikum&jobRecordsPerPage=50
+  job_link: /externaljobs/JobDetail/\d+
   pages:
-    template: https://jobs.sap.com/search/?q=intern&locale=en_US&sortColumn=referencedate&sortDirection=desc&startrow={offset}
-    step: 25
-    max_pages: 20
+    template: https://jobs.siemens.com/de_DE/externaljobs/SearchJobs/?search=praktikum&jobRecordsPerPage=50&jobOffset={offset}
+    step: 50
+    max_pages: 8
+  extra_urls:
+    - https://jobs.siemens.com/de_DE/externaljobs/SearchJobs/?search=intern&jobRecordsPerPage=50
+    - https://jobs.siemens.com/de_DE/externaljobs/SearchJobs/?search=internship&jobRecordsPerPage=50&jobOffset=50
 
 - name: Bosch
   ats: smartrecruiters
   url: https://jobs.smartrecruiters.com/BoschGroup
   career_url: https://jobs.bosch.com
 
-- name: NVIDIA
-  ats: workday
-  url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
-  career_url: https://www.nvidia.com/en-us/about-nvidia/careers/
+- name: SAP
+  ats: browser
+  career_url: https://jobs.sap.com
+  list_url: https://jobs.sap.com/en/jobs/?q=intern
+  job_link: /en/jobs/\d+/[^/?#]+
+  pages:
+    template: https://jobs.sap.com/en/jobs/?q=intern&page={page}
+    max_pages: 30
+
+- name: Munich Re
+  ats: radancy   # Stellenbörse der Munich-Re-Gruppe inkl. ERGO
+  url: https://careers.munichre.com/de/jobsuche
+  career_url: https://careers.munichre.com/de/jobsuche
+  unterfirmen:
+    ERGO: \bERGO\b
+
+- name: Allianz
+  ats: phenom
+  url: https://careers.allianz.com/global/en/search-results
+  career_url: https://careers.allianz.com
+
+- name: Volkswagen
+  ats: successfactors
+  url: https://jobs.volkswagen-group.com/Volkswagen
+  career_url: https://jobs.volkswagen-group.com/
+
+- name: Audi
+  ats: successfactors
+  url: https://jobs.volkswagen-group.com/Audi
+  career_url: https://jobs.volkswagen-group.com/Audi
+
+- name: Porsche
+  ats: browser
+  career_url: https://jobs.porsche.com/
+  list_url: https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum
+  job_link: ac=jobad&id=\d+
+  extra_urls:
+    - https://jobs.porsche.com/index.php?ac=search_result&search_criterion_keyword%5B%5D=internship
+
+- name: adidas
+  ats: successfactors
+  url: https://jobs.adidas-group.com
+  career_url: https://careers.adidas-group.com/
+
+- name: Deutsche Telekom
+  ats: browser
+  career_url: https://careers.telekom.com/de/jobs
+  list_url: https://careers.telekom.com/de/jobs?keywords=praktikum
+  job_link: careers\.telekom\.com/de/jobs/[a-z0-9-]+-\d+
+  extra_urls:
+    - https://careers.telekom.com/de/jobs?keywords=internship
+    - https://careers.telekom.com/de/jobs?keywords=intern
+
+- name: E.ON
+  ats: browser   # Stellenbörse des E.ON-Konzerns, Bayernwerk-Stellen werden getrennt geführt
+  career_url: https://jobs.eon.com/de
+  list_url: https://jobs.eon.com/de?search=praktikum
+  job_link: jobs\.eon\.com/de/job/[^/]+/\d+
+  pages:
+    template: https://jobs.eon.com/de?search=praktikum&page={page}
+    max_pages: 10
+  extra_urls:
+    - https://jobs.eon.com/de?search=internship
+  unterfirmen:
+    Bayernwerk: Bayernwerk
+  unterfirmen_urls:
+    Bayernwerk: https://www.bayernwerk.de/de/karriere.html
 
 - name: Infineon
   ats: browser   # Schnittstelle blockiert automatische Abrufe, daher echter Browser
@@ -58,12 +140,514 @@
     step: 10
     max_pages: 30
 
-- name: Stripe
-  ats: greenhouse
-  url: https://boards.greenhouse.io/stripe
-  career_url: https://stripe.com/jobs
+- name: Lufthansa
+  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  career_url: https://www.lufthansagroup.careers/de/jobsuche
 
-- name: Palantir
+- name: Bayer
+  enabled: false   # Karriereseite war beim Test im Wartungsmodus
+  career_url: https://career.bayer.com/en/jobs-search
+
+- name: BASF
+  ats: successfactors
+  url: https://basf.jobs
+  career_url: https://basf.jobs/
+
+- name: Trade Republic
+  ats: greenhouse
+  url: https://boards.greenhouse.io/traderepublicbank
+  career_url: https://traderepublic.com/careers
+
+- name: Scalable Capital
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/ScalableGmbH
+  career_url: https://de.scalable.capital/en/careers
+
+- name: PwC
+  ats: phenom
+  url: https://jobs.pwc.de/de/de/search-results
+  career_url: https://jobs.pwc.de/
+
+- name: KPMG
+  ats: browser
+  career_url: https://jobs.kpmg.de/
+  list_url: https://jobs.kpmg.de/?currentPage=1&pageSize=100
+  job_link: /job-invite/\d+
+  pages:
+    template: https://jobs.kpmg.de/?currentPage={page}&pageSize=100
+    max_pages: 8
+
+- name: EY
+  ats: successfactors
+  url: https://careers.ey.com/ey
+  career_url: https://careers.ey.com/
+
+- name: Deloitte
+  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  career_url: https://job.deloitte.com/
+
+- name: Knorr-Bremse
+  ats: successfactors
+  url: https://jobs.knorr-bremse.com
+  career_url: https://www.knorr-bremse.com/en/careers/
+
+- name: Linde
+  enabled: false   # keine öffentliche Stellenbörse gefunden
+  career_url: https://www.linde.com/careers
+
+- name: ZF
+  ats: successfactors
+  url: https://jobs.zf.com
+  career_url: https://jobs.zf.com/
+
+- name: Schaeffler
+  ats: successfactors
+  url: https://jobs.schaeffler.com
+  career_url: https://jobs.schaeffler.com/
+
+- name: KraussMaffei
+  enabled: false   # Stellen werden nur per JavaScript geladen, Anbindung in Arbeit
+  career_url: https://www.kraussmaffei.com/de/karriere/stellenangebote
+
+- name: Sixt
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/Sixt
+  career_url: https://www.sixt.jobs/
+
+- name: ams OSRAM
+  enabled: false   # Karriereseite beim Test nicht gefunden
+  career_url: https://ams-osram.com/
+
+- name: MTU Aero Engines
+  enabled: false   # Stellenbörse beim Test nicht gefunden
+  career_url: https://www.mtu.de/de/karriere/
+
+- name: Continental
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/Continental
+  career_url: https://jobs.continental.com/
+
+- name: Aumovio
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/Aumovio
+  career_url: https://www.aumovio.com/
+
+- name: DHL
+  ats: phenom
+  url: https://careers.dhl.com/global/en/search-results
+  career_url: https://careers.dhl.com/
+
+- name: Hilti
+  ats: browser
+  career_url: https://careers.hilti.group/
+  list_url: https://careers.hilti.group/de-de/jobs/?search=praktikum
+  job_link: /jobs/\d+-[a-z]{2}/[^/?#]+
+  extra_urls:
+    - https://careers.hilti.group/de-de/jobs/?search=intern
+    - https://careers.hilti.group/de-de/jobs/?search=internship
+
+- name: thyssenkrupp
+  ats: browser
+  career_url: https://jobs.thyssenkrupp.com/de
+  list_url: https://jobs.thyssenkrupp.com/de?search=praktikum
+  job_link: jobs\.thyssenkrupp\.com/de/job/[^/]+/(JR)?\d+
+  pages:
+    template: https://jobs.thyssenkrupp.com/de?search=praktikum&page={page}
+    max_pages: 10
+  extra_urls:
+    - https://jobs.thyssenkrupp.com/de?search=internship
+
+# ============================================================ Tech (USA/China, Stellen weltweit)
+- name: Salesforce
+  ats: workday
+  url: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site
+  career_url: https://careers.salesforce.com/
+
+- name: Google
+  ats: browser
+  career_url: https://www.google.com/about/careers/applications/jobs/results/
+  list_url: https://www.google.com/about/careers/applications/jobs/results/?q=intern
+  job_link: jobs/results/\d+
+  pages:
+    template: https://www.google.com/about/careers/applications/jobs/results/?q=intern&page={page}
+    max_pages: 10
+
+- name: Apple
+  ats: browser
+  career_url: https://jobs.apple.com/
+  list_url: https://jobs.apple.com/de-de/search?search=internship&sort=newest
+  job_link: jobs\.apple\.com/[a-z-]+/details/\d+
+  pages:
+    template: https://jobs.apple.com/de-de/search?search=internship&sort=newest&page={page}
+    max_pages: 10
+  extra_urls:
+    - https://jobs.apple.com/de-de/search?search=praktikum&sort=newest
+
+- name: Microsoft
+  ats: browser   # Eightfold-Seite, wie Infineon
+  career_url: https://careers.microsoft.com/
+  list_url: https://apply.careers.microsoft.com/careers?query=intern&sort_by=timestamp
+  job_link: /careers/job/\d+
+  job_url: https://apply.careers.microsoft.com/careers/job/{id}
+  pages:
+    template: https://apply.careers.microsoft.com/careers?query=intern&sort_by=timestamp&start={offset}
+    step: 10
+    max_pages: 30
+
+- name: NVIDIA
+  ats: workday
+  url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+  career_url: https://www.nvidia.com/en-us/about-nvidia/careers/
+
+- name: Meta
+  ats: browser
+  career_url: https://www.metacareers.com/
+  list_url: https://www.metacareers.com/jobsearch/?q=intern
+  job_link: metacareers\.com/(profile/job_details|jobs)/\d+
+
+- name: Samsung
+  ats: workday
+  url: https://sec.wd3.myworkdayjobs.com/Samsung_Careers
+  career_url: https://www.samsung.com/de/about-us/careers/
+
+- name: Lenovo
+  ats: browser
+  career_url: https://jobs.lenovo.com/
+  list_url: https://jobs.lenovo.com/en_US/careers/SearchJobs/?keyword=intern&jobRecordsPerPage=50
+  job_link: /careers/JobDetail/[^/]+/\d+
+  pages:
+    template: https://jobs.lenovo.com/en_US/careers/SearchJobs/?keyword=intern&jobRecordsPerPage=50&jobOffset={offset}
+    step: 50
+    max_pages: 6
+
+- name: Huawei
+  enabled: false   # Stellenportal nur auf Chinesisch
+  career_url: https://career.huawei.com/
+
+- name: Tencent
+  ats: browser
+  career_url: https://careers.tencent.com/en-us/
+  list_url: https://careers.tencent.com/en-us/search.html?query=intern
+  job_link: careers\.tencent\.com/.*jobdesc
+  pages:
+    template: https://careers.tencent.com/en-us/search.html?query=intern&index={page}
+    max_pages: 8
+
+- name: BYD
+  ats: greenhouse   # nur die Stellenbörse von BYD Nordamerika ist öffentlich abrufbar
+  url: https://boards.greenhouse.io/byd
+  career_url: https://www.bydeurope.com/careers
+
+- name: Xiaomi
+  enabled: false   # Stellenportal nur auf Chinesisch
+  career_url: https://xiaomi.jobs.feishu.cn/
+
+# ============================================================ Europa
+- name: OMV
+  ats: successfactors
+  url: https://jobs.omv.com
+  career_url: https://www.omv.com/en/careers
+
+- name: Red Bull
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/RedBull
+  career_url: https://jobs.redbull.com/
+
+- name: Verbund
+  enabled: false   # Stellenbörse beim Test nicht gefunden
+  career_url: https://www.verbund.com/de/karriere
+
+- name: Bulgarian Energy Holding
+  enabled: false   # keine Online-Stellenbörse
+  career_url: https://bgenh.com/en
+
+- name: UniCredit
+  ats: browser
+  career_url: https://careers.unicredit.eu/
+  list_url: https://careers.unicredit.eu/en_GB/jobsearch?keyword=intern
+  job_link: /JobDetail/
+
+- name: INA
+  enabled: false   # keine Online-Stellenbörse gefunden
+  career_url: https://www.ina.hr/
+
+- name: HEP
+  enabled: false   # keine Online-Stellenbörse gefunden
+  career_url: https://www.hep.hr/
+
+- name: Škoda
+  ats: successfactors
+  url: https://jobs.volkswagen-group.com/Skoda
+  career_url: https://jobs.volkswagen-group.com/Skoda
+
+- name: Novo Nordisk
+  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  career_url: https://www.novonordisk.com/careers/find-a-job.html
+
+- name: Maersk
+  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  career_url: https://www.maersk.com/careers/vacancies
+
+- name: LEGO
+  ats: workday
+  url: https://lego.wd103.myworkdayjobs.com/LEGO_External
+  career_url: https://www.lego.com/careers
+
+- name: Bolt
+  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  career_url: https://bolt.eu/en/careers/positions/
+
+- name: LVMH
+  enabled: false   # Karriereseite blockiert automatische Abrufe
+  career_url: https://www.lvmh.com/en/join-us
+
+- name: Reckitt (Durex)
+  ats: successfactors
+  url: https://careers.reckitt.com
+  career_url: https://careers.reckitt.com/
+
+- name: Nokia
+  ats: oracle
+  url: https://jobs.nokia.com/en/sites/CX_1
+  api_host: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com
+  career_url: https://jobs.nokia.com/
+
+- name: TotalEnergies
+  ats: browser
+  career_url: https://jobs.totalenergies.com/
+  list_url: https://jobs.totalenergies.com/en_US/careers/SearchJobs?keyword=intern&jobRecordsPerPage=50
+  job_link: /careers/JobDetail/[^/]+/\d+
+  extra_urls:
+    - https://jobs.totalenergies.com/en_US/careers/SearchJobs?keyword=internship&jobRecordsPerPage=50
+    - https://jobs.totalenergies.com/en_US/careers/SearchJobs?keyword=praktikum&jobRecordsPerPage=50
+
+- name: AXA
+  ats: browser
+  career_url: https://careers.axa.com/
+  list_url: https://careers.axa.com/careers-home/jobs?keywords=intern
+  job_link: careers\.axa\.com/careers-home/jobs/\d+
+  pages:
+    template: https://careers.axa.com/careers-home/jobs?keywords=intern&page={page}
+    max_pages: 10
+
+- name: BNP Paribas
+  enabled: false   # Karriereseite blockiert automatische Abrufe
+  career_url: https://group.bnpparibas/en/careers/all-job-offers
+
+- name: Renault
+  ats: workday
+  url: https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers
+  career_url: https://www.renaultgroup.com/en/careers/
+
+- name: Ryanair
+  ats: browser
+  career_url: https://careers.ryanair.com/
+  list_url: https://careers.ryanair.com/jobs/
+  job_link: careers\.ryanair\.com/jobs/[a-z0-9-]+/?$
+
+- name: Eni
+  ats: oracle
+  url: https://jobs.eni.com/en-US/sites/CX_1001
+  career_url: https://www.eni.com/en-IT/careers.html
+
+- name: Generali
+  enabled: false   # Stellenbörse beim Test nicht gefunden
+  career_url: https://www.generali.com/careers
+
+- name: Ferrero
+  ats: browser
+  career_url: https://www.ferrerocareers.com/
+  list_url: https://www.ferrerocareers.com/int/en/jobs?keywords=intern
+  job_link: ferrerocareers\.com/int/en/jobs/[a-z0-9-]{6,}
+
+- name: Ferrari
+  enabled: false   # Karriereseite blockiert automatische Abrufe
+  career_url: https://www.ferrari.com/en-EN/corporate/careers
+
+- name: airBaltic
+  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  career_url: https://careers.airbaltic.com/en/vacancies
+
+- name: HSBC
+  ats: browser
+  career_url: https://mycareer.hsbc.com/
+  list_url: https://mycareer.hsbc.com/en_GB/external/SearchJobs?keyword=intern
+  job_link: /JobDetail/
+
+- name: Stellantis
+  ats: browser
+  career_url: https://careers.stellantis.com/
+  list_url: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057
+  job_link: /job/job-[^/]+_\d+\.aspx
+  pages:
+    template: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page={page}&LCID=2057
+    max_pages: 25
+
+- name: ING
+  ats: radancy
+  url: https://careers.ing.com/en/search-jobs
+  career_url: https://careers.ing.com/
+
+- name: Philips
+  ats: workday
+  url: https://philips.wd3.myworkdayjobs.com/jobs-and-careers
+  career_url: https://www.careers.philips.com/
+
+- name: Heineken
+  ats: browser
+  career_url: https://careers.theheinekencompany.com/
+  list_url: https://careers.theheinekencompany.com/Job-Listing
+  job_link: theheinekencompany\.com/job/[^/]+/[^/]+/[^/?#]+
+
+- name: ASML
+  ats: browser
+  career_url: https://www.asml.com/en/careers/find-your-job
+  list_url: https://www.asml.com/en/careers/find-your-job?query=intern
+  job_link: /careers/find-your-job/[a-z0-9-]+-j\d+
+
+- name: Volvo Group
+  ats: successfactors
+  url: https://jobs.volvogroup.com
+  career_url: https://jobs.volvogroup.com/
+
+- name: Volvo Cars
+  ats: successfactors
+  url: https://jobs.volvocars.com
+  career_url: https://jobs.volvocars.com/
+
+- name: H&M
+  enabled: false   # Karriereseite blockiert automatische Abrufe
+  career_url: https://career.hm.com/
+
+- name: Spotify
   ats: lever
-  url: https://jobs.lever.co/palantir
-  career_url: https://www.palantir.com/careers/
+  url: https://jobs.lever.co/spotify
+  career_url: https://www.lifeatspotify.com/jobs
+
+- name: Roche
+  ats: workday
+  url: https://roche.wd3.myworkdayjobs.com/roche-ext
+  career_url: https://careers.roche.com/
+
+- name: UBS
+  enabled: false   # Stellenbörse beim Test nicht abrufbar
+  career_url: https://www.ubs.com/global/en/careers.html
+
+- name: Shell
+  ats: workday
+  url: https://shell.wd3.myworkdayjobs.com/ShellCareers
+  career_url: https://www.shell.com/careers.html
+
+- name: Unilever
+  ats: workday
+  urls:
+    - https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals
+    - https://unilever.wd3.myworkdayjobs.com/Unilever_Early_Careers
+  career_url: https://careers.unilever.com/
+
+- name: AstraZeneca
+  ats: workday
+  url: https://astrazeneca.wd3.myworkdayjobs.com/Careers
+  career_url: https://careers.astrazeneca.com/
+
+- name: Barclays
+  ats: workday
+  url: https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays
+  career_url: https://search.jobs.barclays/
+
+- name: Sky
+  ats: browser
+  career_url: https://careers.sky.com/
+  list_url: https://careers.sky.com/jobs
+  job_link: careers\.sky\.com/jobs/t-R\d+
+
+- name: DAZN
+  ats: pinpoint
+  url: https://careers.dazn.com
+  career_url: https://careers.dazn.com/
+
+# ============================================================ USA (nur US-Stellen)
+- name: Walmart
+  enabled: false   # schreibt fast nur Stellen in den USA aus, die die Seite ohnehin aussortiert
+  career_url: https://careers.walmart.com/
+
+# ============================================================ Australien & Neuseeland
+- name: BHP
+  ats: successfactors
+  url: https://careers.bhp.com
+  career_url: https://careers.bhp.com/
+
+- name: Wesfarmers
+  enabled: false   # keine zentrale Stellenbörse (Stellen laufen über die Tochterfirmen)
+  career_url: https://www.wesfarmers.com.au/careers
+
+- name: Coles Group
+  ats: phenom
+  url: https://colescareers.com.au/au/en/search-results
+  career_url: https://colescareers.com.au/
+
+- name: Commonwealth Bank
+  ats: workday
+  url: https://cba.wd3.myworkdayjobs.com/CommBank_Careers
+  career_url: https://www.commbank.com.au/about-us/careers.html
+
+- name: Woolworths
+  ats: browser
+  career_url: https://careers.woolworthsgroup.com.au/
+  list_url: https://careers.woolworthsgroup.com.au/en_GB/apply/search-jobs?keyword=intern&jobRecordsPerPage=50
+  job_link: /apply/JobDetail/[^/]+/\d+
+
+- name: Fonterra
+  ats: browser
+  career_url: https://careers.fonterra.com/
+  list_url: https://careers.fonterra.com/careers/SearchJobs?keyword=intern&jobRecordsPerPage=50
+  job_link: /careers/JobDetail/[^/]+/\d+
+
+- name: Fletcher Building
+  enabled: false   # Stellenbörse beim Test nicht gefunden
+  career_url: https://fletcherbuilding.com/careers
+
+- name: Foodstuffs
+  enabled: false   # Stellenbörse beim Test nicht erreichbar
+  career_url: https://www.foodstuffs.co.nz/
+
+- name: ANZ
+  ats: successfactors
+  url: https://careers.anz.com
+  career_url: https://careers.anz.com/
+
+- name: ASB Bank
+  enabled: false   # Stellenbörse beim Test nicht erreichbar
+  career_url: https://www.asb.co.nz/about-us/careers.html
+
+- name: Contact Energy
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/ContactEnergy
+  career_url: https://contact.co.nz/aboutus/careers
+
+# ============================================================ Japan & Korea
+- name: Honda
+  enabled: false   # Stellenbörse beim Test nicht gefunden
+  career_url: https://www.honda.de/karriere.html
+
+- name: Mitsubishi Electric
+  enabled: false   # Stellenbörse beim Test nicht gefunden
+  career_url: https://www.mitsubishielectric.com/en/careers/
+
+- name: Sony
+  ats: workday
+  url: https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers
+  career_url: https://www.sony.com/en/SonyInfo/Careers/
+
+- name: Panasonic
+  enabled: false   # Karriereseite blockiert automatische Abrufe
+  career_url: https://www.panasonic.com/global/corporate/careers.html
+
+- name: Hyundai
+  ats: successfactors
+  url: https://jobs.hyundai-europe.com
+  career_url: https://jobs.hyundai-europe.com/
+
+- name: Kia
+  enabled: false   # Karriereseite beim Test nicht erreichbar
+  career_url: https://www.kia.com/eu/about-kia/careers.html

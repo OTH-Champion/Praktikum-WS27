@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import os
 import sys
 import time
@@ -76,6 +77,10 @@ def all_companies(company_status: list[dict], jobs_out: list[dict], prev: dict) 
                  "note": "" if c.get("enabled", True) else "derzeit nicht automatisch abrufbar"}
         e["stellen"] = sum(1 for j in jobs_out if j["firma"] == name)
         out.append(e)
+        for sub in (c.get("unterfirmen") or {}):
+            se = dict(e, name=sub, career_url=(c.get("unterfirmen_urls") or {}).get(sub, career))
+            se["stellen"] = sum(1 for j in jobs_out if j["firma"] == sub)
+            out.append(se)
     return out
 
 
@@ -99,7 +104,7 @@ def evaluate(job: dict, comp: dict, geo: Geo, settings: dict) -> tuple[dict | No
     start, start_monat = textinfo.extract_start(text, posted or date.today().isoformat())
     modell = job.get("modell") or textinfo.guess_modell(text)
     return {
-        "url": job["url"], "company": comp["name"], "title": clean(job["title"]),
+        "url": job["url"], "company": company_for(job, comp), "title": clean(job["title"]),
         "posted": posted, "orte": orte, "fachbereich": a["fachbereich"], "arbeitsmodell": modell,
         "start": start, "start_monat": start_monat, "dauer": dauer, "dauer_wochen": wochen,
         "stunden": stunden, "stunden_num": h, "sprache": lang, "grund": a["grund"],
@@ -108,9 +113,31 @@ def evaluate(job: dict, comp: dict, geo: Geo, settings: dict) -> tuple[dict | No
 
 # --------------------------------------------------------------------------- Abruf je Firma
 def collect_http(comp: dict, http: Http, settings: dict) -> tuple[list[dict], object]:
-    ats = comp.get("ats") or detect_ats(comp.get("url", ""))
+    ats = comp.get("ats") or detect_ats(comp.get("url", "") or (comp.get("urls") or [""])[0])
     adapter = ADAPTERS[ats]
-    return adapter.list(http, comp, settings), adapter
+    urls = comp.get("urls") or [comp["url"]]
+    out, seen = [], set()
+    for u in urls:  # mehrere Stellenbörsen derselben Firma (z. B. Berufserfahrene + Nachwuchs)
+        for j in adapter.list(http, {**comp, "url": u}, settings):
+            if j["url"] not in seen:
+                seen.add(j["url"])
+                j["_src"] = u
+                out.append(j)
+    return out, adapter
+
+
+def names_of(comp: dict) -> list[str]:
+    """Firmenname plus Tochterfirmen, die auf derselben Stellenbörse ausgeschrieben werden."""
+    return [comp["name"]] + list((comp.get("unterfirmen") or {}).keys())
+
+
+def company_for(job: dict, comp: dict) -> str:
+    """Ordnet eine Stelle einer Tochterfirma zu, wenn deren Name im Titel, Ort oder Text vorkommt."""
+    hay = " ".join([job.get("title", ""), " ".join(job.get("locations") or []), (job.get("text") or "")[:1500]])
+    for name, rx in (comp.get("unterfirmen") or {}).items():
+        if re.search(rx or re.escape(name), hay, re.I):
+            return name
+    return comp["name"]
 
 
 class Browser:
@@ -215,7 +242,7 @@ def main() -> int:
                             d = fetch_detail(page, url, fast=comp.get("detail_fast", False))
                             d["locations"] = [d.get("location")] if d.get("location") else []
                         elif hasattr(adapter, "detail"):
-                            d = adapter.detail(http, comp, c)
+                            d = adapter.detail(http, {**comp, "url": c.get("_src") or comp.get("url")}, c)
                         else:
                             d = {}
                     except Exception as e:  # noqa: BLE001
@@ -267,13 +294,16 @@ def main() -> int:
         return 0
 
     # Firmen mit Fehler: alte Stellen einen Lauf lang behalten
-    failed = {s["name"] for s in company_status if not s["ok"]}
+    by_name = {c["name"]: c for c in companies}
+    failed = {n for s in company_status if not s["ok"] for n in names_of(by_name[s["name"]])}
     for url, j in state["jobs"].items():
         if j["company"] in failed and url not in active_urls and j.get("kept_runs", 0) < 1:
             j["kept_runs"] = j.get("kept_runs", 0) + 1
             active_urls.add(url)
-    queried = {c["name"] for c in companies}
-    state["jobs"] = {u: j for u, j in state["jobs"].items() if u in active_urls or j["company"] not in queried}
+    queried = {n for c in companies for n in names_of(c)}
+    configured = {n for c in (load_yaml(companies_file()) or []) for n in names_of(c)}
+    state["jobs"] = {u: j for u, j in state["jobs"].items()
+                     if j["company"] in configured and (u in active_urls or j["company"] not in queried)}
     for j in state["jobs"].values():
         if j["company"] not in failed:
             j.pop("kept_runs", None)

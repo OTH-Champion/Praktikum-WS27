@@ -30,10 +30,10 @@ LOAD_MORE = re.compile(
     re.I,
 )
 
-TITLE_KEYS = ("name", "title", "jobTitle", "job_title", "positionTitle", "postingTitle", "displayName")
-ID_KEYS = ("id", "jobId", "job_id", "jobReqId", "reqId", "requisitionId", "displayJobId", "ats_job_id")
-URL_KEYS = ("canonicalPositionUrl", "positionUrl", "jobUrl", "url", "applyUrl", "externalUrl", "link", "href")
-LOC_KEYS = ("location", "locations", "full_location", "short_location", "cityLabel", "city", "primaryLocation", "jobLocation", "locationName",
+TITLE_KEYS = ("name", "title", "RecruitPostName", "jobTitle", "job_title", "positionTitle", "postingTitle", "displayName")
+ID_KEYS = ("id", "jobId", "PostId", "job_id", "jobReqId", "reqId", "requisitionId", "displayJobId", "ats_job_id")
+URL_KEYS = ("canonicalPositionUrl", "PostURL", "positionUrl", "jobUrl", "url", "applyUrl", "externalUrl", "link", "href")
+LOC_KEYS = ("location", "locations", "LocationName", "full_location", "short_location", "cityLabel", "city", "primaryLocation", "jobLocation", "locationName",
             "standardizedLocations", "cityState", "workLocation")
 DATE_KEYS = ("posted_date", "publicationDate", "postingDate", "t_create", "postedTs", "postedDate", "datePosted", "createdDate", "publishedDate",
              "postingDate", "creationDate", "posted_on", "startDate_posted", "releasedDate", "posting_start_date")

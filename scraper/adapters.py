@@ -273,13 +273,14 @@ class SuccessFactors:
     def list(self, http, comp, settings):
         u = urlparse(comp["url"])
         base = f"{u.scheme}://{u.netloc}"
+        prefix = u.path.rstrip("/")  # z. B. careers.ey.com/ey -> /ey/search/
         locale = comp.get("locale", "en_US")
         out = []
         for term in _search_terms(comp, settings):
             for start in range(0, comp.get("max_rows", 500), 25):
                 q = urlencode({"q": term, "locale": locale, "startrow": start,
                                "sortColumn": "referencedate", "sortDirection": "desc"})
-                raw = http.get(f"{base}/search/?{q}", headers={"Accept": "text/html"}).text
+                raw = http.get(f"{base}{prefix}/search/?{q}", headers={"Accept": "text/html"}).text
                 rows = self.ROW.findall(raw)
                 if not rows:  # anderes Layout: alle Links auf /job/... nehmen
                     rows = [m.group(0) for m in re.finditer(r'<a[^>]+href="[^"]*/job/[^"]+"[^>]*>.*?</a>', raw, re.S | re.I)]
@@ -342,6 +343,206 @@ class Eightfold:
         return {"text": html_to_text(d.get("job_description"))}
 
 
+# --------------------------------------------------------------------------- Oracle Recruiting Cloud
+class OracleHCM:
+    """Karriereseiten von Oracle (…/hcmUI/CandidateExperience/… oder eigene Domain mit /sites/CX_1)
+
+    Konfiguration: url = Startseite der Stellenbörse (z. B. https://jobs.nokia.com/en/sites/CX_1),
+    optional api_host (Oracle-Server, falls die eigene Domain die Schnittstelle nicht durchreicht).
+    """
+
+    def _cfg(self, comp):
+        u = urlparse(comp["url"])
+        site = comp.get("site") or (re.search(r"/sites/([A-Za-z0-9_]+)", u.path) or [None, "CX_1"])[1]
+        api = comp.get("api_host") or f"{u.scheme}://{u.netloc}"
+        lang = (re.search(r"^/([a-z]{2}(?:-[A-Z]{2})?)/", u.path) or [None, "en"])[1]
+        return f"{u.scheme}://{u.netloc}", api.rstrip("/"), site, lang
+
+    def list(self, http, comp, settings):
+        base, api, site, lang = self._cfg(comp)
+        out = []
+        for term in _search_terms(comp, settings):
+            for offset in range(0, comp.get("max_rows", 500), 25):
+                finder = (f'findReqs;siteNumber={site},limit=25,offset={offset},keyword="{term}",'
+                          f'sortBy=POSTING_DATES_DESC')
+                url = (f"{api}/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true"
+                       f"&expand=requisitionList.secondaryLocations&finder={finder}")
+                data = http.json(url)
+                items = (data.get("items") or [{}])[0]
+                reqs = items.get("requisitionList") or []
+                for r in reqs:
+                    locs = [r.get("PrimaryLocation") or ""] + [x.get("Name", "") for x in r.get("secondaryLocations") or []]
+                    out.append({
+                        "url": f"{base}/{lang}/sites/{site}/job/{r['Id']}",
+                        "title": clean(r.get("Title")),
+                        "locations": [l for l in locs if l],
+                        "country_hints": [r["PrimaryLocationCountry"]] if r.get("PrimaryLocationCountry") else [],
+                        "posted": parse_date(r.get("PostedDate")),
+                        "department": r.get("JobFamily") or "",
+                        "ref": r["Id"],
+                    })
+                if len(reqs) < 25:
+                    break
+        return _uniq(out)
+
+    def detail(self, http, comp, job):
+        base, api, site, lang = self._cfg(comp)
+        url = (f"{api}/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails?expand=all&onlyData=true"
+               f'&finder=ById;Id="{job["ref"]}",siteNumber={site}')
+        d = (http.json(url).get("items") or [{}])[0]
+        text = " ".join(html_to_text(d.get(k)) for k in ("ExternalDescriptionStr", "ExternalResponsibilitiesStr",
+                                                          "ExternalQualificationsStr", "CorporateDescriptionStr") if d.get(k))
+        locs = [d.get("PrimaryLocation") or ""] + [x.get("Name", "") for x in d.get("secondaryLocations") or []]
+        return {"text": text, "locations": [l for l in locs if l], "extra": clean(d.get("JobSchedule") or "")}
+
+
+# --------------------------------------------------------------------------- Phenom
+class Phenom:
+    """Karriereseiten von Phenom People (…/<land>/<sprache>/search-results, Daten über POST /widgets).
+    Konfiguration: url = Suchseite, z. B. https://careers.dhl.com/global/en/search-results
+    """
+
+    def _cfg(self, http, comp):
+        u = urlparse(comp["url"])
+        base = f"{u.scheme}://{u.netloc}"
+        segs = [x for x in u.path.split("/") if x]
+        country, lang = (segs[0], segs[1]) if len(segs) >= 2 else ("global", "en")
+        raw = http.get(comp["url"], headers={"Accept": "text/html"}).text
+        ref = comp.get("refnum") or (re.search(r'"refNum"\s*:\s*"([^"]+)"', raw) or [None, None])[1]
+        locale = (re.search(r'"locale"\s*:\s*"([a-z]{2}_[a-z]{2,})"', raw) or [None, f"{lang}_{country}"])[1]
+        return base, country, lang, ref, locale, raw
+
+    def list(self, http, comp, settings):
+        base, country, lang, ref, locale, raw = self._cfg(http, comp)
+        if not ref:
+            print(f"    [phenom] keine refNum gefunden, Seite {len(raw)} Zeichen")
+            return []
+        out = []
+        for term in _search_terms(comp, settings):
+            for start in range(0, comp.get("max_rows", 600), 50):
+                body = {"lang": locale, "deviceType": "desktop", "country": country, "pageName": "search-results",
+                        "ddoKey": "refineSearch", "sortBy": "Most recent", "subsearch": "", "from": start, "jobs": True,
+                        "counts": False, "all_fields": [], "size": 50, "clearAll": False, "jdsource": "facets",
+                        "isSliderEnable": False, "pageId": "page20", "siteType": "external", "keywords": term,
+                        "global": True, "selected_fields": {}, "locationData": {}, "refNum": ref}
+                data = http.json(f"{base}/widgets", method="POST", json=body,
+                                 headers={"Content-Type": "application/json", "Referer": comp["url"]})
+                jobs = ((data.get("refineSearch") or {}).get("data") or {}).get("jobs") or []
+                for j in jobs:
+                    slug = re.sub(r"[^A-Za-z0-9]+", "-", j.get("title") or "job").strip("-")
+                    locs = j.get("multi_location") or [j.get("location") or ", ".join(
+                        x for x in (j.get("city"), j.get("country")) if x)]
+                    out.append({
+                        "url": f"{base}/{country}/{lang}/job/{j.get('jobId')}/{slug}",
+                        "title": clean(j.get("title")),
+                        "locations": [l for l in locs if l],
+                        "posted": parse_date(j.get("postedDate") or j.get("dateCreated")),
+                        "department": j.get("category") or "",
+                    })
+                if start == 0 and term == _search_terms(comp, settings)[0]:
+                    print(f"    [phenom] refNum {ref}, Seite 1: {len(jobs)} Stellen")
+                if len(jobs) < 50:
+                    break
+        return _uniq(out)
+
+    def detail(self, http, comp, job):
+        return fetch_html_detail(http, job["url"])
+
+
+# --------------------------------------------------------------------------- Pinpoint
+class Pinpoint:
+    """Karriereseiten von Pinpoint (…/postings.json)"""
+
+    def list(self, http, comp, settings):
+        u = urlparse(comp["url"])
+        base = f"{u.scheme}://{u.netloc}"
+        data = http.json(f"{base}/postings.json")
+        items = data.get("data") if isinstance(data, dict) else data
+        out = []
+        for p in items or []:
+            loc = p.get("location") or {}
+            if isinstance(loc, dict):
+                loc = loc.get("name") or ", ".join(x for x in (loc.get("city"), loc.get("province"), loc.get("country")) if x)
+            url = p.get("url") or urljoin(base, p.get("path") or f"/en/postings/{p.get('id')}")
+            text = " ".join(html_to_text(p.get(k)) for k in ("description", "key_responsibilities", "skills_knowledge_expertise",
+                                                             "benefits") if p.get(k))
+            out.append({
+                "url": url, "title": clean(p.get("title")), "locations": [loc] if loc else [],
+                "posted": parse_date(p.get("published_at") or p.get("created_at")),
+                "department": (p.get("department") or {}).get("name", "") if isinstance(p.get("department"), dict) else "",
+                "text": text,
+                "modell": clean(p.get("workplace_type_text") or p.get("workplace_type") or ""),
+            })
+        return _uniq(out)
+
+
+# --------------------------------------------------------------------------- Radancy (TalentBrew)
+class Radancy:
+    """Karriereseiten von Radancy/TalentBrew, erkennbar an Links wie /job/<ort>/<titel>/<id>/<id>
+    oder /stellenbeschreibung/... Konfiguration: url = Suchseite, z. B. https://careers.ing.com/en/search-jobs
+    """
+
+    LINK = re.compile(r'<a[^>]+href="([^"]*/(?:job|jobs|stellenbeschreibung|trabajo|post-vacant|emploi|lavoro)/[^"]+/\d+/\d+)"[^>]*>(.*?)</a>',
+                      re.S | re.I)
+    LOC = re.compile(r'class="[^"]*job-location[^"]*"[^>]*>(.*?)</span>', re.S | re.I)
+    DATE = re.compile(r'class="[^"]*job-date-posted[^"]*"[^>]*>(.*?)</span>', re.S | re.I)
+
+    def list(self, http, comp, settings):
+        u = urlparse(comp["url"])
+        base = f"{u.scheme}://{u.netloc}"
+        path = u.path.rstrip("/")
+        lang = (re.match(r"^/([a-z]{2}(?:-[a-z]{2})?)(?:/|$)", path) or [None, ""])[1]
+        cands = [path] if path.endswith("search-jobs") else []
+        cands += [f"/{lang}/search-jobs" if lang else "", "/search-jobs", path]
+        out = []
+        for cand in dict.fromkeys(c for c in cands if c):
+            path = cand
+            try:
+                r = http.get(f"{base}{path}/results?Keywords=intern&CurrentPage=1&RecordsPerPage=15",
+                             headers={"X-Requested-With": "XMLHttpRequest"})
+            except Exception:  # noqa: BLE001
+                continue
+            if r.status_code == 200 and self.LINK.search(r.text.replace('\\"', '"').replace("\\/", "/")):
+                break
+        print(f"    [radancy] Suchpfad {path}")
+        for term in _search_terms(comp, settings):
+            for page in range(1, comp.get("max_pages", 15) + 1):
+                q = urlencode({"ActiveFacetID": 0, "CurrentPage": page, "RecordsPerPage": 100, "Distance": 50,
+                               "RadiusUnitType": 0, "Keywords": term, "Location": "", "ShowRadius": "False",
+                               "IsPagination": "False", "SearchResultsModuleName": "Search Results",
+                               "SearchFiltersModuleName": "Search Filters", "SortCriteria": 0, "SortDirection": 0,
+                               "SearchType": 5, "ResultsType": 0})
+                r = http.get(f"{base}{path}/results?{q}", headers={"X-Requested-With": "XMLHttpRequest",
+                                                                    "Accept": "application/json, text/html"})
+                try:
+                    raw = r.json().get("results") or ""
+                except Exception:  # noqa: BLE001
+                    raw = r.text
+                found = 0
+                for li in re.split(r"<li[\s>]", raw)[1:]:
+                    m = self.LINK.search(li)
+                    if not m:
+                        continue
+                    found += 1
+                    title = re.search(r"<h[23][^>]*>(.*?)</h[23]>", m.group(2), re.S)
+                    loc = self.LOC.search(li)
+                    dt = self.DATE.search(li)
+                    out.append({
+                        "url": urljoin(base, m.group(1)),
+                        "title": clean(html_to_text(title.group(1) if title else m.group(2))),
+                        "locations": [clean(html_to_text(loc.group(1)))] if loc else [],
+                        "posted": parse_date(html_to_text(dt.group(1))) if dt else None,
+                    })
+                if page == 1 and term == _search_terms(comp, settings)[0]:
+                    print(f"    [radancy] Seite 1: {found} Stellen")
+                if found < 100:
+                    break
+        return _uniq(out)
+
+    def detail(self, http, comp, job):
+        return fetch_html_detail(http, job["url"])
+
+
 # --------------------------------------------------------------------------- Detailseite per HTML (ohne Browser)
 def _jsonld(raw: str) -> dict:
     for m in re.finditer(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', raw, re.S | re.I):
@@ -394,6 +595,8 @@ def fetch_html_detail(http, url: str) -> dict:
 
 
 ADAPTERS = {
+    "oracle": OracleHCM(), "phenom": Phenom(), "pinpoint": Pinpoint(),
+    "radancy": Radancy(),
     "workday": Workday(), "greenhouse": Greenhouse(), "lever": Lever(), "smartrecruiters": SmartRecruiters(),
     "ashby": Ashby(), "personio": Personio(), "recruitee": Recruitee(), "successfactors": SuccessFactors(),
     "eightfold": Eightfold(),

@@ -165,7 +165,20 @@ async def visit(browser, name, url, sem):
         page.on("response", on_resp)
         try:
             await page.goto(url, timeout=90000, wait_until="domcontentloaded")
-            await page.wait_for_timeout(12000)
+            await page.wait_for_timeout(6000)
+            for sel in ("#onetrust-reject-all-handler", "#onetrust-accept-btn-handler", "button#CybotCookiebotDialogBodyButtonDecline",
+                        "[data-testid='uc-deny-all-button']", "button:has-text('Alle ablehnen')", "button:has-text('Reject all')",
+                        "button:has-text('Accept all')", "button:has-text('Alle akzeptieren')"):
+                try:
+                    if await page.locator(sel).first.is_visible(timeout=300):
+                        await page.locator(sel).first.click(timeout=1500)
+                        break
+                except Exception:
+                    pass
+            for _ in range(4):
+                await page.mouse.wheel(0, 3000)
+                await page.wait_for_timeout(1500)
+            await page.wait_for_timeout(3000)
             res["final"] = page.url
             res["title"] = await page.title()
             html = await page.content()
@@ -183,7 +196,7 @@ async def visit(browser, name, url, sem):
         for l in links:
             if JOBLINK.search(l) and l not in seen and not l.startswith("mailto"):
                 seen.append(l)
-        res["links"] = seen[:25]
+        res["links"] = [l for l in seen if re.search(r"\d{4,}|job|stelle|vacanc|position|offer", l, re.I)][:30]
         res["patterns"] = patterns(links)
         res["jsons"] = jsons[:4]
         res["api"] = []
@@ -257,7 +270,7 @@ async def main():
             lines.append(f"   json: {l}")
         for l in r.get("patterns", []):
             lines.append(f"   pattern: {l}")
-        for l in r["links"][:6]:
+        for l in r["links"][:30]:
             lines.append(f"   link: {l}")
     TXT.write_text("\n".join(lines))
 
