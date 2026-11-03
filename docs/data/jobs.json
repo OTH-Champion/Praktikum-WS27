@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-03T12:34+00:00",
+ "aktualisiert": "2026-11-03T12:43+00:00",
  "firmen": [
   {
    "name": "SAP",
@@ -52,12 +52,159 @@
  ],
  "stellen": [
   {
+   "titel": "Ecosystem Partnership Marketing Intern",
+   "firma": "Infineon",
+   "orte": [
+    {
+     "land": "CN",
+     "stadt": "Shanghai"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.infineon.com/careers/job/563808972299825"
+  },
+  {
+   "titel": "Pflichtpraktikum Organisationsentwicklung und Strategie im internationalen Team",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159310869"
+  },
+  {
+   "titel": "Pflichtpraktikum im Event- und Social Media Marketing",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Leinfelden-Echterdingen"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159317070"
+  },
+  {
+   "titel": "Praktikum im Bereich Marketing und Kommunikation",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159321969"
+  },
+  {
+   "titel": "Pflichtpraktikum im Bereich Technische Redaktion",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Schwäbisch Gmünd"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159322979"
+  },
+  {
+   "titel": "Praktikum Vorratsbewertung",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Schwäbisch Gmünd"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "4–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159324299"
+  },
+  {
+   "titel": "Pflichtpraktikum Automatisierung Operative Logistik",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bühl"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159345145"
+  },
+  {
    "titel": "Undergraduate Placement Year 2027 – Quality Projects Intern",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Worcester",
-     "land": "GB"
+     "land": "GB",
+     "stadt": "Worcester"
     }
    ],
    "fachbereich": "Projektmanagement",
@@ -77,8 +224,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Chesterfield",
-     "land": "GB"
+     "land": "GB",
+     "stadt": "Chesterfield"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -94,222 +241,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159365257"
   },
   {
-   "titel": "Pflichtpraktikum Organisationsentwicklung und Strategie im internationalen Team",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159310869"
-  },
-  {
-   "titel": "Pflichtpraktikum Automatisierung Operative Logistik",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Bühl",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159345145"
-  },
-  {
-   "titel": "Praktikum Vorratsbewertung",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Schwäbisch Gmünd",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "4–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159324299"
-  },
-  {
-   "titel": "Pflichtpraktikum im Bereich Technische Redaktion",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Schwäbisch Gmünd",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159322979"
-  },
-  {
-   "titel": "Praktikum im Bereich Marketing und Kommunikation",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159321969"
-  },
-  {
-   "titel": "Pflichtpraktikum im Event- und Social Media Marketing",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Leinfelden-Echterdingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159317070"
-  },
-  {
-   "titel": "Ecosystem Partnership Marketing Intern",
+   "titel": "Internship - IT Business Analyst (B2B)",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Shanghai",
-     "land": "CN"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.infineon.com/careers/job/563808972299825"
-  },
-  {
-   "titel": "Praktikum im Digitalen Vertrieb und Marketing für Industriegüter",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Lohr am Main",
-     "land": "DE"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
    "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159149190"
-  },
-  {
-   "titel": "Intern, HR (Employer Branding & Talent Engagement)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
+   "start": "Mai 2027",
+   "start_monat": "2027-05",
    "dauer": "k. A.",
    "dauer_wochen": null,
    "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-02",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159108155"
-  },
-  {
-   "titel": "Praktikum im Bereich Digital Learning und SAP S/4HANA Training",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-11-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159099629"
+   "link": "https://jobs.infineon.com/careers/job/563808972299822"
   },
   {
    "titel": "Pflichtpraktikum im Bereich Logistik",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Salzgitter",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Salzgitter"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -329,8 +287,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Salzgitter",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Salzgitter"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -346,54 +304,75 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159063394"
   },
   {
-   "titel": "Internship - IT Business Analyst (B2B)",
-   "firma": "Infineon",
+   "titel": "Praktikum im Bereich Digital Learning und SAP S/4HANA Training",
+   "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
    "arbeitsmodell": "Hybrid",
-   "start": "Mai 2027",
-   "start_monat": "2027-05",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-11-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159099629"
+  },
+  {
+   "titel": "Intern, HR (Employer Branding & Talent Engagement)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
    "dauer": "k. A.",
    "dauer_wochen": null,
    "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-02",
    "datum_geschaetzt": false,
-   "link": "https://jobs.infineon.com/careers/job/563808972299822"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159108155"
   },
   {
-   "titel": "Praktikum in der Logistikplanung Schrägachse/Schrägscheibe",
+   "titel": "Praktikum im Digitalen Vertrieb und Marketing für Industriegüter",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Elchingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Lohr am Main"
     }
    ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
+   "veroeffentlicht": "2026-11-02",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158730840"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159149190"
   },
   {
    "titel": "Internal Communications & Digital Workplace Intern",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Yokohama",
-     "land": "JP"
+     "land": "JP",
+     "stadt": "Yokohama"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -409,96 +388,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158661249"
   },
   {
-   "titel": "Pflichtpraktikum in der Produktkommunikation",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Plochingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158742789"
-  },
-  {
-   "titel": "Praktikum im Bereich Brandschutz und Gefahrenabwehr",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Dresden",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158735069"
-  },
-  {
-   "titel": "Praktikum in der Ersatzteillogistik",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Lollar",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158719999"
-  },
-  {
-   "titel": "Praktikum Graphic Design & Digital Content Production",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Wernau",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158717724"
-  },
-  {
    "titel": "Praktikum im Bereich Werkslogistik Informationsfluss - remote möglich",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lohr am Main",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Lohr am Main"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -514,12 +409,54 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158697024"
   },
   {
-   "titel": "Praktikum im Bereich Logistik",
+   "titel": "Praktikum Graphic Design & Digital Content Production",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lollar",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Wernau"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158717724"
+  },
+  {
+   "titel": "Praktikum in der Ersatzteillogistik",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Lollar"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158719999"
+  },
+  {
+   "titel": "Praktikum in der Logistikplanung Schrägachse/Schrägscheibe",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Elchingen"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -530,41 +467,20 @@
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
+   "veroeffentlicht": "2026-10-30",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158471059"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158730840"
   },
   {
-   "titel": "Praktikum Personalmanagement",
+   "titel": "Praktikum im Bereich Brandschutz und Gefahrenabwehr",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lohr am Main",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Dresden"
     }
    ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158505538"
-  },
-  {
-   "titel": "Praktikum Digitale Kommunikation",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Karlsruhe",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
+   "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "k. A.",
    "start": "März 2027",
    "start_monat": "2027-03",
@@ -572,17 +488,59 @@
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158735069"
+  },
+  {
+   "titel": "Pflichtpraktikum in der Produktkommunikation",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Plochingen"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158742789"
+  },
+  {
+   "titel": "Internship - Regional Distribution Centre Logistics Management",
+   "firma": "Infineon",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "Mai 2027",
+   "start_monat": "2027-05",
+   "dauer": "6–12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
    "veroeffentlicht": "2026-10-29",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158505240"
+   "link": "https://jobs.infineon.com/careers/job/563808972275353"
   },
   {
    "titel": "Praktikum: Supply Chain Management (w/m/div)",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Warstein",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Warstein"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -602,8 +560,8 @@
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Shanghai",
-     "land": "CN"
+     "land": "CN",
+     "stadt": "Shanghai"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -619,138 +577,75 @@
    "link": "https://jobs.infineon.com/careers/job/563808972286824"
   },
   {
-   "titel": "Internship - Regional Distribution Centre Logistics Management",
-   "firma": "Infineon",
+   "titel": "Praktikum im Bereich Logistik",
+   "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "DE",
+     "stadt": "Lollar"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "Mai 2027",
-   "start_monat": "2027-05",
-   "dauer": "6–12 Monate",
-   "dauer_wochen": 52.1,
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-10-29",
    "datum_geschaetzt": false,
-   "link": "https://jobs.infineon.com/careers/job/563808972275353"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158471059"
   },
   {
-   "titel": "Praktikum Retail Marketing im nationalen und internationalen Key Account Management",
+   "titel": "Praktikum Digitale Kommunikation",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Leinfelden-Echterdingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158339389"
-  },
-  {
-   "titel": "Technical Sales & Project Management Internship",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Turin",
-     "land": "IT"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158265839"
-  },
-  {
-   "titel": "Pflichtpraktikum in Change Management und Kommunikation",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158253839"
-  },
-  {
-   "titel": "HR Generalist - Curricular Internship (m/f/d)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Modena",
-     "land": "IT"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158238769"
-  },
-  {
-   "titel": "Praktikum Digitalisierung in der Logistik",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Karlsruhe"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-10-28",
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158260529"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158505240"
+  },
+  {
+   "titel": "Praktikum Personalmanagement",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Lohr am Main"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158505538"
   },
   {
    "titel": "Internship - Corporate Strategy (f/m/div)",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "München",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "München"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -766,36 +661,36 @@
    "link": "https://jobs.infineon.com/careers/job/563808972283665"
   },
   {
-   "titel": "Praktikum Interne Kommunikation und Presse",
+   "titel": "HR Generalist - Curricular Internship (m/f/d)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Karlsruhe",
-     "land": "DE"
+     "land": "IT",
+     "stadt": "Modena"
     }
    ],
-   "fachbereich": "Marketing & Kommunikation",
+   "fachbereich": "Personal (HR)",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
+   "veroeffentlicht": "2026-10-28",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158053455"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158238769"
   },
   {
-   "titel": "Pflichtpraktikum im Bereich Applikation Steuergeräte im Fahrzeug",
+   "titel": "Pflichtpraktikum in Change Management und Kommunikation",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Schwieberdingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
-   "fachbereich": "Finanzen & Controlling",
+   "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
@@ -803,83 +698,62 @@
    "dauer_wochen": 26.1,
    "stunden": "35 Std.",
    "stunden_num": 35.0,
-   "veroeffentlicht": "2026-10-27",
+   "veroeffentlicht": "2026-10-28",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157971820"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158253839"
   },
   {
-   "titel": "Pflichtpraktikum im Bereich Corporate Strategy",
+   "titel": "Praktikum Digitalisierung in der Logistik",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Gerlingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
-   "fachbereich": "Business Development & Strategie",
+   "fachbereich": "Digitalisierung, Daten & KI",
    "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-10-28",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158003862"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158260529"
   },
   {
-   "titel": "Praktikum in der werblichen Produktkommunikation",
+   "titel": "Technical Sales & Project Management Internship",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Karlsruhe",
-     "land": "DE"
+     "land": "IT",
+     "stadt": "Turin"
     }
    ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "stunden": "k. A.",
+   "stunden": "Vollzeit",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
+   "veroeffentlicht": "2026-10-28",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157999429"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158265839"
   },
   {
-   "titel": "Pflichtpraktikum Projektmanagement – Neuanlauf & Fertigung von Steuergeräten",
+   "titel": "Praktikum Retail Marketing im nationalen und internationalen Key Account Management",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Salzgitter",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Leinfelden-Echterdingen"
     }
    ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "Präsenz",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157967209"
-  },
-  {
-   "titel": "Praktikum HR Betreuung und Talent Attraction",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Lohr am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
+   "fachbereich": "Vertrieb & Kundenmanagement",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
@@ -887,38 +761,17 @@
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
+   "veroeffentlicht": "2026-10-28",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157961444"
-  },
-  {
-   "titel": "Praktikum im Bereich HR-Recruiting und Talent Attraction",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Lohr am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157961350"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158339389"
   },
   {
    "titel": "Intern, SMA",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Shanghai",
-     "land": "CN"
+     "land": "CN",
+     "stadt": "Shanghai"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -934,36 +787,15 @@
    "link": "https://jobs.infineon.com/careers/job/563808972281197"
   },
   {
-   "titel": "Academic Internship in Finance (f/m/div.)",
+   "titel": "Praktikum im Bereich HR-Recruiting und Talent Attraction",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Braga",
-     "land": "PT"
+     "land": "DE",
+     "stadt": "Lohr am Main"
     }
    ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157867680"
-  },
-  {
-   "titel": "Praktikum Customer Experience & Product Improvement für unsere digitalen Lösungen",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Leinfelden-Echterdingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
+   "fachbereich": "Personal (HR)",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
@@ -971,17 +803,143 @@
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
+   "veroeffentlicht": "2026-10-27",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157815589"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157961350"
+  },
+  {
+   "titel": "Praktikum HR Betreuung und Talent Attraction",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Lohr am Main"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157961444"
+  },
+  {
+   "titel": "Pflichtpraktikum Projektmanagement – Neuanlauf & Fertigung von Steuergeräten",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Salzgitter"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "Präsenz",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157967209"
+  },
+  {
+   "titel": "Pflichtpraktikum im Bereich Applikation Steuergeräte im Fahrzeug",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Schwieberdingen"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157971820"
+  },
+  {
+   "titel": "Praktikum in der werblichen Produktkommunikation",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Karlsruhe"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157999429"
+  },
+  {
+   "titel": "Pflichtpraktikum im Bereich Corporate Strategy",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Gerlingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158003862"
+  },
+  {
+   "titel": "Praktikum Interne Kommunikation und Presse",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Karlsruhe"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158053455"
   },
   {
    "titel": "Estudiante en prácticas –Coordinación de Repuestos en Compras y apoyo al Gestor (ATMO-2ES/PUL11-mecanizado)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -997,33 +955,54 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157785131"
   },
   {
-   "titel": "Purchasing - Curricular Internship (m/f/d)",
+   "titel": "Praktikum Customer Experience & Product Improvement für unsere digitalen Lösungen",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Nonantola",
-     "land": "IT"
+     "land": "DE",
+     "stadt": "Leinfelden-Echterdingen"
     }
    ],
-   "fachbereich": "Einkauf & Supply Chain",
+   "fachbereich": "Digitalisierung, Daten & KI",
    "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157815589"
+  },
+  {
+   "titel": "Academic Internship in Finance (f/m/div.)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "PT",
+     "stadt": "Braga"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "k. A.",
    "dauer_wochen": null,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-23",
+   "veroeffentlicht": "2026-10-26",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157503109"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157867680"
   },
   {
    "titel": "Estudiante en prácticas – departamento de Industria 4.0 y digitalización",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -1039,12 +1018,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157427674"
   },
   {
+   "titel": "Purchasing - Curricular Internship (m/f/d)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Nonantola"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-23",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157503109"
+  },
+  {
    "titel": "Praktikum im Internationalen Key Account Management",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Leinfelden-Echterdingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Leinfelden-Echterdingen"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -1064,8 +1064,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -1081,96 +1081,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000157078502"
   },
   {
-   "titel": "Finance and Accounting Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Coventry",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Präsenz",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156818859"
-  },
-  {
-   "titel": "Finance Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156712429"
-  },
-  {
-   "titel": "Praktikum HR Personalbetreuung und -entwicklung",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Elchingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156811180"
-  },
-  {
-   "titel": "Pflichtpraktikum Hyperautomation und Business Process Management",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156774759"
-  },
-  {
    "titel": "Internship - Procurement (f/m/div)",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Villach",
-     "land": "AT"
+     "land": "AT",
+     "stadt": "Villach"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -1186,15 +1102,57 @@
    "link": "https://jobs.infineon.com/careers/job/563808972212498"
   },
   {
-   "titel": "IT Compliance Intern in Regulatory Excellence (f/m)",
+   "titel": "Finance Intern",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Warschau",
-     "land": "PL"
+     "land": "GB",
+     "stadt": "Denham"
     }
    ],
-   "fachbereich": "Recht & Compliance",
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156712429"
+  },
+  {
+   "titel": "Pflichtpraktikum Hyperautomation und Business Process Management",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156774759"
+  },
+  {
+   "titel": "Praktikum HR Personalbetreuung und -entwicklung",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Elchingen"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
@@ -1202,122 +1160,38 @@
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
+   "veroeffentlicht": "2026-10-21",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156542079"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156811180"
   },
   {
-   "titel": "Internship in Human Resources",
+   "titel": "Finance and Accounting Intern",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Tranås",
-     "land": "SE"
+     "land": "GB",
+     "stadt": "Coventry"
     }
    ],
-   "fachbereich": "Personal (HR)",
+   "fachbereich": "Finanzen & Controlling",
    "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156530740"
-  },
-  {
-   "titel": "Pflichtpraktikum in der Personalabteilung - Gesundheit- und DEI-Management",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156523239"
-  },
-  {
-   "titel": "PT Data Analysis & Marketing/Sales Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Präsenz",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
    "dauer": "12 Monate",
    "dauer_wochen": 52.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
+   "veroeffentlicht": "2026-10-21",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156507176"
-  },
-  {
-   "titel": "Supply Chain Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156501729"
-  },
-  {
-   "titel": "PT Marketing Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156495561"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156818859"
   },
   {
    "titel": "Foreign Trade Operations Intern",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Denham",
-     "land": "GB"
+     "land": "GB",
+     "stadt": "Denham"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -1333,75 +1207,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156470969"
   },
   {
-   "titel": "Extracurricular Internship – Talent Acquisiton & Sourcer (f/m/div.)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Lissabon",
-     "land": "PT"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156487320"
-  },
-  {
-   "titel": "Pflichtpraktikum im Bereich Marketing Kommunikation",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156498539"
-  },
-  {
-   "titel": "Praktikum im internationalen Vertrieb für Lenksysteme",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Schwäbisch Gmünd",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Präsenz",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156490045"
-  },
-  {
    "titel": "Praktikum im internationalen Vertrieb",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Karlsruhe",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Karlsruhe"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -1417,33 +1228,201 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156487095"
   },
   {
-   "titel": "Mandatory Internship Strategic Purchasing of Logistic Transport Services",
+   "titel": "Extracurricular Internship – Talent Acquisiton & Sourcer (f/m/div.)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "PT",
+     "stadt": "Lissabon"
     }
    ],
-   "fachbereich": "Business Development & Strategie",
+   "fachbereich": "Personal (HR)",
    "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156487320"
+  },
+  {
+   "titel": "Praktikum im internationalen Vertrieb für Lenksysteme",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Schwäbisch Gmünd"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Präsenz",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156490045"
+  },
+  {
+   "titel": "PT Marketing Intern",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Denham"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156495561"
+  },
+  {
+   "titel": "Pflichtpraktikum im Bereich Marketing Kommunikation",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156498539"
+  },
+  {
+   "titel": "Supply Chain Intern",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Denham"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156501729"
+  },
+  {
+   "titel": "PT Data Analysis & Marketing/Sales Intern",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Denham"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Präsenz",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156507176"
+  },
+  {
+   "titel": "Pflichtpraktikum in der Personalabteilung - Gesundheit- und DEI-Management",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156523239"
+  },
+  {
+   "titel": "Internship in Human Resources",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "SE",
+     "stadt": "Tranås"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Präsenz",
    "start": "März 2027",
    "start_monat": "2027-03",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-19",
+   "veroeffentlicht": "2026-10-20",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156288349"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156530740"
+  },
+  {
+   "titel": "IT Compliance Intern in Regulatory Excellence (f/m)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "PL",
+     "stadt": "Warschau"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156542079"
   },
   {
    "titel": "Pflichtpraktikum in der Personalabteilung (m/w/div.)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Waiblingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Waiblingen"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -1459,117 +1438,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156232819"
   },
   {
-   "titel": "Internship Quality Coordination Support",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Anderlecht",
-     "land": "BE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-19",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156330364"
-  },
-  {
-   "titel": "Praktikum Key Account Management / Marketing",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Leinfelden-Echterdingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-19",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156317179"
-  },
-  {
-   "titel": "Pflichtpraktikum im Technischen Vertrieb",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart-Feuerbach",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-10-19",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156294145"
-  },
-  {
-   "titel": "Pflichtpraktikum im Strategischen Einkauf von Logistik-Transportdienstleistungen (w/m/div.)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-19",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156288419"
-  },
-  {
-   "titel": "Praktikum im Bereich Digitalisierung und Automatisierung (w/m/div.)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Abstatt",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-19",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156251829"
-  },
-  {
    "titel": "Praktikum im Sales und Marketing (w/m/d) REF298875D",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Frauenfeld",
-     "land": "CH"
+     "land": "CH",
+     "stadt": "Frauenfeld"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -1585,75 +1459,138 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156247699"
   },
   {
-   "titel": "Mandatory Internship in Strategic Purchasing of Logistic Transport Services",
+   "titel": "Praktikum im Bereich Digitalisierung und Automatisierung (w/m/div.)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Abstatt"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156251829"
+  },
+  {
+   "titel": "Mandatory Internship Strategic Purchasing of Logistic Transport Services",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Business Development & Strategie",
    "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156288349"
+  },
+  {
+   "titel": "Pflichtpraktikum im Strategischen Einkauf von Logistik-Transportdienstleistungen (w/m/div.)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156288419"
+  },
+  {
+   "titel": "Pflichtpraktikum im Technischen Vertrieb",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart-Feuerbach"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156294145"
+  },
+  {
+   "titel": "Praktikum Key Account Management / Marketing",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Leinfelden-Echterdingen"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156317179"
+  },
+  {
+   "titel": "Internship Quality Coordination Support",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "BE",
+     "stadt": "Anderlecht"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
    "start": "Januar 2027",
    "start_monat": "2027-01",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
+   "veroeffentlicht": "2026-10-19",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155984519"
-  },
-  {
-   "titel": "Freiwilliges Praktikum für Absolventen (w/m/div.) für den Bereich Nachhaltigkeit",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155982199"
-  },
-  {
-   "titel": "Pflichtpraktikum im weltweiten Angebotscontrolling",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155950209"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000156330364"
   },
   {
    "titel": "BBM UK Marketing Intern",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Denham",
-     "land": "GB"
+     "land": "GB",
+     "stadt": "Denham"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -1669,54 +1606,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155920144"
   },
   {
-   "titel": "Praktikum im Bereich Prozess- und Datenanalyse (Industrie 4.0)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Eisenach",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155992724"
-  },
-  {
-   "titel": "Praktikum International Logistics & Supply Chain Operations",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Kusterdingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Präsenz",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155956445"
-  },
-  {
    "titel": "Praktikum im Einkauf mit Schwerpunkt Projekteinkauf",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -1732,12 +1627,96 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155946919"
   },
   {
+   "titel": "Pflichtpraktikum im weltweiten Angebotscontrolling",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155950209"
+  },
+  {
+   "titel": "Praktikum International Logistics & Supply Chain Operations",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Kusterdingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Präsenz",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155956445"
+  },
+  {
+   "titel": "Freiwilliges Praktikum für Absolventen (w/m/div.) für den Bereich Nachhaltigkeit",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155982199"
+  },
+  {
+   "titel": "Mandatory Internship in Strategic Purchasing of Logistic Transport Services",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155984519"
+  },
+  {
    "titel": "Pflichtpraktikum im strategischen Einkauf von logistischen Transportdienstleistungen (w/m/div.)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -1753,37 +1732,79 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155984659"
   },
   {
-   "titel": "HR Intern - Systems, Data & Administration",
+   "titel": "Praktikum im Bereich Prozess- und Datenanalyse (Industrie 4.0)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Denham",
-     "land": "GB"
+     "land": "DE",
+     "stadt": "Eisenach"
     }
    ],
-   "fachbereich": "Personal (HR)",
+   "fachbereich": "Digitalisierung, Daten & KI",
    "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155992724"
+  },
+  {
+   "titel": "Pflichtpraktikum im Technischen Vertrieb",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Freiburg im Breisgau"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-10-15",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155744089"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155694234"
   },
   {
-   "titel": "Pflichtpraktikum im strategischen Einkauf für Plastic-Metal-Hybrid-Bauteile",
+   "titel": "Praktikum im Bereich Marketing, Unternehmenskommunikation und Interne Kommunikation",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
     }
    ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Präsenz",
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155699649"
+  },
+  {
+   "titel": "Praktikum in der Materialflusslogistik - Digitalisierung, Automatisierung und Prozessoptimierung",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Lohr am Main"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "6 Monate",
@@ -1792,15 +1813,99 @@
    "stunden_num": null,
    "veroeffentlicht": "2026-10-15",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155743486"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155708295"
+  },
+  {
+   "titel": "Praktikum Digitalisierung Materialflusslogistik (w/m/div.)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Abstatt"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155712084"
+  },
+  {
+   "titel": "Internship Digitalization Material Flow Logistics",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Abstatt"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155713199"
+  },
+  {
+   "titel": "Praktikum im Bereich Logistik",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Immenstadt im Allgäu"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155724501"
+  },
+  {
+   "titel": "Praktikum im Bereich Logistik-Qualität",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Immenstadt im Allgäu"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155729010"
   },
   {
    "titel": "Praktikum im Supply Chain Management & in Logistikinnovationen bei Bosch eBike Systems (w/m/div.)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Reutlingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Reutlingen"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -1820,8 +1925,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Reutlingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Reutlingen"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -1837,79 +1942,16 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155740649"
   },
   {
-   "titel": "Internship Digitalization Material Flow Logistics",
+   "titel": "Pflichtpraktikum im strategischen Einkauf für Plastic-Metal-Hybrid-Bauteile",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Abstatt",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155713199"
-  },
-  {
-   "titel": "Praktikum im Bereich Logistik-Qualität",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Immenstadt im Allgäu",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
+   "fachbereich": "Business Development & Strategie",
    "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155729010"
-  },
-  {
-   "titel": "Praktikum im Bereich Logistik",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Immenstadt im Allgäu",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155724501"
-  },
-  {
-   "titel": "Praktikum Digitalisierung Materialflusslogistik (w/m/div.)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Abstatt",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "6 Monate",
@@ -1918,99 +1960,15 @@
    "stunden_num": null,
    "veroeffentlicht": "2026-10-15",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155712084"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155743486"
   },
   {
-   "titel": "Praktikum in der Materialflusslogistik - Digitalisierung, Automatisierung und Prozessoptimierung",
+   "titel": "HR Intern - Systems, Data & Administration",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lohr am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155708295"
-  },
-  {
-   "titel": "Praktikum im Bereich Marketing, Unternehmenskommunikation und Interne Kommunikation",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155699649"
-  },
-  {
-   "titel": "Pflichtpraktikum im Technischen Vertrieb",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Freiburg im Breisgau",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155694234"
-  },
-  {
-   "titel": "Pflichtpraktikum im Bereich Change Management, Kommunikation und Design",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Gerlingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "4–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155501129"
-  },
-  {
-   "titel": "HR Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
+     "land": "GB",
+     "stadt": "Denham"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -2021,17 +1979,38 @@
    "dauer_wochen": 52.1,
    "stunden": "k. A.",
    "stunden_num": null,
+   "veroeffentlicht": "2026-10-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155744089"
+  },
+  {
+   "titel": "Pflichtpraktikum im Bereich Interne Kommunikation und Eventmanagement",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
    "veroeffentlicht": "2026-10-14",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155485820"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155413519"
   },
   {
    "titel": "HR Internship (Administration, Training & Organization)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Cernusco sul Naviglio",
-     "land": "IT"
+     "land": "IT",
+     "stadt": "Cernusco sul Naviglio"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -2051,8 +2030,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Tranås",
-     "land": "SE"
+     "land": "SE",
+     "stadt": "Tranås"
     }
    ],
    "fachbereich": "Projektmanagement",
@@ -2068,12 +2047,54 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155461040"
   },
   {
+   "titel": "HR Intern",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Denham"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155485820"
+  },
+  {
+   "titel": "Pflichtpraktikum im Bereich Change Management, Kommunikation und Design",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Gerlingen"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "4–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155501129"
+  },
+  {
    "titel": "Praktikum im Bereich Einkaufsqualität",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Karlsruhe",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Karlsruhe"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -2089,264 +2110,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155505319"
   },
   {
-   "titel": "Pflichtpraktikum im Bereich Interne Kommunikation und Eventmanagement",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155413519"
-  },
-  {
-   "titel": "HR L&D Training Administrator Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "August 2027",
-   "start_monat": "2027-08",
-   "dauer": "11 Monate",
-   "dauer_wochen": 47.8,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155311419"
-  },
-  {
-   "titel": "Corporate Communications Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155308069"
-  },
-  {
-   "titel": "HR Intern - Operations, Employee Experience & Administration",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155307469"
-  },
-  {
-   "titel": "Sales Engineer/Commercial Management Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155221154"
-  },
-  {
-   "titel": "Sales Engineer/Commercial Management Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155206909"
-  },
-  {
-   "titel": "Intern Human Resources",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Brüssel",
-     "land": "BE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Dezember 2026",
-   "start_monat": "2026-12",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155193669"
-  },
-  {
-   "titel": "Pflichtpraktikum im Personalmanagement",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Schwäbisch Gmünd",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155191309"
-  },
-  {
-   "titel": "Sales Account Management Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Denham",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "6–12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155183389"
-  },
-  {
-   "titel": "Business Operations Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Coventry",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155178609"
-  },
-  {
-   "titel": "Pflichtpraktikum im technischen Vertrieb",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155242439"
-  },
-  {
-   "titel": "Praktikum im Online Marketing",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Lohr am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155176689"
-  },
-  {
    "titel": "Pflichtpraktikum im Bereich Kommunikation mit Schwerpunkt Videos und Livestreams",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -2362,15 +2131,36 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155168349"
   },
   {
-   "titel": "Undergraduate Placement Year 2027 - Commercial and Customer Requirements Intern",
+   "titel": "Praktikum im Online Marketing",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Coventry",
-     "land": "GB"
+     "land": "DE",
+     "stadt": "Lohr am Main"
     }
    ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155176689"
+  },
+  {
+   "titel": "Business Operations Intern",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Coventry"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
    "arbeitsmodell": "k. A.",
    "start": "Juli 2027",
    "start_monat": "2027-07",
@@ -2378,20 +2168,62 @@
    "dauer_wochen": 52.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
+   "veroeffentlicht": "2026-10-13",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155005289"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155178609"
   },
   {
-   "titel": "Internship Data Analytics",
+   "titel": "Sales Account Management Intern",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Mechelen",
-     "land": "BE"
+     "land": "GB",
+     "stadt": "Denham"
     }
    ],
-   "fachbereich": "Digitalisierung, Daten & KI",
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "6–12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155183389"
+  },
+  {
+   "titel": "Pflichtpraktikum im Personalmanagement",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Schwäbisch Gmünd"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155191309"
+  },
+  {
+   "titel": "Intern Human Resources",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "BE",
+     "stadt": "Brüssel"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
    "arbeitsmodell": "k. A.",
    "start": "Dezember 2026",
    "start_monat": "2026-12",
@@ -2399,101 +2231,143 @@
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
+   "veroeffentlicht": "2026-10-13",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155002879"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155193669"
   },
   {
-   "titel": "Internship Digital and Internal Communications",
+   "titel": "Sales Engineer/Commercial Management Intern",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Anderlecht",
-     "land": "BE"
+     "land": "GB",
+     "stadt": "Denham"
     }
    ],
-   "fachbereich": "Digitalisierung, Daten & KI",
+   "fachbereich": "Vertrieb & Kundenmanagement",
    "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155206909"
+  },
+  {
+   "titel": "Sales Engineer/Commercial Management Intern",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Denham"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155221154"
+  },
+  {
+   "titel": "Pflichtpraktikum im technischen Vertrieb",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
+   "veroeffentlicht": "2026-10-13",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154966309"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155242439"
   },
   {
-   "titel": "Praktikum in der Marketingkommunikation",
+   "titel": "HR Intern - Operations, Employee Experience & Administration",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Reutlingen",
-     "land": "DE"
+     "land": "GB",
+     "stadt": "Denham"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155307469"
+  },
+  {
+   "titel": "Corporate Communications Intern",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Denham"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
+   "arbeitsmodell": "k. A.",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
+   "veroeffentlicht": "2026-10-13",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154962439"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155308069"
   },
   {
-   "titel": "Pflichtpraktikum im Live Marketing Messen und Events",
+   "titel": "HR L&D Training Administrator Intern",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lohr am Main",
-     "land": "DE"
+     "land": "GB",
+     "stadt": "Denham"
     }
    ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "August 2027",
+   "start_monat": "2027-08",
+   "dauer": "11 Monate",
+   "dauer_wochen": 47.8,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
+   "veroeffentlicht": "2026-10-13",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154923799"
-  },
-  {
-   "titel": "Business Development Management Intern - 2027",
-   "firma": "NVIDIA",
-   "orte": [
-    {
-     "stadt": "Peking",
-     "land": "CN"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Business-Development-Management-Intern---2027_JR2026580"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155311419"
   },
   {
    "titel": "Internship - Project Management Support (f/m/div)",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Graz",
-     "land": "AT"
+     "land": "AT",
+     "stadt": "Graz"
     }
    ],
    "fachbereich": "Projektmanagement",
@@ -2513,8 +2387,8 @@
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Shanghai",
-     "land": "CN"
+     "land": "CN",
+     "stadt": "Shanghai"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -2530,54 +2404,138 @@
    "link": "https://jobs.infineon.com/careers/job/563808972183254"
   },
   {
-   "titel": "Marketing Communications Intern",
+   "titel": "Pflichtpraktikum im Live Marketing Messen und Events",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Denham",
-     "land": "GB"
+     "land": "DE",
+     "stadt": "Lohr am Main"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-09",
+   "veroeffentlicht": "2026-10-12",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154597344"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154923799"
   },
   {
-   "titel": "Communication and Marketing Intern",
+   "titel": "Praktikum in der Marketingkommunikation",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Denham",
-     "land": "GB"
+     "land": "DE",
+     "stadt": "Reutlingen"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154962439"
+  },
+  {
+   "titel": "Internship Digital and Internal Communications",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "BE",
+     "stadt": "Anderlecht"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
    "arbeitsmodell": "k. A.",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154966309"
+  },
+  {
+   "titel": "Internship Data Analytics",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "BE",
+     "stadt": "Mechelen"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "Dezember 2026",
+   "start_monat": "2026-12",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155002879"
+  },
+  {
+   "titel": "Undergraduate Placement Year 2027 - Commercial and Customer Requirements Intern",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Coventry"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
    "dauer": "12 Monate",
    "dauer_wochen": 52.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-09",
+   "veroeffentlicht": "2026-10-12",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154596596"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155005289"
+  },
+  {
+   "titel": "Business Development Management Intern - 2027",
+   "firma": "NVIDIA",
+   "orte": [
+    {
+     "land": "CN",
+     "stadt": "Peking"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Business-Development-Management-Intern---2027_JR2026580"
   },
   {
    "titel": "【2WP/MBC】Internship at Two-Wheeler & Powersports Marketing and Business Communication",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Yokohama",
-     "land": "JP"
+     "land": "JP",
+     "stadt": "Yokohama"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -2593,138 +2551,54 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154547164"
   },
   {
-   "titel": "Legal Intern - Data Protection & Technology (f/m)",
+   "titel": "Communication and Marketing Intern",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Warschau",
-     "land": "PL"
-    }
-   ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154431979"
-  },
-  {
-   "titel": "Praktikum Projektmanagement Einkauf eBike",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Reutlingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154410022"
-  },
-  {
-   "titel": "Pflichtpraktikum Data Analytics & Intelligent Process Automation",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154387546"
-  },
-  {
-   "titel": "Global Product Marketing Internship (1 Year)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Breda",
-     "land": "NL"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154386381"
-  },
-  {
-   "titel": "Praktikum - Projekt- & Prozessmanagement",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Bamberg",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "4–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154441820"
-  },
-  {
-   "titel": "Praktikum Marketing und Vertrieb - Werkstattausrüstung",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Karlsruhe",
-     "land": "DE"
+     "land": "GB",
+     "stadt": "Denham"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
+   "arbeitsmodell": "k. A.",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
+   "veroeffentlicht": "2026-10-09",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154379581"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154596596"
+  },
+  {
+   "titel": "Marketing Communications Intern",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Denham"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-09",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154597344"
   },
   {
    "titel": "Praktikum Business Operations Connected Parking",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -2740,75 +2614,138 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154346489"
   },
   {
-   "titel": "Pflichtpraktikum im Projektmanagement – Markenstrategie, Wissensmanagement und Digitalisierung",
+   "titel": "Praktikum Marketing und Vertrieb - Werkstattausrüstung",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Gerlingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Karlsruhe"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154379581"
+  },
+  {
+   "titel": "Global Product Marketing Internship (1 Year)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "Breda"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154386381"
+  },
+  {
+   "titel": "Pflichtpraktikum Data Analytics & Intelligent Process Automation",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154387546"
+  },
+  {
+   "titel": "Praktikum Projektmanagement Einkauf eBike",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Reutlingen"
     }
    ],
    "fachbereich": "Projektmanagement",
    "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
-   "dauer": "4–6 Monate",
+   "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
+   "veroeffentlicht": "2026-10-08",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154089011"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154410022"
   },
   {
-   "titel": "Intern (Stażysta) – Server Operations Center (f/m)",
+   "titel": "Legal Intern - Data Protection & Technology (f/m)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Łódź",
-     "land": "PL"
+     "land": "PL",
+     "stadt": "Warschau"
     }
    ],
-   "fachbereich": "Einkauf & Supply Chain",
+   "fachbereich": "Recht & Compliance",
    "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "stunden": "30 Std.",
-   "stunden_num": 30.0,
-   "veroeffentlicht": "2026-10-07",
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154063076"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154431979"
   },
   {
-   "titel": "Intern, Data Analyst",
+   "titel": "Praktikum - Projekt- & Prozessmanagement",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "DE",
+     "stadt": "Bamberg"
     }
    ],
-   "fachbereich": "Digitalisierung, Daten & KI",
+   "fachbereich": "Projektmanagement",
    "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "4–6 Monate",
    "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
+   "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
+   "veroeffentlicht": "2026-10-08",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154012744"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154441820"
   },
   {
    "titel": "Intern, Supply Chain Project Assistant",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -2824,75 +2761,75 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154010454"
   },
   {
-   "titel": "Sales and Business Support Intern - Automotive",
+   "titel": "Intern, Data Analyst",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Nuneaton",
-     "land": "GB"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
+   "fachbereich": "Digitalisierung, Daten & KI",
    "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-07",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154012744"
+  },
+  {
+   "titel": "Intern (Stażysta) – Server Operations Center (f/m)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "PL",
+     "stadt": "Łódź"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "30 Std.",
+   "stunden_num": 30.0,
+   "veroeffentlicht": "2026-10-07",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154063076"
+  },
+  {
+   "titel": "Pflichtpraktikum im Projektmanagement – Markenstrategie, Wissensmanagement und Digitalisierung",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Gerlingen"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "4–6 Monate",
+   "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-06",
+   "veroeffentlicht": "2026-10-07",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153802160"
-  },
-  {
-   "titel": "Finance & Controlling Internship (1 Year)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Breda",
-     "land": "NL"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-06",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153771571"
-  },
-  {
-   "titel": "Social Media & Influencer Marketing Internship (1 Year)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Breda",
-     "land": "NL"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-06",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153764396"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000154089011"
   },
   {
    "titel": "Praktikum Beschaffungslogistik",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Wernau",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Wernau"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -2908,12 +2845,54 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153702724"
   },
   {
+   "titel": "Social Media & Influencer Marketing Internship (1 Year)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "Breda"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-06",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153764396"
+  },
+  {
+   "titel": "Finance & Controlling Internship (1 Year)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "Breda"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-06",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153771571"
+  },
+  {
    "titel": "Praktikum im Bereich eBike System - Produktmanagement",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Reutlingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Reutlingen"
     }
    ],
    "fachbereich": "Produktmanagement",
@@ -2929,12 +2908,75 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153773164"
   },
   {
+   "titel": "Sales and Business Support Intern - Automotive",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Nuneaton"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-06",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153802160"
+  },
+  {
+   "titel": "Pflichtpraktikum in Social Media",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Gerlingen"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-05",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153457339"
+  },
+  {
+   "titel": "Pflichtpraktikum HR-Generalist",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Gerlingen"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-05",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153465271"
+  },
+  {
    "titel": "E-Commerce Marketing Internship (1 Year)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Breda",
-     "land": "NL"
+     "land": "NL",
+     "stadt": "Breda"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -2954,8 +2996,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Breda",
-     "land": "NL"
+     "land": "NL",
+     "stadt": "Breda"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -2971,75 +3013,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153521249"
   },
   {
-   "titel": "Pflichtpraktikum HR-Generalist",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Gerlingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-05",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153465271"
-  },
-  {
-   "titel": "Pflichtpraktikum in Social Media",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Gerlingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-05",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153457339"
-  },
-  {
-   "titel": "Praktikum im Bereich Qualitätsmanagement Einkauf",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Horb am Neckar",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Präsenz",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153126994"
-  },
-  {
    "titel": "Pflichtpraktikum SAP-Prozessabläufe in S/4",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lohr am Main",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Lohr am Main"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -3055,117 +3034,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153097931"
   },
   {
-   "titel": "Internship - Global Product Management REF297536H",
+   "titel": "Praktikum im Bereich Qualitätsmanagement Einkauf",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Solothurn/Zuchwil",
-     "land": "CH"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-10-01",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152931867"
-  },
-  {
-   "titel": "Praktikum - Business Unit Controlling REF297441C",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Solothurn/Zuchwil",
-     "land": "CH"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-10-01",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152921499"
-  },
-  {
-   "titel": "Praktikum – Projektmanagement Einkauf Power Tools Accessories REF297531B",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Solothurn/Zuchwil",
-     "land": "CH"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-10-01",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152921319"
-  },
-  {
-   "titel": "Praktikum Technischer Einkauf",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Lollar",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Horb am Neckar"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
+   "arbeitsmodell": "Präsenz",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "5–6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-10-01",
+   "veroeffentlicht": "2026-10-02",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152856093"
-  },
-  {
-   "titel": "Internship – Supply Chain Planning Data Analyst",
-   "firma": "Infineon",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-01",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.infineon.com/careers/job/563808972110914"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000153126994"
   },
   {
    "titel": "Internship – Project Office (Digitalization & Low-Code Automation)",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Projektmanagement",
@@ -3181,96 +3076,117 @@
    "link": "https://jobs.infineon.com/careers/job/563808972110513"
   },
   {
-   "titel": "Internship in Logistics",
-   "firma": "Bosch",
+   "titel": "Internship – Supply Chain Planning Data Analyst",
+   "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Mechelen",
-     "land": "BE"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "5 Monate",
+   "dauer_wochen": 21.7,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-01",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.infineon.com/careers/job/563808972110914"
+  },
+  {
+   "titel": "Praktikum Technischer Einkauf",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Lollar"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-01",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152856093"
+  },
+  {
+   "titel": "Praktikum – Projektmanagement Einkauf Power Tools Accessories REF297531B",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "CH",
+     "stadt": "Solothurn/Zuchwil"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
    "arbeitsmodell": "k. A.",
-   "start": "Oktober 2026",
-   "start_monat": "2026-10",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-30",
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-10-01",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152696909"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152921319"
   },
   {
-   "titel": "Global E-mail Marketing Internship (1 Year)",
+   "titel": "Praktikum - Business Unit Controlling REF297441C",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Breda",
-     "land": "NL"
+     "land": "CH",
+     "stadt": "Solothurn/Zuchwil"
     }
    ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-30",
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "5 Monate",
+   "dauer_wochen": 21.7,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-10-01",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152656903"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152921499"
   },
   {
-   "titel": "Pflichtpraktikum in Human Resources bei Bosch Global Real Estate",
+   "titel": "Internship - Global Product Management REF297536H",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Gerlingen",
-     "land": "DE"
+     "land": "CH",
+     "stadt": "Solothurn/Zuchwil"
     }
    ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-30",
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "5 Monate",
+   "dauer_wochen": 21.7,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-10-01",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152643746"
-  },
-  {
-   "titel": "Extracurricular Internship: Purchasing Quality Reporting (f/m/div.)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Aveiro",
-     "land": "PT"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152643219"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152931867"
   },
   {
    "titel": "Pflichtpraktikum Product Compliance and Environment, Health and Safety",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Würzburg",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Würzburg"
     }
    ],
    "fachbereich": "Recht & Compliance",
@@ -3286,33 +3202,96 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152626969"
   },
   {
-   "titel": "Praktikum in der Transportlogistik",
+   "titel": "Extracurricular Internship: Purchasing Quality Reporting (f/m/div.)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Karlsruhe",
-     "land": "DE"
+     "land": "PT",
+     "stadt": "Aveiro"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
    "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152643219"
+  },
+  {
+   "titel": "Pflichtpraktikum in Human Resources bei Bosch Global Real Estate",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Gerlingen"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-09-29",
+   "veroeffentlicht": "2026-09-30",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152427823"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152643746"
+  },
+  {
+   "titel": "Global E-mail Marketing Internship (1 Year)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "Breda"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152656903"
+  },
+  {
+   "titel": "Internship in Logistics",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "BE",
+     "stadt": "Mechelen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "Oktober 2026",
+   "start_monat": "2026-10",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152696909"
   },
   {
    "titel": "Praktikum im Logistik Supply Chain - Auftrags- und Kundenplanung",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lollar",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Lollar"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -3328,75 +3307,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152349949"
   },
   {
-   "titel": "Praktikum im Bereich Standortkommunikation/interne und externe Kommunikation",
+   "titel": "Praktikum in der Transportlogistik",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Eisenach",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Karlsruhe"
     }
    ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152162949"
-  },
-  {
-   "titel": "Pflichtpraktikum im Bereich Kommunikation und Design",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Gerlingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-09-28",
+   "veroeffentlicht": "2026-09-29",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152156679"
-  },
-  {
-   "titel": "Intern, Supply Chain Management",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152124509"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152427823"
   },
   {
    "titel": "Internship - Recruiting and HR",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -3412,33 +3349,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152105464"
   },
   {
-   "titel": "Praktikum Marketing - Event- und Messemanagement",
+   "titel": "Intern, Supply Chain Management",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Karlsruhe",
-     "land": "DE"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
    "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-09-28",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152163319"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152124509"
   },
   {
    "titel": "Estudiante en prácticas – Departamento de logística LOP2",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -3454,12 +3391,75 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152139065"
   },
   {
+   "titel": "Pflichtpraktikum im Bereich Kommunikation und Design",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Gerlingen"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152156679"
+  },
+  {
+   "titel": "Praktikum im Bereich Standortkommunikation/interne und externe Kommunikation",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Eisenach"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "5 Monate",
+   "dauer_wochen": 21.7,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152162949"
+  },
+  {
+   "titel": "Praktikum Marketing - Event- und Messemanagement",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Karlsruhe"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152163319"
+  },
+  {
    "titel": "Praktikum im Bereich Sales Performance Management",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Gunzenhausen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Gunzenhausen"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -3479,8 +3479,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Frauenfeld",
-     "land": "CH"
+     "land": "CH",
+     "stadt": "Frauenfeld"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -3496,96 +3496,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151836935"
   },
   {
-   "titel": "Mandatory Internship Sales Customer Team BMW Automotive",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Leonberg",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-24",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151543674"
-  },
-  {
-   "titel": "Praktikum im Bereich International Sales bei Bosch eBike Systems",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Reutlingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-24",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151563196"
-  },
-  {
-   "titel": "Pflichtpraktikum im Vertrieb – Customer Team BMW Automotive (w/m/div.)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Leonberg",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-24",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151544369"
-  },
-  {
-   "titel": "Praktikum Qualität im Einkauf",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Ansbach",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-24",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151535239"
-  },
-  {
    "titel": "Internship - IT Business Analyst (Human Resources)",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -3601,12 +3517,96 @@
    "link": "https://jobs.infineon.com/careers/job/563808972069486"
   },
   {
+   "titel": "Praktikum Qualität im Einkauf",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Ansbach"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-24",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151535239"
+  },
+  {
+   "titel": "Mandatory Internship Sales Customer Team BMW Automotive",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Leonberg"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-24",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151543674"
+  },
+  {
+   "titel": "Pflichtpraktikum im Vertrieb – Customer Team BMW Automotive (w/m/div.)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Leonberg"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-24",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151544369"
+  },
+  {
+   "titel": "Praktikum im Bereich International Sales bei Bosch eBike Systems",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Reutlingen"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-24",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151563196"
+  },
+  {
    "titel": "Financial Data Analyst Intern, Technical Operations",
    "firma": "Stripe",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -3622,12 +3622,54 @@
    "link": "https://stripe.com/jobs/search?gh_jid=8186442"
   },
   {
+   "titel": "Internship - Data Analysis & Reporting",
+   "firma": "Infineon",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "5 Monate",
+   "dauer_wochen": 21.7,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-23",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.infineon.com/careers/job/563808972055417"
+  },
+  {
+   "titel": "Praktikum Human Resources - Personalmanagement und Personalentwicklung",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Ansbach"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "5 Monate",
+   "dauer_wochen": 21.7,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-23",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151323519"
+  },
+  {
    "titel": "Praktikum Marketing und Vertrieb mit Fokus auf POS",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Leinfelden-Echterdingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Leinfelden-Echterdingen"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -3647,8 +3689,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -3664,96 +3706,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151378729"
   },
   {
-   "titel": "Praktikum Human Resources - Personalmanagement und Personalentwicklung",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Ansbach",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-23",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151323519"
-  },
-  {
-   "titel": "Internship - Data Analysis & Reporting",
-   "firma": "Infineon",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-23",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.infineon.com/careers/job/563808972055417"
-  },
-  {
-   "titel": "Praktikum in der internen Kommunikation und kontinuierlichen Verbesserung",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Immenstadt im Allgäu",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150988719"
-  },
-  {
-   "titel": "Internship - IT Business Analyst (Human Resource)",
-   "firma": "Infineon",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.infineon.com/careers/job/563808972051794"
-  },
-  {
    "titel": "Regional Marketing Intern – Market Analysis & AI Enablement",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Shanghai",
-     "land": "CN"
+     "land": "CN",
+     "stadt": "Shanghai"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -3773,8 +3731,8 @@
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -3790,33 +3748,54 @@
    "link": "https://jobs.infineon.com/careers/job/563808972051513"
   },
   {
-   "titel": "Practicante de Mercadeo y Gestión Comercial Bogotá",
+   "titel": "Internship - IT Business Analyst (Human Resource)",
+   "firma": "Infineon",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "5 Monate",
+   "dauer_wochen": 21.7,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.infineon.com/careers/job/563808972051794"
+  },
+  {
+   "titel": "Praktikum in der internen Kommunikation und kontinuierlichen Verbesserung",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Bogotá",
-     "land": "CO"
+     "land": "DE",
+     "stadt": "Immenstadt im Allgäu"
     }
    ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
    "start": "k. A.",
    "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-09-21",
+   "veroeffentlicht": "2026-09-22",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150746369"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150988719"
   },
   {
    "titel": "Marketing Intern",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Shanghai",
-     "land": "CN"
+     "land": "CN",
+     "stadt": "Shanghai"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -3832,33 +3811,33 @@
    "link": "https://jobs.infineon.com/careers/job/563808971991306"
   },
   {
-   "titel": "Extracurricular Internship – Compliance Support (f/m/div.)",
+   "titel": "Practicante de Mercadeo y Gestión Comercial Bogotá",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lissabon",
-     "land": "PT"
+     "land": "CO",
+     "stadt": "Bogotá"
     }
    ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "Hybrid",
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "k. A.",
    "dauer_wochen": null,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-09-18",
+   "veroeffentlicht": "2026-09-21",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150393389"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150746369"
   },
   {
    "titel": "Praktikum im Bereich Controlling",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Elchingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Elchingen"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -3874,96 +3853,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150287719"
   },
   {
-   "titel": "Intern, Supply Chain",
+   "titel": "Extracurricular Internship – Compliance Support (f/m/div.)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "PT",
+     "stadt": "Lissabon"
     }
    ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "k. A.",
    "dauer_wochen": null,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-09-17",
+   "veroeffentlicht": "2026-09-18",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150014119"
-  },
-  {
-   "titel": "Intern, Corporate Communications",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-17",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150013809"
-  },
-  {
-   "titel": "Pflichtpraktikum im Bereich Einkauf",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-17",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150052969"
-  },
-  {
-   "titel": "Praktikum im Bereich Materialfeldeinkauf",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Lohr am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-17",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150008697"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150393389"
   },
   {
    "titel": "Internship - Master Data Analyst",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -3979,12 +3895,96 @@
    "link": "https://jobs.infineon.com/careers/job/563808971515592"
   },
   {
+   "titel": "Praktikum im Bereich Materialfeldeinkauf",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Lohr am Main"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-17",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150008697"
+  },
+  {
+   "titel": "Intern, Corporate Communications",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-17",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150013809"
+  },
+  {
+   "titel": "Intern, Supply Chain",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-17",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150014119"
+  },
+  {
+   "titel": "Pflichtpraktikum im Bereich Einkauf",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-17",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150052969"
+  },
+  {
    "titel": "Talent Acquisition and Employer Branding Internship",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Mailand",
-     "land": "IT"
+     "land": "IT",
+     "stadt": "Mailand"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -4000,33 +4000,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000149876629"
   },
   {
-   "titel": "Estudiante en prácticas – Departamento de Logística LOG/IPN",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Madrid",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "November 2026",
-   "start_monat": "2026-11",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-09-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000149613311"
-  },
-  {
    "titel": "Praktikum im Produktmanagement (w/m/d) REF296253F",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Frauenfeld",
-     "land": "CH"
+     "land": "CH",
+     "stadt": "Frauenfeld"
     }
    ],
    "fachbereich": "Produktmanagement",
@@ -4042,12 +4021,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000149510369"
   },
   {
+   "titel": "Estudiante en prácticas – Departamento de Logística LOG/IPN",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "November 2026",
+   "start_monat": "2026-11",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-09-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000149613311"
+  },
+  {
    "titel": "Extracurricular Internship: Sustainability & Climate Strategy (f/m/div.)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Aveiro",
-     "land": "PT"
+     "land": "PT",
+     "stadt": "Aveiro"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -4063,33 +4063,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000148964049"
   },
   {
-   "titel": "Extracurricular Internship: Purchasing Quality Inspection (f/m/div.)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Aveiro",
-     "land": "PT"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-11",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000148966819"
-  },
-  {
    "titel": "Extracurricular Internship: Commercial Purchasing (f/m/div.)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Aveiro",
-     "land": "PT"
+     "land": "PT",
+     "stadt": "Aveiro"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -4105,12 +4084,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000148964119"
   },
   {
+   "titel": "Extracurricular Internship: Purchasing Quality Inspection (f/m/div.)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "PT",
+     "stadt": "Aveiro"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-11",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000148966819"
+  },
+  {
    "titel": "Praktikum in Personalmanagement",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Reutlingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Reutlingen"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -4130,8 +4130,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -4151,8 +4151,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Bühl",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Bühl"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -4172,8 +4172,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Yokohama",
-     "land": "JP"
+     "land": "JP",
+     "stadt": "Yokohama"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -4189,75 +4189,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147839109"
   },
   {
-   "titel": "Praktikum in der Personalentwicklung und Recruiting",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "München",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147517579"
-  },
-  {
-   "titel": "Praktikum Controlling",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Ansbach",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-09-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147441239"
-  },
-  {
-   "titel": "Praktikum Beschaffungsplanung in der Logistik (Supply Chain)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Ansbach",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "20–26 Wochen",
-   "dauer_wochen": 26.0,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147439805"
-  },
-  {
    "titel": "Praktikum in Digital Order Management",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lohr am Main",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Lohr am Main"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -4273,12 +4210,75 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147437759"
   },
   {
+   "titel": "Praktikum Beschaffungsplanung in der Logistik (Supply Chain)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Ansbach"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "20–26 Wochen",
+   "dauer_wochen": 26.0,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147439805"
+  },
+  {
+   "titel": "Praktikum Controlling",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Ansbach"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-09-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147441239"
+  },
+  {
+   "titel": "Praktikum in der Personalentwicklung und Recruiting",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "München"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147517579"
+  },
+  {
    "titel": "Technical Sales Two Wheeler Internship",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Turin",
-     "land": "IT"
+     "land": "IT",
+     "stadt": "Turin"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -4294,54 +4294,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147258339"
   },
   {
-   "titel": "Praktikum im Bereich Change-, Kommunikations- und Trainingsmanagement",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Wernau",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000146933399"
-  },
-  {
-   "titel": "Praktikum im Projektcontrolling",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Hildesheim",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000146931576"
-  },
-  {
    "titel": "Praktikum – Produkt- und Projektmanagement REF295388E",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Solothurn/Zuchwil",
-     "land": "CH"
+     "land": "CH",
+     "stadt": "Solothurn/Zuchwil"
     }
    ],
    "fachbereich": "Projektmanagement",
@@ -4357,12 +4315,54 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000146901714"
   },
   {
+   "titel": "Praktikum im Projektcontrolling",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Hildesheim"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000146931576"
+  },
+  {
+   "titel": "Praktikum im Bereich Change-, Kommunikations- und Trainingsmanagement",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Wernau"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000146933399"
+  },
+  {
    "titel": "Praktikum im Supply Chain Management",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Reutlingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Reutlingen"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -4382,8 +4382,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Ulm",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Ulm"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -4403,8 +4403,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Ulm",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Ulm"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -4420,54 +4420,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000146186329"
   },
   {
-   "titel": "Mandatory Internship in the international Sales Team for Mercedes-Benz",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Leonberg",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-08-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000145724319"
-  },
-  {
-   "titel": "Pflichtpraktikum im Sales Customer Team bei Mercedes-Benz Automotive (w/m/div.)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Leonberg",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-08-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000145717159"
-  },
-  {
    "titel": "Praktikum im Business Process Management",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Karlsruhe",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Karlsruhe"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -4483,54 +4441,54 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000145663084"
   },
   {
-   "titel": "【XC】 Marketing and Communication Department",
+   "titel": "Pflichtpraktikum im Sales Customer Team bei Mercedes-Benz Automotive (w/m/div.)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Yokohama",
-     "land": "JP"
+     "land": "DE",
+     "stadt": "Leonberg"
     }
    ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6–12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-08-25",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000145382879"
-  },
-  {
-   "titel": "Pflichtpraktikum in Business Development mit Fokus auf strategisches Partnermanagement",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Bietigheim-Bissingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "April 2027",
-   "start_monat": "2027-04",
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-08-25",
+   "veroeffentlicht": "2026-08-26",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000145486687"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000145717159"
+  },
+  {
+   "titel": "Mandatory Internship in the international Sales Team for Mercedes-Benz",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Leonberg"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-08-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000145724319"
   },
   {
    "titel": "Data Analysis Intern",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Shanghai",
-     "land": "CN"
+     "land": "CN",
+     "stadt": "Shanghai"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -4550,8 +4508,8 @@
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Shanghai",
-     "land": "CN"
+     "land": "CN",
+     "stadt": "Shanghai"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -4567,12 +4525,54 @@
    "link": "https://jobs.infineon.com/careers/job/563808971895910"
   },
   {
+   "titel": "【XC】 Marketing and Communication Department",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "JP",
+     "stadt": "Yokohama"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6–12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-08-25",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000145382879"
+  },
+  {
+   "titel": "Pflichtpraktikum in Business Development mit Fokus auf strategisches Partnermanagement",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bietigheim-Bissingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-08-25",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000145486687"
+  },
+  {
    "titel": "Praktikum im Projektcontrolling/-management",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Berlin",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Berlin"
     }
    ],
    "fachbereich": "Projektmanagement",
@@ -4588,33 +4588,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000143979739"
   },
   {
-   "titel": "Praktikum in Support, Abwicklung & Standortthemen",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Wetzlar",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "September 2026",
-   "start_monat": "2026-09",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-08-17",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000143838839"
-  },
-  {
    "titel": "Pflichtpraktikum im strategischen Supply Chain Management - Purchasing/Einkauf, Automotive Electronics und Innovation",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -4630,12 +4609,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000143755650"
   },
   {
+   "titel": "Praktikum in Support, Abwicklung & Standortthemen",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Wetzlar"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "September 2026",
+   "start_monat": "2026-09",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-08-17",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000143838839"
+  },
+  {
    "titel": "Praktikum in der Kundenauftragsabwicklung und Programmplanung",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Haßfurt",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Haßfurt"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -4655,8 +4655,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Schweinfurt",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Schweinfurt"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -4676,8 +4676,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lohr am Main",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Lohr am Main"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -4697,8 +4697,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Murrhardt",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Murrhardt"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -4714,33 +4714,12 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000141665619"
   },
   {
-   "titel": "Extracurricular Internship: Project Management for Digitalization (f/m/div.)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Aveiro",
-     "land": "PT"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-08-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000141522449"
-  },
-  {
    "titel": "【MA/SXA-EA】Sales Customer Team Cross-Account Service Solutions EA",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Yokohama",
-     "land": "JP"
+     "land": "JP",
+     "stadt": "Yokohama"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -4756,12 +4735,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000141368249"
   },
   {
+   "titel": "Extracurricular Internship: Project Management for Digitalization (f/m/div.)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "PT",
+     "stadt": "Aveiro"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-08-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000141522449"
+  },
+  {
    "titel": "Pflichtpraktikum im Eventmanagement",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Leinfelden-Echterdingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Leinfelden-Echterdingen"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -4781,8 +4781,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Bühl",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Bühl"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -4802,8 +4802,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -4823,8 +4823,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Turin",
-     "land": "IT"
+     "land": "IT",
+     "stadt": "Turin"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -4844,8 +4844,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Ulm",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Ulm"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -4865,8 +4865,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -4886,8 +4886,8 @@
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -4903,33 +4903,12 @@
    "link": "https://jobs.infineon.com/careers/job/563808971509898"
   },
   {
-   "titel": "Prácticas en Departamento de Compras Mecanizado",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Madrid",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-07-09",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000136791019"
-  },
-  {
    "titel": "Internship - Data Analyst, Automotive Supply Chain and Production Management",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -4945,33 +4924,33 @@
    "link": "https://jobs.infineon.com/careers/job/563808971532606"
   },
   {
-   "titel": "Pflichtpraktikum Logistik - Schwerpunkt Data & Analytics",
+   "titel": "Prácticas en Departamento de Compras Mecanizado",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Immenstadt im Allgäu",
-     "land": "DE"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
+   "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-08",
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-07-09",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000136455353"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000136791019"
   },
   {
    "titel": "Internship - Logistics Analyst",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -4987,54 +4966,33 @@
    "link": "https://jobs.infineon.com/careers/job/563808971515582"
   },
   {
-   "titel": "Pflichtpraktikum im Vertrieb - Key-Account-Bereich für Mercedes-Benz",
+   "titel": "Pflichtpraktikum Logistik - Schwerpunkt Data & Analytics",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Immenstadt im Allgäu"
     }
    ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
+   "fachbereich": "Einkauf & Supply Chain",
    "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-07-07",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000136171236"
-  },
-  {
-   "titel": "Internship - Digital Marketing & Marcom",
-   "firma": "Infineon",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-07-07",
+   "veroeffentlicht": "2026-07-08",
    "datum_geschaetzt": false,
-   "link": "https://jobs.infineon.com/careers/job/563808971510088"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000136455353"
   },
   {
    "titel": "QM Intern",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Shanghai",
-     "land": "CN"
+     "land": "CN",
+     "stadt": "Shanghai"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -5054,8 +5012,8 @@
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -5071,33 +5029,54 @@
    "link": "https://jobs.infineon.com/careers/job/563808971503744"
   },
   {
-   "titel": "Pflichtpraktikum HR Digital Content Management",
+   "titel": "Internship - Digital Marketing & Marcom",
+   "firma": "Infineon",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-07",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.infineon.com/careers/job/563808971510088"
+  },
+  {
+   "titel": "Pflichtpraktikum im Vertrieb - Key-Account-Bereich für Mercedes-Benz",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Gerlingen",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-06",
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-07-07",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000135969050"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000136171236"
   },
   {
    "titel": "Internship - Supply Chain Analytics & Digital Transformation",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5117,8 +5096,8 @@
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5134,36 +5113,15 @@
    "link": "https://jobs.infineon.com/careers/job/563808971417678"
   },
   {
-   "titel": "Praktikum im Projektmanagement - Sondermaschinenbau",
+   "titel": "Pflichtpraktikum HR Digital Content Management",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Gerlingen"
     }
    ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-07-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000135478572"
-  },
-  {
-   "titel": "Praktikum im Bereich Sales & Market Intelligence",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Ulm",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
+   "fachbereich": "Personal (HR)",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
@@ -5171,17 +5129,17 @@
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
-   "veroeffentlicht": "2026-07-02",
+   "veroeffentlicht": "2026-07-06",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000135418960"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000135969050"
   },
   {
    "titel": "Praktikum im Bereich Sales & Market Intelligence",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Lohr am Main",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Lohr am Main"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -5197,12 +5155,54 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000135406429"
   },
   {
+   "titel": "Praktikum im Bereich Sales & Market Intelligence",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Ulm"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000135418960"
+  },
+  {
+   "titel": "Praktikum im Projektmanagement - Sondermaschinenbau",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-07-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000135478572"
+  },
+  {
    "titel": "Internship - Corporate Communications",
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -5222,8 +5222,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Immenstadt im Allgäu",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Immenstadt im Allgäu"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -5243,8 +5243,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Aranjuez",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Aranjuez"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -5264,8 +5264,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Yokohama",
-     "land": "JP"
+     "land": "JP",
+     "stadt": "Yokohama"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5285,8 +5285,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -5306,8 +5306,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Yokohama",
-     "land": "JP"
+     "land": "JP",
+     "stadt": "Yokohama"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -5327,12 +5327,12 @@
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Shanghai",
-     "land": "CN"
+     "land": "CN",
+     "stadt": "Shanghai"
     },
     {
-     "stadt": "Industriepratikum",
-     "land": "AT"
+     "land": "AT",
+     "stadt": "Industriepratikum"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5352,12 +5352,12 @@
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     },
     {
-     "stadt": "Industriepratikum",
-     "land": "AT"
+     "land": "AT",
+     "stadt": "Industriepratikum"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -5373,33 +5373,12 @@
    "link": "https://jobs.infineon.com/careers/job/563808970806175"
   },
   {
-   "titel": "Prácticas Dpto. Logística - área planificación_Bosch Aranjuez",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Aranjuez",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-05-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000128487538"
-  },
-  {
    "titel": "Prácticas Dpto.Compras Directas",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Aranjuez",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Aranjuez"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5415,12 +5394,33 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000128452635"
   },
   {
+   "titel": "Prácticas Dpto. Logística - área planificación_Bosch Aranjuez",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Aranjuez"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-05-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000128487538"
+  },
+  {
    "titel": "Prácticas en Comunicación (Bosch Aranjuez)",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Aranjuez",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Aranjuez"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -5440,8 +5440,8 @@
    "firma": "Palantir",
    "orte": [
     {
-     "stadt": "Paris",
-     "land": "FR"
+     "land": "FR",
+     "stadt": "Paris"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -5461,8 +5461,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Aranjuez",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Aranjuez"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -5482,8 +5482,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Tienen",
-     "land": "BE"
+     "land": "BE",
+     "stadt": "Tienen"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -5503,8 +5503,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -5524,8 +5524,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Tienen",
-     "land": "BE"
+     "land": "BE",
+     "stadt": "Tienen"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -5545,8 +5545,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Yokohama",
-     "land": "JP"
+     "land": "JP",
+     "stadt": "Yokohama"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5566,8 +5566,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Tienen",
-     "land": "BE"
+     "land": "BE",
+     "stadt": "Tienen"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5587,8 +5587,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -5608,8 +5608,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5629,8 +5629,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5650,8 +5650,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5671,8 +5671,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5692,8 +5692,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Denham",
-     "land": "GB"
+     "land": "GB",
+     "stadt": "Denham"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -5713,8 +5713,8 @@
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Tienen",
-     "land": "BE"
+     "land": "BE",
+     "stadt": "Tienen"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -5734,8 +5734,8 @@
    "firma": "Infineon",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
