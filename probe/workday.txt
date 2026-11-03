@@ -1,15 +1,1 @@
-salesforce/wd12/External_Career_Site
-walmart/wd5/WalmartExternal
-philips/wd3/jobs-and-careers
-volvogroup/wd3/volvogroupjobs
-astrazeneca/wd3/Careers
-unilever/wd3/Unilever_Experienced_Professionals
-unilever/wd3/Unilever_Early_Careers
-sonyglobal/wd1/SonyGlobalCareers
-lego/wd103/LEGO_External
-sec/wd3/Samsung_Careers
-roche/wd3/roche-ext
-shell/wd3/ShellCareers
-barclays/wd3/External_Career_Site_Barclays
-cba/wd3/CommBank_Careers
-nvidia/wd5/NVIDIAExternalCareerSite
+alliancewd/wd3/renault-group-careers

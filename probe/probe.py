@@ -44,6 +44,9 @@ SIGS = {
     "join": re.compile(r"join\.com/companies/([A-Za-z0-9_-]+)"),
 }
 
+TK = {"name", "title", "jobTitle", "job_title", "positionTitle", "postingTitle", "displayName", "Title", "RecruitPostName", "JobTitle"}
+IK = {"id", "jobId", "job_id", "jobReqId", "reqId", "requisitionId", "displayJobId", "Id", "PostId", "JobId", "slug", "reference"}
+UK = {"url", "jobUrl", "applyUrl", "externalUrl", "link", "href", "PostURL", "canonicalPositionUrl", "positionUrl"}
 JOBLINK = re.compile(r"(job|stelle|position|vacanc|career|karriere|opening)", re.I)
 
 
@@ -130,10 +133,39 @@ async def visit(browser, name, url, sem):
         )
         page = await ctx.new_page()
         reqs = []
+        jsons = []
         page.on("request", lambda r: reqs.append(r.url))
+
+        async def on_resp(resp):
+            try:
+                if "json" not in (resp.headers.get("content-type") or ""):
+                    return
+                data = await resp.json()
+            except Exception:
+                return
+            hits = []
+
+            def walk(o, d=0):
+                if d > 8:
+                    return
+                if isinstance(o, dict):
+                    keys = set(o)
+                    if keys & TK and (keys & IK or keys & UK):
+                        hits.append(o)
+                    for v in o.values():
+                        walk(v, d + 1)
+                elif isinstance(o, list):
+                    for v in o:
+                        walk(v, d + 1)
+            walk(data)
+            if len(hits) >= 3:
+                h = hits[0]
+                t = next((h[k] for k in TK if k in h), "")
+                jsons.append(f"{len(hits)} Treffer in {resp.url[:150]} | keys={sorted(h)[:14]} | z.B. {str(t)[:60]}")
+        page.on("response", on_resp)
         try:
-            await page.goto(url, timeout=45000, wait_until="domcontentloaded")
-            await page.wait_for_timeout(9000)
+            await page.goto(url, timeout=90000, wait_until="domcontentloaded")
+            await page.wait_for_timeout(12000)
             res["final"] = page.url
             res["title"] = await page.title()
             html = await page.content()
@@ -153,6 +185,7 @@ async def visit(browser, name, url, sem):
                 seen.append(l)
         res["links"] = seen[:25]
         res["patterns"] = patterns(links)
+        res["jsons"] = jsons[:4]
         res["api"] = []
         await ctx.close()
         print(f"fertig: {name} -> {list(res['sigs'])} {res['api']}", flush=True)
@@ -220,6 +253,8 @@ async def main():
             lines.append(f"   {k}: {v}")
         if r["api"]:
             lines.append(f"   api: {r['api']}")
+        for l in r.get("jsons", []):
+            lines.append(f"   json: {l}")
         for l in r.get("patterns", []):
             lines.append(f"   pattern: {l}")
         for l in r["links"][:6]:
