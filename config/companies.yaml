@@ -670,3 +670,96 @@
 - name: Kia
   enabled: false   # Karriereseite beim Test nicht erreichbar
   career_url: https://www.kia.com/eu/about-kia/careers.html
+
+# ---------------------------------------------------------------- Hotellerie & Gastronomie
+- name: Marriott International
+  ats: oracle
+  url: https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1
+  career_url: https://careers.marriott.com/
+
+- name: Hilton
+  ats: oracle
+  url: https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
+  career_url: https://jobs.hilton.com/
+
+- name: Accor
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/AccorHotel
+  career_url: https://careers.accor.com/
+
+- name: IHG Hotels & Resorts
+  enabled: false   # careers.ihg.com sperrt automatische Abrufe ("Access Denied")
+  career_url: https://careers.ihg.com/
+
+- name: Hyatt
+  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript ohne erkennbare Schnittstelle
+  career_url: https://careers.hyatt.com/
+
+- name: Vapiano
+  ats: personio
+  url: https://vapiano.jobs.personio.de
+  career_url: https://karriere.gastro-soul.de/jobs/vapiano
+
+- name: Block House
+  ats: browser
+  career_url: https://www.block-house.de/restaurants/karriere/
+  list_url: https://karriere.block-gruppe.de/stellenangebote.html
+  job_link: karriere\.block-gruppe\.de/(?!stellenangebote\.html)[^?#]*\d[^?#]*\.html
+
+- name: L'Osteria
+  ats: browser
+  career_url: https://losteria.net/de/karriere/
+  list_url: https://losteria.career.softgarden.de/
+  job_link: softgarden\.de/job/\d+
+
+- name: Hans im Glück
+  ats: browser
+  career_url: https://hansimglueck-burgergrill.de/jobs/
+  list_url: https://hansimglueck-burgergrill.de/jobs/stelle-finden/?city=all&job=Zentrale
+  job_link: hansimglueck-burgergrill\.de/[^?#]*(stelle|job)[^?#]*/[a-z0-9-]*\d+
+
+# ---------------------------------------------------------------- Fußball
+- name: FC Bayern München
+  enabled: false   # Jobseite lädt die Stellen nur per JavaScript, beim Test keine Stellenliste gefunden
+  career_url: https://fcbayern.com/de/club/jobs
+
+- name: FC Barcelona
+  enabled: false   # Jobseite beim Test fehlerhaft ("Sorry, an error has occurred")
+  career_url: https://www.fcbarcelona.com/en/club/jobs
+
+- name: Real Madrid
+  enabled: false   # keine öffentliche Stellenbörse gefunden
+  career_url: https://www.realmadrid.com/es-ES/el-club/empleo
+
+- name: Manchester United
+  ats: pinpoint
+  url: https://careers.manutd.com
+  career_url: https://careers.manutd.com/
+
+- name: Manchester City (City Football Group)
+  ats: successfactors
+  url: https://careers.cityfootballgroup.com
+  career_url: https://careers.cityfootballgroup.com/
+
+- name: Liverpool FC
+  ats: browser
+  career_url: https://www.liverpoolfc.com/recruitment
+  list_url: https://jobsearch.liverpoolfc.com/
+  job_link: jobsearch\.liverpoolfc\.com/(?:jobs/)?(?:vacancy|job)s?/[^?#]*\d+
+
+- name: Chelsea FC
+  ats: browser
+  career_url: https://www.chelseafc.com/en/careers
+  list_url: https://secure.workforceready.eu/ta/6189861.careers?CareersSearch
+  job_link: 6189861\.careers\?ShowJob=\d+
+
+# ---------------------------------------------------------------- NGO
+- name: Greenpeace International
+  ats: recruitee
+  url: https://workfor.international.greenpeace.org
+  career_url: https://www.greenpeace.org/international/jobs/
+
+- name: Greenpeace Deutschland
+  ats: personio
+  url: https://greenpeace.jobs.personio.de
+  career_url: https://www.greenpeace.de/jobs

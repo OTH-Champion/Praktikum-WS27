@@ -400,6 +400,8 @@ class OracleHCM:
 
     def list(self, http, comp, settings):
         base, api, site, lang = self._cfg(comp)
+        path = urlparse(comp["url"]).path
+        prefix = path[:path.find("/sites/")] if "/sites/" in path else f"/{lang}"  # z. B. /en oder /hcmUI/CandidateExperience/en
         out = []
         for term in _search_terms(comp, settings):
             for offset in range(0, comp.get("max_rows", 500), 25):
@@ -413,7 +415,7 @@ class OracleHCM:
                 for r in reqs:
                     locs = [r.get("PrimaryLocation") or ""] + [x.get("Name", "") for x in r.get("secondaryLocations") or []]
                     out.append({
-                        "url": f"{base}/{lang}/sites/{site}/job/{r['Id']}",
+                        "url": f"{base}{prefix}/sites/{site}/job/{r['Id']}",
                         "title": clean(r.get("Title")),
                         "locations": [l for l in locs if l],
                         "country_hints": [r["PrimaryLocationCountry"]] if r.get("PrimaryLocationCountry") else [],
