@@ -1,1 +1,17 @@
-Firmen (0): 
+Firmen (3): Block House, Hans im Glück, Chelsea FC
+
+== Block House ==
+  33 Stellen gefunden, 1 davon Praktika (Titel)
+  1 nach Ortsfilter (Liste)
+    · Praktikum in der Block Gruppe | Praktikum in der Block Gruppe Student/Praktikant Block House
+
+== Hans im Glück ==
+  0 Stellen gefunden, 0 davon Praktika (Titel)
+  0 nach Ortsfilter (Liste)
+
+== Chelsea FC ==
+  0 Stellen gefunden, 0 davon Praktika (Titel)
+  0 nach Ortsfilter (Liste)
+  OK  Block House: {'gefunden': 33, 'praktika': 1, 'ort_ok': 1} 9s 
+  ERR Hans im Glück: {'gefunden': 0, 'praktika': 0, 'ort_ok': 0} 13s Keine Stellen gefunden (Seite oder Schnittstelle evtl. geändert)
+  ERR Chelsea FC: {'gefunden': 0, 'praktika': 0, 'ort_ok': 0} 9s Keine Stellen gefunden (Seite oder Schnittstelle evtl. geändert)
