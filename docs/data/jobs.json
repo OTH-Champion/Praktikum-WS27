@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-04T01:18+00:00",
+ "aktualisiert": "2026-11-04T07:40+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -15,7 +15,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 119
+   "stellen": 121
   },
   {
    "name": "Siemens",
@@ -23,7 +23,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 4
+   "stellen": 0
   },
   {
    "name": "Bosch",
@@ -39,7 +39,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 34
+   "stellen": 35
   },
   {
    "name": "Munich Re",
@@ -191,7 +191,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 93
+   "stellen": 94
   },
   {
    "name": "Deloitte",
@@ -623,7 +623,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 52
+   "stellen": 49
   },
   {
    "name": "Philips",
@@ -892,27 +892,6 @@
  ],
  "stellen": [
   {
-   "titel": "Intern, Data Analytics, Dispersions & Resins",
-   "firma": "BASF",
-   "orte": [
-    {
-     "land": "HK",
-     "stadt": "Hongkong"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Präsenz",
-   "start": "November 2026",
-   "start_monat": "2026-11",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://basf.jobs/job/Intern%2C-Data-Analytics%2C-Dispersions-&amp;-Resins/145432-en_US/"
-  },
-  {
    "titel": "Intern, IT Supply Chain",
    "firma": "BASF",
    "orte": [
@@ -953,27 +932,6 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://basf.jobs/job/Intern%2C-Supply-Chain-Management/145315-en_US/"
-  },
-  {
-   "titel": "Intern Global HR Reporting & Campaign Support (m/f/d)",
-   "firma": "BASF",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Berlin"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "4–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://basf.jobs/job/Intern-Global-HR-Reporting-&amp;-Campaign-Support-%28mfd%29/145178-en_US/"
   },
   {
    "titel": "Internship Business Reporting (m/f/d) - Hybrid Option GER",
@@ -1039,48 +997,6 @@
    "link": "https://basf.jobs/job/Internship-Management-Consulting-Data-ScienceData-Analytics-%28mfd%29/145868-en_US/"
   },
   {
-   "titel": "Internship Marketing & Sales - Global Training Projects & Digital Learning (m/f/d)",
-   "firma": "BASF",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Ludwigshafen am Rhein"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://basf.jobs/job/Internship-Marketing-&amp;-Sales-Global-Training-Projects-&amp;-Digital-Learning-%28mfd%29/145368-en_US/"
-  },
-  {
-   "titel": "Internship Risk Management & Internal Controls (m/f/d)",
-   "firma": "BASF",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Limburgerhof"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Präsenz",
-   "start": "Mai 2027",
-   "start_monat": "2027-05",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://basf.jobs/job/Internship-Risk-Management-&amp;-Internal-Controls-%28mfd%29/144456-en_US/"
-  },
-  {
    "titel": "Praktikum Change Communications (m/w/d)",
    "firma": "BASF",
    "orte": [
@@ -1123,96 +1039,12 @@
    "link": "https://basf.jobs/job/Praktikum-Vocational-Training-%28mwd%29/144098-en_US/"
   },
   {
-   "titel": "Communications Internship (12 months)",
-   "firma": "Siemens",
-   "orte": [
-    {
-     "land": "GB",
-     "stadt": "Communications Internship"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503103"
-  },
-  {
-   "titel": "Mobile Communications Intern (12 months)",
-   "firma": "Siemens",
-   "orte": [
-    {
-     "land": "GB",
-     "stadt": "Mobile Communications Intern"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "ab sofort",
-   "start_monat": "2026-11",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519061"
-  },
-  {
-   "titel": "Project & Performance Intern (12 months)",
-   "firma": "Siemens",
-   "orte": [
-    {
-     "land": "GB",
-     "stadt": "Project & Performance Intern"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "Präsenz",
-   "start": "ab sofort",
-   "start_monat": "2026-11",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519071"
-  },
-  {
-   "titel": "Quantity Surveyor Intern (12 months)",
-   "firma": "Siemens",
-   "orte": [
-    {
-     "stadt": "Quantity Surveyor Intern",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "Präsenz",
-   "start": "ab sofort",
-   "start_monat": "2026-11",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/514895"
-  },
-  {
    "titel": "PR & Events Intern",
    "firma": "Hyundai",
    "orte": [
     {
-     "stadt": "PR & Events Intern Madrid",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "PR & Events Intern Madrid"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -1226,6 +1058,245 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://jobs.hyundai-europe.com/default/job/PR-&amp;-Events-Intern/10463-en_GB"
+  },
+  {
+   "titel": "Praktikant*in Vertriebskommunikation und Vorstandsassistenz (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "stadt": "Stuttgart",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-vertriebskommunikation-und-vorstandsassistenz-pflicht--oder-kombipraktikum--245129-MER00049OA"
+  },
+  {
+   "titel": "Praktikant*in Strategische Projektleitung & Produktsteuerung VAN (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "stadt": "Stuttgart",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projektleitung-produktsteuerung-van-pflicht--oder-kombipraktikum--245142-MER0004A4C"
+  },
+  {
+   "titel": "SAP Intern – Intelligent Contracting Automation",
+   "firma": "SAP",
+   "orte": [
+    {
+     "stadt": "Buenos Aires",
+     "land": "AR"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.sap.com/en/jobs/744000159538240/sap-intern-intelligent-contracting-automation"
+  },
+  {
+   "titel": "Internship Risk Management & Internal Controls (m/f/d)",
+   "firma": "BASF",
+   "orte": [
+    {
+     "stadt": "Limburgerhof",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Präsenz",
+   "start": "Mai 2027",
+   "start_monat": "2027-05",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://basf.jobs/job/Internship-Risk-Management-&-Internal-Controls-%28mfd%29/144456-en_US/"
+  },
+  {
+   "titel": "Intern Global HR Reporting & Campaign Support (m/f/d)",
+   "firma": "BASF",
+   "orte": [
+    {
+     "stadt": "Berlin",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "4–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://basf.jobs/job/Intern-Global-HR-Reporting-&-Campaign-Support-%28mfd%29/145178-en_US/"
+  },
+  {
+   "titel": "Intern, Data Analytics, Dispersions & Resins",
+   "firma": "BASF",
+   "orte": [
+    {
+     "stadt": "Hongkong",
+     "land": "HK"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Präsenz",
+   "start": "November 2026",
+   "start_monat": "2026-11",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://basf.jobs/job/Intern%2C-Data-Analytics%2C-Dispersions-&-Resins/145432-en_US/"
+  },
+  {
+   "titel": "Internship Marketing & Sales - Global Training Projects & Digital Learning (m/f/d)",
+   "firma": "BASF",
+   "orte": [
+    {
+     "stadt": "Ludwigshafen am Rhein",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://basf.jobs/job/Internship-Marketing-&-Sales-Global-Training-Projects-&-Digital-Learning-%28mfd%29/145368-en_US/"
+  },
+  {
+   "titel": "HR Mobility Intern",
+   "firma": "EY",
+   "orte": [
+    {
+     "stadt": "k. A.",
+     "land": "LU"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://careers.ey.com/ey/job/Luxembourg-HR-Mobility-Intern-L-1855/1444849033/"
+  },
+  {
+   "titel": "Learn more about Business Program Manager MBA Intern, 2027",
+   "firma": "Google",
+   "orte": [
+    {
+     "stadt": "London",
+     "land": "GB"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "13 Wochen",
+   "dauer_wochen": 13.0,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://www.google.com/about/careers/applications/jobs/results/109231596359295686-business-program-manager-mba-intern-2027?q=intern"
+  },
+  {
+   "titel": "Learn more about Associate Product Marketing Manager BS/MS Intern, 2027",
+   "firma": "Google",
+   "orte": [
+    {
+     "stadt": "Associate Product Marketing Manager BS/MS Intern",
+     "land": "IE"
+    },
+    {
+     "stadt": "Hamburg",
+     "land": "DE"
+    },
+    {
+     "stadt": "Dublin",
+     "land": "IE"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "13 Wochen",
+   "dauer_wochen": 13.0,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://www.google.com/about/careers/applications/jobs/results/123907061523063494-associate-product-marketing-manager-bsms-intern-2027?q=intern"
+  },
+  {
+   "titel": "Learn more about Financial Analyst BS/MS Intern, 2027",
+   "firma": "Google",
+   "orte": [
+    {
+     "stadt": "Dublin",
+     "land": "IE"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "13 Wochen",
+   "dauer_wochen": 13.0,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://www.google.com/about/careers/applications/jobs/results/100315940037501638-financial-analyst-bsms-intern-2027?q=intern&page=2"
   },
   {
    "titel": "Becario/a de Operaciones Logísticas Internacionales",
@@ -3349,6 +3420,48 @@
    "link": "https://jobs.infineon.com/careers/job/563808972299825"
   },
   {
+   "titel": "Praktikant*in Einkauf Motor/Getriebe (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-einkauf-motor-getriebe-pflicht-praktikum--244967-MER00049YN"
+  },
+  {
+   "titel": "Praktikant*in Marketingkommunikation Own Retail",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketingkommunikation-own-retail-245007-MER00049ZM"
+  },
+  {
    "titel": "Campus Specialist Intern",
    "firma": "SAP",
    "orte": [
@@ -4021,27 +4134,6 @@
    "link": "https://www.ferrerocareers.com/int/en/jobs/estagio-em-marketing-premium-chocolate"
   },
   {
-   "titel": "Learn more about Financial Analyst BS/MS Intern, 2027",
-   "firma": "Google",
-   "orte": [
-    {
-     "land": "IE",
-     "stadt": "Dublin"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "13 Wochen",
-   "dauer_wochen": 13.0,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": true,
-   "link": "https://www.google.com/about/careers/applications/jobs/results/100315940037501638-financial-analyst-bsms-intern-2027?q=intern&page=3"
-  },
-  {
    "titel": "Learn more about Associate Product Manager BS/MS Intern, 2027",
    "firma": "Google",
    "orte": [
@@ -4113,27 +4205,6 @@
    "link": "https://www.google.com/about/careers/applications/jobs/results/105628505345008326-new-business-sales-bsms-intern-2027-multiple-languages?q=intern&page=3"
   },
   {
-   "titel": "Learn more about Business Program Manager MBA Intern, 2027",
-   "firma": "Google",
-   "orte": [
-    {
-     "land": "GB",
-     "stadt": "London"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "13 Wochen",
-   "dauer_wochen": 13.0,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": true,
-   "link": "https://www.google.com/about/careers/applications/jobs/results/109231596359295686-business-program-manager-mba-intern-2027?q=intern&page=2"
-  },
-  {
    "titel": "Learn more about MBA Intern, 2027",
    "firma": "Google",
    "orte": [
@@ -4174,35 +4245,6 @@
    "veroeffentlicht": "2026-11-03",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/122745878459884230-mba-intern-2027?q=intern&page=4"
-  },
-  {
-   "titel": "Learn more about Associate Product Marketing Manager BS/MS Intern, 2027",
-   "firma": "Google",
-   "orte": [
-    {
-     "land": "IE",
-     "stadt": "Associate Product Marketing Manager BS/MS Intern"
-    },
-    {
-     "land": "DE",
-     "stadt": "Hamburg"
-    },
-    {
-     "land": "IE",
-     "stadt": "Dublin"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "13 Wochen",
-   "dauer_wochen": 13.0,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": true,
-   "link": "https://www.google.com/about/careers/applications/jobs/results/123907061523063494-associate-product-marketing-manager-bsms-intern-2027?q=intern&page=2"
   },
   {
    "titel": "Learn more about Associate Product Marketing Manager BS/MS Intern, 2027",
@@ -4371,48 +4413,6 @@
    "veroeffentlicht": "2026-11-03",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027?q=intern"
-  },
-  {
-   "titel": "Praktikant*in Marketingkommunikation Own Retail",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketingkommunikation-own-retail-245007-MER00049ZM"
-  },
-  {
-   "titel": "Praktikant*in Einkauf Motor/Getriebe (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-einkauf-motor-getriebe-pflicht-praktikum--244967-MER00049YN"
   },
   {
    "titel": "Sustainable Finance Summer Internship Programme 2027 London",
@@ -4791,6 +4791,111 @@
    "veroeffentlicht": "2026-11-02",
    "datum_geschaetzt": false,
    "link": "https://jobs.infineon.com/careers/job/563808972299822"
+  },
+  {
+   "titel": "Intern – Financial Controller IT",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/intern-financial-controller-it-241467-MER000486M"
+  },
+  {
+   "titel": "IT Digital Communications Intern",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/it-digital-communications-intern-244787-MER0004A2M"
+  },
+  {
+   "titel": "Praktikant*in CEO-/Corporate Office (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-ceo--corporate-office-pflicht-praktikum--244879-MER0004A0J"
+  },
+  {
+   "titel": "Praktikant*in Newsmanagement & Media Analytics (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-newsmanagement-media-analytics-pflicht-praktikum--244800-MER0004A02"
+  },
+  {
+   "titel": "Praktikant*in Unternehmenskommunikation Business & Finance (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-unternehmenskommunikation-business-finance-pflicht--oder-kombipraktikum--244793-MER0004A0V"
   },
   {
    "titel": "Praktikum HR Leadership Development & Talent Management (w/m/d)",
@@ -5276,111 +5381,6 @@
    "link": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Sustainable-Business-and-Communications_R-1189141"
   },
   {
-   "titel": "Intern – Financial Controller IT",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/intern-financial-controller-it-241467-MER000486M"
-  },
-  {
-   "titel": "Praktikant*in CEO-/Corporate Office (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-ceo--corporate-office-pflicht-praktikum--244879-MER0004A0J"
-  },
-  {
-   "titel": "IT Digital Communications Intern",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/it-digital-communications-intern-244787-MER0004A2M"
-  },
-  {
-   "titel": "Praktikant*in Unternehmenskommunikation Business & Finance (Pflicht- oder Kombipraktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-unternehmenskommunikation-business-finance-pflicht--oder-kombipraktikum--244793-MER0004A0V"
-  },
-  {
-   "titel": "Praktikant*in Newsmanagement & Media Analytics (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-newsmanagement-media-analytics-pflicht-praktikum--244800-MER0004A02"
-  },
-  {
    "titel": "Cambridge Internship Program Azure Research, Security and Privacy",
    "firma": "Microsoft",
    "orte": [
@@ -5547,6 +5547,90 @@
    "veroeffentlicht": "2026-10-30",
    "datum_geschaetzt": false,
    "link": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-service-sales-wholesale-banking-w-m-d/3121/43201372352"
+  },
+  {
+   "titel": "Praktikant*in Global Creative Hub & Governance (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-global-creative-hub-governance-pflicht-praktikum--244646-MER00049F4"
+  },
+  {
+   "titel": "Praktikant*in IT Outbound Logistik Fertigfahrzeuge",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-it-outbound-logistik-fertigfahrzeuge-244727-MER00049FT"
+  },
+  {
+   "titel": "Praktikant*in Legal, Artificial Intelligence & Product Compliance",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-legal-artificial-intelligence-product-compliance-244710-MER0004A07"
+  },
+  {
+   "titel": "Praktikant*in Nachhaltigkeit in der Lieferkette – Umwelt- und Klimaschutz",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-nachhaltigkeit-in-der-lieferkette-umwelt--und-klimaschutz-244735-MER00049WZ"
   },
   {
    "titel": "Internship - Strategic Purchasing Electronics",
@@ -5822,90 +5906,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Vilnius/Supply-Chain-Intern_202607-119461-1"
   },
   {
-   "titel": "Praktikant*in Global Creative Hub & Governance (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-global-creative-hub-governance-pflicht-praktikum--244646-MER00049F4"
-  },
-  {
-   "titel": "Praktikant*in Legal, Artificial Intelligence & Product Compliance",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-legal-artificial-intelligence-product-compliance-244710-MER0004A07"
-  },
-  {
-   "titel": "Praktikant*in IT Outbound Logistik Fertigfahrzeuge",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-it-outbound-logistik-fertigfahrzeuge-244727-MER00049FT"
-  },
-  {
-   "titel": "Praktikant*in Nachhaltigkeit in der Lieferkette – Umwelt- und Klimaschutz",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-nachhaltigkeit-in-der-lieferkette-umwelt--und-klimaschutz-244735-MER00049WZ"
-  },
-  {
    "titel": "Intern, Claims",
    "firma": "AXA",
    "orte": [
@@ -6100,6 +6100,153 @@
    "veroeffentlicht": "2026-10-29",
    "datum_geschaetzt": false,
    "link": "https://jobs.kpmg.de/job-invite/11790/?locale=de_DE"
+  },
+  {
+   "titel": "Intern Project Management – Customer Experience & Digital Solutions (Mandatory Internship)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/intern-project-management-customer-experience-digital-solutions-mandatory-internship--244546-MER00049ZR"
+  },
+  {
+   "titel": "Praktikant*in HR-Prozessmanagement & Document Lifecycle mit Schwerpunkt Testing und Qualitätssicherung (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-prozessmanagement-document-lifecycle-mit-schwerpunkt-testing-und-qualit-tssicherung-pflicht-praktikum--244533-MER00049PL"
+  },
+  {
+   "titel": "Praktikant*in Logistics Engineering Schwerpunkt Methode und Projektsteuerung",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-logistics-engineering-schwerpunkt-methode-und-projektsteuerung-232909-MER00046ZD"
+  },
+  {
+   "titel": "Praktikant*in Produktkommunikation Mercedes-Benz Vans (Pflicht- oder Kombinationspraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktkommunikation-mercedes-benz-vans-pflicht--oder-kombinationspraktikum--244507-MER00049VV"
+  },
+  {
+   "titel": "Praktikant*in Strategy & Portfolio Management für Digitale Extras (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategy-portfolio-management-f-r-digitale-extras-pflicht-praktikum--244585-MER00049Z8"
+  },
+  {
+   "titel": "Praktikant*in Support Management digitaler Extras",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-support-management-digitaler-extras-244542-MER00049XT"
+  },
+  {
+   "titel": "Praktikant*in Team Retail Professionalization Mercedes-Benz Vans (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-team-retail-professionalization-mercedes-benz-vans-pflicht-praktikum--239272-MER00048FX"
   },
   {
    "titel": "SAP iXp Intern - Employer Brand Coordinator (limited part-time)",
@@ -6312,153 +6459,6 @@
    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Marketing-Intern--Hair-Care_593929-1"
   },
   {
-   "titel": "Praktikant*in Logistics Engineering Schwerpunkt Methode und Projektsteuerung",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-logistics-engineering-schwerpunkt-methode-und-projektsteuerung-232909-MER00046ZD"
-  },
-  {
-   "titel": "Praktikant*in Team Retail Professionalization Mercedes-Benz Vans (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-team-retail-professionalization-mercedes-benz-vans-pflicht-praktikum--239272-MER00048FX"
-  },
-  {
-   "titel": "Praktikant*in Produktkommunikation Mercedes-Benz Vans (Pflicht- oder Kombinationspraktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktkommunikation-mercedes-benz-vans-pflicht--oder-kombinationspraktikum--244507-MER00049VV"
-  },
-  {
-   "titel": "Praktikant*in HR-Prozessmanagement & Document Lifecycle mit Schwerpunkt Testing und Qualitätssicherung (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-prozessmanagement-document-lifecycle-mit-schwerpunkt-testing-und-qualit-tssicherung-pflicht-praktikum--244533-MER00049PL"
-  },
-  {
-   "titel": "Praktikant*in Support Management digitaler Extras",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-support-management-digitaler-extras-244542-MER00049XT"
-  },
-  {
-   "titel": "Intern Project Management – Customer Experience & Digital Solutions (Mandatory Internship)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/intern-project-management-customer-experience-digital-solutions-mandatory-internship--244546-MER00049ZR"
-  },
-  {
-   "titel": "Praktikant*in Strategy & Portfolio Management für Digitale Extras (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategy-portfolio-management-f-r-digitale-extras-pflicht-praktikum--244585-MER00049Z8"
-  },
-  {
    "titel": "INTERNSHIP - PUBLIC AFFAIRS ECONOMI RESEARCH",
    "firma": "Allianz",
    "orte": [
@@ -6625,6 +6625,216 @@
    "veroeffentlicht": "2026-10-28",
    "datum_geschaetzt": false,
    "link": "https://jobs.infineon.com/careers/job/563808972283665"
+  },
+  {
+   "titel": "Praktikant*in Customer Experience Strategy & Communication (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-customer-experience-strategy-communication-pflicht-praktikum--244296-MER00049VD"
+  },
+  {
+   "titel": "Praktikant*in IT & Outbound-Logistik Fertigfahrzeuge",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-it-outbound-logistik-fertigfahrzeuge-244421-MER00049XR"
+  },
+  {
+   "titel": "Praktikant*in Kommunikation & Marketing (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-kommunikation-marketing-pflicht-praktikum--244408-MER00049KM"
+  },
+  {
+   "titel": "Praktikant*in Leergutmanagement mit Schwerpunkt Digitalisierung",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-leergutmanagement-mit-schwerpunkt-digitalisierung-244308-MER00049W6"
+  },
+  {
+   "titel": "Praktikant*in Marketing Activation (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-activation-pflicht--oder-kombipraktikum--244330-MER00049I3"
+  },
+  {
+   "titel": "Praktikant*in Produktmanagement Automatisiertes Fahren (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktmanagement-automatisiertes-fahren-pflicht-praktikum--244290-MER00049XF"
+  },
+  {
+   "titel": "Praktikant*in Produktmanagement G-Klasse (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktmanagement-g-klasse-pflicht--oder-kombipraktikum--244351-MER00049PB"
+  },
+  {
+   "titel": "Praktikant*in Produktmanagement MB Charging Fleet Solutions (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktmanagement-mb-charging-fleet-solutions-pflicht--oder-kombipraktikum--244391-MER00049VR"
+  },
+  {
+   "titel": "Praktikant*in Retail Strategie & Transformation (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-retail-strategie-transformation-pflicht--oder-kombipraktikum--244304-MER00049F2"
+  },
+  {
+   "titel": "Praktikant*in Supply Chain - Ladungsträgerplanung Achsen Powertrain (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Esslingen am Neckar"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-supply-chain---ladungstr-gerplanung-achsen-powertrain-pflicht-praktikum--244316-MER00049W5"
   },
   {
    "titel": "Sales Corporate Digital Intern",
@@ -6963,216 +7173,6 @@
    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/Business-Development-Associate_JR249467-1"
   },
   {
-   "titel": "Praktikant*in Kommunikation & Marketing (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-kommunikation-marketing-pflicht-praktikum--244408-MER00049KM"
-  },
-  {
-   "titel": "Praktikant*in IT & Outbound-Logistik Fertigfahrzeuge",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-it-outbound-logistik-fertigfahrzeuge-244421-MER00049XR"
-  },
-  {
-   "titel": "Praktikant*in Produktmanagement G-Klasse (Pflicht- oder Kombipraktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktmanagement-g-klasse-pflicht--oder-kombipraktikum--244351-MER00049PB"
-  },
-  {
-   "titel": "Praktikant*in Leergutmanagement mit Schwerpunkt Digitalisierung",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-leergutmanagement-mit-schwerpunkt-digitalisierung-244308-MER00049W6"
-  },
-  {
-   "titel": "Praktikant*in Supply Chain - Ladungsträgerplanung Achsen Powertrain (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Esslingen am Neckar",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-supply-chain---ladungstr-gerplanung-achsen-powertrain-pflicht-praktikum--244316-MER00049W5"
-  },
-  {
-   "titel": "Praktikant*in Marketing Activation (Pflicht- oder Kombipraktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-activation-pflicht--oder-kombipraktikum--244330-MER00049I3"
-  },
-  {
-   "titel": "Praktikant*in Produktmanagement MB Charging Fleet Solutions (Pflicht- oder Kombipraktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktmanagement-mb-charging-fleet-solutions-pflicht--oder-kombipraktikum--244391-MER00049VR"
-  },
-  {
-   "titel": "Praktikant*in Produktmanagement Automatisiertes Fahren (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktmanagement-automatisiertes-fahren-pflicht-praktikum--244290-MER00049XF"
-  },
-  {
-   "titel": "Praktikant*in Customer Experience Strategy & Communication (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-customer-experience-strategy-communication-pflicht-praktikum--244296-MER00049VD"
-  },
-  {
-   "titel": "Praktikant*in Retail Strategie & Transformation (Pflicht- oder Kombipraktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-retail-strategie-transformation-pflicht--oder-kombipraktikum--244304-MER00049F2"
-  },
-  {
    "titel": "[Internship] Market Analysis & Forecasting (F/M)",
    "firma": "Renault",
    "orte": [
@@ -7444,6 +7444,153 @@
    "veroeffentlicht": "2026-10-27",
    "datum_geschaetzt": false,
    "link": "https://jobs.infineon.com/careers/job/563808972281197"
+  },
+  {
+   "titel": "Praktikant*in Auftragseinplanung",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-auftragseinplanung-244016-MER00049KI"
+  },
+  {
+   "titel": "Praktikant*in Betriebliche Sozialberatung (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Beratung (Consulting)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-betriebliche-sozialberatung-pflicht-praktikum--244118-MER00049TM"
+  },
+  {
+   "titel": "Praktikant*in Business & People Protection Office (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-business-people-protection-office-pflicht-praktikum--244129-MER00049IF"
+  },
+  {
+   "titel": "Praktikant*in Global Creative Advertising (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-global-creative-advertising-pflicht--oder-kombipraktikum--244085-MER00048NN"
+  },
+  {
+   "titel": "Praktikant*in IL Strategy & Acceleration (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-il-strategy-acceleration-pflicht-praktikum--244032-MER00049MV"
+  },
+  {
+   "titel": "Praktikant*in Produktmanagement (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktmanagement-pflicht-praktikum--244107-MER00049TZ"
+  },
+  {
+   "titel": "Praktikant*in Strategische Projektleitung (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projektleitung-pflicht-praktikum--244109-MER00049V5"
   },
   {
    "titel": "SAP iXp Intern - Data Intelligence Profiling",
@@ -7887,153 +8034,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship-in-Business-Solution-Management---Digital-Health-Products--as-of-1-January-2027--Rotkreuz--12-months-_202610-127498-1"
   },
   {
-   "titel": "Praktikant*in Global Creative Advertising (Pflicht- oder Kombipraktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-global-creative-advertising-pflicht--oder-kombipraktikum--244085-MER00048NN"
-  },
-  {
-   "titel": "Praktikant*in IL Strategy & Acceleration (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-il-strategy-acceleration-pflicht-praktikum--244032-MER00049MV"
-  },
-  {
-   "titel": "Praktikant*in Auftragseinplanung",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-auftragseinplanung-244016-MER00049KI"
-  },
-  {
-   "titel": "Praktikant*in Produktmanagement (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktmanagement-pflicht-praktikum--244107-MER00049TZ"
-  },
-  {
-   "titel": "Praktikant*in Strategische Projektleitung (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projektleitung-pflicht-praktikum--244109-MER00049V5"
-  },
-  {
-   "titel": "Praktikant*in Betriebliche Sozialberatung (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Beratung (Consulting)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-betriebliche-sozialberatung-pflicht-praktikum--244118-MER00049TM"
-  },
-  {
-   "titel": "Praktikant*in Business & People Protection Office (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-business-people-protection-office-pflicht-praktikum--244129-MER00049IF"
-  },
-  {
    "titel": "Intern - Allianz Consulting - Right shoring, Business Transition and Support (m/f/d)",
    "firma": "Allianz",
    "orte": [
@@ -8053,6 +8053,174 @@
    "veroeffentlicht": "2026-10-26",
    "datum_geschaetzt": false,
    "link": "https://careers.allianz.com/global/en/job/108535/Intern-Allianz-Consulting-Right-shoring-Business-Transition-and-Support-m-f-d"
+  },
+  {
+   "titel": "Praktikant*in Nachhaltigkeit Lieferkette - Menschenrechte im Einkauf",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-nachhaltigkeit-lieferkette---menschenrechte-im-einkauf--243940-MER00049PP"
+  },
+  {
+   "titel": "Praktikant*in Personalmanagement",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Rastatt"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-personalmanagement-240044-MER00048C9"
+  },
+  {
+   "titel": "Praktikant*in Projektcontrolling Midsize und Large Cars",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektcontrolling-midsize-und-large-cars-243841-MER00048SW"
+  },
+  {
+   "titel": "Praktikant*in Projektmanagement ADAS und der Modulgruppenarbeit Fahrerassistenzsysteme",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektmanagement-adas-und-der-modulgruppenarbeit-fahrerassistenzsysteme-243949-MER000497M"
+  },
+  {
+   "titel": "Praktikant*in PT/TE Target Operating Model (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-pt-te-target-operating-model-pflicht-praktikum--243872-MER00049TY"
+  },
+  {
+   "titel": "Praktikant*in Strategischer Einkauf mit Schwerpunkt Vergabesteuerung & Kooperationen",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategischer-einkauf-mit-schwerpunkt-vergabesteuerung-kooperationen-243864-MER00049KC"
+  },
+  {
+   "titel": "Praktikant Produktmanagement (w/m/d) im Bereich Ersatzteile Classic, Reproduktion & Logistik am Standort Fellbach in der Mercedes-Benz Heritage GmbH, SS 2027",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Fellbach"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-produktmanagement-w-m-d-im-bereich-ersatzteile-classic-reproduktion-logistik-am-standort-fellbach-in-der-mercedes-benz-heritage-gmbh-ss-2027-243911-MER00049VB"
+  },
+  {
+   "titel": "Rechtsreferendar*in (Pflicht-Praktikum als Wahlstation) Konzerndatenschutz",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/rechtsreferendar-in-pflicht-praktikum-als-wahlstation-konzerndatenschutz-211860-MER0004155"
   },
   {
    "titel": "University Alliance Intern- Singapore",
@@ -8202,174 +8370,6 @@
    "link": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Field-Sales---Trade-Marketing_R-1189154"
   },
   {
-   "titel": "Rechtsreferendar*in (Pflicht-Praktikum als Wahlstation) Konzerndatenschutz",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/rechtsreferendar-in-pflicht-praktikum-als-wahlstation-konzerndatenschutz-211860-MER0004155"
-  },
-  {
-   "titel": "Praktikant*in Personalmanagement",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Rastatt",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-personalmanagement-240044-MER00048C9"
-  },
-  {
-   "titel": "Praktikant*in Strategischer Einkauf mit Schwerpunkt Vergabesteuerung & Kooperationen",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategischer-einkauf-mit-schwerpunkt-vergabesteuerung-kooperationen-243864-MER00049KC"
-  },
-  {
-   "titel": "Praktikant*in PT/TE Target Operating Model (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-pt-te-target-operating-model-pflicht-praktikum--243872-MER00049TY"
-  },
-  {
-   "titel": "Praktikant*in Projektcontrolling Midsize und Large Cars",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektcontrolling-midsize-und-large-cars-243841-MER00048SW"
-  },
-  {
-   "titel": "Praktikant*in Nachhaltigkeit Lieferkette - Menschenrechte im Einkauf",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-nachhaltigkeit-lieferkette---menschenrechte-im-einkauf--243940-MER00049PP"
-  },
-  {
-   "titel": "Praktikant*in Projektmanagement ADAS und der Modulgruppenarbeit Fahrerassistenzsysteme",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektmanagement-adas-und-der-modulgruppenarbeit-fahrerassistenzsysteme-243949-MER000497M"
-  },
-  {
-   "titel": "Praktikant Produktmanagement (w/m/d) im Bereich Ersatzteile Classic, Reproduktion & Logistik am Standort Fellbach in der Mercedes-Benz Heritage GmbH, SS 2027",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Fellbach",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-produktmanagement-w-m-d-im-bereich-ersatzteile-classic-reproduktion-logistik-am-standort-fellbach-in-der-mercedes-benz-heritage-gmbh-ss-2027-243911-MER00049VB"
-  },
-  {
    "titel": "Supply Chain Demand Support Intern",
    "firma": "Philips",
    "orte": [
@@ -8452,6 +8452,90 @@
    "veroeffentlicht": "2026-10-23",
    "datum_geschaetzt": false,
    "link": "https://careers.allianz.com/global/en/job/108690/Intern-Strategy-Executive-Support-CTO-Office-m-f-d"
+  },
+  {
+   "titel": "Praktikant*in Inhouse Consulting mit dem Schwerpunkt Lean Management",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Beratung (Consulting)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-23",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-inhouse-consulting-mit-dem-schwerpunkt-lean-management-243771-MER00049S4"
+  },
+  {
+   "titel": "Praktikant*in People Solutions (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-23",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-people-solutions-pflicht-praktikum--243741-MER00049QH"
+  },
+  {
+   "titel": "Praktikant*in Projektleitung Logistik Powertrain (eATS, Batterie, Achsen, Motoren) (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Esslingen am Neckar"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-23",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektleitung-logistik-powertrain-eats-batterie-achsen-motoren-pflicht-praktikum--234411-MER00047GL"
+  },
+  {
+   "titel": "Praktikant*in Supply Chain Management (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Mannheim"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-23",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-supply-chain-management-pflicht-praktikum--243730-MER00049RK"
   },
   {
    "titel": "Praktikum GenAI Business Development (w/m/d)",
@@ -8727,90 +8811,6 @@
    "link": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Rotterdam---Weena/Category-Management-Intern---Food-Service_R208570"
   },
   {
-   "titel": "Praktikant*in Projektleitung Logistik Powertrain (eATS, Batterie, Achsen, Motoren) (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Esslingen am Neckar",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-23",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektleitung-logistik-powertrain-eats-batterie-achsen-motoren-pflicht-praktikum--234411-MER00047GL"
-  },
-  {
-   "titel": "Praktikant*in Supply Chain Management (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Mannheim",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-23",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-supply-chain-management-pflicht-praktikum--243730-MER00049RK"
-  },
-  {
-   "titel": "Praktikant*in People Solutions (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-23",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-people-solutions-pflicht-praktikum--243741-MER00049QH"
-  },
-  {
-   "titel": "Praktikant*in Inhouse Consulting mit dem Schwerpunkt Lean Management",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Beratung (Consulting)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-23",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-inhouse-consulting-mit-dem-schwerpunkt-lean-management-243771-MER00049S4"
-  },
-  {
    "titel": "Business Development Support Intern, Broker",
    "firma": "Allianz",
    "orte": [
@@ -8893,6 +8893,216 @@
    "veroeffentlicht": "2026-10-22",
    "datum_geschaetzt": false,
    "link": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-global-capital-markets-w-m-d/3121/25999549248"
+  },
+  {
+   "titel": "Praktikant*in Customer Services Marktmanagement (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-customer-services-marktmanagement-pflicht-praktikum--243551-MER00049MQ"
+  },
+  {
+   "titel": "Praktikant*in Digitales Produktmanagement In-Car & Architektur Customer Service (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-digitales-produktmanagement-in-car-architektur-customer-service-pflicht-praktikum--243592-MER00048W3"
+  },
+  {
+   "titel": "Praktikant*in Digitalisierungsprojekte und Projektmanagement",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bremen"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-digitalisierungsprojekte-und-projektmanagement-243602-MER00049PF"
+  },
+  {
+   "titel": "Praktikant*in IT internationale Logistik",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-it-internationale-logistik-243540-MER00049ME"
+  },
+  {
+   "titel": "Praktikant*in Kommunikation im Bereich Vorstand, Influencer & Media Relations (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-kommunikation-im-bereich-vorstand-influencer-media-relations-pflicht-praktikum--243548-MER00049MG"
+  },
+  {
+   "titel": "Praktikant*in Lieferantenkapazitätsmanagement",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-lieferantenkapazit-tsmanagement--243597-MER00049PC"
+  },
+  {
+   "titel": "Praktikant*in Logistik Ladungsträgerplanung",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Rastatt"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-logistik-ladungstr-gerplanung-243495-MER00049MC"
+  },
+  {
+   "titel": "Praktikant*in Marketing-Kommunikation (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-kommunikation-pflicht-praktikum--243473-MER00049KJ"
+  },
+  {
+   "titel": "Praktikant*in Qualitätsmanagement – Strategie, Digitalisierung & Management-Steuerung",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-qualit-tsmanagement-strategie-digitalisierung-management-steuerung-243609-MER00048RT"
+  },
+  {
+   "titel": "Praktikant*in Technische Projektleitung C-/CLE-Klasse",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-technische-projektleitung-c--cle-klasse--243490-MER00049H0"
   },
   {
    "titel": "SAP iXp Intern Concur – ABM and AI Specialist",
@@ -9105,216 +9315,6 @@
    "link": "https://traderepublic.com/en-de/about?jobId=8041296003&gh_jid=8041296003"
   },
   {
-   "titel": "Praktikant*in Qualitätsmanagement – Strategie, Digitalisierung & Management-Steuerung",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-qualit-tsmanagement-strategie-digitalisierung-management-steuerung-243609-MER00048RT"
-  },
-  {
-   "titel": "Praktikant*in Digitales Produktmanagement In-Car & Architektur Customer Service (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-digitales-produktmanagement-in-car-architektur-customer-service-pflicht-praktikum--243592-MER00048W3"
-  },
-  {
-   "titel": "Praktikant*in Lieferantenkapazitätsmanagement",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-lieferantenkapazit-tsmanagement--243597-MER00049PC"
-  },
-  {
-   "titel": "Praktikant*in Digitalisierungsprojekte und Projektmanagement",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Bremen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-digitalisierungsprojekte-und-projektmanagement-243602-MER00049PF"
-  },
-  {
-   "titel": "Praktikant*in Marketing-Kommunikation (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-kommunikation-pflicht-praktikum--243473-MER00049KJ"
-  },
-  {
-   "titel": "Praktikant*in Technische Projektleitung C-/CLE-Klasse",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-technische-projektleitung-c--cle-klasse--243490-MER00049H0"
-  },
-  {
-   "titel": "Praktikant*in Logistik Ladungsträgerplanung",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Rastatt",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-logistik-ladungstr-gerplanung-243495-MER00049MC"
-  },
-  {
-   "titel": "Praktikant*in Kommunikation im Bereich Vorstand, Influencer & Media Relations (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-kommunikation-im-bereich-vorstand-influencer-media-relations-pflicht-praktikum--243548-MER00049MG"
-  },
-  {
-   "titel": "Praktikant*in Customer Services Marktmanagement (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-customer-services-marktmanagement-pflicht-praktikum--243551-MER00049MQ"
-  },
-  {
-   "titel": "Praktikant*in IT internationale Logistik",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-it-internationale-logistik-243540-MER00049ME"
-  },
-  {
    "titel": "INTERNSHIP - ASSISTANT DIGITAL MARKETING PROJECT MANAGER (W/M)",
    "firma": "Allianz",
    "orte": [
@@ -9376,6 +9376,115 @@
    "veroeffentlicht": "2026-10-21",
    "datum_geschaetzt": false,
    "link": "https://jobs.infineon.com/careers/job/563808972212498"
+  },
+  {
+   "titel": "Intern Customer Portfolio Management (Mandatory Internship)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/intern-customer-portfolio-management-mandatory-internship--243372-MER00049NJ"
+  },
+  {
+   "titel": "Intern Financial Controller & Chief Financial Officer (Mandatory Internship)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/intern-financial-controller-chief-financial-officer-mandatory-internship--243350-MER000494C"
+  },
+  {
+   "titel": "Praktikant*in Controlling Zweit-/Drittkundengeschäft & Services China",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-controlling-zweit--drittkundengesch-ft-services-china-243351-MER00049MB"
+  },
+  {
+   "titel": "Praktikant*in Markenkommunikation (Pflicht-Paktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-markenkommunikation-pflicht-paktikum--243336-MER000496V"
+  },
+  {
+   "titel": "Praktikant*in Strategische Personalarbeit & Transformation",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    },
+    {
+     "land": "DE",
+     "stadt": "Rastatt"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-personalarbeit-transformation-243247-MER00049L2"
   },
   {
    "titel": "Praktikum Sports Business Advisory (w/m/d)",
@@ -9651,115 +9760,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Marketing-Intern_202610-126893"
   },
   {
-   "titel": "Intern Financial Controller & Chief Financial Officer (Mandatory Internship)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/intern-financial-controller-chief-financial-officer-mandatory-internship--243350-MER000494C"
-  },
-  {
-   "titel": "Praktikant*in Controlling Zweit-/Drittkundengeschäft & Services China",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-controlling-zweit--drittkundengesch-ft-services-china-243351-MER00049MB"
-  },
-  {
-   "titel": "Praktikant*in Markenkommunikation (Pflicht-Paktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-markenkommunikation-pflicht-paktikum--243336-MER000496V"
-  },
-  {
-   "titel": "Praktikant*in Strategische Personalarbeit & Transformation",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    },
-    {
-     "stadt": "Rastatt",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-personalarbeit-transformation-243247-MER00049L2"
-  },
-  {
-   "titel": "Intern Customer Portfolio Management (Mandatory Internship)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/intern-customer-portfolio-management-mandatory-internship--243372-MER00049NJ"
-  },
-  {
    "titel": "Becario/a de Ingeniería y Transformación Digital",
    "firma": "Renault",
    "orte": [
@@ -9823,27 +9823,6 @@
    "link": "https://careers.ing.com/en/job/singapore/intern-hr-operations/3121/46008155648"
   },
   {
-   "titel": "Intern, Rates Trading",
-   "firma": "ING",
-   "orte": [
-    {
-     "land": "SG",
-     "stadt": "Singapur"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://careers.ing.com/en/job/singapore/intern-rates-trading/3121/46162965376"
-  },
-  {
    "titel": "Praktikum IT & Technology in M&A (w/m/d)",
    "firma": "KPMG",
    "orte": [
@@ -9891,6 +9870,69 @@
    "veroeffentlicht": "2026-10-20",
    "datum_geschaetzt": false,
    "link": "https://jobs.kpmg.de/job-invite/12981/?locale=de_DE"
+  },
+  {
+   "titel": "Praktikant*in Anlaufteilemanagement VAN (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-anlaufteilemanagement-van-pflicht-praktikum--243141-MER00049M2"
+  },
+  {
+   "titel": "Praktikant*in globale IT-Strategie (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-globale-it-strategie-pflicht-praktikum--243176-MER00049DP"
+  },
+  {
+   "titel": "Praktikant*in Marketing Management Sprinter (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-management-sprinter-pflicht-praktikum--243187-MER00049FP"
   },
   {
    "titel": "Praktikum - Supply Chain Management",
@@ -10292,69 +10334,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship--Digital---OE-Support-for-Performance-Excellence-Delivery--6-Months-_202610-126546"
   },
   {
-   "titel": "Praktikant*in Marketing Management Sprinter (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-management-sprinter-pflicht-praktikum--243187-MER00049FP"
-  },
-  {
-   "titel": "Praktikant*in globale IT-Strategie (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-globale-it-strategie-pflicht-praktikum--243176-MER00049DP"
-  },
-  {
-   "titel": "Praktikant*in Anlaufteilemanagement VAN (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-anlaufteilemanagement-van-pflicht-praktikum--243141-MER00049M2"
-  },
-  {
    "titel": "Becario/a de Gestión de Proyectos de Automoción e Industrialización",
    "firma": "Renault",
    "orte": [
@@ -10479,6 +10458,90 @@
    "veroeffentlicht": "2026-10-19",
    "datum_geschaetzt": false,
    "link": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Freiwilliger-Praktikant-strategischer-Indirekter-Einkauf-%28mwd%29-80809/1397705233/"
+  },
+  {
+   "titel": "Praktikant*in Marketing Maybach und Mercedes-Benz G-Klasse (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-maybach-und-mercedes-benz-g-klasse-pflicht-praktikum--243007-MER00049EG"
+  },
+  {
+   "titel": "Praktikant*in Sourcing & Supplier Management (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-sourcing-supplier-management-pflicht-praktikum--243011-MER00049IV"
+  },
+  {
+   "titel": "Praktikant*in Strategische Projektleitung G-Klasse (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projektleitung-g-klasse-pflicht-praktikum--242995-MER00049JZ"
+  },
+  {
+   "titel": "Praktikant*in Transportplanung & Netzwerksteuerung Inbound",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-transportplanung-netzwerksteuerung-inbound-242946-MER00049IT"
   },
   {
    "titel": "Pflichtpraktikum in der Personalabteilung (m/w/div.)",
@@ -10628,90 +10691,6 @@
    "link": "https://jobs.smartrecruiters.com/RedBull/744000156253469"
   },
   {
-   "titel": "Praktikant*in Transportplanung & Netzwerksteuerung Inbound",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-19",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-transportplanung-netzwerksteuerung-inbound-242946-MER00049IT"
-  },
-  {
-   "titel": "Praktikant*in Sourcing & Supplier Management (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-19",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-sourcing-supplier-management-pflicht-praktikum--243011-MER00049IV"
-  },
-  {
-   "titel": "Praktikant*in Strategische Projektleitung G-Klasse (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-19",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projektleitung-g-klasse-pflicht-praktikum--242995-MER00049JZ"
-  },
-  {
-   "titel": "Praktikant*in Marketing Maybach und Mercedes-Benz G-Klasse (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-19",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-maybach-und-mercedes-benz-g-klasse-pflicht-praktikum--243007-MER00049EG"
-  },
-  {
    "titel": "Praktikant im Bereich Corporate M&A (m/w/d)",
    "firma": "Knorr-Bremse",
    "orte": [
@@ -10737,8 +10716,8 @@
    "firma": "Reckitt (Durex)",
    "orte": [
     {
-     "stadt": "Praktikum Brand Marketing",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Praktikum Brand Marketing"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -10861,6 +10840,174 @@
    "veroeffentlicht": "2026-10-16",
    "datum_geschaetzt": false,
    "link": "https://jobs.adidas-group.com/job/Shanghai-Intern%2C-Product-Development-&amp;-Sourcing-%286-Month-Part-time-Internship%29-SH/1448440933/"
+  },
+  {
+   "titel": "Intern Product Management - Customer-Facing Sales Design System (Mandatory Internship)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/intern-product-management---customer-facing-sales-design-system-mandatory-internship--242766-MER00048PL"
+  },
+  {
+   "titel": "Praktikant*in Architektur, Innenarchitektur und Workplace Design - Digital Factory Campus",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-architektur-innenarchitektur-und-workplace-design---digital-factory-campus-242745-MER00049HV"
+  },
+  {
+   "titel": "Praktikant*in Kommunikation, Informationsdesign & KI-gestützte Wissensvermittlung weltweite Transportlogistik",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-kommunikation-informationsdesign-ki-gest-tzte-wissensvermittlung-weltweite-transportlogistik--242823-MER00049IS"
+  },
+  {
+   "titel": "Praktikant*in Logistikplanung Powertrain (Inbound) (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Esslingen am Neckar"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-logistikplanung-powertrain-inbound-pflicht-praktikum--242776-MER00049IP"
+  },
+  {
+   "titel": "Praktikant*in – People Solution Satellit",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-people-solution-satellit--232025-MER00046OH"
+  },
+  {
+   "titel": "Praktikant*in Produktkommunikation (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktkommunikation-pflicht-praktikum--242808-MER00049IA"
+  },
+  {
+   "titel": "Praktikant*in Supplier und Contract Management (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-supplier-und-contract-management-pflicht--oder-kombipraktikum--242815-MER00049DW"
+  },
+  {
+   "titel": "Praktikant*in Technische Berufsausbildung (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Esslingen am Neckar"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-technische-berufsausbildung-pflicht-praktikum--242786-MER00047KQ"
   },
   {
    "titel": "Praktikum Forensic Investigations, Crisis & Corporate Security (w/m/d)",
@@ -11229,174 +11376,6 @@
    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Regional-Marketing-Intern-CEE-Mother---Child-Care--all-genders-_592714"
   },
   {
-   "titel": "Praktikant*in – People Solution Satellit",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-people-solution-satellit--232025-MER00046OH"
-  },
-  {
-   "titel": "Praktikant*in Architektur, Innenarchitektur und Workplace Design - Digital Factory Campus",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-architektur-innenarchitektur-und-workplace-design---digital-factory-campus-242745-MER00049HV"
-  },
-  {
-   "titel": "Intern Product Management - Customer-Facing Sales Design System (Mandatory Internship)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/intern-product-management---customer-facing-sales-design-system-mandatory-internship--242766-MER00048PL"
-  },
-  {
-   "titel": "Praktikant*in Logistikplanung Powertrain (Inbound) (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Esslingen am Neckar",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-logistikplanung-powertrain-inbound-pflicht-praktikum--242776-MER00049IP"
-  },
-  {
-   "titel": "Praktikant*in Technische Berufsausbildung (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Esslingen am Neckar",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-technische-berufsausbildung-pflicht-praktikum--242786-MER00047KQ"
-  },
-  {
-   "titel": "Praktikant*in Produktkommunikation (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktkommunikation-pflicht-praktikum--242808-MER00049IA"
-  },
-  {
-   "titel": "Praktikant*in Supplier und Contract Management (Pflicht- oder Kombipraktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-supplier-und-contract-management-pflicht--oder-kombipraktikum--242815-MER00049DW"
-  },
-  {
-   "titel": "Praktikant*in Kommunikation, Informationsdesign & KI-gestützte Wissensvermittlung weltweite Transportlogistik",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-kommunikation-informationsdesign-ki-gest-tzte-wissensvermittlung-weltweite-transportlogistik--242823-MER00049IS"
-  },
-  {
    "titel": "Internship in Business & Service Operations (m/f/d)",
    "firma": "Allianz",
    "orte": [
@@ -11542,6 +11521,48 @@
    "veroeffentlicht": "2026-10-15",
    "datum_geschaetzt": false,
    "link": "https://careers.ing.com/en/job/wan-chai/intern-financial-markets-hong-kong/3121/45969152320"
+  },
+  {
+   "titel": "Praktikant*in Einkauf Batterierohstoffe und strategische Marktentwicklung",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-einkauf-batterierohstoffe-und-strategische-marktentwicklung-242622-MER00049I9"
+  },
+  {
+   "titel": "Praktikant*in strategische Projekte & Change Management (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projekte-change-management-pflicht-praktikum--242634-MER00049GO"
   },
   {
    "titel": "Marketing Associate - SAP UK Intern (13 Month Placement)",
@@ -11964,48 +11985,6 @@
    "link": "https://jobs.smartrecruiters.com/ScalableGmbH/744000155754649"
   },
   {
-   "titel": "Praktikant*in Einkauf Batterierohstoffe und strategische Marktentwicklung",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-einkauf-batterierohstoffe-und-strategische-marktentwicklung-242622-MER00049I9"
-  },
-  {
-   "titel": "Praktikant*in strategische Projekte & Change Management (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projekte-change-management-pflicht-praktikum--242634-MER00049GO"
-  },
-  {
    "titel": "Financial Controlling & Performance Management Internship",
    "firma": "AXA",
    "orte": [
@@ -12090,25 +12069,193 @@
    "link": "https://careers.ing.com/en/job/singapore/intern-global-securities-finance-gsf-trading-financial-markets/3121/45930008896"
   },
   {
-   "titel": "Intern, Corporate Finance Hong Kong",
-   "firma": "ING",
+   "titel": "Praktikant*in HR Consultant Van Vertrieb und Entwicklung (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
    "orte": [
     {
-     "land": "HK",
-     "stadt": "Hongkong"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
-   "fachbereich": "Finanzen & Controlling",
+   "fachbereich": "Personal (HR)",
    "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
    "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-10-14",
    "datum_geschaetzt": false,
-   "link": "https://careers.ing.com/en/job/wan-chai/intern-corporate-finance-hong-kong/3121/45930008704"
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-consultant-van-vertrieb-und-entwicklung-pflicht-praktikum--242464-MER00049DE"
+  },
+  {
+   "titel": "Praktikant*in in der Sozialberatung",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Rastatt"
+    }
+   ],
+   "fachbereich": "Beratung (Consulting)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-in-der-sozialberatung-242372-MER000499M"
+  },
+  {
+   "titel": "Praktikant*in in der weltweiten Planung der Kapazitäten & Bedarfe im Supply Chain Management",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-in-der-weltweiten-planung-der-kapazit-ten-bedarfe-im-supply-chain-management-242340-MER00049FW"
+  },
+  {
+   "titel": "Praktikant*in Marketing & Sales / Projektmanagement, Volumen & Pricing VAN.xA (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-sales-projektmanagement-volumen-pricing-van-xa-pflicht-praktikum--242412-MER00049GH"
+  },
+  {
+   "titel": "Praktikant*in Outbound Logistik – Digitalisierung Track und Trace",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-outbound-logistik-digitalisierung-track-und-trace-242420-MER000496D"
+  },
+  {
+   "titel": "Praktikant*in Produktmanagement Fahrzeuge Compact Cars (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktmanagement-fahrzeuge-compact-cars-pflicht-praktikum--242322-MER00049FS"
+  },
+  {
+   "titel": "Praktikant*in Projektleitung Qualität",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektleitung-qualit-t-242330-MER00049FB"
+  },
+  {
+   "titel": "Praktikant*in Verkaufsmanagement (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-verkaufsmanagement-pflicht-praktikum--242482-MER00048Y3"
+  },
+  {
+   "titel": "Praktikum im Bereich Marketing ab April 2027 befristet bis Sept. 2027, Mercedes-Benz AG, Standort München - Arnulfstraße",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "München"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikum-im-bereich-marketing-ab-april-2027-befristet-bis-sept-2027-mercedes-benz-ag-standort-m-nchen---arnulfstra-e-242128-MER00048J7"
   },
   {
    "titel": "Praktikum - Kommunikation, Marketing und Events",
@@ -12300,195 +12447,6 @@
    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires/LATAM-Internship-Program---Alliances---Channels-Intern--Argentina-_JR364075-1"
   },
   {
-   "titel": "Praktikant*in Marketing & Sales / Projektmanagement, Volumen & Pricing VAN.xA (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-sales-projektmanagement-volumen-pricing-van-xa-pflicht-praktikum--242412-MER00049GH"
-  },
-  {
-   "titel": "Praktikant*in Outbound Logistik – Digitalisierung Track und Trace",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-outbound-logistik-digitalisierung-track-und-trace-242420-MER000496D"
-  },
-  {
-   "titel": "Praktikant*in HR Consultant Van Vertrieb und Entwicklung (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-consultant-van-vertrieb-und-entwicklung-pflicht-praktikum--242464-MER00049DE"
-  },
-  {
-   "titel": "Praktikant*in Verkaufsmanagement (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-verkaufsmanagement-pflicht-praktikum--242482-MER00048Y3"
-  },
-  {
-   "titel": "Praktikum im Bereich Marketing ab April 2027 befristet bis Sept. 2027, Mercedes-Benz AG, Standort München - Arnulfstraße",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "München",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikum-im-bereich-marketing-ab-april-2027-befristet-bis-sept-2027-mercedes-benz-ag-standort-m-nchen---arnulfstra-e-242128-MER00048J7"
-  },
-  {
-   "titel": "Praktikant*in in der weltweiten Planung der Kapazitäten & Bedarfe im Supply Chain Management",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-in-der-weltweiten-planung-der-kapazit-ten-bedarfe-im-supply-chain-management-242340-MER00049FW"
-  },
-  {
-   "titel": "Praktikant*in in der Sozialberatung",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Rastatt",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Beratung (Consulting)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-in-der-sozialberatung-242372-MER000499M"
-  },
-  {
-   "titel": "Praktikant*in Produktmanagement Fahrzeuge Compact Cars (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-produktmanagement-fahrzeuge-compact-cars-pflicht-praktikum--242322-MER00049FS"
-  },
-  {
-   "titel": "Praktikant*in Projektleitung Qualität",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektleitung-qualit-t-242330-MER00049FB"
-  },
-  {
    "titel": "Legal Internship",
    "firma": "AXA",
    "orte": [
@@ -12508,6 +12466,174 @@
    "veroeffentlicht": "2026-10-13",
    "datum_geschaetzt": false,
    "link": "https://careers.axa.com/careers-home/jobs/29059?lang=en-us&previousLocale=en-US"
+  },
+  {
+   "titel": "Praktikant*in Digitalisierung und Bereichscontrolling Batterie & Motor Powertrain Mercedes-Benz Cars (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Esslingen am Neckar"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-digitalisierung-und-bereichscontrolling-batterie-motor-powertrain-mercedes-benz-cars-pflicht-praktikum--242118-MER00048Q6"
+  },
+  {
+   "titel": "Praktikant*in HR Consulting",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bremen"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-consulting-242077-MER000499I"
+  },
+  {
+   "titel": "Praktikant*in im Team Digital Customer Touchpoints (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-team-digital-customer-touchpoints-pflicht-praktikum--242102-MER000499C"
+  },
+  {
+   "titel": "Praktikant*in Markenstrategie (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-markenstrategie-pflicht--oder-kombipraktikum--242246-MER00049DK"
+  },
+  {
+   "titel": "Praktikant*in Marktforschung (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-marktforschung-pflicht-praktikum--242223-MER00048QH"
+  },
+  {
+   "titel": "Praktikant*in Projektleitung Qualität Antriebe (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektleitung-qualit-t-antriebe-pflicht-praktikum--237967-MER000489E"
+  },
+  {
+   "titel": "Praktikant*in Supply Chain Management mit Fokus auf Künstliche Intelligenz",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-supply-chain-management-mit-fokus-auf-k-nstliche-intelligenz-242174-MER00049BP"
+  },
+  {
+   "titel": "Praktikant*in Supply Chain Transformation und Digitalisierung",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-supply-chain-transformation-und-digitalisierung-242232-MER00049BR"
   },
   {
    "titel": "SAP iXp Intern - Solution Support Engineer - Customer Data Solutions",
@@ -12825,174 +12951,6 @@
    "link": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/System-in-Play-Governance-Internship--LEGO-DESiGN_0000039478"
   },
   {
-   "titel": "Praktikant*in Projektleitung Qualität Antriebe (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektleitung-qualit-t-antriebe-pflicht-praktikum--237967-MER000489E"
-  },
-  {
-   "titel": "Praktikant*in Supply Chain Management mit Fokus auf Künstliche Intelligenz",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-supply-chain-management-mit-fokus-auf-k-nstliche-intelligenz-242174-MER00049BP"
-  },
-  {
-   "titel": "Praktikant*in HR Consulting",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Bremen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-consulting-242077-MER000499I"
-  },
-  {
-   "titel": "Praktikant*in im Team Digital Customer Touchpoints (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-team-digital-customer-touchpoints-pflicht-praktikum--242102-MER000499C"
-  },
-  {
-   "titel": "Praktikant*in Digitalisierung und Bereichscontrolling Batterie & Motor Powertrain Mercedes-Benz Cars (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Esslingen am Neckar",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-digitalisierung-und-bereichscontrolling-batterie-motor-powertrain-mercedes-benz-cars-pflicht-praktikum--242118-MER00048Q6"
-  },
-  {
-   "titel": "Praktikant*in Marktforschung (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-marktforschung-pflicht-praktikum--242223-MER00048QH"
-  },
-  {
-   "titel": "Praktikant*in Supply Chain Transformation und Digitalisierung",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-supply-chain-transformation-und-digitalisierung-242232-MER00049BR"
-  },
-  {
-   "titel": "Praktikant*in Markenstrategie (Pflicht- oder Kombipraktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-markenstrategie-pflicht--oder-kombipraktikum--242246-MER00049DK"
-  },
-  {
    "titel": "Finance Intern, Singapore (Jan 2027)",
    "firma": "Allianz",
    "orte": [
@@ -13138,6 +13096,153 @@
    "veroeffentlicht": "2026-10-12",
    "datum_geschaetzt": false,
    "link": "https://jobs.infineon.com/careers/job/563808972183254"
+  },
+  {
+   "titel": "Praktikant*in Global Order Management (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Esslingen am Neckar"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-global-order-management-pflicht-praktikum--241972-MER0004942"
+  },
+  {
+   "titel": "Praktikant*in im Eventmanagement",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Rastatt"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-eventmanagement-241989-MER000499L"
+  },
+  {
+   "titel": "Praktikant*in International Diplomatic Sales (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-international-diplomatic-sales-pflicht-praktikum--241965-MER00048WS"
+  },
+  {
+   "titel": "Praktikant*in IT-Projektmanagement (Einführung des SAP-Logistik-Templates)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Böblingen"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-it-projektmanagement-einf-hrung-des-sap-logistik-templates--241919-MER00048C3"
+  },
+  {
+   "titel": "Praktikant*in Omnichannel Commerce - Digital Customer Interaction (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-omnichannel-commerce---digital-customer-interaction-pflicht-praktikum--242007-MER000499K"
+  },
+  {
+   "titel": "Praktikant*in Projektmanagement After-Sales Fahrzeugprojekte Large Cars & SUV",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektmanagement-after-sales-fahrzeugprojekte-large-cars-suv-241992-MER000499W"
+  },
+  {
+   "titel": "Praktikant*in Vertrieb Marktmanagement Mercedes-Benz Cars (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-vertrieb-marktmanagement-mercedes-benz-cars-pflicht-praktikum--241942-MER000490Y"
   },
   {
    "titel": "Pflichtpraktikum im Live Marketing Messen und Events",
@@ -13287,153 +13392,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Grenzach/Praktikum-im-Bereich-Insights---Analytics--m-w-d-_202609-124618-3"
   },
   {
-   "titel": "Praktikant*in IT-Projektmanagement (Einführung des SAP-Logistik-Templates)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Böblingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-it-projektmanagement-einf-hrung-des-sap-logistik-templates--241919-MER00048C3"
-  },
-  {
-   "titel": "Praktikant*in Vertrieb Marktmanagement Mercedes-Benz Cars (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-vertrieb-marktmanagement-mercedes-benz-cars-pflicht-praktikum--241942-MER000490Y"
-  },
-  {
-   "titel": "Praktikant*in Global Order Management (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Esslingen am Neckar",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-global-order-management-pflicht-praktikum--241972-MER0004942"
-  },
-  {
-   "titel": "Praktikant*in im Eventmanagement",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Rastatt",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-eventmanagement-241989-MER000499L"
-  },
-  {
-   "titel": "Praktikant*in Projektmanagement After-Sales Fahrzeugprojekte Large Cars & SUV",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektmanagement-after-sales-fahrzeugprojekte-large-cars-suv-241992-MER000499W"
-  },
-  {
-   "titel": "Praktikant*in International Diplomatic Sales (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-international-diplomatic-sales-pflicht-praktikum--241965-MER00048WS"
-  },
-  {
-   "titel": "Praktikant*in Omnichannel Commerce - Digital Customer Interaction (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-omnichannel-commerce---digital-customer-interaction-pflicht-praktikum--242007-MER000499K"
-  },
-  {
    "titel": "Praktikum HR IT & Prozesse (w/m/d)",
    "firma": "PwC",
    "orte": [
@@ -13547,6 +13505,132 @@
    "link": "https://careers.ing.com/en/job/singapore/intern-working-capital-solutions/3121/45727888704"
   },
   {
+   "titel": "Praktikant*in Employer Branding und Recruiting (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-09",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-employer-branding-und-recruiting-pflicht-praktikum--237282-MER000481I"
+  },
+  {
+   "titel": "Praktikant*in im Bereich Vertrieb Marktmanagement (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-09",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-bereich-vertrieb-marktmanagement-pflicht-praktikum--241722-MER000490Z"
+  },
+  {
+   "titel": "Praktikant*in Personalentwicklung und Recruiting (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-09",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-personalentwicklung-und-recruiting-pflicht-praktikum--241775-MER000497I"
+  },
+  {
+   "titel": "Praktikant*in Portfoliomanagement / Produktstrategie Mercedes-Benz Cars",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-09",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-portfoliomanagement-produktstrategie-mercedes-benz-cars-241681-MER000497H"
+  },
+  {
+   "titel": "Praktikant*in Säulenstrategie und Digitalisierung",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-09",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-s-ulenstrategie-und-digitalisierung-241711-MER00048WI"
+  },
+  {
+   "titel": "Praktikant*in Strategieberatung und Unternehmensentwicklung (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-09",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategieberatung-und-unternehmensentwicklung-pflicht-praktikum--241758-MER000497B"
+  },
+  {
    "titel": "【2WP/MBC】Internship at Two-Wheeler & Powersports Marketing and Business Communication",
    "firma": "Bosch",
    "orte": [
@@ -13629,132 +13713,6 @@
    "veroeffentlicht": "2026-10-09",
    "datum_geschaetzt": false,
    "link": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Barcelona/Marketing-Analyst-Intern_JR-119730-1"
-  },
-  {
-   "titel": "Praktikant*in Employer Branding und Recruiting (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-09",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-employer-branding-und-recruiting-pflicht-praktikum--237282-MER000481I"
-  },
-  {
-   "titel": "Praktikant*in Strategieberatung und Unternehmensentwicklung (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-09",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategieberatung-und-unternehmensentwicklung-pflicht-praktikum--241758-MER000497B"
-  },
-  {
-   "titel": "Praktikant*in Personalentwicklung und Recruiting (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-09",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-personalentwicklung-und-recruiting-pflicht-praktikum--241775-MER000497I"
-  },
-  {
-   "titel": "Praktikant*in Säulenstrategie und Digitalisierung",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-09",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-s-ulenstrategie-und-digitalisierung-241711-MER00048WI"
-  },
-  {
-   "titel": "Praktikant*in im Bereich Vertrieb Marktmanagement (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-09",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-bereich-vertrieb-marktmanagement-pflicht-praktikum--241722-MER000490Z"
-  },
-  {
-   "titel": "Praktikant*in Portfoliomanagement / Produktstrategie Mercedes-Benz Cars",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-09",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-portfoliomanagement-produktstrategie-mercedes-benz-cars-241681-MER000497H"
   },
   {
    "titel": "Praktikant im Marketing für Kampagnen und Events für Junge Familien (m/w/d)",
@@ -13881,6 +13839,153 @@
    "veroeffentlicht": "2026-10-08",
    "datum_geschaetzt": false,
    "link": "https://careers.ing.com/en/job/luxembourg/internship-financial-controller/3121/45697254464"
+  },
+  {
+   "titel": "Praktikant*in Beteiligungscontrolling (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-beteiligungscontrolling-pflicht-praktikum--241473-MER000493G"
+  },
+  {
+   "titel": "Praktikant*in HR Consulting",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-consulting-241484-MER0004960"
+  },
+  {
+   "titel": "Praktikant*in HR der Mercedes-Benz Tochtergesellschaften (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-der-mercedes-benz-tochtergesellschaften-pflicht-praktikum--236813-MER00047YW"
+  },
+  {
+   "titel": "Praktikant*in im Supply Chain Management",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Hamburg"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-supply-chain-management-241492-MER000492J"
+  },
+  {
+   "titel": "Praktikant*in Marketing / Markteinführungen (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-markteinf-hrungen-pflicht-praktikum--241496-MER00048OK"
+  },
+  {
+   "titel": "Praktikant*in Strategische Projektleitung Midsize",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projektleitung-midsize-241562-MER000483Q"
+  },
+  {
+   "titel": "Praktikant*in strategischer Einkauf Motormanagement (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategischer-einkauf-motormanagement-pflicht-praktikum--241575-MER00048W0"
   },
   {
    "titel": "Praktikum Personalentwicklung & Performance Management (w/m/d)",
@@ -14072,153 +14177,6 @@
    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colombia---Bogota/LATAM-Internship-Program---Scale-Program-LATAM-Intern--Colombia-_JR361231-1"
   },
   {
-   "titel": "Praktikant*in HR der Mercedes-Benz Tochtergesellschaften (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-der-mercedes-benz-tochtergesellschaften-pflicht-praktikum--236813-MER00047YW"
-  },
-  {
-   "titel": "Praktikant*in Strategische Projektleitung Midsize",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projektleitung-midsize-241562-MER000483Q"
-  },
-  {
-   "titel": "Praktikant*in strategischer Einkauf Motormanagement (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategischer-einkauf-motormanagement-pflicht-praktikum--241575-MER00048W0"
-  },
-  {
-   "titel": "Praktikant*in Beteiligungscontrolling (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-beteiligungscontrolling-pflicht-praktikum--241473-MER000493G"
-  },
-  {
-   "titel": "Praktikant*in HR Consulting",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-consulting-241484-MER0004960"
-  },
-  {
-   "titel": "Praktikant*in im Supply Chain Management",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Hamburg",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-supply-chain-management-241492-MER000492J"
-  },
-  {
-   "titel": "Praktikant*in Marketing / Markteinführungen (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-markteinf-hrungen-pflicht-praktikum--241496-MER00048OK"
-  },
-  {
    "titel": "Group Financial Controller Internship",
    "firma": "AXA",
    "orte": [
@@ -14280,6 +14238,48 @@
    "veroeffentlicht": "2026-10-07",
    "datum_geschaetzt": false,
    "link": "https://jobs.adidas-group.com/job/Kwun-Tong-Intern-Performance-Management-Global-Logistics%2C-Digital-Process-Management-&amp;-Solutions/1444991833/"
+  },
+  {
+   "titel": "Praktikant*in im Personalbereich",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bremen"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-07",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-personalbereich-241323-MER00048YF"
+  },
+  {
+   "titel": "Praktikant*in Steuerung Ausstattung C-, GLC- und CLE- Klasse",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-07",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-steuerung-ausstattung-c--glc--und-cle--klasse-241335-MER000491Q"
   },
   {
    "titel": "Internship – Quality Engineer and Consultant for SAP Build Process Automation F/M",
@@ -14513,48 +14513,6 @@
    "link": "https://traderepublic.com/en-de/about?jobId=8015727003&gh_jid=8015727003"
   },
   {
-   "titel": "Praktikant*in im Personalbereich",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Bremen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-personalbereich-241323-MER00048YF"
-  },
-  {
-   "titel": "Praktikant*in Steuerung Ausstattung C-, GLC- und CLE- Klasse",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-steuerung-ausstattung-c--glc--und-cle--klasse-241335-MER000491Q"
-  },
-  {
    "titel": "PRAKTIKANT (M/W/X) IM INNOVATION ENGAGEMENT MANAGEMENT",
    "firma": "DHL",
    "orte": [
@@ -14786,6 +14744,27 @@
    "link": "https://careers.ing.com/en/job/singapore/intern-transaction-services-sales/3121/45574995328"
   },
   {
+   "titel": "Praktikant/-in (w/m/d) im Bereich Classic Communications der Mercedes-Benz Heritage GmbH ab 01.03.2027 in Stuttgart",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-05",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant--in-w-m-d-im-bereich-classic-communications-der-mercedes-benz-heritage-gmbh-ab-01-03-2027-in-stuttgart-241073-MER0004943"
+  },
+  {
    "titel": "Cross-Team Coordination & Analytics Intern",
    "firma": "Aumovio",
    "orte": [
@@ -14889,27 +14868,6 @@
    "veroeffentlicht": "2026-10-05",
    "datum_geschaetzt": false,
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Grenzach/Praktikum--m-w-d--im-Bereich-Events---Congresses_202608-121608-1"
-  },
-  {
-   "titel": "Praktikant/-in (w/m/d) im Bereich Classic Communications der Mercedes-Benz Heritage GmbH ab 01.03.2027 in Stuttgart",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-05",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant--in-w-m-d-im-bereich-classic-communications-der-mercedes-benz-heritage-gmbh-ab-01-03-2027-in-stuttgart-241073-MER0004943"
   },
   {
    "titel": "¡Sumate a nuestro programa de pasantías Escuela de Talentos! ¡Ingreso en Diciembre 2026!",
@@ -16756,27 +16714,6 @@
    "veroeffentlicht": "2026-09-25",
    "datum_geschaetzt": false,
    "link": "https://careers.ing.com/en/job/singapore/intern-corporates-sales/3121/45174747200"
-  },
-  {
-   "titel": "Intern, Fund Finance",
-   "firma": "ING",
-   "orte": [
-    {
-     "land": "SG",
-     "stadt": "Singapur"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-25",
-   "datum_geschaetzt": false,
-   "link": "https://careers.ing.com/en/job/singapore/intern-fund-finance/3121/45167336384"
   },
   {
    "titel": "Intern, Trade Finance Product Management",
