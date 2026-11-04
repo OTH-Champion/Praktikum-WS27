@@ -716,7 +716,7 @@
   ats: browser
   career_url: https://hansimglueck-burgergrill.de/jobs/
   list_url: https://hansimglueck-burgergrill.de/jobs/stelle-finden/?city=all&job=Zentrale
-  job_link: hansimglueck-burgergrill\.de/[^?#]*(stelle|job)[^?#]*/[a-z0-9-]*\d+
+  job_link: short\.sg/j/\d+
 
 # ---------------------------------------------------------------- Fußball
 - name: FC Bayern München
@@ -752,6 +752,7 @@
   career_url: https://www.chelseafc.com/en/careers
   list_url: https://secure.workforceready.eu/ta/6189861.careers?CareersSearch
   job_link: 6189861\.careers\?ShowJob=\d+
+  job_url: https://secure.workforceready.eu/ta/6189861.careers?ShowJob={id}
 
 # ---------------------------------------------------------------- NGO
 - name: Greenpeace International
