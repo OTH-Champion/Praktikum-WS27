@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-04T08:56+00:00",
+ "aktualisiert": "2026-11-04T09:30+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -15,7 +15,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 123
+   "stellen": 124
   },
   {
    "name": "Siemens",
@@ -63,7 +63,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 64
+   "stellen": 63
   },
   {
    "name": "Volkswagen",
@@ -175,7 +175,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 42
+   "stellen": 43
   },
   {
    "name": "KPMG",
@@ -727,7 +727,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 28
+   "stellen": 27
   },
   {
    "name": "Sky",
@@ -903,7 +903,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 10
+   "stellen": 9
   },
   {
    "name": "Accor",
@@ -1026,12 +1026,12 @@
    "stellen": 1
   },
   {
-   "name": "Greenpeace Deutschland",
-   "career_url": "https://www.greenpeace.de/jobs",
+   "name": "Greenpeace UK",
+   "career_url": "https://www.greenpeace.org.uk/about-greenpeace/jobs/",
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 1
+   "stellen": 0
   }
  ],
  "stellen": [
@@ -1483,6 +1483,48 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/123907061523063494-associate-product-marketing-manager-bsms-intern-2027?q=intern"
+  },
+  {
+   "titel": "Praktikant*in Strategisches & Data Driven Produktmanagement (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "stadt": "Stuttgart",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategisches-data-driven-produktmanagement-pflicht-praktikum--245201-MER0004A4K"
+  },
+  {
+   "titel": "Praktikum Financial Services Consulting - Transformation (w/m/d)",
+   "firma": "PwC",
+   "orte": [
+    {
+     "stadt": "Berlin",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "ab sofort",
+   "start_monat": "2026-11",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.pwc.de/de/de/job/981/Praktikum-Financial-Services-Consulting-Transformation-w-m-d"
   },
   {
    "titel": "Marketing Intern - Excelsior Hotel Gallia",
@@ -7588,27 +7630,6 @@
    "veroeffentlicht": "2026-10-27",
    "datum_geschaetzt": false,
    "link": "https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Suport-Proiect-vehicule-mobilitate-acordate-in-garantie-Constructor--F-M-_JOBREQ_50275968"
-  },
-  {
-   "titel": "Finance Intern (m/f/d)",
-   "firma": "Allianz",
-   "orte": [
-    {
-     "land": "ES",
-     "stadt": "Barcelona"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://careers.allianz.com/global/en/job/103370/Finance-Intern-m-f-d"
   },
   {
    "titel": "Intern Strategic Projects & Executive Office (m/f/d)",
@@ -16030,27 +16051,6 @@
    "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Birmingham-One-Snow-Hill/UK-Corporate-Banking-Summer-Internship-Programme-2027-Birmingham_JR-0000124204"
   },
   {
-   "titel": "International Corporate Banking Summer Internship Programme 2027 London",
-   "firma": "Barclays",
-   "orte": [
-    {
-     "land": "GB",
-     "stadt": "k. A."
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-04",
-   "datum_geschaetzt": false,
-   "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/International-Corporate-Banking-Summer-Internship-Programme-2027-London_JR-0000123989"
-  },
-  {
    "titel": "Quantitative Finance Associate Off Cycle Internship Programme 2027 London",
    "firma": "Barclays",
    "orte": [
@@ -17937,27 +17937,6 @@
    "veroeffentlicht": "2026-09-25",
    "datum_geschaetzt": false,
    "link": "https://careers.ing.com/en/job/singapore/intern-trade-finance-product-management/3121/45174747072"
-  },
-  {
-   "titel": "Hilton Hospitality Operations Internships 2027 – Front Office, F&D, Kitchen & Housekeeping",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "land": "AT",
-     "stadt": "Wien"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-25",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/224891"
   },
   {
    "titel": "Intern, Talent Acquisition (Jan-June 2027)",
