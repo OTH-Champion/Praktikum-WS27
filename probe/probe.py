@@ -209,7 +209,7 @@ def extra_api():
     s = requests.Session()
     s.headers["User-Agent"] = "Mozilla/5.0 (praktikum-ws27 probe)"
     out = []
-    for line in (HERE / "workday.txt").read_text().split():
+    for line in [l for l in (HERE / "workday.txt").read_text().split() if l.count("/") == 2]:
         t, w, site = line.split("/")
         url = f"https://{t}.{w}.myworkdayjobs.com/wday/cxs/{t}/{site}/jobs"
         try:
@@ -217,11 +217,9 @@ def extra_api():
             out.append(f"workday {line}: {r.status_code} total={r.json().get('total') if r.ok else ''}")
         except Exception as e:
             out.append(f"workday {line}: ERR {e}")
-    for nm in ["UNICEF", "UNDP", "UNHCR", "WFP", "WWF", "wwfde", "wwf-deutschland", "IFAW", "Welthungerhilfe", "Caritas",
-               "caritas-international", "Diakonie", "Misereor", "Kindernothilfe", "Amnesty", "amnestyde", "Human Rights Watch", "hrw",
-               "GIZ", "KfW", "Brot fuer die Welt", "NABU", "Plan International", "plan", "tdh", "Terre des hommes",
-               "Aktion gegen den Hunger", "aktiongegendenhunger", "FES", "Friedrich Ebert Stiftung", "KAS", "Ashoka",
-               "Fairtrade", "fairtrade-deutschland", "Greenpeace Deutschland", "greenpeace-de", "greenpeaceev"]:
+    for nm in ["Brot fuer die Welt", "brotfuerdiewelt", "ewde", "Diakonie Katastrophenhilfe", "Plan", "plande", "plan-deutschland",
+               "Aktion gegen den Hunger", "actionagainsthunger", "FES", "fes", "Fairtrade", "fairtradedeutschland", "Fairtrade Deutschland",
+               "transfair", "giz", "kfw", "welthungerhilfe", "kas"]:
         try:
             out.append(f"slugs {nm}: {api_probe(nm)}")
         except Exception as e:

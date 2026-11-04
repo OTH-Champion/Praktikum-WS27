@@ -1,26 +1,12 @@
-UNICEF|https://jobs.unicef.org/en-us/listing/|https://www.unicef.org/careers/
-UNDP|https://www.undp.org/careers|https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
-UNHCR|https://www.unhcr.org/careers|https://unhcr.wd3.myworkdayjobs.com/External
-WFP|https://www.wfp.org/careers/job-openings|https://wd3.myworkdaysite.com/recruiting/wfp/job_openings
-WWF Deutschland|https://www.wwf.de/ueber-uns/jobs|https://www.wwf.de/jobs
-WWF International|https://wwf.panda.org/get_involved/jobs/|https://www.worldwildlife.org/about/careers
-IFAW|https://www.ifaw.org/careers|https://www.ifaw.org/de/karriere
-Welthungerhilfe|https://www.welthungerhilfe.de/jobs/|https://www.welthungerhilfe.de/ueber-uns/jobs
-Caritas international|https://www.caritas-international.de/ueberuns/jobs|https://www.caritas.de/jobs
-Diakonie Katastrophenhilfe|https://www.diakonie-katastrophenhilfe.de/ueber-uns/jobs|https://www.diakonie-katastrophenhilfe.de/jobs
-Misereor|https://www.misereor.de/jobs|https://www.misereor.de/ueber-uns/jobs
-Kindernothilfe|https://www.kindernothilfe.de/jobs|https://www.kindernothilfe.de/ueber-uns/jobs
-Amnesty International|https://www.amnesty.org/en/careers/|https://www.amnesty.de/mitmachen/jobs
-Human Rights Watch|https://www.hrw.org/careers|https://careers.hrw.org/
-GIZ|https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29|https://www.giz.de/de/jobs/
-KfW|https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/|https://jobs.kfw.de/
-Brot für die Welt|https://www.brot-fuer-die-welt.de/ueber-uns/jobs/|https://www.brot-fuer-die-welt.de/jobs/
-NABU|https://www.nabu.de/wir-ueber-uns/jobs/|https://jobs.nabu.de/
-Plan International|https://www.plan.de/ueber-uns/jobs.html|https://plan-international.org/careers/
-Terre des hommes|https://www.tdh.de/ueber-uns/jobs|https://www.tdh.de/jobs
-Aktion gegen den Hunger|https://www.aktiongegendenhunger.de/jobs|https://www.aktiongegendenhunger.de/ueber-uns/jobs
-Friedrich-Ebert-Stiftung|https://www.fes.de/jobs|https://www.fes.de/stellenangebote
-Konrad-Adenauer-Stiftung|https://www.kas.de/de/karriere|https://www.kas.de/de/web/karriere/stellenangebote
-Ashoka|https://www.ashoka.org/en/careers|https://www.ashoka.org/de-de/jobs
-Fairtrade Deutschland|https://www.fairtrade-deutschland.de/service/jobs|https://www.fairtrade-deutschland.de/jobs
-Greenpeace Deutschland|https://www.greenpeace.de/ueber-uns/jobs|https://jobs.greenpeace.de/
+Brot für die Welt|https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/|https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/
+Diakonie Katastrophenhilfe|https://www.diakonie-katastrophenhilfe.de/ueber-uns|https://www.diakonie-katastrophenhilfe.de/
+Plan International|https://jobs.plan.de/|https://jobs.plan-international.org/
+Aktion gegen den Hunger|https://careers.actionagainsthunger.org/|https://www.aktiongegendenhunger.de/stellenangebote
+FES|https://jobs.fes.de/|https://www.fes.de/stellenangebote/praktikum
+Fairtrade|https://www.fairtrade.net/de-de.html|https://www.fairtrade.net/de-de/ueber-uns/jobs.html
+Kindernothilfe|https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt
+GIZ|https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29|https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword=praktikum
+KfW|https://jobs.kfw.de/index.php?ac=search_result|https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword=praktikum
+Welthungerhilfe|https://career5.successfactors.eu/career?company=WelthungerP&lang=de_DE
+Amnesty|https://careers.amnesty.org/vacancy/find/results/
+KAS|https://www.kas.de/de/web/karriere/stellenangebote
