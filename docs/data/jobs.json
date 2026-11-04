@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-04T22:48+00:00",
+ "aktualisiert": "2026-11-04T22:52+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -1047,7 +1047,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 1
   },
   {
    "name": "UNHCR",
@@ -1167,7 +1167,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 2
+   "stellen": 4
   },
   {
    "name": "Brot für die Welt",
@@ -1552,6 +1552,27 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://careers.ey.com/ey/job/Luxembourg-HR-Mobility-Intern-L-1855/1444849033/"
+  },
+  {
+   "titel": "Internship Financial Institutions Advisory Team",
+   "firma": "ING",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "Amsterdam"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "4 Monate",
+   "dauer_wochen": 17.4,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://careers.ing.com/en/job/amsterdam/internship-financial-institutions-advisory-team/3121/46627262272"
   },
   {
    "titel": "Private Banking - Intern - Digitalisation & AI in Portfolio Management",
@@ -2016,6 +2037,27 @@
    "link": "https://jobs.sap.com/en/jobs/744000159612310/internship-partner-solution-enablement-associate-fm"
   },
   {
+   "titel": "HR Internship - 12 Months",
+   "firma": "Siemens",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "HR Internship"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504448"
+  },
+  {
    "titel": "Praktikum Qualität im Einkauf",
    "firma": "Bosch",
    "orte": [
@@ -2421,48 +2463,6 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/123907061523063494-associate-product-marketing-manager-bsms-intern-2027?q=intern"
-  },
-  {
-   "titel": "HR Internship - 12 Months",
-   "firma": "Siemens",
-   "orte": [
-    {
-     "stadt": "HR Internship",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504448"
-  },
-  {
-   "titel": "Internship Financial Institutions Advisory Team",
-   "firma": "ING",
-   "orte": [
-    {
-     "stadt": "Amsterdam",
-     "land": "NL"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "4 Monate",
-   "dauer_wochen": 17.4,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://careers.ing.com/en/job/amsterdam/internship-financial-institutions-advisory-team/3121/46627262272"
   },
   {
    "titel": "Becario/a de Operaciones Logísticas Internacionales",
@@ -9200,6 +9200,31 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship-in-Business-Solution-Management---Digital-Health-Products--as-of-1-January-2027--Rotkreuz--12-months-_202610-127498-1"
   },
   {
+   "titel": "Intern - Effective Development Cooperation (Switzerland or Home-based) - 2 positions",
+   "firma": "UNDP",
+   "orte": [
+    {
+     "stadt": "Genf",
+     "land": "CH"
+    },
+    {
+     "stadt": "Home Based",
+     "land": "CH"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37749"
+  },
+  {
    "titel": "Intern - Allianz Consulting - Right shoring, Business Transition and Support (m/f/d)",
    "firma": "Allianz",
    "orte": [
@@ -9645,8 +9670,8 @@
    "firma": "KfW (inkl. KfW Entwicklungsbank)",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Frankfurt am Main"
+     "stadt": "Frankfurt am Main",
+     "land": "DE"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -14094,6 +14119,48 @@
    "veroeffentlicht": "2026-10-14",
    "datum_geschaetzt": false,
    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires/LATAM-Internship-Program---Alliances---Channels-Intern--Argentina-_JR364075-1"
+  },
+  {
+   "titel": "Praktikant (w/m/d) im Bereich Konzernentwicklung & Volkswirtschaft - Innovation Hub",
+   "firma": "KfW (inkl. KfW Entwicklungsbank)",
+   "orte": [
+    {
+     "stadt": "Frankfurt am Main",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.kfw.de/index.php?ac=jobad&id=13674"
+  },
+  {
+   "titel": "Praktikant (w/m/d) im Bereich Konzernentwicklung & Volkswirtschaft - Innovation Hub",
+   "firma": "KfW (inkl. KfW Entwicklungsbank)",
+   "orte": [
+    {
+     "stadt": "Frankfurt am Main",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "August 2027",
+   "start_monat": "2027-08",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.kfw.de/index.php?ac=jobad&id=13675"
   },
   {
    "titel": "Legal Internship",
@@ -22704,8 +22771,8 @@
    "firma": "KfW (inkl. KfW Entwicklungsbank)",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Frankfurt am Main"
+     "stadt": "Frankfurt am Main",
+     "land": "DE"
     }
    ],
    "fachbereich": "Finanzen & Controlling",

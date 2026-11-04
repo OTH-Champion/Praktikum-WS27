@@ -9076,6 +9076,34 @@
    "title": "Human Resources Internship - W Barcelona",
    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26144324"
   },
+  "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37749": {
+   "arbeitsmodell": "k. A.",
+   "company": "UNDP",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-04",
+   "grund": "Text: 2 kaufmännische vs. 0 technische Begriffe",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "CH",
+     "stadt": "Genf"
+    },
+    {
+     "land": "CH",
+     "stadt": "Home Based"
+    }
+   ],
+   "posted": "2026-10-27",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Intern - Effective Development Cooperation (Switzerland or Home-based) - 2 positions",
+   "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37749"
+  },
   "https://greenpeace.jobs.personio.de/job/2792142": {
    "arbeitsmodell": "k. A.",
    "company": "Greenpeace UK",
@@ -10163,6 +10191,54 @@
    "stunden_num": null,
    "title": "Ecosystem Partnership Marketing Intern",
    "url": "https://jobs.infineon.com/careers/job/563808972299825"
+  },
+  "https://jobs.kfw.de/index.php?ac=jobad&id=13674": {
+   "arbeitsmodell": "k. A.",
+   "company": "KfW (inkl. KfW Entwicklungsbank)",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Business Development & Strategie",
+   "first_seen": "2026-11-04",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "posted": "2026-10-14",
+   "sprache": "de",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Praktikant (w/m/d) im Bereich Konzernentwicklung & Volkswirtschaft - Innovation Hub",
+   "url": "https://jobs.kfw.de/index.php?ac=jobad&id=13674"
+  },
+  "https://jobs.kfw.de/index.php?ac=jobad&id=13675": {
+   "arbeitsmodell": "k. A.",
+   "company": "KfW (inkl. KfW Entwicklungsbank)",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Business Development & Strategie",
+   "first_seen": "2026-11-04",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "posted": "2026-10-14",
+   "sprache": "de",
+   "start": "August 2027",
+   "start_monat": "2027-08",
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Praktikant (w/m/d) im Bereich Konzernentwicklung & Volkswirtschaft - Innovation Hub",
+   "url": "https://jobs.kfw.de/index.php?ac=jobad&id=13675"
   },
   "https://jobs.kfw.de/index.php?ac=jobad&id=13702": {
    "arbeitsmodell": "k. A.",
