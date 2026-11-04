@@ -93,7 +93,12 @@ jobs:
             for i in 1 2 3; do
               git fetch origin main
               # bei Konflikten mit einem parallelen Lauf gewinnen die neuen Daten
-              git rebase -X theirs origin/main || { git rebase --abort; git reset --soft origin/main; git commit -m "Praktika aktualisiert $(date +'%Y-%m-%d')"; }
+              if ! git rebase -X theirs origin/main; then
+                git rebase --abort; mine=$(git rev-parse HEAD)
+                git reset -q --hard origin/main
+                git checkout "$mine" -- data docs/data
+                git commit -q -m "Praktika aktualisiert $(date +'%Y-%m-%d')" || true
+              fi
               git push origin HEAD:main && break
               sleep 10
             done
