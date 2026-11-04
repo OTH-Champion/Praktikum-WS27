@@ -1,356 +1,408 @@
-## Mercedes-Benz  https://jobs.mercedes-benz.com/?searchText=praktikum
-   final: https://jobs.mercedes-benz.com/?searchText=praktikum  title: Jobsuche | Mercedes-Benz Group > Karriere > Jobsuche  error: None
-   beesite: ['beesite']
-   pattern: 4x group.mercedes-benz.com/karriere/  e.g. https://group.mercedes-benz.com/karriere/
-   pattern: 3x group.mercedes-benz.com/unternehmen/  e.g. https://group.mercedes-benz.com/unternehmen/
-   pattern: 3x group.mercedes-benz.com/nachhaltigkeit/  e.g. https://group.mercedes-benz.com/nachhaltigkeit/
-   pattern: 3x group.mercedes-benz.com/investoren/  e.g. https://group.mercedes-benz.com/investoren/
-   pattern: 3x group.mercedes-benz.com/presse/  e.g. https://group.mercedes-benz.com/presse/
-   link: https://jobs.mercedes-benz.com/driver-assistance-projects-76762-mer00029xa
-   link: https://jobs.mercedes-benz.com/ausbildung-zum-giessereimechaniker-wmd-fachrichtung-druck-und-kokillenguss-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218904-mer00043ec
-   link: https://jobs.mercedes-benz.com/ausbildung-zum-mechatroniker-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218596-mer00043co
-   link: https://jobs.mercedes-benz.com/ausbildung-zum-elektroniker-wmd-fur-automatisierungstechnik-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218603-mer00043cr
-   link: https://jobs.mercedes-benz.com/ausbildung-zum-kfz-mechatroniker-wmd-system-und-hochvolttechnik-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218609-mer00043cu
-   link: https://jobs.mercedes-benz.com/ausbildung-zum-fachinformatiker-fachrichtung-daten-und-prozessanalyse-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218613-mer00043cv
-   link: https://jobs.mercedes-benz.com/ausbildung-zum-fertigungsmechaniker-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218622-mer00043cy
-   link: https://jobs.mercedes-benz.com/ausbildung-zum-industriemechaniker-wmd-mercedes-benz-ag-werk-unterturkheim-ausbildungsbeginn-13092027-218627-mer00043cw
-   link: https://jobs.mercedes-benz.com/ausbildung-zum-kfz-mechatroniker-wmd-system-und-hochvolttechnik-mercedes-benz-ag-werk-dusseldorf-ausbildungsbeginn-01092027-217169-mer00042z0
-   link: https://jobs.mercedes-benz.com/ausbildung-zum-kraftfahrzeugmechatroniker-wmd-fur-personenwagentechnik-mercedes-benz-ag-werk-dusseldorf-ausbildungsbeginn-01092027-217257-mer00042zd
-   link: https://jobs.mercedes-benz.com/?searchText=praktikum
-   link: https://jobs.mercedes-benz.com/en?searchText=praktikum
-   link: https://jobs.mercedes-benz.com/hu?searchText=praktikum
-   link: https://jobs.mercedes-benz.com/?searchText=praktikum#
-## Lufthansa  https://www.lufthansagroup.careers/de/jobsuche?searchTerm=praktikum
-   final: https://www.lufthansagroup.careers/de/jobsuche?searchTerm=praktikum  title: 503 Service Unavailable  error: None
-## Deloitte  https://job.deloitte.com/search?search=praktikum
-   final: https://job.deloitte.com/search?search=praktikum  title: Suche nach praktikum  error: None
-   successfactors: ['career5.successfactors.eu', 'career5.successfactors.eu/career', 'career5.successfactors.eu/career?company=C0001129853P&amp;lang=de_DE&amp;jobPipeline=AEGNIMWE', 'career5.successfactors.eu/career?company=C0001129853P&lang=de_DE&jobPipeline=AEGNIMWE']
-   json: 211 Treffer in https://job.deloitte.com/ajax/get_jobmap_data?search=praktikum | keys=['cities', 'cities_list', 'favorite', 'job_id', 'job_title', 'slug'] | z.B. Consultant Audit (m/w/d)
-   pattern: 121x job.deloitte.com/search  e.g. https://job.deloitte.com/search?search=praktikum#
-   pattern: 106x job.deloitte.com/[^/]+  e.g. https://job.deloitte.com/jobs-in-berlin-_c2
-   pattern: 3x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/
-   pattern: 3x job.deloitte.com/favorites  e.g. https://job.deloitte.com/favorites
-   link: https://job.deloitte.com/search?search=praktikum#
-   link: https://de-job.deloitte.com/?utm_campaign=AEGNIMWE
-   link: https://job.deloitte.com/
-   link: https://jobs.deloitte.de/
-   link: https://job.deloitte.com/bewerbung/bewerbungsprozess
-   link: https://job.deloitte.com/bewerbung/faq
-   link: https://job.deloitte.com/event/recruiting-karriere-events-1
-   link: https://job.deloitte.com/jobs-in-berlin-_c2
-   link: https://job.deloitte.com/jobs-in-dresden-_c3
-   link: https://job.deloitte.com/jobs-in-duesseldorf-_c4
-   link: https://job.deloitte.com/jobs-in-frankfurt-_c5
-   link: https://job.deloitte.com/jobs-in-goerlitz-_c16
-   link: https://job.deloitte.com/jobs-in-halle-saale-_c6
-   link: https://job.deloitte.com/jobs-in-hamburg-_c1
-   link: https://job.deloitte.com/jobs-in-hannover-_c7
-   link: https://job.deloitte.com/jobs-in-koeln-_c8
-   link: https://job.deloitte.com/jobs-in-leipzig-_c9
-   link: https://job.deloitte.com/jobs-in-magdeburg-_c10
-   link: https://job.deloitte.com/jobs-in-mannheim-_c11
-   link: https://job.deloitte.com/jobs-in-muenchen-_c12
-   link: https://job.deloitte.com/jobs-in-nuernberg-_c13
-   link: https://job.deloitte.com/jobs-in-stuttgart-_c14
-   link: https://job.deloitte.com/jobs-in-walldorf-_c15
-   link: https://job.deloitte.com/advisory-jobs_-bu12
-   link: https://job.deloitte.com/audit-assurance-jobs_-bu2
-   link: https://job.deloitte.com/consulting-jobs_-bu10
-   link: https://job.deloitte.com/corporate-functions-jobs_-bu8
-   link: https://job.deloitte.com/tax-jobs_-bu5
-   link: https://job.deloitte.com/ausbildung-jobs-duales-studium-jobs-_pr21
-   link: https://job.deloitte.com/praktikum-werkstudententaetigkeit-_jtc4
-## Novo Nordisk  https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern
-   final: https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern&countries=Denmark%3BUnited+States%3BChina+Mainland%3BAustralia%3BBrazil%3BCanada%3BCzech+Republic%3BFrance%3BGermany%3BHungary%3BIndia%3BIreland%3BIsrael%3BJapan%3BMalaysia%3BMexico%3BPanama%3BPeru%3BPhilippines%3BPoland%3BPortugal%3BRomania%3BSouth+Africa%3BSouth+Korea%3BSpain%3BSwitzerland%3BTaiwan%3BThailand%3BUkraine%3BUnited+Kingdom%3BVietnam&categories=Business+Development+%26+Strategy%3BBusiness+Support+%26+Administration%3BClinical+Development%3BCommercial+Marketing%3BData+%26+AI%3BDigital+%26+IT%3BEducation%3BEngineering+%26+Technical%3BFinance%3BHuman+Resource+Management%3BLegal%2C+Compliance+%26+Audit%3BManufacturing%3BMedical+Affairs%3BProject+Management+%26+Agile%3BQuality%3BReg+Affairs+%26+Safety+Pharmacovigilance%3BResearch%3BCorporate+Affairs%3BMarket+Access%3BProcurement%3BSales%3BSupply+Chain  title: Career search results  error: None
-   json: 3 Treffer in https://www.novonordisk.com/bin/nncorp/careersearch?keyword=intern&country=Denmark%3BUnited%20States%3BChina%20Mainland%3BAustralia%3BBrazil%3BCanada% | keys=['jobCategory', 'jobCity', 'jobCountry', 'jobId', 'jobLocale', 'jobLocationLabel', 'jobState', 'jobSubCategory', 'jobTitle'] | z.B. Internship- EHS Engineer
-   pattern: 12x www.novonordisk.com/[^/]+/[^/]+  e.g. https://www.novonordisk.com/science-and-technology/research-and-technology-centres.html
-   pattern: 10x void(0)  e.g. javascript:void(0)
-   pattern: 6x www.novonordisk.com/careers/[^/]+  e.g. https://www.novonordisk.com/careers/find-a-job.html
-   pattern: 6x www.novonordisk.com/sustainable-business/[^/]+  e.g. https://www.novonordisk.com/sustainable-business/our-sustainability-approach.html
-   pattern: 5x www.novonordisk.com/about/[^/]+  e.g. https://www.novonordisk.com/about/what-we-do.html
-   link: https://www.novonordisk.com/careers/find-a-job.html
-   link: https://www.novonordisk.com/careers/find-a-job/career-search-results.html
-   link: https://www.novonordisk.com/careers/job-agent.html
-   link: https://www.novonordisk.com/our-products/falsified-medicines-position.html
-   link: https://www.novonordisk.com/careers/job-agent.html?cid=cr
-   link: https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern&countries=Denmark%3BUnited+States%3BChina+Mainland%3BAustralia%3BBrazil%3BCanada%3BCzech+Republic%3BFrance%3BGermany%3BHungary%3BIndia%3BIreland%3BIsrael%3BJapan%3BMalaysia%3BMexico%3BPanama%3BPeru%3BPhilippines%3BPoland%3BPortugal%3BRomania%3BSouth+Africa%3BSouth+Korea%3BSpain%3BSwitzerland%3BTaiwan%3BThailand%3BUkraine%3BUnited+Kingdom%3BVietnam&categories=Business+Development+%26+Strategy%3BBusiness+Support+%26+Administration%3BClinical+Development%3BCommercial+Marketing%3BData+%26+AI%3BDigital+%26+IT%3BEducation%3BEngineering+%26+Technical%3BFinance%3BHuman+Resource+Management%3BLegal%2C+Compliance+%26+Audit%3BManufacturing%3BMedical+Affairs%3BProject+Management+%26+Agile%3BQuality%3BReg+Affairs+%26+Safety+Pharmacovigilance%3BResearch%3BCorporate+Affairs%3BMarket+Access%3BProcurement%3BSales%3BSupply+Chain#
-## Bolt  https://bolt.eu/en/careers/positions/
-   final: https://bolt.eu/en/careers/positions/  title: Job openings | Bolt Careers  error: None
-   pattern: 8x bolt.eu/en/careers/positions/  e.g. https://bolt.eu/en/careers/positions/?
-   pattern: 7x bolt.eu/en/support/  e.g. https://bolt.eu/en/support/
-   pattern: 7x bolt.eu/en/support/categories/\d+/  e.g. https://bolt.eu/en/support/categories/115000431394/
-   pattern: 6x bolt.eu/en/plus/  e.g. https://bolt.eu/en/plus/
-   pattern: 4x bolt.eu/en/scooters/safety-lab/  e.g. https://bolt.eu/en/scooters/safety-lab/
-   link: https://bolt.sng.link/Epy3j/o5l4/8p88?paffn=%2Fen%2Fcareers%2Fpositions%2F&pscn=Rider&psn=Desktop&pscid=Navigation&psid=direct&lc=en
-   link: https://boltfood.sng.link/Euonx/l1jk/ruyy?paffn=%2Fen%2Fcareers%2Fpositions%2F&pscn=Food&psn=Desktop&pscid=Navigation&psid=direct&lc=en
-   link: https://bolt.eu/careers/positions/
-   link: https://bolt.eu/en/careers/positions/9b174ed7-41bf-4bdb-b443-a329d869de15/?tab=apply
-   link: https://bolt.eu/en/careers/positions/9b174ed7-41bf-4bdb-b443-a329d869de15/
-   link: https://bolt.eu/en/careers/positions/dc2ea9d9-0e7a-40ff-9d9f-a85f95a4a84d/?tab=apply
-   link: https://bolt.eu/en/careers/positions/dc2ea9d9-0e7a-40ff-9d9f-a85f95a4a84d/
-   link: https://bolt.eu/en/careers/positions/f72e3bf4-3eae-451e-9c44-88bbef5db753/?tab=apply
-   link: https://bolt.eu/en/careers/positions/f72e3bf4-3eae-451e-9c44-88bbef5db753/
-   link: https://bolt.eu/en/careers/positions/9455cd30-3d10-4b43-b70c-3115b7b12590/?tab=apply
-   link: https://bolt.eu/en/careers/positions/9455cd30-3d10-4b43-b70c-3115b7b12590/
-   link: https://bolt.eu/en/careers/positions/815e1eb0-51f6-4ba1-af7d-5371dcdffe2e/?tab=apply
-   link: https://bolt.eu/en/careers/positions/815e1eb0-51f6-4ba1-af7d-5371dcdffe2e/
-   link: https://bolt.eu/en/careers/positions/7d104dc7-6c9e-4cdb-9354-c2b4e04d3f28/?tab=apply
-   link: https://bolt.eu/en/careers/positions/7d104dc7-6c9e-4cdb-9354-c2b4e04d3f28/
-   link: https://bolt.eu/en/careers/positions/841e0865-d532-45e1-a40d-6d04b9d1e34a/?tab=apply
-   link: https://bolt.eu/en/careers/positions/841e0865-d532-45e1-a40d-6d04b9d1e34a/
-   link: https://bolt.eu/en/careers/positions/a551d417-3c2d-47d0-9066-1e61920e5a1a/?tab=apply
-   link: https://bolt.eu/en/careers/positions/a551d417-3c2d-47d0-9066-1e61920e5a1a/
-   link: https://bolt.eu/en/careers/positions/853cb9d2-66f4-4145-83aa-7eb8ab844490/?tab=apply
-   link: https://bolt.eu/en/careers/positions/853cb9d2-66f4-4145-83aa-7eb8ab844490/
-   link: https://bolt.eu/en/careers/positions/63c87f24-8fa9-4062-a447-e170f198af00/?tab=apply
-   link: https://bolt.eu/en/careers/positions/63c87f24-8fa9-4062-a447-e170f198af00/
-   link: https://bolt.eu/en/careers/positions/4826aa6d-843b-422d-8b19-8fff1536731e/?tab=apply
-   link: https://bolt.eu/en/careers/positions/4826aa6d-843b-422d-8b19-8fff1536731e/
-   link: https://bolt.eu/en/careers/positions/fd66fdf4-e263-46cb-af35-a85ad09e4c24/?tab=apply
-   link: https://bolt.eu/en/careers/positions/fd66fdf4-e263-46cb-af35-a85ad09e4c24/
-   link: https://bolt.eu/en/careers/positions/3a45811e-a80a-40c9-ba04-c95b7c84596a/?tab=apply
-   link: https://bolt.eu/en/careers/positions/3a45811e-a80a-40c9-ba04-c95b7c84596a/
-   link: https://bolt.eu/en/careers/positions/801ecb28-6f72-49c4-b3dc-2cca72f0da84/?tab=apply
-## airBaltic  https://careers.airbaltic.com/en/vacancies
-   final: https://careers.airbaltic.com/en/vacancies  title: airBaltic vacancies | All open positions  error: None
-   link: https://careers.airbaltic.com/en/vacancies
-   link: https://careers.airbaltic.com/en/vacancies/office/flight-dispatcher
-## Maersk  https://www.maersk.com/careers/vacancies?search=intern
-   final: https://www.maersk.com/careers/vacancies?search=intern  title: Vacancies | Careers at Maersk  error: None
-## Linde  https://www.linde.com/careers/search-jobs
-   final: https://www.linde.com/careers/search-jobs  title: 404 Page Not Found | Linde  error: None
-   pattern: 15x www.linde.com/sustainability/[^/]+/[^/]+  e.g. https://www.linde.com/sustainability/policies-and-position-statements/sustainable-development-and-climate-change-position-statement
-   pattern: 9x www.linde.com/sustainability/[^/]+  e.g. https://www.linde.com/sustainability/policies-and-position-statements
-   pattern: 5x www.linde.com/about-us/[^/]+  e.g. https://www.linde.com/about-us/frequently-asked-questions
-   pattern: 4x www.linde.com/clean-energy/[^/]+  e.g. https://www.linde.com/clean-energy/our-h2-expertise
-   pattern: 3x www.linde.com/global-locations  e.g. https://www.linde.com/global-locations
-   link: https://www.linde.com/careers/search-jobs#main
-   link: https://www.linde.com/sustainability/policies-and-position-statements
-   link: https://www.linde.com/sustainability/policies-and-position-statements/sustainable-development-and-climate-change-position-statement
-   link: https://www.linde.com/sustainability/policies-and-position-statements/human-rights-policy
-   link: https://www.linde.com/sustainability/policies-and-position-statements/ecosystem-position-statement
-   link: https://www.linde.com/sustainability/policies-and-position-statements/water-position-statement
-   link: https://www.linde.com/sustainability/policies-and-position-statements/chemicals-of-concern
-   link: https://www.linde.com/sustainability/policies-and-position-statements/ghg-emissions-recalculation-policy
-   link: https://www.linde.com/sustainability/policies-and-position-statements/responsible-animal-testing-policy
-   link: https://www.linde.com/sustainability/policies-and-position-statements/linde-gmbh-general-statement
-   link: https://www.linde.com/sustainability/policies-and-position-statements/linde-gmbh-general-statement-german
-   link: https://www.linde.com/sustainability/policies-and-position-statements/supply-chain-due-diligence-questionnaire
-   link: https://www.linde.com/sustainability/policies-and-position-statements/global-artificial-intelligence-policy
-## Linde  https://www.linde-engineering.com/careers
-   final: https://www.linde-engineering.com/careers  title: 404 Page Not Found | A Linde Company  error: None
-   pattern: 15x www.linde-engineering.com/about/[^/]+/[^/]+  e.g. https://www.linde-engineering.com/about/corporate-social-responsibility/the-many-faces-of-charitable-work
-   pattern: 14x www.linde-engineering.com/[^/]+/process-plants/[^/]+/[^/]+  e.g. https://www.linde-engineering.com/products-and-services/process-plants/adsorption-and-membrane-plants/hydrogen-recovery-and-purification
-   pattern: 10x www.linde-engineering.com/[^/]+/process-plants/[^/]+  e.g. https://www.linde-engineering.com/products-and-services/process-plants/adsorption-and-membrane-plants
-   pattern: 8x www.linde-engineering.com/[^/]+/linde-plantserv/[^/]+  e.g. https://www.linde-engineering.com/products-and-services/linde-plantserv/asset-health-checks
-   pattern: 7x www.linde-engineering.com/[^/]+  e.g. https://www.linde-engineering.com/news-and-events
-## KraussMaffei  https://www.kraussmaffei.com/de/karriere/stellenangebote
-   final: https://www.kraussmaffei.com/de/karriere/stellenangebote  title: KraussMaffei Group - Industrial Manufacturing Solutions  error: None
-   pattern: 62x www.kraussmaffei.com/de/karriere/stellenangebote  e.g. https://www.kraussmaffei.com/de/karriere/stellenangebote#
-   pattern: 20x www.kraussmaffei.com/de/spritzgiesstechnik/spritzgie%C3%9Fverfahren  e.g. https://www.kraussmaffei.com/de/spritzgiesstechnik/spritzgie%C3%9Fverfahren
-   pattern: 19x www.kraussmaffei.com/de/unsere-verfahren/[^/]+  e.g. https://www.kraussmaffei.com/de/unsere-verfahren/inmold-labeling-iml
-   pattern: 15x www.kraussmaffei.com/de/produkte/[^/]+  e.g. https://www.kraussmaffei.com/de/produkte/lrxplus-twin-linear-robot
-   pattern: 10x www.kraussmaffei.com/de/service/Vertrieb20und20Service20weltweit  e.g. https://www.kraussmaffei.com/de/service/Vertrieb20und20Service20weltweit
-   link: https://www.kraussmaffei.com/de/karriere/stellenangebote#
-   link: https://www.kraussmaffei.com/de/karriere/stellenangebote#content
-   link: https://www.kraussmaffei.com/de/karriere#open-positions
-   link: https://www.kraussmaffei.com/de/karriere/stellenangebote
-## ams OSRAM  https://ams-osram.com/about-us/career
-   final: https://ams-osram.com/about-us/career  title: 404 not found | ams OSRAM  error: None
-   pattern: 12x ams-osram.com/applications/automotive-mobility/[^/]+  e.g. https://ams-osram.com/applications/automotive-mobility/application-block-diagrams
-   pattern: 5x ams-osram.com/products/sensor-solutions/[^/]+  e.g. https://ams-osram.com/products/sensor-solutions/active-noise-cancellation
-   pattern: 4x ams-osram.com/products/lasers/[^/]+  e.g. https://ams-osram.com/products/lasers/color-lasers-eel
-   pattern: 4x ams-osram.com/applications/industrial/[^/]+  e.g. https://ams-osram.com/applications/industrial/function-block-diagrams
-   pattern: 4x ams-osram.com/innovation/technology/[^/]+  e.g. https://ams-osram.com/innovation/technology/ai-photonics-optical-interconnects
-## ams OSRAM  https://ams-osram.com/de/ueber-uns/karriere/jobs
-   final: https://ams-osram.com/de/ueber-uns/karriere/jobs  title: 404 not found | ams OSRAM  error: None
-   pattern: 12x ams-osram.com/de/applications/automotive-mobility/[^/]+  e.g. https://ams-osram.com/de/applications/automotive-mobility/application-block-diagrams
-   pattern: 5x ams-osram.com/de/products/sensor-solutions/[^/]+  e.g. https://ams-osram.com/de/products/sensor-solutions/active-noise-cancellation
-   pattern: 4x ams-osram.com/de/products/lasers/[^/]+  e.g. https://ams-osram.com/de/products/lasers/color-lasers-eel
-   pattern: 4x ams-osram.com/de/applications/industrial/[^/]+  e.g. https://ams-osram.com/de/applications/industrial/function-block-diagrams
-   pattern: 4x ams-osram.com/de/innovation/technology/[^/]+  e.g. https://ams-osram.com/de/innovation/technology/ai-photonics-optical-interconnects
-   link: https://ams-osram.com/ueber-uns/karriere/jobs
-   link: https://ams-osram.com/ja/ueber-uns/karriere/jobs
-   link: https://ams-osram.com/de/ueber-uns/karriere/jobs
-   link: https://ams-osram.com/ko/ueber-uns/karriere/jobs
-   link: https://ams-osram.com/de/ueber-uns/karriere/jobs#
-## MTU  https://www.mtu.de/de/karriere/stellenangebote/jobsuche/
-   final: https://www.mtu.de/de/karriere/stellenangebote/jobsuche/  title: 404 - Seite nicht gefunden - MTU Aero Engines  error: None
-   pattern: 19x www.mtu.de/de/engines/  e.g. https://www.mtu.de/de/engines/
-   pattern: 15x www.mtu.de/de/ueber-uns/mtu-weltweit/[^/]+/  e.g. https://www.mtu.de/de/ueber-uns/mtu-weltweit/mtu-aero-engines/
-   pattern: 15x www.mtu.de/de/maintenance/zivile-maintenance/[^/]+/  e.g. https://www.mtu.de/de/maintenance/zivile-maintenance/mtuplus-intelligent-solutions/
-   pattern: 13x www.mtu.de/de/investoren/  e.g. https://www.mtu.de/de/investoren/
-   pattern: 10x www.mtu.de/de/maintenance/  e.g. https://www.mtu.de/de/maintenance/
-   link: https://www.mtu.de/de/karriere/stellenangebote/jobsuche/#mainnav
-   link: https://www.mtu.de/de/karriere/stellenangebote/jobsuche/#mainContent
-   link: https://www.mtu.de/de/karriere/stellenangebote/jobsuche/#pageFooter
-   link: https://www.mtu.de/de/karriere/jobboerse/
-   link: https://www.mtu.de/de/karriere/stellenangebote/jobsuche/#
-## MTU  https://www.mtu.de/de/karriere/
-   final: https://www.mtu.de/de/karriere/  title: Karriere - MTU Aero Engines  error: None
-   pattern: 22x www.mtu.de/de/karriere/  e.g. https://www.mtu.de/de/karriere/#mainnav
-   pattern: 19x www.mtu.de/de/engines/  e.g. https://www.mtu.de/de/engines/
-   pattern: 15x www.mtu.de/de/ueber-uns/mtu-weltweit/[^/]+/  e.g. https://www.mtu.de/de/ueber-uns/mtu-weltweit/mtu-aero-engines/
-   pattern: 15x www.mtu.de/de/maintenance/zivile-maintenance/[^/]+/  e.g. https://www.mtu.de/de/maintenance/zivile-maintenance/mtuplus-intelligent-solutions/
-   pattern: 13x www.mtu.de/de/investoren/  e.g. https://www.mtu.de/de/investoren/
-   link: https://www.mtu.de/de/karriere/jobboerse/
-## Verbund  https://www.verbund.com/de/karriere
-   final: https://www.verbund.com/de/karriere  title: Karriere bei VERBUND - Österreichs größtes Energieunternehmen  error: None
-   pattern: 3x www.verbund.com/de/karriere  e.g. https://www.verbund.com/de/karriere#main-content
-   link: https://jobs.verbund.com/de
-   link: https://www.verbund.de/de/jobs?country=Deutschland
-   link: https://jobs.verbund.com/de/jobportal/offene-stellen
-   link: https://www.verbund.de/de/jobs
-   link: https://jobs.verbund.com/de/lehre
-## Generali  https://www.generali.com/careers/our-job-opportunities
-   final: https://www.generali.com/careers/our-job-opportunities  title: PAGE NOT FOUND - Generali Group  error: None
-   pattern: 136x www.generali.com/careers/[^/]+  e.g. https://www.generali.com/careers/our-job-opportunities#mainnav
-   pattern: 28x www.generali.com/[^/]+/[^/]+/[^/]+  e.g. https://www.generali.com/who-we-are/Strategic-Plan-Lifetime-Partner-27/Excellence-in-Core-Capabilities
-   pattern: 22x www.generali.com/governance/[^/]+/[^/]+  e.g. https://www.generali.com/governance/corporate-governance-system/articles-of-association
-   pattern: 20x www.generali.com/[^/]+/[^/]+  e.g. https://www.generali.com/who-we-are/Strategic-Plan-Lifetime-Partner-27
-   pattern: 17x www.generali.com/governance/[^/]+  e.g. https://www.generali.com/governance/corporate-governance-system
-   link: https://www.generali.com/careers/our-job-opportunities#mainnav
-   link: https://www.generali.com/work-with-us/join-us/job-search
-   link: https://www.generali.com/careers/our-job-opportunities#content
-   link: https://www.generali.com/careers/our-job-opportunities#collapseWorldMap
-   link: https://www.generali.com/careers/our-job-opportunities#
-   link: https://www.generali.com/who-we-are/global-positioning
-   link: https://www.generali.com/who-we-are/global-positioning/insurance-division
-   link: https://www.generali.com/who-we-are/global-positioning/asset-management
-   link: https://www.generali.com/who-we-are/global-positioning/wealth-management
-   link: https://www.generali.com/investors/debt-ratings/debt-composition-and-maturity
-   link: https://www.generali.com/careers/our-job-opportunities#mm-3
-   link: https://www.generali.com/careers/our-job-opportunities#mm-13
-   link: https://www.generali.com/careers/our-job-opportunities#mm-17
-   link: https://www.generali.com/careers/our-job-opportunities#mm-37
-   link: https://www.generali.com/careers/our-job-opportunities#mm-45
-   link: https://www.generali.com/careers/our-job-opportunities#mm-59
-   link: https://www.generali.com/careers/our-job-opportunities#mm-67
-   link: https://www.generali.com/careers/our-job-opportunities#mm-1
-   link: https://www.generali.com/careers/our-job-opportunities#mm-5
-   link: https://www.generali.com/careers/our-job-opportunities#mm-7
-   link: https://www.generali.com/careers/our-job-opportunities#mm-9
-   link: https://www.generali.com/careers/our-job-opportunities#mm-11
-   link: https://www.generali.com/careers/our-job-opportunities#mm-15
-   link: https://www.generali.com/careers/our-job-opportunities#mm-19
-   link: https://www.generali.com/careers/our-job-opportunities#mm-21
-   link: https://www.generali.com/careers/our-job-opportunities#mm-23
-   link: https://www.generali.com/careers/our-job-opportunities#mm-25
-   link: https://www.generali.com/careers/our-job-opportunities#mm-27
-   link: https://www.generali.com/careers/our-job-opportunities#mm-29
-   link: https://www.generali.com/careers/our-job-opportunities#mm-31
-## Generali  https://www.generali.de/karriere
-   final: https://www.generali.de/karriere  title: Karriere bei Generali: Jobs, Ausbildung & Duales Studium  error: None
-   pattern: 12x www.generali.de/privatkunden/rundum-schutz/[^/]+  e.g. https://www.generali.de/privatkunden/rundum-schutz/vermoegensaufbau-und-sicherheitsplan
-   pattern: 7x www.generali.de/karriere  e.g. https://www.generali.de/karriere#unsere-kultur-praegt-unsere-zusammenarbeit.-99666
-   pattern: 6x www.generali.de/service-kontakt/formularcenter  e.g. https://www.generali.de/service-kontakt/formularcenter
-   pattern: 5x www.generali.de/privatkunden/fahrzeug-zuhause/kfz-versicherung  e.g. https://www.generali.de/privatkunden/fahrzeug-zuhause/kfz-versicherung
-   pattern: 5x www.generali.de/privatkunden/recht-haftung/privathaftpflichtversicherung  e.g. https://www.generali.de/privatkunden/recht-haftung/privathaftpflichtversicherung
-   link: https://www.generali.de/karriere#unsere-kultur-praegt-unsere-zusammenarbeit.-99666
-   link: https://www.generali.de/karriere#99808
-   link: https://www.generali.de/karriere#lust-mit-uns-zu-wachsen-37078
-   link: https://www.generali.de/karriere#was-wir-bieten-37014
-   link: https://www.generali.de/karriere#aktuelle-stellenangenbote-37080
-   link: https://www.generali.de/karriere/jobboerse
-## UBS  https://jobs.ubs.com/TGnewUI/Search/Home/Home?partnerid=25008&siteid=5012
-   final: https://jobs.ubs.com/TGnewUI/Search/Home/Home?partnerid=25008&siteid=5012#home  title: Search Jobs at UBS - Experienced professionals - job boards  error: None
-   pattern: 10x jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad  e.g. https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352247
-   pattern: 3x www.ubs.com/global/en/legal/privacy/users.html  e.g. https://www.ubs.com/global/en/legal/privacy/users.html
-   link: https://jobs.ubs.com/#0
-   link: https://www.ubs.com/global/en/careers/search-jobs/faq.html
-   link: https://jobs.ubs.com/#
-   link: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352247
-   link: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352274
-   link: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352245
-   link: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=353391
-   link: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=353274
-   link: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=353393
-   link: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=351914
-   link: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=343051
-   link: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=353395
-   link: https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5050&PageType=JobDetails&jobid=351164&frmSiteId=5012
-## Bayer  https://career.bayer.com/en/jobs-search?keywords=intern
-   final: https://www.bayer.com/en/career/en/jobs-search  title: Site Maintenance  error: None
-## Stellantis  https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057
-   final: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057  title: STELLANTIS - Search results(394 vacancies/1)-Display all  error: None
-   pattern: 125x psa-recrute.talent-soft.com/job/[^/]+  e.g. https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=1040
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=1040
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057#smp_SkipLink
-   link: https://psa-recrute.talent-soft.com/job/my-basket-of-jobs.aspx
-   link: https://psa-recrute.talent-soft.com/job/list-of-all-jobs.aspx?all=1&mode=layer#ancrecontenu
-   link: https://psa-recrute.talent-soft.com/job/all-rss-feeds.aspx
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057&mode=layer
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057&mode=list
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057&showSearchUrl=1
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=2&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=3&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=4&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=5&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=6&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=7&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=8&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=9&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=10&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=11&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=12&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=13&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=14&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=15&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=16&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=17&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=18&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=19&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=20&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=21&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=22&LCID=2057
-   link: https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?page=23&LCID=2057
-## Honda  https://www.honda.de/cars/karriere.html
-   final: https://www.honda.de/cars/karriere.html  title: Leider ist ein Fehler aufgetreten  error: None
-## Honda  https://hondaeurope.jobs/
-   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hondaeurope.jobs/
+## Marriott  https://careers.marriott.com/jobs?keywords=intern
+   final: https://careers.marriott.com/jobs?keywords=intern&utm_source=marriottcareers&utm_medium=referralwebsite  title: Search Jobs | Marriott International Careers  error: None
+   oracle: ['ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/my-profile/sign-in', 'ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/25119196/apply/email?posting_typ', 'ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26060409/apply/email?posting_typ', 'ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26106897/apply/email?posting_typ', 'ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26122236/apply/email?posting_typ', 'ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26125657/apply/email?posting_typ']
+   json: 3 Treffer in https://olivia.paradox.ai/api/widget/otrquqkakqzbhynlkvwm/rules?referrer=&widget_page_url=https:%2F%2Fcareers.marriott.com%2Fjobs%3Fkeywords%3Dintern% | keys=['default_value', 'id', 'matching', 'name', 'type'] | z.B. Page URL
+   json: 3 Treffer in https://olivia.paradox.ai/api/widget/otrquqkakqzbhynlkvwm?request_language_code=en&source=2&catch_all_on=true&conversation_id=0&widget_target_id=17059 | keys=['alt_text', 'cms_id', 'description', 'intent_id', 'intent_name', 'is_allow_iframe', 'is_help_intent', 'media', 'media_meta_data', 'media_thumb', 'title', 'type', 'url'] | z.B. 
+   pattern: 18x careers.marriott.com/[^/]+/job/P1-\d+-0  e.g. https://careers.marriott.com/la-baie-cook-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%99%E7%90%86-%E3%83%A9-%E3%83%99/job/P1-7362753-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   pattern: 13x careers.marriott.com/brands/[^/]+/  e.g. https://careers.marriott.com/brands/apartments-by-marriott/
+   pattern: 7x careers.marriott.com/brands/[^/]+/jobs  e.g. https://careers.marriott.com/brands/four-points-express/jobs
+   pattern: 3x careers.marriott.com/brands/ac-hotels/  e.g. https://careers.marriott.com/brands/ac-hotels/
+   pattern: 3x careers.marriott.com/brands/aloft/  e.g. https://careers.marriott.com/brands/aloft/
+   link: https://careers.marriott.com/jobs?keywords=intern&utm_source=marriottcareers&utm_medium=referralwebsite#main
+   link: https://careers.marriott.com/ar/jobs
+   link: https://careers.marriott.com/jobs
+   link: https://careers.marriott.com/es/jobs
+   link: https://careers.marriott.com/el/jobs
+   link: https://careers.marriott.com/fr/jobs
+   link: https://careers.marriott.com/de/jobs
+   link: https://careers.marriott.com/id/jobs
+   link: https://careers.marriott.com/it/jobs
+   link: https://careers.marriott.com/ja/jobs
+   link: https://careers.marriott.com/ko/jobs
+   link: https://careers.marriott.com/pl/jobs
+   link: https://careers.marriott.com/pt/jobs
+   link: https://careers.marriott.com/ru/jobs
+   link: https://careers.marriott.com/th/jobs
+   link: https://careers.marriott.com/tr/jobs
+   link: https://careers.marriott.com/vi/jobs
+   link: https://careers.marriott.com/zh-cn/jobs
+   link: https://careers.marriott.com/zh-hk/jobs
+   link: https://careers.marriott.com/jobs?keywords=intern&utm_source=marriottcareers&utm_medium=referralwebsite#
+   link: https://careers.marriott.com/brands/four-points-express/jobs
+   link: https://careers.marriott.com/brands/marriott-vacation-club/jobs
+   link: https://careers.marriott.com/brands/studiores/jobs
+   link: https://careers.marriott.com/la-baie-cook-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%99%E7%90%86-%E3%83%A9-%E3%83%99/job/P1-7362753-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/assistant-f-b-sales-and-reservation-manager-le-m%C3%A9ridien-saigon/job/P1-7451198-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/assistant-style-shift-leader/job/P1-4071657-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/assistant-style-shift-leader/job/P1-7064434-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/junior-technician/job/P1-5534144-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/senior-at-your-service-agent/job/P1-7560593-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/senior-loss-prevention-officer/job/P1-7432056-0?utm_source=marriottcareers&utm_medium=referralwebsite
+## Marriott  https://jobs.marriott.com/marriott/jobs?keywords=intern
+   final: https://careers.marriott.com/jobs?utm_source=marriottcareers&utm_medium=referralwebsite  title: Search Jobs | Marriott International Careers  error: None
+   oracle: ['ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/my-profile/sign-in', 'ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/25119196/apply/email?posting_typ', 'ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26060409/apply/email?posting_typ', 'ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26106897/apply/email?posting_typ', 'ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26122236/apply/email?posting_typ', 'ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26125657/apply/email?posting_typ']
+   json: 3 Treffer in https://olivia.paradox.ai/api/widget/otrquqkakqzbhynlkvwm/rules?referrer=&widget_page_url=https:%2F%2Fcareers.marriott.com%2Fjobs%3Futm_source%3Dmarri | keys=['default_value', 'id', 'matching', 'name', 'type'] | z.B. Page URL
+   json: 3 Treffer in https://olivia.paradox.ai/api/widget/otrquqkakqzbhynlkvwm?request_language_code=en&source=2&catch_all_on=true&conversation_id=0&widget_target_id=17059 | keys=['alt_text', 'cms_id', 'description', 'intent_id', 'intent_name', 'is_allow_iframe', 'is_help_intent', 'media', 'media_meta_data', 'media_thumb', 'title', 'type', 'url'] | z.B. 
+   pattern: 18x careers.marriott.com/[^/]+/job/P1-\d+-0  e.g. https://careers.marriott.com/la-baie-cook-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%99%E7%90%86-%E3%83%A9-%E3%83%99/job/P1-7362753-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   pattern: 13x careers.marriott.com/brands/[^/]+/  e.g. https://careers.marriott.com/brands/apartments-by-marriott/
+   pattern: 7x careers.marriott.com/brands/[^/]+/jobs  e.g. https://careers.marriott.com/brands/four-points-express/jobs
+   pattern: 3x careers.marriott.com/brands/ac-hotels/  e.g. https://careers.marriott.com/brands/ac-hotels/
+   pattern: 3x careers.marriott.com/brands/aloft/  e.g. https://careers.marriott.com/brands/aloft/
+   link: https://careers.marriott.com/jobs?utm_source=marriottcareers&utm_medium=referralwebsite#main
+   link: https://careers.marriott.com/ar/jobs
+   link: https://careers.marriott.com/jobs
+   link: https://careers.marriott.com/es/jobs
+   link: https://careers.marriott.com/el/jobs
+   link: https://careers.marriott.com/fr/jobs
+   link: https://careers.marriott.com/de/jobs
+   link: https://careers.marriott.com/id/jobs
+   link: https://careers.marriott.com/it/jobs
+   link: https://careers.marriott.com/ja/jobs
+   link: https://careers.marriott.com/ko/jobs
+   link: https://careers.marriott.com/pl/jobs
+   link: https://careers.marriott.com/pt/jobs
+   link: https://careers.marriott.com/ru/jobs
+   link: https://careers.marriott.com/th/jobs
+   link: https://careers.marriott.com/tr/jobs
+   link: https://careers.marriott.com/vi/jobs
+   link: https://careers.marriott.com/zh-cn/jobs
+   link: https://careers.marriott.com/zh-hk/jobs
+   link: https://careers.marriott.com/jobs?utm_source=marriottcareers&utm_medium=referralwebsite#
+   link: https://careers.marriott.com/brands/four-points-express/jobs
+   link: https://careers.marriott.com/brands/marriott-vacation-club/jobs
+   link: https://careers.marriott.com/brands/studiores/jobs
+   link: https://careers.marriott.com/la-baie-cook-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%99%E7%90%86-%E3%83%A9-%E3%83%99/job/P1-7362753-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/assistant-f-b-sales-and-reservation-manager-le-m%C3%A9ridien-saigon/job/P1-7451198-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/assistant-style-shift-leader/job/P1-4071657-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/assistant-style-shift-leader/job/P1-7064434-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/junior-technician/job/P1-5534144-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/senior-at-your-service-agent/job/P1-7560593-0?utm_source=marriottcareers&utm_medium=referralwebsite
+   link: https://careers.marriott.com/senior-loss-prevention-officer/job/P1-7432056-0?utm_source=marriottcareers&utm_medium=referralwebsite
+## Hilton  https://jobs.hilton.com/us/en/search-results?keywords=intern
+   final: https://jobs.hilton.com/us/en/search-results?keywords=intern  title: Careers at Hilton | 404 | Not Found  error: None
+   oracle: ['efet.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP', 'efet.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&amp;action=ICE_JOB_SEARCH_RESP', 'efet.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING\\u0026action=ICE_JOB_SEARCH_RESP', 'efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1', 'efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs', 'efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile/sign-in']
+   json: 25 Treffer in https://jobs.hilton.com/_next/data/EVdmR52_fhTWyMQqv4A-r/en.json | keys=['__typename', 'contentBlocks', 'contentType', 'databaseId', 'dateGmt', 'id', 'isPreview', 'link', 'modifiedGmt', 'seo', 'title'] | z.B. Home
+   json: 25 Treffer in https://jobs.hilton.com/_next/data/EVdmR52_fhTWyMQqv4A-r/en/life-at-hilton.json?slug=life-at-hilton | keys=['__typename', 'contentBlocks', 'contentType', 'databaseId', 'dateGmt', 'id', 'isPreview', 'link', 'modifiedGmt', 'seo', 'title'] | z.B. Life at Hilton
+   json: 25 Treffer in https://jobs.hilton.com/_next/data/EVdmR52_fhTWyMQqv4A-r/en/benefits.json?slug=benefits | keys=['__typename', 'contentBlocks', 'contentType', 'databaseId', 'dateGmt', 'id', 'isPreview', 'link', 'modifiedGmt', 'seo', 'title'] | z.B. Benefits
+   json: 3 Treffer in https://jobs.hilton.com/_next/data/EVdmR52_fhTWyMQqv4A-r/en/404.json | keys=['__typename', 'id', 'languageSwitcher', 'menuItems', 'name'] | z.B. Utility
+   pattern: 11x jobs.hilton.com/[^/]+  e.g. https://jobs.hilton.com/life-at-hilton
+   pattern: 3x efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1  e.g. https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
+   link: https://efet.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP
+   link: https://jobs.hilton.com/404
+   link: https://jobs.hilton.com/us/en/search-results?keywords=intern#
+   link: https://jobs.hilton.com/ar/
+   link: https://jobs.hilton.com/zh-hant/
+   link: https://jobs.hilton.com/fr/
+   link: https://jobs.hilton.com/de/
+   link: https://jobs.hilton.com/it/
+   link: https://jobs.hilton.com/ja/
+   link: https://jobs.hilton.com/pt-br/
+   link: https://jobs.hilton.com/es/
+   link: https://jobs.hilton.com/th/
+   link: https://jobs.hilton.com/tr/
+   link: https://jobs.hilton.com/vi/
+   link: https://jobs.hilton.com/
+   link: https://jobs.hilton.com/life-at-hilton
+   link: https://jobs.hilton.com/blogs
+   link: https://jobs.hilton.com/benefits
+   link: https://jobs.hilton.com/career-paths
+   link: https://jobs.hilton.com/hotel-career-paths
+   link: https://jobs.hilton.com/corporate-career-paths
+   link: https://jobs.hilton.com/early-career-paths
+   link: https://jobs.hilton.com/locations
+   link: https://jobs.hilton.com/united-states-canada-caribbean-latin-america
+   link: https://jobs.hilton.com/europe-middle-east-africa
+   link: https://jobs.hilton.com/asia-pacific
+   link: https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
+   link: https://jobs.hilton.com/career-paths/
+   link: https://jobs.hilton.com/404#
+   link: https://jobs.hilton.com/accommodations-accessibility-assistance
+## Accor  https://careers.accor.com/global/en/search-results?keywords=intern
+   final: https://careers.accor.com/global/en/search-results?keywords=intern  title: Page not found | Accor  error: None
+   phenom: ['/widgets']
+   json: 10 Treffer in https://sidebar.bugherd.com/sidebar/resources?apikey=soy8eekv9dxugrehonat6a | keys=['active', 'active_count', 'archived_at', 'created_at', 'deleted_at', 'id', 'inactive_count', 'name', 'project_id', 'task_count', 'updated_at'] | z.B. styling
+   pattern: 53x careers.accor.com/global/en/jobs  e.g. https://careers.accor.com/global/en/jobs?options=251%2C252%2C192%2C3%2C5%2C251%2C252%2C192%2C3%2C5&page=1&ln=&la=0&lo=0&lr=1&li=
+   pattern: 41x careers.accor.com/global/en/[^/]+  e.g. https://careers.accor.com/global/en/accor-at-a-glance
+   pattern: 3x careers.accor.com/global/en/search-results  e.g. https://careers.accor.com/global/en/search-results?keywords=intern#
+   pattern: 3x careers.accor.com/global/en/graduate-opportunities  e.g. https://careers.accor.com/global/en/graduate-opportunities
+   link: https://careers.accor.com/global/en/blogs/2026-6/inspiring-the-next-generation-of-hospitality-talent
+   link: https://careers.accor.com/global/en/jobs?options=251%2C252%2C192%2C3%2C5%2C251%2C252%2C192%2C3%2C5&page=1&ln=&la=0&lo=0&lr=1&li=
+   link: https://careers.accor.com/global/en/jobs?q=&options=201,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=194,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=195,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=204,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=212,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=219,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=225,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=224,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=230,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=236,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=237,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=238,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=243,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=198,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=199,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=209%2C&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=221,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=231,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=240,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=244,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?options=196,250&page=1&ln=&la=0&lo=0&lr=1&li=
+   link: https://careers.accor.com/global/en/jobs?options=245&page=1&ln=&la=0&lo=0&lr=1&li=
+   link: https://careers.accor.com/global/en/jobs?q=&options=202,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=216,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?options=246%2C246&page=1&ln=&la=0&lo=0&lr=1&li=
+   link: https://careers.accor.com/global/en/jobs
+   link: https://careers.accor.com/global/en/business-development-jobs
+   link: https://careers.accor.com/global/en/corporate-social-responsibility-jobs
+## Accor  https://careers.accor.com/
+   final: https://careers.accor.com/global/en/  title: Hospitality is a work of heart | Accor  error: None
+   phenom: ['/widgets']
+   json: 18 Treffer in https://deg3xyi07y58.cloudfront.net/ugc/v3/27feeeca-b5dd-4077-b487-995a35970eb7/ed641e51-977b-4dcd-8470-cf4785abb7fc.json | keys=['link', 'products', 'title'] | z.B. None
+   json: 10 Treffer in https://sidebar.bugherd.com/sidebar/resources?apikey=soy8eekv9dxugrehonat6a | keys=['active', 'active_count', 'archived_at', 'created_at', 'deleted_at', 'id', 'inactive_count', 'name', 'project_id', 'task_count', 'updated_at'] | z.B. styling
+   pattern: 53x careers.accor.com/global/en/jobs  e.g. https://careers.accor.com/global/en/jobs?options=251%2C252%2C192%2C3%2C5%2C251%2C252%2C192%2C3%2C5&page=1&ln=&la=0&lo=0&lr=1&li=
+   pattern: 41x careers.accor.com/global/en/[^/]+  e.g. https://careers.accor.com/global/en/accor-at-a-glance
+   pattern: 4x careers.accor.com/global/en/  e.g. https://careers.accor.com/global/en/#
+   pattern: 4x careers.accor.com/[^/]+  e.g. https://careers.accor.com/brand-page-sofitel
+   pattern: 3x careers.accor.com/global/en/graduate-opportunities  e.g. https://careers.accor.com/global/en/graduate-opportunities
+   link: https://careers.accor.com/global/en/jobs?options=251%2C252%2C192%2C3%2C5%2C251%2C252%2C192%2C3%2C5&page=1&ln=&la=0&lo=0&lr=1&li=
+   link: https://careers.accor.com/global/en/blogs/2026-6/inspiring-the-next-generation-of-hospitality-talent
+   link: https://careers.accor.com/global/en/jobs?q=&options=201,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=194,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=195,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=204,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=212,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=219,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=225,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=224,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=230,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=236,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=237,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=238,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=243,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=198,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=199,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=209%2C&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=221,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=231,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=240,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=244,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?options=196,250&page=1&ln=&la=0&lo=0&lr=1&li=
+   link: https://careers.accor.com/global/en/jobs?options=245&page=1&ln=&la=0&lo=0&lr=1&li=
+   link: https://careers.accor.com/global/en/jobs?q=&options=202,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?q=&options=216,&page=1&la=0&lo=0&lr=1
+   link: https://careers.accor.com/global/en/jobs?options=246%2C246&page=1&ln=&la=0&lo=0&lr=1&li=
+   link: https://careers.accor.com/jobs
+   link: https://careers.accor.com/jobs?options=194,194&page=1&ln=&la=0&lo=0&lr=1&li=
+   link: https://careers.accor.com/jobs?options=216,216&page=1&ln=&la=0&lo=0&lr=1&li=
+## IHG  https://careers.ihg.com/en/jobs?keywords=intern
+   final: https://careers.ihg.com/en/jobs?keywords=intern  title: Access Denied  error: None
+## IHG  https://careers.ihg.com/
+   final: https://careers.ihg.com/  title: Access Denied  error: None
+## Hyatt  https://careers.hyatt.com/en-US/careers/searchjobs?keyword=intern
+   final: https://careers.hyatt.com/en-US/careers/error/404  title: Hyatt - Careers  error: None
+   json: 46 Treffer in https://careers.hyatt.com/customerinfo/hyatt.r-cfe9247.info.json | keys=['fragment', 'title', 'url'] | z.B. hyatt.navbar.pages.why_hyatt
+   pattern: 12x void(0)  e.g. javascript:void(0)
+   link: https://careers.hyatt.com/en-US/careers/job-alerts
+## Hyatt  https://careers.hyatt.com/
+   final: https://careers.hyatt.com/en-US/careers/  title: Hyatt - Careers  error: None
+   json: 46 Treffer in https://careers.hyatt.com/customerinfo/hyatt.r-cfe9247.info.json | keys=['fragment', 'title', 'url'] | z.B. hyatt.navbar.pages.why_hyatt
+   pattern: 15x void(0)  e.g. javascript:void(0)
+   link: https://careers.hyatt.com/en-US/careers/job-alerts
+   link: http://www.amresorts-jobs.com/
+## Vapiano  https://www.vapiano.de/de/karriere/
+   final: https://www.vapiano.de/de/karriere/  title: 404 - Seite nicht gefunden!  error: None
+   pattern: 5x www.vapiano.de/de/karriere/  e.g. https://www.vapiano.de/de/karriere/#main-content
+   link: https://karriere.gastro-soul.de/jobs/vapiano
+## Vapiano  https://www.vapiano.com/de/jobs/
+   final: https://vapiano.com/de/jobs/  title: Page not found | VAPIANO  error: None
+   json: 17 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/1nJmv5gBov3_RT/5.1.7/5.1.7?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
+   pattern: 10x vapiano.com/[^/]+/  e.g. https://vapiano.com/vapiano-mammut-opens-in-budapest/
+   pattern: 5x hello@vapiano.eu  e.g. mailto:hello@vapiano.eu
+   pattern: 4x vapiano.com/news/  e.g. https://vapiano.com/news/
+   pattern: 3x vapiano.com/franchise/  e.g. https://vapiano.com/franchise/
+   pattern: 3x vapiano.com/about/  e.g. https://vapiano.com/about/
+   link: https://vapiano.com/de/jobs/#
+## Block House  https://www.block-house.de/karriere/
+   final: https://www.block-house.de/restaurants/karriere/  title: Karriere in der Gastronomie | BLOCK HOUSE  error: None
+   pattern: 17x www.block-house.de/restaurants/karriere/  e.g. https://www.block-house.de/restaurants/karriere/#
+   pattern: 10x www.block-house.de/speisekarte/  e.g. https://www.block-house.de/speisekarte/
+   pattern: 7x www.block-house.de/restaurants/  e.g. https://www.block-house.de/restaurants/
+   pattern: 7x www.block-house.de/reservieren/  e.g. https://www.block-house.de/reservieren/
+   pattern: 7x www.block-house.de/suche/  e.g. https://www.block-house.de/suche/?products%5Bquery%5D=
+   link: https://karriere.block-gruppe.de/stellenangebote.html?filter[aufgabengebiet_id][]=1
+## Block House  https://www.block-house.de/karriere/jobs/
+   final: https://www.block-house.de/karriere/jobs/  title: Seite nicht gefunden | BLOCK HOUSE  error: None
+   pattern: 14x www.block-house.de/karriere/jobs/  e.g. https://www.block-house.de/karriere/jobs/#
+   pattern: 11x www.block-house.de/speisekarte/  e.g. https://www.block-house.de/speisekarte/
+   pattern: 10x www.block-house.de/restaurants/  e.g. https://www.block-house.de/restaurants/
+   pattern: 8x www.block-house.de/reservieren/  e.g. https://www.block-house.de/reservieren/
+   pattern: 7x www.block-house.de/suche/  e.g. https://www.block-house.de/suche/?products%5Bquery%5D=
+   link: https://www.block-house.de/karriere/jobs/#
+   link: https://www.block-house.de/karriere/jobs/#content
+## L'Osteria  https://losteria.net/de/karriere/
+   final: https://losteria.net/de/karriere/  title: Karriere bei L'Osteria – Werde Teil der LA FAMIGLIA  error: None
+   phenom: ['/widgets']
+   pattern: 42x losteria.net/de/karriere/  e.g. https://losteria.net/de/karriere/#
+   pattern: 5x losteria.net/de/restaurants/  e.g. https://losteria.net/de/restaurants/
+   pattern: 5x losteria.net/de/speisekarte/pizza/  e.g. https://losteria.net/de/speisekarte/pizza/
+   pattern: 4x losteria.net/de/reservieren/  e.g. https://losteria.net/de/reservieren/
+   pattern: 4x losteria.net/de/aktuelles/aktionen/  e.g. https://losteria.net/de/aktuelles/aktionen/
+   link: https://losteria.career.softgarden.de/#jobs%3Acategory%253D%255B%2522Finanzen%2522%252C%2522Personal%2522%252C%2522Handwerk%252C%2520Dienstleistung%2520und%2520Fertigung%2522%252C%2522Verwaltung%2522%252C%2522Ingenieure%2520und%2520technische%2520Berufe%2522%252C%2522Recht%2522%252C%2522Vertrieb%2520und%2520Verkauf%2522%255D
+## L'Osteria  https://jobs.losteria.net/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.losteria.net/
 Call log:
-  - navigating to "https://hondaeurope.jobs/", waiting until "domcontentloaded"
+  - navigating to "https://jobs.losteria.net/", waiting until "domcontentloaded"
 
-## Mitsubishi Electric  https://www.mitsubishielectric.com/en/careers/
-   final: https://www.mitsubishielectric.com/en/careers/  title: Careers | MITSUBISHI ELECTRIC Global website  error: None
-   pattern: 13x www.mitsubishielectric.com/en/careers/  e.g. https://www.mitsubishielectric.com/en/careers/#
-   pattern: 4x www.mitsubishielectric.com/en/about/  e.g. https://www.mitsubishielectric.com/en/about/
-   pattern: 4x www.mitsubishielectric.com/en/pr/  e.g. https://www.mitsubishielectric.com/en/pr/
-   pattern: 3x www.mitsubishielectric.com/en/sustainability/  e.g. https://www.mitsubishielectric.com/en/sustainability/
-## Kia  https://www.kia.com/de/ueber-kia/karriere/
-   final: None  title: None  error: Page.goto: Timeout 90000ms exceeded.
+## Hans im Glück  https://hansimglueck-burgergrill.de/karriere/
+   final: https://hansimglueck-burgergrill.de/karriere/  title: 404  error: None
+   link: https://hansimglueck-burgergrill.de/essen-bestellen/
+   link: https://hansimglueck-burgergrill.de/jobs/
+## Hans im Glück  https://hansimglueck-burgergrill.de/jobs/
+   final: https://hansimglueck-burgergrill.de/jobs/  title: Karriere bei HANS IM GLÜCK – Entdecke unsere Jobs und Arbeitskultur  error: None
+   pattern: 300x hansimglueck-burgergrill.de/[^/]+/stelle-finden/  e.g. https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Amberg
+   pattern: 12x hansimglueck-burgergrill.de/jobs/stelle-finden/  e.g. https://hansimglueck-burgergrill.de/jobs/stelle-finden/
+   pattern: 7x hansimglueck-burgergrill.de/jobs/  e.g. https://hansimglueck-burgergrill.de/jobs/
+   link: https://hansimglueck-burgergrill.de/jobs/
+   link: https://hansimglueck-burgergrill.de/en/jobs/
+   link: https://hansimglueck-burgergrill.de/essen-bestellen/
+   link: https://hansimglueck-burgergrill.de/jobs/stelle-finden/
+   link: https://hansimglueck-burgergrill.de/jobs/stelle-finden/?job=Servicemitarbeiter
+   link: https://hansimglueck-burgergrill.de/jobs/stelle-finden/?job=K%C3%BCchenmitarbeiter&cHash=30a68e383e6682084fc4914fdd420517
+   link: https://hansimglueck-burgergrill.de/jobs/stelle-finden/?job=Barmitarbeiter
+   link: https://hansimglueck-burgergrill.de/jobs/stelle-finden/?job=Betriebsleiter
+   link: https://hansimglueck-burgergrill.de/jobs/stelle-finden/?city=all&job=Zentrale&cHash=4ed568c5e7a43b1e0a2a7183652948c0
+   link: https://hansimglueck-burgergrill.de/jobs/stelle-finden/?job=Zentrale&city=M%C3%BCnchen
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Amberg
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Amsterdam
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Augsburg
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Basel
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Berlin
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Bern
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Bielefeld
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Bochum
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Bonn
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Braunschweig
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Bremen
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Buchs
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Chemnitz
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Chur
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Den%20Haag
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Dortmund
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Dresden
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=D%C3%BCsseldorf
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Emmen
+   link: https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Erfurt
+## FC Bayern  https://fcbayern.com/de/club/jobs
+   final: https://fcbayern.com/de/club/jobs  title: FC Bayern München - Support  error: None
+## FC Bayern  https://fcbayern.com/de/club/karriere
+   final: https://fcbayern.com/de/club/karriere  title: FC Bayern München - Support  error: None
+## FC Barcelona  https://www.fcbarcelona.com/en/club/jobs
+   final: https://www.fcbarcelona.com/en/club/jobs  title: Sorry, an error has occurred  error: None
+   phenom: ['/widgets']
+   pattern: 11x www.fcbarcelona.com/en/tickets/[^/]+  e.g. https://www.fcbarcelona.com/en/tickets/things-to-do-in-barcelona?int=WB_26-27_K03-12&btm_source=WebBarca&btm_medium=NativeRibbon&btm_campaign=TSE_EN_TKT_ALL_WW
+   pattern: 8x www.fcbarcelona.com/en/football/first-team/players/\d+/[^/]+  e.g. https://www.fcbarcelona.com/en/football/first-team/players/5051/joao-pedro-cavaco-cancelo
+   pattern: 6x www.fcbarcelona.com/en/club/members/[^/]+  e.g. https://www.fcbarcelona.com/en/club/members/26-27-pass
+   pattern: 5x www.fcbarcelona.com/en/culers  e.g. https://www.fcbarcelona.com/en/culers
+   pattern: 5x www.fcbarcelona.com/en/football/first-team/news  e.g. https://www.fcbarcelona.com/en/football/first-team/news?int=WB_26-27_K0-92&btm_source=WebBarca&btm_medium=MainMenu&btm_campaign=FIRSTTEAM_EN_TKT_FUT_WW
+## FC Barcelona  https://careers.fcbarcelona.com/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.fcbarcelona.com/
 Call log:
-  - navigating to "https://www.kia.com/de/ueber-kia/karriere/", waiting until "domcontentloaded"
+  - navigating to "https://careers.fcbarcelona.com/", waiting until "domcontentloaded"
 
-## Fletcher Building  https://fletcherbuilding.com/careers
-   final: https://fletcherbuilding.com/careers  title: Careers | Fletcher Building  error: None
-   pattern: 9x fletcherbuilding.com/about-us/[^/]+  e.g. https://fletcherbuilding.com/about-us/what-is-important-to-us
-   pattern: 8x fletcherbuilding.com/sustainability/[^/]+  e.g. https://fletcherbuilding.com/sustainability/what-we-want-to-achieve
-   pattern: 8x fletcherbuilding.com/investor-centre  e.g. https://fletcherbuilding.com/investor-centre
-   pattern: 6x fletcherbuilding.com/our-business/[^/]+  e.g. https://fletcherbuilding.com/our-business/light-building-products
-   pattern: 6x fletcherbuilding.com/investor-centre/[^/]+  e.g. https://fletcherbuilding.com/investor-centre/financial-results-and-announcements
-   link: https://careers.fbcareers.com/careers/SearchJobs/
-## H&M  https://hmgroup.com/careers/
-   final: https://hmgroup.com/wp-content/uploads/2022/01/careers.jpg  title: careers.jpg (1280×720)  error: None
-## LVMH  https://www.lvmh.com/en/join-us/our-job-offers
-   final: None  title: None  error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lvmh.com/en/join-us/our-job-offers
+## Real Madrid  https://www.realmadrid.com/es-ES/el-club/empleo
+   final: https://www.realmadrid.com/es-ES/el-club/empleo  title: Real Madrid CF | Web oficial del Real Madrid CF  error: None
+   pattern: 5x www.realmadrid.com/es-ES/el-club/patrocinadores  e.g. https://www.realmadrid.com/es-ES/el-club/patrocinadores
+   pattern: 4x www.realmadrid.com/es-ES/legal/[^/]+  e.g. https://www.realmadrid.com/es-ES/legal/politica-de-privacidad
+   pattern: 3x www.realmadrid.com/es-ES/entradas  e.g. https://www.realmadrid.com/es-ES/entradas?filter-tickets=vip;general&filter-football=primer-equipo-masculino
+   pattern: 3x www.realmadrid.com/es-ES/futbol/[^/]+  e.g. https://www.realmadrid.com/es-ES/futbol/primer-equipo-masculino
+## Real Madrid  https://www.realmadrid.com/en-US/the-club/jobs
+   final: https://www.realmadrid.com/en-US/the-club/jobs  title: Real Madrid CF | Web oficial del Real Madrid CF  error: None
+   pattern: 5x www.realmadrid.com/en-US/the-club/sponsors  e.g. https://www.realmadrid.com/en-US/the-club/sponsors
+## Manchester United  https://careers.manutd.com/
+   final: https://careers.manutd.com/  title: Jobs at Manchester United | Manchester United Careers  error: None
+   json: 4 Treffer in https://careers.manutd.com/postings.json?_=1793776344441 | keys=['benefits', 'benefits_header', 'compensation', 'compensation_currency', 'compensation_frequency', 'compensation_maximum', 'compensation_minimum', 'compensation_visible', 'deadline_at', 'description', 'employment_type', 'employment_type_text', 'id', 'job'] | z.B. Senior Manager, Commercial Development
+   json: 4 Treffer in https://careers.manutd.com/postings.json?_=1793776344569 | keys=['benefits', 'benefits_header', 'compensation', 'compensation_currency', 'compensation_frequency', 'compensation_maximum', 'compensation_minimum', 'compensation_visible', 'deadline_at', 'description', 'employment_type', 'employment_type_text', 'id', 'job'] | z.B. Senior Manager, Commercial Development
+   json: 4 Treffer in https://careers.manutd.com/postings.json?_=1793776344568 | keys=['benefits', 'benefits_header', 'compensation', 'compensation_currency', 'compensation_frequency', 'compensation_maximum', 'compensation_minimum', 'compensation_visible', 'deadline_at', 'description', 'employment_type', 'employment_type_text', 'id', 'job'] | z.B. Senior Manager, Commercial Development
+   pattern: 17x careers.manutd.com/opportunities  e.g. https://careers.manutd.com/opportunities
+   pattern: 4x careers.manutd.com/purpose  e.g. https://careers.manutd.com/purpose
+   pattern: 3x careers.manutd.com/careers  e.g. https://careers.manutd.com/careers
+   pattern: 3x careers.manutd.com/[^/]+  e.g. https://careers.manutd.com/life-at-united
+   link: https://careers.manutd.com/themes/11719/privacy_policy
+## Manchester United  https://www.manutd.com/en/careers
+   final: https://www.manutd.com/en/careers  title: Attention Required! | Cloudflare  error: None
+## Manchester City  https://www.mancity.com/club/careers
+   final: https://www.mancity.com/club/careers  title: Error 404  error: None
+   pattern: 12x www.mancity.com/[^/]+  e.g. https://www.mancity.com/manchester-city-women
+   pattern: 6x www.mancity.com/citytv  e.g. https://www.mancity.com/citytv
+   pattern: 6x www.mancity.com/fixtures  e.g. https://www.mancity.com/fixtures
+   pattern: 6x www.mancity.com/tickets  e.g. https://www.mancity.com/tickets
+   pattern: 6x www.mancity.com/store/products/[^/]+/  e.g. https://www.mancity.com/store/products/tour-and-museum/
+## Manchester City  https://careers.cityfootballgroup.com/
+   final: https://careers.cityfootballgroup.com/  title: Careers at City Football Group  error: None
+   successfactors: ['career5.successfactors.eu', 'jobs2web', 'rmkcdn.successfactors.com']
+   pattern: 7x cityfootballgroup.com/academies/[^/]+  e.g. https://cityfootballgroup.com/academies/city-football-academy-manchester
+   pattern: 4x cityfootballgroup.com/clubs/[^/]+  e.g. https://cityfootballgroup.com/clubs/new-york-city
+   pattern: 3x cityfootballgroup.com/company  e.g. https://cityfootballgroup.com/company
+## Liverpool FC  https://www.liverpoolfc.com/careers
+   final: https://www.liverpoolfc.com/recruitment  title: Liverpool FC — Join Our Club  error: None
+   json: 7 Treffer in https://backend.liverpoolfc.com/lfc-rest-api/globals?countryCode=US | keys=['description', 'id', 'link', 'title', 'type'] | z.B. Join ALL RED Essentials, your FREE, Official LFC Account
+   json: 7 Treffer in https://backend.liverpoolfc.com/lfc-rest-api/globals?countryCode=US | keys=['description', 'id', 'link', 'title', 'type'] | z.B. Join ALL RED Essentials, your FREE, Official LFC Account
+   json: 49 Treffer in https://backend.liverpoolfc.com/lfc-rest-api/redirects | keys=['id', 'name', 'source', 'target'] | z.B. Membership MyLFC to All Red
+   json: 15 Treffer in https://backend.liverpoolfc.com/lfc-rest-api/basicpage/recruitment | keys=['description', 'featureVariant', 'id', 'image', 'imageCarousel', 'introText', 'layout', 'link', 'pillColor', 'pillTitle', 'title', 'type'] | z.B. The Liverpool Way
+   pattern: 12x profile.liverpoolfc.com/en/register  e.g. https://profile.liverpoolfc.com/en/register?returnUrl=https://www.liverpoolfc.com&lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=mega-menu-primary-promo-card&lfm_page=%2F%5B...slug%5D&lfm_campaign=other-marketing-blocks
+   pattern: 7x www.liverpoolfc.com/info/contact-us  e.g. https://www.liverpoolfc.com/info/contact-us
+   pattern: 7x www.facebook.com/LiverpoolFC  e.g. https://www.facebook.com/LiverpoolFC
+   pattern: 7x uk.linkedin.com/company/[^/]+  e.g. https://uk.linkedin.com/company/liverpool-football-club
+   pattern: 7x www.tiktok.com/@liverpoolfc  e.g. https://www.tiktok.com/@liverpoolfc
+   link: https://jobsearch.liverpoolfc.com/?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-header-primary-cta&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=0
+   link: https://jobsearch.liverpoolfc.com/
+   link: https://www.liverpoolfc.com/theredway?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-feature&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=1
+   link: https://www.liverpoolfc.com/redtogether?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-feature&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=3
+   link: https://www.liverpoolfc.com/history/honours?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-card-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=4
+   link: https://www.liverpoolfc.com/foundation?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-card-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=4
+   link: https://www.liverpoolfc.com/corporate/charter?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-card-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=4
+   link: https://www.premierleague.com/equality-diversity-and-inclusion-standard?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-content-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=5
+   link: https://www.weareincludability.co.uk/?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-content-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=5
+   link: https://www.stonewall.org.uk/build-workplace-works-lgbtq-people?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-content-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=5
+   link: https://www.liverpoolfc.com/redtogether?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-content-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=5
+   link: https://www.gov.uk/government/publications/disability-confident-guidance-for-levels-1-2-and-3/level-1-disability-confident-committed?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-content-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=5
+## Liverpool FC  https://careers.liverpoolfc.com/
+   final: https://careers.liverpoolfc.com/members/index.php  title: Liverpool Football Club Careers Hub  error: None
+   phenom: ['/widgets']
+   pattern: 4x careers.liverpoolfc.com/members/index.php  e.g. https://careers.liverpoolfc.com/members/index.php#mainContent
+   pattern: 3x careers.liverpoolfc.com/members/  e.g. https://careers.liverpoolfc.com/members/
+   link: https://jobsearch.liverpoolfc.com/
+   link: https://www.tribepad.com/looking-for-a-job/
+## Chelsea FC  https://www.chelseafc.com/en/careers
+   final: https://www.chelseafc.com/en/careers?ssoc=1  title: Careers | Official Site | Chelsea Football Club  error: None
+   json: 54 Treffer in https://www.chelseafc.com/en/api/sponsors/footer?contentId=32ahWcttljOU0sIWyabchD&countryCode=US | keys=['id', 'isActive', 'isExternal', 'title', 'url'] | z.B. Circle
+   pattern: 17x www.chelseafc.com/en/[^/]+  e.g. https://www.chelseafc.com/en/non-matchday-venues-stamford-bridge
+   pattern: 5x www.chelseafc.com/en/tickets/mens-tickets  e.g. https://www.chelseafc.com/en/tickets/mens-tickets
+   pattern: 4x www.chelseafc.com/en/matches/[^/]+  e.g. https://www.chelseafc.com/en/matches/mens-fixtures-and-results
+   pattern: 3x www.chelseafc.com/en/news/latest-news  e.g. https://www.chelseafc.com/en/news/latest-news
+   pattern: 3x www.chelseafc.com/en/video/watch/watch-discover  e.g. https://www.chelseafc.com/en/video/watch/watch-discover
+   link: https://secure.workforceready.eu/ta/6189861.careers?CareersSearch
+## Chelsea FC  https://careers.chelseafc.com/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.chelseafc.com/
 Call log:
-  - navigating to "https://www.lvmh.com/en/join-us/our-job-offers", waiting until "domcontentloaded
-## BNP Paribas  https://group.bnpparibas/en/careers/all-job-offers
-   final: https://group.bnpparibas/en/careers/all-job-offers  title: Access Denied  error: None
-## Panasonic  https://careers.panasonic.eu/
-   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.panasonic.eu/
-Call log:
-  - navigating to "https://careers.panasonic.eu/", waiting until "domcontentloaded"
+  - navigating to "https://careers.chelseafc.com/", waiting until "domcontentloaded"
 
-## Walmart  https://careers.walmart.com/us/en/results?q=intern
-   final: https://careers.walmart.com/us/en/results?q=intern  title: Results  error: None
-   json: 20 Treffer in https://careers.walmart.com/api/graphql | keys=['additionalLocationCities', 'areas', 'bannerName', 'brand', 'categories', 'city', 'country', 'distanceInMiles', 'employmentTypes', 'jobPostingTitle', 'job_id', 'latitude', 'longitude', 'maxPay'] | z.B. 
-   pattern: 4x careers.walmart.com/us/en/results  e.g. https://careers.walmart.com/us/en/results?q=intern#main-content
-   pattern: 4x careers.walmart.com/content/careers/us/en/home/careers-areas/[^/]+  e.g. https://careers.walmart.com/content/careers/us/en/home/careers-areas/stores-and-clubs
-   pattern: 4x careers.walmart.com/content/careers/us/en/home  e.g. https://careers.walmart.com/content/careers/us/en/home
-   pattern: 4x careers.walmart.com/content/careers/us/en/sams-home  e.g. https://careers.walmart.com/content/careers/us/en/sams-home
-   pattern: 4x careers.walmart.com/content/careers/us/en/home/vizio  e.g. https://careers.walmart.com/content/careers/us/en/home/vizio
+## Greenpeace  https://www.greenpeace.de/ueber-uns/jobs
+   final: https://www.greenpeace.de/ueber-uns/greenpeace-deutschland  title: Greenpeace Deutschland aktiv für die Umwelt | Greenpeace  error: None
+   pattern: 5x www.greenpeace.de/ueber-uns/organisation/greenpeace-deutschland/[^/]+  e.g. https://www.greenpeace.de/ueber-uns/organisation/greenpeace-deutschland/gruendung-greenpeace-deutschland
+   pattern: 4x www.greenpeace.de/ueber-uns/greenpeace-deutschland  e.g. https://www.greenpeace.de/ueber-uns/greenpeace-deutschland#main-content
+   pattern: 3x www.greenpeace.de/spenden/online-spenden  e.g. https://www.greenpeace.de/spenden/online-spenden
+   pattern: 3x www.greenpeace.de/spenden/[^/]+  e.g. https://www.greenpeace.de/spenden/tv-spot-gesehen
+   pattern: 3x www.greenpeace.de/spenden/foerdermitglieder-service/[^/]+  e.g. https://www.greenpeace.de/spenden/foerdermitglieder-service/haeufige-fragen-kontakt
+   link: https://www.greenpeace.de/jobs
+   link: https://www.greenpeace.de/jobs/greenfair-0
+## Greenpeace  https://www.greenpeace.org/international/jobs/
+   final: https://workfor.international.greenpeace.org/  title: Careers at Greenpeace International  error: None
+   recruitee: ['careers-analytics']
+   pattern: 4x www.linkedin.com/pulse/[^/]+/  e.g. https://www.linkedin.com/pulse/atlantic-ocean-lobster-diversity-cl%C3%ADodhna-kirk-1e/
+   pattern: 3x workfor.international.greenpeace.org/o/people-culture-insights-intern-\d+  e.g. https://workfor.international.greenpeace.org/o/people-culture-insights-intern-2027
+   link: https://workfor.international.greenpeace.org/#jobs-b415ed29
 ## _API  
    final: None  title: None  error: None
-   api: ["gh traderepublicbank: 50 ['Accounting Intern @ Headquarter', 'Analytics Engineering (London)  @ London', 'Analytics Engineering (Paris)  @ Paris']", 'gh traderepublic: 0 []', 'gh scalablecapital: 404 []', "gh byd: 22 ['Business Development/Account Manager (Data Center/System Integration) @ Cupertino, California, United States', 'Business Program Manager @ Cupertino', 'Business Systems Analyst  @ 3465 E East Foothills, Fl 2, Pasadena, California, United States']", 'gh bolt: 404 []', 'gh dazn: 404 []', 'gh spotify: 404 []', "lever spotify: 86 ['Account Executive - Commercial, Spotify Technology', 'Account Executive - Commercial, Spotify Technology', 'Account Executive - Commercial, Spotify Technology']", 'lever dazn: 404 []', "sr Sixt: 87 ['Operational Support Associate (Sarasota Int Airport)  @ Sarasota / SIXT', 'Senior AI Growth Strategist CRM (m/f/d) @ Lisbon / SIXT', 'Operational Support Associate (Tampa Downtown) @ Tampa / SIXT']", "sr Continental: 127 ['Antitrust Counsel – Americas  @ Fort Mill / Continental', 'Compliance & Privacy Officer – US & Canada @ Fort Mill / Continental', 'Controlling Intern @ Santiago de Querétaro / Continental']", "sr Aumovio: 195 ['Compliance Officer EMEA  @ Porto / Aumovio', 'SAM CN_ACTC_Electrical Engineering Engineer @ Chang Chun Shi / Aumovio', 'SAM CN_ACTC_Technical Project Leader @ Chang Chun Shi / Aumovio']", "sr RedBull: 205 ['Distributor Partner Manager @ Guadalajara / Red Bull', 'Junior Personalverrechner / Personaladministration @ Elsbethen / Red Bull', 'Off Premise Insights Intern @ Bogotá / Red Bull']", "sr ContactEnergy: 2 ['Marketing Coordinator @ Auckland / Contact Energy', 'Strategic Sourcing Specialist (Assets) @ Auckland / Contact Energy']", 'sr ScalableCapital: 0 []', 'sr DAZN: 0 []', 'sr airBaltic: 0 []', 'sr Bolt: 0 []', 'sr Ryanair: 0 []']
+   api: ['workday marriott/wd5/Marriott_Careers: 422 total=', 'workday hilton/wd1/Hilton: 422 total=', 'workday accor/wd3/Accor: 422 total=', 'workday ihg/wd1/IHG: 422 total=', 'workday hyatt/wd5/Hyatt: 422 total=', 'workday manutd/wd3/ManUtd: 422 total=', 'workday chelseafc/wd3/Chelsea: 422 total=', 'workday cityfootballgroup/wd3/CFG: 422 total=', 'workday greenpeace/wd3/Greenpeace: 422 total=', 'slugs Marriott: []', 'slugs Hilton: []', "slugs Accor: ['smartrecruiters:accor (577 Stellen)']", "slugs AccorHotel: ['smartrecruiters:accorhotel (6367 Stellen)']", 'slugs IHG: []', 'slugs Hyatt: []', "slugs Vapiano: ['personio:vapiano (8 Stellen)']", "slugs Block House: ['greenhouse:block (203 Stellen)', 'ashby:blockhouse (1 Stellen)']", "slugs blockhouse: ['ashby:blockhouse (1 Stellen)']", 'slugs LOsteria: []', 'slugs Hans im Glueck: []', 'slugs hansimglueck: []', 'slugs FC Bayern: []', 'slugs fcbayern: []', 'slugs FC Barcelona: []', 'slugs Real Madrid: []', 'slugs Manchester United: []', 'slugs Manchester City: []', 'slugs Liverpool FC: []', 'slugs Chelsea FC: []', "slugs Greenpeace: ['personio:greenpeace (4 Stellen)']", 'slugs greenpeacede: []']
