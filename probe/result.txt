@@ -1,439 +1,177 @@
-## UNICEF  https://jobs.unicef.org/en-us/listing/
-   final: https://jobs.unicef.org/en-us/listing/  title: Vacancies | UNICEF Careers  error: None
-   pattern: 15x www.unicef.org/careers/[^/]+  e.g. https://www.unicef.org/careers/where-we-work
-   pattern: 10x jobs.unicef.org/en-us/job/\d+/[^/]+  e.g. https://jobs.unicef.org/en-us/job/596817/communication-associate-eufunded-social-protection-eu4people-and-roma-inclusion-programmes-communication-section-36-months-sarajevo-bosnia-and-herzegovina-nationals-only-office-based
-   pattern: 5x jobs.unicef.org/en-us/listing/  e.g. https://jobs.unicef.org/en-us/listing/#main-content
-   pattern: 3x www.unicef.org/careers/  e.g. https://www.unicef.org/careers/
-   link: https://jobs.unicef.org/en-us/listing/#main-content
-   link: https://jobs.unicef.org/en-us/listing/#
-   link: https://jobs.unicef.org/
-   link: https://jobs.unicef.org/en-us/listing/
-   link: https://jobs.unicef.org/en-us/job/596817/communication-associate-eufunded-social-protection-eu4people-and-roma-inclusion-programmes-communication-section-36-months-sarajevo-bosnia-and-herzegovina-nationals-only-office-based
-   link: https://jobs.unicef.org/en-us/job/596803/national-mics-consultant-caribbean-multicountry-multiple-indicators-cluster-survey-programme-section-bridgetown-barbados-12-months-596803
-   link: https://jobs.unicef.org/en-us/job/596812/fund-raising-officer-foundations-no1-ft-00129175-sao-paulo-brazil-lacr
-   link: https://jobs.unicef.org/en-us/job/596796/national-internship-education-unit-yaound%C3%A9-cameroon-6months-cameroon-nationals-only
-   link: https://jobs.unicef.org/en-us/job/596815/social-behavior-change-specialist-no3-ft-00133370-conakryguinea-wcar
-   link: https://jobs.unicef.org/en-us/job/596693/readvertised-interagency-peoplecentered-humanitarian-action-consultant-unicef-office-of-emergency-programmes-emops-pchp-geneva-switzerland-7-months-remote-596693
-   link: https://jobs.unicef.org/en-us/job/596764/coordinator-of-the-regional-early-childhood-intervention-eci-network
-   link: https://jobs.unicef.org/en-us/job/596797/fund-raising-specialist-ig-legacy-pathways-p3-fixed-term-position-rome-italy-private-fund-raising-and-partnerships-00113289
-   link: https://jobs.unicef.org/en-us/job/596801/nutrition-officer-nob-ta-364-days-139030-abuja-nigeria-wcar
-   link: https://jobs.unicef.org/en-us/job/596802/people-and-culture-manager-p4-temporary-position-6-months-138386-democratic-republic-of-congo-bunia-wcar
-   link: https://jobs.unicef.org/en-us/job/596806/finance-specialist-p3-fixed-term-position-div-of-financial-and-adm-mgmt-brussels-belgium-00121857
-   link: https://jobs.unicef.org/en-us/job/596807/logistics-assistant-g5-temporary-position-364-days-supply-division-copenhagen-denmark-00139038-open-to-eu-citizens-and-valid-danish-work-permit-holders
-   link: https://jobs.unicef.org/en-us/job/596808/international-consultant-ig-systems-uniq-success-specialist-eap-region-private-fr-partnership-pfp-12-months-rome-italy-remote-with-travel
-   link: https://jobs.unicef.org/en-us/job/596809/batch-recruitment-2-position-finance-associate-g6-ta-364-days-139075-139031-abuja-nigeria-wcar
-   link: https://jobs.unicef.org/en-us/job/596810/monitoring-specialist-p3-temporary-position-copenhagen-364-days-supply-division-00124204
-   link: https://jobs.unicef.org/en-us/job/596811/batch-recruitment-2-posts-senior-business-analyst-associates-g7-temporary-position-business-innovation-and-support-gssc-open-to-eu-citizens-valid-hungarian-work-permit-holders
-   link: https://jobs.unicef.org/en-us/job/596814/people-and-culture-specialist-p3-fixed-term-position-135273-digital-impact-division-digital-inclusion-geneva-switzerland
-   link: https://jobs.unicef.org/en-us/job/596721/individual-consultant-cost-efficiency-and-cost-effectiveness-of-child-protection-case-management-in-humanitarian-settings-gpd-child-protection-6-months-coe-amman-jordan-remote-596721
-   link: https://jobs.unicef.org/en-us/job/596748/programme-specialist-migration-and-displacement-p3-temporary-appointment-364-days-00138953-global-programme-division-coe-child-protection-and-migration-nairobi-kenya-remote
-   link: https://jobs.unicef.org/en-us/job/596793/pme-consultant-unicef-office-of-emergency-programmes-peoplecentered-humanitarian-partnerships-section-emops-pchp-geneva-switzerland-12-months-remote-596793
-   link: https://jobs.unicef.org/en-us/listing/?page=2&page-items=20
-   link: https://www.unicef.org/careers/beware-fraudulent-job-offers
-   link: https://www.unicef.org/careers/unicef-job-categories
-## UNICEF  https://www.unicef.org/careers/
-   final: https://www.unicef.org/careers/  title: UNICEF Careers | UNICEF Careers  error: None
-   pattern: 16x www.unicef.org/careers/[^/]+  e.g. https://www.unicef.org/careers/where-we-work
-   pattern: 8x www.unicef.org/careers/  e.g. https://www.unicef.org/careers/#main-content
-   pattern: 5x www.unicef.org/careers/stories/[^/]+  e.g. https://www.unicef.org/careers/stories/unv-and-unicef-launch-global-learning-townhall-series
-   link: http://jobs.unicef.org/
-   link: https://www.unicef.org/careers/beware-fraudulent-job-offers
-   link: https://www.unicef.org/careers/unicef-job-categories
-## UNDP  https://www.undp.org/careers
-   final: https://www.undp.org/careers  title: Access Denied  error: None
-## UNDP  https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
-   final: https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1  title: UNDP Careers  error: None
-   oracle: ['estm.fa.em2.oraclecloud.com%2FhcmUI%2FCandidateExperience%2Fen%2Fsites%2FCX_1&wt.tv=1.0.4&wt.ce=1&wt.co_f=4', 'estm.fa.em2.oraclecloud.com&dcsuri=%2FhcmUI%2FCandidateExperience%2Fen%2Fsites%2FCX_1&wt.tz=0&wt.bh=21&wt.u', 'estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP', 'estm.fa.em2.oraclecloud.com/hcmRestApi/CandidateExperience/en/siteSettings/CX_1', 'estm.fa.em2.oraclecloud.com/hcmRestApi/CandidateExperience/en/sites/CX_1/page/15003?statusCode=ORA_ACTIVE&o', 'estm.fa.em2.oraclecloud.com/hcmRestApi/CandidateExperience/globalSettings']
-   json: 31 Treffer in https://estm.fa.em2.oraclecloud.com/hcmRestApi/CandidateExperience/en/siteSettings/CX_1 | keys=['name', 'sublinks', 'text', 'url', 'visibleOnMobile'] | z.B. Report fraud, abuse, misconduct
-   json: 3 Treffer in https://estm.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=flexFieldsFacet.values&finder=findReq | keys=['href', 'kind', 'name', 'rel'] | z.B. recruitingCEJobRequisitions
-   pattern: 9x estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions  e.g. https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=governance
-   pattern: 4x www.undp.org/content/undp/en/home/[^/]+  e.g. https://www.undp.org/content/undp/en/home/sustainable-development-goals.html
-   pattern: 4x www.undp.org/news-centre  e.g. https://www.undp.org/news-centre
-   pattern: 4x www.undp.org/careers  e.g. https://www.undp.org/careers
-   link: https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP
-   link: https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
-   link: https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=POSTING_DATES&selectedPostingDatesFacet=30
-## UNHCR  https://www.unhcr.org/careers
-   final: https://www.unhcr.org/careers  title: Nur einen Moment…  error: None
-## UNHCR  https://unhcr.wd3.myworkdayjobs.com/External
-   final: https://unhcr.wd3.myworkdayjobs.com/External  title: Search for Jobs  error: None
-   workday: ['unhcr/wd3/External', 'unhcr/wd3/videoplayerlabels']
-   link: https://unhcr.wd3.myworkdayjobs.com/External
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Jakarta-Indonesia/Programme-Assistant_JR2668971-1
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Seoul-Korea-Republic-of/PSP-IG-Assistant_JR2668266
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/The-Hague-Netherlands/Assistant-PPH-Officer--Corporates-_JR2669024
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Kuala-Lumpur-Malaysia/Senior-PSP-Assistant--Digital-_JR2669023-1
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Kuala-Lumpur-Malaysia/PSP-Digital-and-Comms-Intern_JR2669013-1
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Hong-Kong-China/Senior-PPH-Assistant_JR2668764
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Kuala-Lumpur-Malaysia/PSP-Associate--Salesforce-Database-_JR2668979-1
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Sao-Paulo-Brazil/Database-Assistant_JR2668991
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Farchana-Chad/Driver_JR2668981-1
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Hadjer-Hadid-Chad/Community-Based-Protection-Associate_JR2668980-2
-   link: https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Budapest-GSC-Hungary/Head-of-Global-Shared-Services_JR2668926-1
-   link: https://www.unhcr.org/how-avoid-scams-and-fraudulent-job-offers
-## WFP  https://www.wfp.org/careers/job-openings
-   final: https://wd3.myworkdaysite.com/recruiting/wfp/job_openings  title: Search for Jobs  error: None
-   link: https://wd3.myworkdaysite.com/recruiting/wfp/job_openings
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Rome-Italy/Project-Manager_JR126329
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Guatemala-City-Guatemala-The-Republic-Of/Resilience-Consultant_JR128047-1
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Bekily-Madagascar-The-Democratic/Chauffeur-SC2--Multiple-Duty-Station_JR127842
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Rome-Italy/ITSM-Demand-Manager_JR127993
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Fort-Dauphin-Madagascar-The-Democratic/Medical-Officer-NOC_JR128179-1
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nouakchott-Mauritania-The-Islamic-Re/Charg-e--de-la-communication_JR128193
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Cairo-Egypt-Republic-of/Senior-Finance-Associate_JR128189
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Manila-Philippines-The-RepOf-Th/Procurement-Associate_JR128103-2
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gilgit-Pakistan-The-Islamic-Rep/Engineer---SC8---Skardu--Gilgit-Baltistan_JR128169
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nairobi-Kenya-The-Republic-Of/Security-Associate--G6--2-Positions----Nairobi---Marsabit_JR128138
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Lusaka-Zambia-The-Republic-Of/Programme-Policy-Officer---Enabled-Government-and-Partner-Programmes--Strategic-Outcome-3-Manager--CST-I_JR127934
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nairobi-Kenya-The-Republic-Of/Communications-Officer--Editorial---Communications-Coordination---SC8---Nairobi_JR128139
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Diffa-Niger-The-Republic-Of-The/Programme-Associate--Associ-e-au-Programme--cash-based-transfert--_JR128145
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gedaref-Sudan-The-Republic-Of-The/Site-Maintenance-SC-L2--Gedaref_JR128154
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Homs-Syria-The-Arab-Republic-O/VA052-2026-Programme-Policy-Officer--NOA--Homs_JR128158
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Homs-Syria-The-Arab-Republic-O/VA050-2026-Head-of-Field-Office--NOB--Homs_JR128152
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Beni-Congo-The-Dem-RepOf/Assistant-e---l-entretien-des-sites--SC-4----Beni--Rp-dem-du-Congo_JR128150
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Lusaka-Zambia-The-Republic-Of/Monitoring-Assistant-Roster--SSA3-_JR128037
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gaza-West-Bank--Gaza/Programme-Assistant--Protection--AAP---CFM---SC5--Gaza_JR127747-1
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Port-Sudan-Sudan-The-Republic-Of-The/Communications-Officer--SC8-Port-Sudan_JR128105
-   link: https://www.wfp.org/careers/fraudulent-job-offers
-## WFP  https://wd3.myworkdaysite.com/recruiting/wfp/job_openings
-   final: https://wd3.myworkdaysite.com/recruiting/wfp/job_openings  title: Search for Jobs  error: None
-   link: https://wd3.myworkdaysite.com/recruiting/wfp/job_openings
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Rome-Italy/Project-Manager_JR126329
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Guatemala-City-Guatemala-The-Republic-Of/Resilience-Consultant_JR128047-1
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Bekily-Madagascar-The-Democratic/Chauffeur-SC2--Multiple-Duty-Station_JR127842
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Rome-Italy/ITSM-Demand-Manager_JR127993
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Fort-Dauphin-Madagascar-The-Democratic/Medical-Officer-NOC_JR128179-1
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nouakchott-Mauritania-The-Islamic-Re/Charg-e--de-la-communication_JR128193
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Cairo-Egypt-Republic-of/Senior-Finance-Associate_JR128189
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Manila-Philippines-The-RepOf-Th/Procurement-Associate_JR128103-2
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gilgit-Pakistan-The-Islamic-Rep/Engineer---SC8---Skardu--Gilgit-Baltistan_JR128169
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nairobi-Kenya-The-Republic-Of/Security-Associate--G6--2-Positions----Nairobi---Marsabit_JR128138
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Lusaka-Zambia-The-Republic-Of/Programme-Policy-Officer---Enabled-Government-and-Partner-Programmes--Strategic-Outcome-3-Manager--CST-I_JR127934
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nairobi-Kenya-The-Republic-Of/Communications-Officer--Editorial---Communications-Coordination---SC8---Nairobi_JR128139
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Diffa-Niger-The-Republic-Of-The/Programme-Associate--Associ-e-au-Programme--cash-based-transfert--_JR128145
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gedaref-Sudan-The-Republic-Of-The/Site-Maintenance-SC-L2--Gedaref_JR128154
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Homs-Syria-The-Arab-Republic-O/VA052-2026-Programme-Policy-Officer--NOA--Homs_JR128158
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Homs-Syria-The-Arab-Republic-O/VA050-2026-Head-of-Field-Office--NOB--Homs_JR128152
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Beni-Congo-The-Dem-RepOf/Assistant-e---l-entretien-des-sites--SC-4----Beni--Rp-dem-du-Congo_JR128150
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Lusaka-Zambia-The-Republic-Of/Monitoring-Assistant-Roster--SSA3-_JR128037
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gaza-West-Bank--Gaza/Programme-Assistant--Protection--AAP---CFM---SC5--Gaza_JR127747-1
-   link: https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Port-Sudan-Sudan-The-Republic-Of-The/Communications-Officer--SC8-Port-Sudan_JR128105
-   link: https://www.wfp.org/careers/fraudulent-job-offers
-## WWF Deutschland  https://www.wwf.de/ueber-uns/jobs
-   final: https://www.wwf.de/ueber-uns/jobs  title: 404 - Seite nicht gefunden  error: None
-   pattern: 3x www.wwf.de/presse  e.g. https://www.wwf.de/presse
-   pattern: 3x www.wwf.de/spenden-helfen/mitgliederservice  e.g. https://www.wwf.de/spenden-helfen/mitgliederservice
-   link: https://www.wwf.de/ueber-uns/jobs#main
-## WWF Deutschland  https://www.wwf.de/jobs
-   final: https://www.wwf.de/ueber-uns/stellenangebote  title: WWF Umwelt Jobs – Stellenangebote Natur- und Umwelt  error: None
-   pattern: 7x www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/[^/]+  e.g. https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/senior-controller-m-w-d-strategische-steuerung-transformation-no8sllx1
-   pattern: 3x www.wwf.de/presse  e.g. https://www.wwf.de/presse
-   pattern: 3x www.wwf.de/ueber-uns  e.g. https://www.wwf.de/ueber-uns
-   pattern: 3x www.wwf.de/spenden-helfen/mitgliederservice  e.g. https://www.wwf.de/spenden-helfen/mitgliederservice
-   link: https://www.wwf.de/ueber-uns/stellenangebote#main
-   link: https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/senior-controller-m-w-d-strategische-steuerung-transformation-no8sllx1
-   link: https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/advisor-m-w-d-fisheries-policy-qo7dpbhv
-   link: https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/social-media-redakteur-m-w-d-mit-tiktok-und-videoschwerpunkt-khljlmu5
-   link: https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/studentischer-mitarbeiter-m-w-d-it-ji920k4h
-   link: https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/studentischer-mittarbeiter-m-w-d-fundraising-r3w1jc6n
-   link: https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/teamleitung-m-w-d-circular-economy-4c0r2j30
-   link: https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/wwf-camp-teamer-m-w-d-n9nke43y
-   link: https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/praktikantin-in-der-nachhaltigkeitsberatung-m-w-d-5uuabdmz
-   link: https://www.wwf.de/ueber-uns/stellenangebote/weitere-jobs/praktikum-in-der-stiftung-nordwest-natur
-   link: https://www.jao-berlin.de/de/topic/153.einsatzstellen.html?id=16
-   link: https://wwf-at.onlyfy.jobs/job/0qr9ewr5
-   link: http://wwf.panda.org/jobs_wwf/
-   link: https://www.naturetrustalliance.org/jobs/
-   link: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wwf.de%2Fueber-uns%2Fstellenangebote&text=WWF%20Jobs%20%E2%80%93%20Aktuelle%20Stellenangebote%20des%20WWF
-   link: https://bsky.app/intent/compose?text=WWF%20Deutschland%20https%3A%2F%2Fwww.wwf.de%2Fueber-uns%2Fstellenangebote
-   link: whatsapp://send?text=WWF%20Deutschland%20https%3A%2F%2Fwww.wwf.de%2Fueber-uns%2Fstellenangebote
-## WWF International  https://wwf.panda.org/get_involved/jobs/
-   final: https://wwf.panda.org/get_involved/jobs/  title: 403 Forbidden  error: None
-## WWF International  https://www.worldwildlife.org/about/careers
-   final: https://www.worldwildlife.org/about/careers/  title: Working at WWF | WWF  error: None
-   smartrecruiters: ['WorldWildlifeFundInc1']
-   pattern: 8x www.worldwildlife.org/places/[^/]+/  e.g. https://www.worldwildlife.org/places/where-wwf-works-africa/
-   pattern: 5x protect.worldwildlife.org/page/\d+/action/1  e.g. https://protect.worldwildlife.org/page/52716/action/1?en_og_source=Web_Donation&ea.tracking.id=Web_Topnav&supporter.appealCode=AWE2604OQ18299A09177RX
-   pattern: 4x www.worldwildlife.org/about/  e.g. https://www.worldwildlife.org/about/
-   pattern: 4x www.worldwildlife.org/our-work/[^/]+/  e.g. https://www.worldwildlife.org/our-work/locally-led-conservation/
-   pattern: 4x www.worldwildlife.org/places/conservation-areas/  e.g. https://www.worldwildlife.org/places/conservation-areas/
-   link: https://www.diversityjobs.com/world-wildlife-fund?utm_campaign=EmployerMember&utm_medium=badge&utm_source=WorldWildlifeFund
-## IFAW  https://www.ifaw.org/careers
-   final: https://www.ifaw.org/careers  title: Careers | IFAW  error: None
-   phenom: ['/widgets']
-   json: 70 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/pgstGFyjGbQhwG/67.45.139/67.45.139?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Targeting
-   pattern: 4x www.ifaw.org/careers  e.g. https://www.ifaw.org/careers?form=join
-   link: https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/Opportunity/OpportunityDetail?opportunityId=844e9b2d-5f20-40d9-acbe-922ef761d9e9
-   link: https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/Opportunity/OpportunityDetail?opportunityId=bde2c121-31be-4f55-ab1f-801fd9ce8f82
-## IFAW  https://www.ifaw.org/de/karriere
-   final: https://www.ifaw.org/de/karriere  title: 404 - Seite nicht gefunden.  error: None
-## Welthungerhilfe  https://www.welthungerhilfe.de/jobs/
-   final: https://www.welthungerhilfe.de/ueber-uns/karriere  title: Karriere & Jobs - Welthungerhilfe  error: None
-   successfactors: ['career5.successfactors.eu/career?company=WelthungerP', 'career5.successfactors.eu/career?company=WelthungerP&amp;lang=de_DE', 'career5.successfactors.eu/career?company=WelthungerP&lang=de_DE']
-   json: 229 Treffer in https://www.welthungerhilfe.de/glossar/?tx_igxglossar_glossar[action]=ajax&tx_igxglossar_glossar[controller]=Glossar&_=1793826769400 | keys=['id', 'link', 'name', 'teaser'] | z.B. Advocacy
-   pattern: 13x www.welthungerhilfe.de/ueber-uns/karriere  e.g. https://www.welthungerhilfe.de/ueber-uns/karriere#whh-main-nav
-   pattern: 13x career5.successfactors.eu/career  e.g. https://career5.successfactors.eu/career?company=WelthungerP&lang=de_DE
-   pattern: 8x www.welthungerhilfe.de/[^/]+  e.g. https://www.welthungerhilfe.de/zusatzleistungen-fuer-mitarbeitende-in-deutschland
-   pattern: 6x www.welthungerhilfe.de/spenden/[^/]+  e.g. https://www.welthungerhilfe.de/spenden/spenden-per-ueberweisung
-   pattern: 5x www.welthungerhilfe.de/spenden  e.g. https://www.welthungerhilfe.de/spenden
-   link: https://www.welthungerhilfe.org/jobs
-   link: http://www.devnetjobs.org/
-## Welthungerhilfe  https://www.welthungerhilfe.de/ueber-uns/jobs
-   final: https://www.welthungerhilfe.de/ueber-uns/jobs  title: 404 – Die gesuchte Seite wurde nicht gefunden - Welthungerhilfe  error: None
-   json: 229 Treffer in https://www.welthungerhilfe.de/glossar/?tx_igxglossar_glossar[action]=ajax&tx_igxglossar_glossar[controller]=Glossar&_=1793826838067 | keys=['id', 'link', 'name', 'teaser'] | z.B. Advocacy
-   pattern: 10x www.welthungerhilfe.de/ueber-uns/jobs  e.g. https://www.welthungerhilfe.de/ueber-uns/jobs#whh-main-nav
-   pattern: 6x www.welthungerhilfe.de/spenden/[^/]+  e.g. https://www.welthungerhilfe.de/spenden/spenden-per-ueberweisung
-   pattern: 5x www.welthungerhilfe.de/spenden  e.g. https://www.welthungerhilfe.de/spenden
-   pattern: 5x www.welthungerhilfe.de/[^/]+  e.g. https://www.welthungerhilfe.de/spenden-burkina-faso
-   pattern: 4x www.welthungerhilfe.de/aktuelles/publikation  e.g. https://www.welthungerhilfe.de/aktuelles/publikation
-   link: https://www.welthungerhilfe.de/ueber-uns/jobs#whh-main-nav
-   link: https://www.welthungerhilfe.de/ueber-uns/jobs#toggle-search
-   link: https://www.welthungerhilfe.de/ueber-uns/jobs#main-content
-   link: https://www.welthungerhilfe.de/ueber-uns/jobs#main-footer
-   link: https://www.welthungerhilfe.de/ueber-uns/jobs#
-## Caritas international  https://www.caritas-international.de/ueberuns/jobs
-   final: https://www.caritas-international.de/ueberuns/jobs  title: Stellenangebote  error: None
-   pattern: 14x www.caritas-international.de/ueberuns/jobs  e.g. https://www.caritas-international.de/ueberuns/jobs#main
-   pattern: 8x www.caritas-international.de/spenden/[^/]+  e.g. https://www.caritas-international.de/spenden/hier-wird-hilfe-gebraucht
-   pattern: 5x www.caritas-international.de/blog/blog  e.g. https://www.caritas-international.de/blog/blog
-   pattern: 5x www.caritas-international.de/ueberuns/ueberuns  e.g. https://www.caritas-international.de/ueberuns/ueberuns
-   pattern: 5x www.caritas-international.de/spenden/online/formular  e.g. https://www.caritas-international.de/spenden/online/formular
-   link: https://www.caritas-international.de/ueberuns/jobs#main
-   link: https://www.caritas-international.de/ueberuns/jobs/jobs.aspx
-   link: https://www.caritas-international.de/ueberuns/jobs#collapse31
-   link: https://www.caritas-international.de/ueberuns/jobs#b70f3b2d-ccc7-43a3-be1e-123acbf116db
-   link: https://www.caritas-international.de/ueberuns/jobs#f5a41586-01b9-4246-823c-ae672972e9d0
-   link: https://www.caritas-international.de/ueberuns/jobs#74bb9ca0-26af-4511-ab4d-efbdd2672d14
-   link: https://www.caritas-international.de/ueberuns/jobs#13825b1b-fe8b-4dde-8e97-78cb1488f7c4
-   link: https://www.caritas-international.de/ueberuns/jobs#32561fa8-2552-4d25-9937-ad01cb96a219
-   link: https://www.caritas-international.de/ueberuns/jobs#5ecb464c-e92f-44dd-94fb-c759479ac9f7
-   link: https://www.caritas-international.de/ueberuns/jobs#84ee3e29-5dbf-4b6f-aaa8-b398ba1d02a8
-   link: https://www.caritas-international.de/ueberuns/jobs#EmployerJobOffers
-   link: https://www.caritas-international.de/ueberuns/jobs#AllJobOffers
-   link: http://www.caritas-international.de/jobs/veranstaltungs-manager-in/3399708/
-   link: http://www.caritas-international.de/jobs/referent-in-kinder--jugend--familien--bildungspoli/3398041/
-   link: http://www.caritas-international.de/jobs/juristische-doktorand-innen/3275796/
-   link: https://www.caritas-international.de/ueberuns/jobs#tab-3337604
-   link: https://www.caritas-international.de/ueberuns/jobs#tab-3374836
-   link: https://www.caritas-international.de/ueberuns/jobs#tab-3383506
-   link: https://www.caritas-international.de/ueberuns/jobs/
-## Caritas international  https://www.caritas.de/jobs
-   final: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/  title: Freie Jobs: Jobbörse und Praktikumsbörse der Caritas in Deutschland  error: None
-   pattern: 188x www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/  e.g. https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#main
-   pattern: 18x void(0)  e.g. javascript:void(0)
-   pattern: 12x www.caritas.de/hilfeundberatung/onlineberatung/[^/]+/start  e.g. https://www.caritas.de/hilfeundberatung/onlineberatung/allgemeine-soziale-beratung/start
-   pattern: 12x www.caritas.de/fuerprofis/fachthemen/migration/[^/]+/[^/]+  e.g. https://www.caritas.de/fuerprofis/fachthemen/migration/migrationsdebatte-die-caritas-ordnet-ein/migrationsdebatte-die-caritas-ordnet-ein
-   pattern: 10x www.caritas.de/magazin/zeitschriften/sozialcourage/archiv/jahrgang-\d+/jahrgang-\d+  e.g. https://www.caritas.de/magazin/zeitschriften/sozialcourage/archiv/jahrgang-2022/jahrgang-2022
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#main
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#carinet-menu
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#
-   link: https://www.caritas.de/diecaritas/deutschercaritasverband/standorte/geschaeftsstellen
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/jobs.aspx
-   link: https://www.caritas.de/fuerprofis/stellungnahmen/stellungnahmen-und-positionen
-   link: https://www.caritas.de/diecaritas/deutschercaritasverband/standorte/jobs-beim-deutschen-caritasverband-e.v/jobs-beim-deutschen-caritasverband-e.v
-   link: https://www.caritas.de/diecaritas/deutschercaritasverband/standorte/jobs-beim-deutschen-caritasverband-e.v/jobs/jobboerse
-   link: https://www.caritas.de/diecaritas/deutschercaritasverband/mitarbeitende/arbeitsrechtlichekommission/zentrale-schlichtungsstelle/zentrale-schlichtungsstelle
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/meinejobsuche/meinejobsuche
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/fuer-dienstgeber/jobs/registrierung
-   link: https://www.caritas.de/jobs/
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-1
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-23
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-30
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-38
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-48
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-58
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-0
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-2
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-13
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-3
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-4
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-5
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-6
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-7
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-8
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-9
-   link: https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-10
-## Diakonie Katastrophenhilfe  https://www.diakonie-katastrophenhilfe.de/ueber-uns/jobs
-   final: https://www.diakonie-katastrophenhilfe.de/ueber-uns/jobs  title: 404 - Diakonie Katastrophenhilfe  error: None
+## Brot für die Welt  https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
+   final: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/  title: Jobs | Brot für die Welt  error: None
+   json: 32 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/mB_HKjn9o/137.25.303/137.25.303?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
+   pattern: 10x www.brot-fuer-die-welt.de/spenden/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/spenden/einsatz-der-spendengelder/
+   pattern: 9x void(0);  e.g. javascript:void(0);
+   pattern: 6x www.brot-fuer-die-welt.de/spenden/  e.g. https://www.brot-fuer-die-welt.de/spenden/
+   pattern: 4x www.brot-fuer-die-welt.de/ueber-uns/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/
+   pattern: 3x www.brot-fuer-die-welt.de/service-kontakt/  e.g. https://www.brot-fuer-die-welt.de/service-kontakt/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/im-ausland-arbeiten/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/freiwillige/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/entwicklungspolitischer-freiwilligendienst-brot-fuer-die-welt-2027-2028-1943182/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-online-marketing-1942383/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-abteilung-politik-1942881/
+## Brot für die Welt  https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/
+   final: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/  title: Stellenangebote | Brot für die Welt  error: None
+   json: 32 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/mB_HKjn9o/137.25.303/137.25.303?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
+   pattern: 10x www.brot-fuer-die-welt.de/spenden/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/spenden/einsatz-der-spendengelder/
+   pattern: 9x void(0);  e.g. javascript:void(0);
+   pattern: 6x www.brot-fuer-die-welt.de/spenden/  e.g. https://www.brot-fuer-die-welt.de/spenden/
+   pattern: 6x www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
+   pattern: 4x www.brot-fuer-die-welt.de/ueber-uns/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/im-ausland-arbeiten/
+   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/freiwillige/
+## Diakonie Katastrophenhilfe  https://www.diakonie-katastrophenhilfe.de/ueber-uns
+   final: https://www.diakonie-katastrophenhilfe.de/ueber-uns  title: Über uns - Diakonie Katastrophenhilfe  error: None
+   json: 30 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/CdZms07aS/34.17.195/34.17.195?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
+   pattern: 56x www.diakonie-katastrophenhilfe.de/ueber-uns  e.g. https://www.diakonie-katastrophenhilfe.de/ueber-uns#
+   pattern: 9x www.diakonie-katastrophenhilfe.de/projekte  e.g. https://www.diakonie-katastrophenhilfe.de/projekte
+   pattern: 5x www.diakonie-katastrophenhilfe.de/themen  e.g. https://www.diakonie-katastrophenhilfe.de/themen
+   pattern: 5x www.diakonie-katastrophenhilfe.de/spende  e.g. https://www.diakonie-katastrophenhilfe.de/spende
+   pattern: 4x www.diakonie-katastrophenhilfe.de/themen/[^/]+  e.g. https://www.diakonie-katastrophenhilfe.de/themen/krieg-und-konflikt
+   link: https://www.diakonie-katastrophenhilfe.de/material/unsere-grundsaetze-und-positionen
+   link: https://www.diakonie-katastrophenhilfe.de/ueber-uns/mitarbeit/stellenangebote.html
+## Diakonie Katastrophenhilfe  https://www.diakonie-katastrophenhilfe.de/
+   final: https://www.diakonie-katastrophenhilfe.de/  title: Diakonie Katastrophenhilfe - Diakonie Katastrophenhilfe  error: None
    json: 30 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/CdZms07aS/34.17.195/34.17.195?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
    pattern: 22x www.diakonie-katastrophenhilfe.de/ueber-uns  e.g. https://www.diakonie-katastrophenhilfe.de/ueber-uns
-   pattern: 11x www.diakonie-katastrophenhilfe.de/projekte  e.g. https://www.diakonie-katastrophenhilfe.de/projekte
-   pattern: 7x www.diakonie-katastrophenhilfe.de/themen  e.g. https://www.diakonie-katastrophenhilfe.de/themen
-   pattern: 7x www.diakonie-katastrophenhilfe.de/spende  e.g. https://www.diakonie-katastrophenhilfe.de/spende
-   pattern: 4x www.diakonie-katastrophenhilfe.de/gemeinden  e.g. https://www.diakonie-katastrophenhilfe.de/gemeinden
-   link: https://www.diakonie-katastrophenhilfe.de/ueber-uns/jobs#
-## Diakonie Katastrophenhilfe  https://www.diakonie-katastrophenhilfe.de/jobs
-   final: https://www.diakonie-katastrophenhilfe.de/jobs  title: 404 - Diakonie Katastrophenhilfe  error: None
-   json: 30 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/CdZms07aS/34.17.195/34.17.195?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
-   pattern: 22x www.diakonie-katastrophenhilfe.de/ueber-uns  e.g. https://www.diakonie-katastrophenhilfe.de/ueber-uns
-   pattern: 11x www.diakonie-katastrophenhilfe.de/projekte  e.g. https://www.diakonie-katastrophenhilfe.de/projekte
-   pattern: 7x www.diakonie-katastrophenhilfe.de/themen  e.g. https://www.diakonie-katastrophenhilfe.de/themen
-   pattern: 7x www.diakonie-katastrophenhilfe.de/spende  e.g. https://www.diakonie-katastrophenhilfe.de/spende
-   pattern: 4x www.diakonie-katastrophenhilfe.de/gemeinden  e.g. https://www.diakonie-katastrophenhilfe.de/gemeinden
-   link: https://www.diakonie-katastrophenhilfe.de/jobs#
-## Misereor  https://www.misereor.de/jobs
-   final: https://www.misereor.de/ueber-misereor/jobs  title: Jobs bei Misereor: Misereor  error: None
-   phenom: ['/widgets']
-   pattern: 48x www.misereor.de/ueber-misereor/jobs  e.g. https://www.misereor.de/ueber-misereor/jobs
-   pattern: 8x www.misereor.de/informieren/[^/]+  e.g. https://www.misereor.de/informieren/menschenrechte-und-frieden-schuetzen
-   pattern: 8x www.misereor.de/spenden/[^/]+  e.g. https://www.misereor.de/spenden/spenden-wo-es-am-noetigsten-ist
-   pattern: 6x www.misereor.de/mitmachen/schule-unterricht/[^/]+  e.g. https://www.misereor.de/mitmachen/schule-unterricht/zeitschrift-fuer-lehrkraefte
-   pattern: 6x www.misereor.de/mitmachen/gemeinden-gruppen/[^/]+  e.g. https://www.misereor.de/mitmachen/gemeinden-gruppen/gemeinden-fuer-klimaschutz
-   link: https://www.misereor.de/ueber-misereor/jobs
-   link: https://www.misereor.de/ueber-misereor/jobs#c29026
-   link: https://www.misereor.de/ueber-misereor/jobs#c29106
-   link: https://www.misereor.de/ueber-misereor/jobs#c29000
-   link: https://www.misereor.de/ueber-misereor/jobs#carousel29457
-   link: https://www.misereor.de/ueber-misereor/jobs/job-details/muenchen/praktikantin-fuer-die-bildungs-und-netzwerkarbeit-m-w-d
-   link: https://www.agiamondo.de/bewerber/stellenmarkt/
-   link: https://www.misereor.de/ueber-misereor/jobs/ausbildung
-   link: https://www.misereor.de/ueber-misereor/jobs/praktikum
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-22
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-39
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-258
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-267
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-274
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-261
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-57
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-21
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-65
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-64
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-63
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-60
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-59
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-20
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-89
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-87
-   link: https://www.misereor.de/spenden/spendenaktionen/spendenaktion-erstellen
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-85
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-82
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-19
-   link: https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-117
-## Misereor  https://www.misereor.de/ueber-uns/jobs
-   final: https://www.misereor.de/ueber-uns/jobs  title: 404: Misereor  error: None
-   phenom: ['/widgets']
-   pattern: 38x www.misereor.de/ueber-uns/jobs  e.g. https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-22
-   pattern: 8x www.misereor.de/informieren/[^/]+  e.g. https://www.misereor.de/informieren/menschenrechte-und-frieden-schuetzen
-   pattern: 8x www.misereor.de/spenden/[^/]+  e.g. https://www.misereor.de/spenden/spenden-wo-es-am-noetigsten-ist
-   pattern: 6x \d+  e.g. tel:0241442907
-   pattern: 6x www.misereor.de/kontakt/kontaktformular  e.g. https://www.misereor.de/kontakt/kontaktformular?contactUid=79&referrerUid=333&cHash=1de3c382fde0c92dda7e0c66cc4ee452
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-22
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-39
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-258
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-267
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-274
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-261
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-57
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-21
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-65
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-64
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-63
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-60
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-59
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-20
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-89
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-87
-   link: https://www.misereor.de/spenden/spendenaktionen/spendenaktion-erstellen
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-85
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-82
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-19
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-117
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-115
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-116
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-112
-   link: https://www.misereor.de/ueber-misereor/jobs
-   link: https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-277
-   link: https://www.misereor.de/ueber-misereor/jobs/stellenangebote
-   link: https://www.misereor.de/ueber-misereor/jobs/praktikum
-   link: https://www.misereor.de/ueber-misereor/jobs/ausbildung
-   link: https://www.misereor.de/ueber-uns/jobs#
-## Kindernothilfe  https://www.kindernothilfe.de/jobs
-   final: https://www.kindernothilfe.de/jobs-und-karriere  title: Jobs und Karriere | Kindernothilfe e. V.  error: None
-   phenom: ['/widgets']
+   pattern: 12x www.diakonie-katastrophenhilfe.de/projekte  e.g. https://www.diakonie-katastrophenhilfe.de/projekte
+   pattern: 12x www.diakonie-katastrophenhilfe.de/krisenvorsorge-guide  e.g. https://www.diakonie-katastrophenhilfe.de/krisenvorsorge-guide
+   pattern: 11x www.diakonie-katastrophenhilfe.de/spende/ukraine  e.g. https://www.diakonie-katastrophenhilfe.de/spende/ukraine
+   pattern: 8x www.diakonie-katastrophenhilfe.de/projekte/kongo-ebola  e.g. https://www.diakonie-katastrophenhilfe.de/projekte/kongo-ebola
+## Plan International  https://jobs.plan.de/
+   final: https://jobs.plan.de/  title: Plan International Jobs Hamburg: Jetzt online bewerben!  error: None
+   pattern: 6x jobs.plan.de/stellenangebote.html  e.g. https://jobs.plan.de/stellenangebote.html
+   link: https://jobs.plan.de/datenschutz.html
+   link: https://jobs.plan.de/
+   link: https://jobs.plan.de/stellenangebote.html
+   link: https://jobs.plan.de/plan-als-arbeitgeber.html
+   link: https://jobs.plan.de/ihr-arbeitsplatz.html
+   link: https://jobs.plan.de/Bewerbungstipps.html
+   link: https://jobs.plan.de/faq.html
+   link: https://jobs.plan.de/stellenangebote.html?reset_search=1
+   link: https://jobs.plan.de/stellenangebote.html?order%5Bdir%5D=asc&order%5Bfield%5D=stellenbezeichnung&sid=c460160bb10be5434419a253ef1bfc0c
+   link: https://jobs.plan.de/stellenangebote.html?order%5Bdir%5D=asc&order%5Bfield%5D=aufgabengebiete&sid=c460160bb10be5434419a253ef1bfc0c
+   link: https://jobs.plan.de/stellenangebote.html?order%5Bdir%5D=asc&order%5Bfield%5D=taetigkeiten&sid=c460160bb10be5434419a253ef1bfc0c
+   link: https://jobs.plan.de/Werkstudentin-Contentmanagement-dwm-de-j1362.html?sid=c460160bb10be5434419a253ef1bfc0c
+   link: https://jobs.plan.de/Workshopleitung-dwm-in-Eisenberg-de-j1357.html?sid=c460160bb10be5434419a253ef1bfc0c
+   link: https://jobs.plan.de/jobalert.html
+## Plan International  https://jobs.plan-international.org/
+   final: https://jobs.plan-international.org/  title: Jobs at Plan International  error: None
+   successfactors: ['career5.successfactors.eu', 'career5.successfactors.eu/career?site=&amp;company=PlanInt&amp;lang=en%5FGB&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE', 'rmkcdn.successfactors.com']
+   pattern: 34x jobs.plan-international.org/go/[^/]+/\d+/  e.g. https://jobs.plan-international.org/go/Emergency-Response-%28en_GB%29/1413701/
+   pattern: 3x plan-international.org/[^/]+  e.g. https://plan-international.org/why-join-plan-international
+   link: https://jobs.plan-international.org/#content
+   link: https://jobs.plan-international.org/
+   link: https://jobs.plan-international.org/#
+   link: https://jobs.plan-international.org/search/?q=
+   link: https://jobs.plan-international.org/go/Emergency-Response-%28en_GB%29/1413701/
+   link: https://jobs.plan-international.org/go/Business-Support-&-Administration-%28en_GB%29/1412901/
+   link: https://jobs.plan-international.org/go/Monitoring%2C-Evaluation-&-Research-%28en_GB%29/1413301/
+   link: https://jobs.plan-international.org/go/Programmes-%28en_GB%29/1414901/
+   link: https://jobs.plan-international.org/go/Finance-%28en_GB%29/1414501/
+   link: https://jobs.plan-international.org/go/Global-Influencing-&-Partnerships-%28en_GB%29/1412501/
+   link: https://jobs.plan-international.org/go/Information-Technology-%28en_GB%29/1416101/
+   link: https://jobs.plan-international.org/go/Procurement-&-Logistics-%28en_GB%29/1414101/
+   link: https://jobs.plan-international.org/go/Legal-and-Governance-%28en_GB%29/1416501/
+   link: https://jobs.plan-international.org/go/Global-Assurance-%28en_GB%29/1415301/
+   link: https://jobs.plan-international.org/go/Human-Resources-&-Organisational-Development-%28en_GB%29/1415701/
+   link: https://jobs.plan-international.org/go/Ukraine-Refugee-Crisis-Response/5361201/
+   link: https://jobs.plan-international.org/go/Asia-Pacific-Region/5498501/
+   link: https://jobs.plan-international.org/go/Central-and-Eastern-Europe-Hub/9098601/
+   link: https://jobs.plan-international.org/go/Global-Hub-Location-Flexible/5498701/
+   link: https://jobs.plan-international.org/go/Global-Hub-UK/5498601/
+   link: https://jobs.plan-international.org/go/Middle-East%2C-Eastern-and-Southern-Africa/5498801/
+   link: https://jobs.plan-international.org/go/Region-of-the-Americas/5498901/
+   link: https://jobs.plan-international.org/go/West-and-Central-Africa/5499001/
+   link: https://jobs.plan-international.org/lp/FREQUENTLY%20ASKED%20QUESTIONS/da42fd1ba01cee72/?locale=en_GB&previewLink=true&referrerSave=false
+   link: https://jobs.plan-international.org/?locale=en_GB
+   link: https://jobs.plan-international.org/?locale=en_US
+   link: https://jobs.plan-international.org/?locale=es_ES
+   link: https://jobs.plan-international.org/?locale=fr_FR
+   link: https://jobs.plan-international.org/?locale=pt_PT
+   link: https://jobs.plan-international.org/viewalljobs/
+## Aktion gegen den Hunger  https://careers.actionagainsthunger.org/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.actionagainsthunger.org/
+Call log:
+  - navigating to "https://careers.actionagainsthunger.org/", waiting until "domcontentloaded"
+
+## Aktion gegen den Hunger  https://www.aktiongegendenhunger.de/stellenangebote
+   final: https://www.aktiongegendenhunger.de/stellenangebote  title: Jobs und Stellenangebote | Aktion gegen den Hunger  error: None
+   json: 38 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/IcWw2ZiC_/185.53.601/185.53.601?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Engagement
+   json: 684 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement
+   json: 691 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/de/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement
+   pattern: 27x www.aktiongegendenhunger.de/[^/]+  e.g. https://www.aktiongegendenhunger.de/spenden-statt-schenken
+   pattern: 9x www.aktiongegendenhunger.de/spenden  e.g. https://www.aktiongegendenhunger.de/spenden?monthly=true
+   pattern: 8x www.aktiongegendenhunger.de/stellenangebote  e.g. https://www.aktiongegendenhunger.de/stellenangebote#main-content
+   pattern: 7x www.aktiongegendenhunger.de/datenschutz  e.g. https://www.aktiongegendenhunger.de/datenschutz
+   pattern: 5x www.aktiongegendenhunger.de/kampagnen  e.g. https://www.aktiongegendenhunger.de/kampagnen
+   link: https://www.aktiongegendenhunger.de/stellenangebote#main-content
+   link: https://www.aktiongegendenhunger.de/stellenangebote
+   link: https://careers.actionagainsthunger.org/?_ga=1.41833186.1754761703.1435568749
+   link: https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote
+   link: https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote
+   link: https://www.aktiongegendenhunger.de/stellenangebote#
+## FES  https://jobs.fes.de/
+   final: https://jobs.fes.de/  title: Alle Ausschreibungen  error: None
+   link: https://jobs.fes.de/
+   link: https://jobs.fes.de/jobportal/fes/viewAusschreibung/2026-111.html
+## FES  https://www.fes.de/stellenangebote/praktikum
+   final: https://www.fes.de/stellenangebote/praktikum  title: Praktikum in der FES  error: None
+   pattern: 51x www.fes.de/stellenangebote/praktikum  e.g. https://www.fes.de/stellenangebote/praktikum#
+   pattern: 30x www.fes.de/[^/]+  e.g. https://www.fes.de/abteilung-internationale-zusammenarbeit
+   pattern: 14x www.fes.de/[^/]+/[^/]+  e.g. https://www.fes.de/themenportal-die-welt-gerecht-gestalten/frieden-und-sicherheit
+   pattern: 4x www.fes.de/ueber-uns/[^/]+/[^/]+  e.g. https://www.fes.de/ueber-uns/ueber-die-friedrich-ebert-stiftung/organigramm-und-gremien
+   pattern: 4x www.fes.de/studienfoerderung  e.g. https://www.fes.de/studienfoerderung
+   link: https://www.fes.de/stellenangebote/praktikum#
+   link: https://www.fes.de/stellenangebote/praktikum#main-content
+   link: https://www.fes.de/stellenangebote/praktikum#fes-footer
+   link: https://www.fes.de/stellenangebote/praktikum
+   link: https://www.fes.de/stellenangebote
+   link: https://jobs.fes.de/
+   link: https://www.fes.de/stellenangebote/praktikum#top
+## Fairtrade  https://www.fairtrade.net/de-de.html
+   final: https://www.fairtrade.net/de-de.html  title: Für eine gerechtere Weltwirtschaft | Fairtrade Deutschland  error: None
+   pattern: 16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html
+   pattern: 13x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html
+   pattern: 9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html
+   pattern: 6x www.fairtrade.net/de-de/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick.html
+   pattern: 6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html
+   link: https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html
+## Fairtrade  https://www.fairtrade.net/de-de/ueber-uns/jobs.html
+   final: https://www.fairtrade.net/de-de/ueber-uns/jobs.html  title: 404 Not Found  error: None
+   pattern: 16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html
+   pattern: 12x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html
+   pattern: 9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html
+   pattern: 6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html
+   pattern: 5x www.fairtrade.net/de-de/mach-mit/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen.html
+   link: https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html
+## Kindernothilfe  https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt
+   final: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all  title: Online-Stellenmarkt | Kindernothilfe e. V.  error: None
+   json: 4 Treffer in https://www.kindernothilfe.de/api/sitecore/JobOffers/RetrieveOffers?lang=&translationKeys=JobOffers.SwitchTo.English&translationKeys=JobOffers.SwitchT | keys=['Content', 'Description', 'Id', 'Link', 'Title', 'Type'] | z.B. Initiativbewerbung
    pattern: 30x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/
-   pattern: 15x www.kindernothilfe.de/[^/]+  e.g. https://www.kindernothilfe.de/jobs-und-karriere#mainContent
+   pattern: 15x www.kindernothilfe.de/[^/]+/stellenmarkt  e.g. https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#mainContent
    pattern: 8x www.tiktok.com/legal/privacy-policy  e.g. https://www.tiktok.com/legal/privacy-policy?lang=en
    pattern: 8x privacy.microsoft.com/en-US/privacystatement  e.g. https://privacy.microsoft.com/en-US/privacystatement
    pattern: 7x www.haufe.de/datenschutzerklaerung_24_\d+.html  e.g. https://www.haufe.de/datenschutzerklaerung_24_360.html?_ga=2.25712510.2118662886.1516026902-1046601484.1501084227
-   link: https://www.kindernothilfe.de/jobs-und-karriere#mainContent
-   link: https://www.kindernothilfe.de/jobs-und-karriere
+   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#mainContent
    link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt
-   link: https://www.kindernothilfe.de/jobs-und-karriere/wie-wir-arbeiten
-   link: https://www.kindernothilfe.de/jobs-und-karriere/einstiegsmoeglichkeiten
-   link: https://www.kindernothilfe.de/jobs-und-karriere/praktikumsprogramm
+   link: https://www.kindernothilfe.de/en/career/jobmarket
+   link: https://www.kindernothilfe.de/jobs-und-karriere
+   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=1&filter=all
    link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2004089
-   link: https://www.kindernothilfe.de/jobs-und-karriere/faqs
-   link: https://www.kindernothilfe.de/jobs-und-karriere#mainHeading
-   link: https://www.kindernothilfe.de/informieren/ueber-die-kindernothilfe/anfahrt-geschaeftsstelle
-   link: https://www.kindernothilfe.de/jobs-und-karriere#
-## Kindernothilfe  https://www.kindernothilfe.de/ueber-uns/jobs
-   final: https://www.kindernothilfe.de/ueber-uns/jobs  title: Seite nicht gefunden | Kindernothilfe e. V.  error: None
-   pattern: 30x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/
-   pattern: 8x www.tiktok.com/legal/privacy-policy  e.g. https://www.tiktok.com/legal/privacy-policy?lang=en
-   pattern: 8x privacy.microsoft.com/en-US/privacystatement  e.g. https://privacy.microsoft.com/en-US/privacystatement
-   pattern: 7x www.haufe.de/datenschutzerklaerung_24_\d+.html  e.g. https://www.haufe.de/datenschutzerklaerung_24_360.html?_ga=2.25712510.2118662886.1516026902-1046601484.1501084227
-   pattern: 7x stripe.com/privacy  e.g. https://stripe.com/privacy
-   link: https://www.kindernothilfe.de/ueber-uns/jobs#mainContent
-   link: https://www.kindernothilfe.de/jobs-und-karriere
-   link: https://www.kindernothilfe.de/ueber-uns/jobs#mainHeading
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt
+   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2004012
+   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2005714
+   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2845709
+   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#mainHeading
    link: https://www.kindernothilfe.de/jobs-und-karriere/wie-wir-arbeiten
    link: https://www.kindernothilfe.de/informieren/ueber-die-kindernothilfe/anfahrt-geschaeftsstelle
-   link: https://www.kindernothilfe.de/ueber-uns/jobs
-   link: https://www.kindernothilfe.de/ueber-uns/jobs#
-## Amnesty International  https://www.amnesty.org/en/careers/
-   final: https://www.amnesty.org/en/careers/  title: Careers - Amnesty International  error: None
-   pattern: 6x www.amnesty.org/en/about-us/  e.g. https://www.amnesty.org/en/about-us/
-   pattern: 6x www.youtube.com/watch  e.g. https://www.youtube.com/watch?v=fhQk0KnY054&feature=youtu.be
-   pattern: 5x www.amnesty.org/en/careers/  e.g. https://www.amnesty.org/en/careers/
-   pattern: 5x www.amnesty.org/en/[^/]+/  e.g. https://www.amnesty.org/en/what-we-do/
-   pattern: 3x www.amnesty.org/en/get-involved/  e.g. https://www.amnesty.org/en/get-involved/
-   link: https://careers.amnesty.org/vacancy/find/results/
-## Amnesty International  https://www.amnesty.de/mitmachen/jobs
-   final: https://www.amnesty.de/mitmachen/jobs  title: 404-Seite | Amnesty International  error: None
-   personio: ['amnesty-international-deutschland']
-   pattern: 50x www.amnesty.de/mitmachen/jobs  e.g. https://www.amnesty.de/mitmachen/jobs#
-   pattern: 7x www.amnesty.de/index.php/[^/]+  e.g. https://www.amnesty.de/index.php/israel-palaestina-gaza-nahostkonflikt
-   pattern: 6x www.amnesty.de/mitmachen/[^/]+  e.g. https://www.amnesty.de/mitmachen/werde-sofort-aktiv
-   pattern: 4x www.amnesty.de/pressemitteilung/[^/]+  e.g. https://www.amnesty.de/pressemitteilung/istgh-strafgerichtshof-us-sanktionen
-   pattern: 3x stripe.com/privacy  e.g. https://stripe.com/privacy
-   link: https://www.amnesty.de/mitmachen/jobs#
-   link: https://www.amnesty.de/mitmachen/jobs#main-content
-   link: https://amnesty-international-deutschland.jobs.personio.de/
-   link: https://www.amnesty.de/mitmachen/jobs#qr-popup
-## Human Rights Watch  https://www.hrw.org/careers
-   final: https://www.hrw.org/careers  title: Careers | Human Rights Watch  error: None
-   greenhouse: ['humanrightswatch']
-   json: 23 Treffer in https://boards-api.greenhouse.io/v1/boards/humanrightswatch/jobs?content=true | keys=['absolute_url', 'ai_disclaimer', 'ai_opt_out_request_url', 'application_deadline', 'company_name', 'content', 'data_compliance', 'departments', 'first_published', 'id', 'include_ai_disclaimer', 'internal_job_id', 'language', 'location'] | z.B. Advisor, Talent Acquisition and Global Mobility
-   pattern: 17x www.hrw.org/careers  e.g. https://www.hrw.org/careers#hrw-cookie-dialog
-   pattern: 10x job-boards.greenhouse.io/humanrightswatch/jobs/\d+  e.g. https://job-boards.greenhouse.io/humanrightswatch/jobs/8927767002
-   pattern: 6x www.hrw.org/topic/[^/]+  e.g. https://www.hrw.org/topic/crisis-and-conflict
-   pattern: 4x donate.hrw.org/page/\d+/donate/1  e.g. https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EP2022EVpgdonate&promo_id=1000
-   pattern: 3x www.hrw.org/publications  e.g. https://www.hrw.org/publications
-   link: https://www.hrw.org/careers#all_jobs
-   link: https://www.hrw.org/sites/default/files/media_2023/06/careers_faq.pdf
-   link: https://job-boards.greenhouse.io/humanrightswatch/jobs/8927767002
-   link: https://job-boards.greenhouse.io/humanrightswatch/jobs/8909714002
-   link: https://job-boards.greenhouse.io/humanrightswatch/jobs/8837312002
-   link: https://job-boards.greenhouse.io/humanrightswatch/jobs/8464516002
-   link: https://job-boards.greenhouse.io/humanrightswatch/jobs/8766367002
-## Human Rights Watch  https://careers.hrw.org/
-   final: https://www.hrw.org/careers  title: Careers | Human Rights Watch  error: None
-   greenhouse: ['humanrightswatch']
-   json: 23 Treffer in https://boards-api.greenhouse.io/v1/boards/humanrightswatch/jobs?content=true | keys=['absolute_url', 'ai_disclaimer', 'ai_opt_out_request_url', 'application_deadline', 'company_name', 'content', 'data_compliance', 'departments', 'first_published', 'id', 'include_ai_disclaimer', 'internal_job_id', 'language', 'location'] | z.B. Advisor, Talent Acquisition and Global Mobility
-   pattern: 17x www.hrw.org/careers  e.g. https://www.hrw.org/careers#hrw-cookie-dialog
-   pattern: 10x job-boards.greenhouse.io/humanrightswatch/jobs/\d+  e.g. https://job-boards.greenhouse.io/humanrightswatch/jobs/8927767002
-   pattern: 6x www.hrw.org/topic/[^/]+  e.g. https://www.hrw.org/topic/crisis-and-conflict
-   pattern: 4x donate.hrw.org/page/\d+/donate/1  e.g. https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EP2022EVpgdonate&promo_id=1000
-   pattern: 3x www.hrw.org/publications  e.g. https://www.hrw.org/publications
-   link: https://www.hrw.org/careers#all_jobs
-   link: https://www.hrw.org/sites/default/files/media_2023/06/careers_faq.pdf
-   link: https://job-boards.greenhouse.io/humanrightswatch/jobs/8927767002
-   link: https://job-boards.greenhouse.io/humanrightswatch/jobs/8909714002
-   link: https://job-boards.greenhouse.io/humanrightswatch/jobs/8837312002
-   link: https://job-boards.greenhouse.io/humanrightswatch/jobs/8464516002
-   link: https://job-boards.greenhouse.io/humanrightswatch/jobs/8766367002
+   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all
+   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#
 ## GIZ  https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29
    final: https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12  title: Unsere Stellenangebote | Karriereportal | Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH  error: None
    phenom: ['/widgets']
@@ -470,43 +208,52 @@
    link: https://www.linkedin.com/shareArticle?mini=true&url=ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ&title=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ
    link: https://wa.me/?text=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ%20ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ
    link: https://jobs.giz.de/index.php?ac=accessibility
-## GIZ  https://www.giz.de/de/jobs/
-   final: https://www.giz.de/de/karriere/jobs  title: Karrieremöglichkeiten | GIZ  error: None
-   json: 222 Treffer in https://www.giz.de/de/glossary/list | keys=['id', 'label', 'name', 'text'] | z.B. AA
-   pattern: 7x www.giz.de/de/karriere/jobs  e.g. https://www.giz.de/de/karriere/jobs#main-content
-   pattern: 3x www.giz.de/de/ueber-uns/organisation/vorstand/[^/]+  e.g. https://www.giz.de/de/ueber-uns/organisation/vorstand/thorsten-schaefer-guembel
-   link: https://www.giz.de/de/karriere/jobs#main-content
-   link: https://www.giz.de/de/karriere/jobs#footer-content
-   link: https://www.giz.de/en/career/jobs
-   link: https://www.giz.de/de/karriere/jobs
-   link: https://www.giz.de/de/karriere/jobs#fuer-berufserfahrene
-   link: https://www.giz.de/de/karriere/jobs#fuer-einsteigerinnen
-   link: https://www.giz.de/de/karriere/jobs/weltweit
-   link: https://www.giz.de/de/karriere/jobs/deutschland
-   link: https://www.giz.de/de/karriere/jobs/digital
-   link: https://www.giz.de/de/karriere/jobs/entwicklungsdienst
-   link: https://www.giz.de/de/karriere/jobs/integrierte-fachkraefte
-   link: https://www.giz.de/de/karriere/jobs/ausbildung
-   link: https://www.giz.de/de/karriere/jobs/praktikum
-   link: https://www.giz.de/de/karriere/jobs/duales-studium
-   link: https://www.giz.de/de/karriere/jobs/trainee
+## GIZ  https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword=praktikum
+   final: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12  title: Unsere Stellenangebote | Karriereportal | Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH  error: None
+   phenom: ['/widgets']
+   beesite: ['beesite', 'milchundzucker']
+   json: 4 Treffer in https://jobs.giz.de/assets/js/jobboard-giz.config.json | keys=['channel', 'date', 'id', 'job_id', 'location', 'title', 'uri'] | z.B. PositionTitle
+   pattern: 47x jobs.giz.de/index.php  e.g. https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading
+   pattern: 34x void(0);  e.g. javascript:void(0);
+   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading
+   link: https://jobs.giz.de/index.php?ac=login
+   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading
    link: https://jobs.giz.de/index.php?ac=search_result
-## KfW  https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/
-   final: https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/  title: HTTP 404 | KfW  error: None
-   pattern: 15x www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/  e.g. https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/#main-anchor
-   link: https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/#main-anchor
-   link: https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/#
-   link: https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Pressematerial/Kontakt-Pressestelle/
-   link: https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/#top
-## KfW  https://jobs.kfw.de/
-   final: https://jobs.kfw.de/index.php?ac=start  title: Startseite | Karriereportal | KfW Bankengruppe - Karriereportal  error: None
+   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level[]=26
+   link: https://jobs.giz.de/index.php?ac=statuspage&uid=0
+   link: https://jobs.giz.de/index.php?ac=statuspage
+   link: https://jobs.giz.de/index.php?ac=applicationstate
+   link: https://jobs.giz.de/index.php?ac=messages
+   link: https://jobs.giz.de/index.php?ac=logindata
+   link: https://jobs.giz.de/index.php?ac=job_merker
+   link: https://jobs.giz.de/index.php?ac=jobabo_overview
+   link: https://jobs.giz.de/index.php?ac=event
+   link: https://jobs.giz.de/index.php?ac=profile_application
+   link: https://jobs.giz.de/index.php?ac=privacy_statements
+   link: https://jobs.giz.de/index.php?ac=jobabo
+   link: https://jobs.giz.de/(!'uid=lang');
+   link: https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=1
+   link: https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=2
+   link: https://jobs.giz.de/index.php?ac=lost_password
+   link: https://jobs.giz.de/index.php?ac=lost_username
+   link: https://jobs.giz.de/index.php?ac=register
+   link: https://jobs.giz.de/index.php?ac=privacy_policy
+   link: https://jobs.giz.de/index.php?ac=imprint
+   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#
+   link: https://jobs.giz.de/index.php
+   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-search-result-heading
+   link: https://jobs.giz.de/index.php?ac=jobad&id=79536
+   link: https://jobs.giz.de/index.php?ac=jobad&id=79540
+   link: https://jobs.giz.de/index.php?ac=jobad&id=79522
+## KfW  https://jobs.kfw.de/index.php?ac=search_result
+   final: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12  title: Unsere Stellenangebote | Karriereportal | KfW Bankengruppe - Karriereportal  error: None
    phenom: ['/widgets']
    beesite: ['beesite']
-   json: 17 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/_ytECDtkj/54.30.192/54.30.192?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Essenziell
-   pattern: 30x jobs.kfw.de/index.php  e.g. https://jobs.kfw.de/index.php?ac=start#skip-to-main-heading
-   link: https://jobs.kfw.de/index.php?ac=start#skip-to-main-heading
+   pattern: 39x jobs.kfw.de/index.php  e.g. https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-main-heading
+   pattern: 18x void(0);  e.g. javascript:void(0);
+   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-main-heading
    link: https://jobs.kfw.de/index.php?ac=login
-   link: https://jobs.kfw.de/index.php?ac=start#skip-to-mainnav-heading
+   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading
    link: https://jobs.kfw.de/index.php
    link: https://jobs.kfw.de/index.php?ac=search_result
    link: https://jobs.kfw.de/index.php?ac=statuspage&uid=0
@@ -520,271 +267,80 @@
    link: https://jobs.kfw.de/index.php?ac=profile_application
    link: https://jobs.kfw.de/index.php?ac=jobabo
    link: https://jobs.kfw.de/(!'uid=lang');
-   link: https://jobs.kfw.de/index.php?ac=start&language=1
-   link: https://jobs.kfw.de/index.php?ac=start&language=2
+   link: https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=1
+   link: https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=2
    link: https://jobs.kfw.de/index.php?ac=lost_username
    link: https://jobs.kfw.de/index.php?ac=lost_password
    link: https://jobs.kfw.de/index.php?ac=register
-   link: https://jobs.kfw.de/index.php?ac=imprint
-   link: https://jobs.kfw.de/index.php?ac=privacy_policy
-   link: https://jobs.kfw.de/index.php?ac=contact
-   link: https://jobs.kfw.de/#
-## Brot für die Welt  https://www.brot-fuer-die-welt.de/ueber-uns/jobs/
-   final: https://www.brot-fuer-die-welt.de/ueber-uns/jobs/  title: 40x | Brot für die Welt  error: None
-   json: 32 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/mB_HKjn9o/137.25.303/137.25.303?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
-   pattern: 10x www.brot-fuer-die-welt.de/spenden/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/spenden/einsatz-der-spendengelder/
-   pattern: 6x www.brot-fuer-die-welt.de/spenden/  e.g. https://www.brot-fuer-die-welt.de/spenden/
-   pattern: 6x void(0);  e.g. javascript:void(0);
-   pattern: 3x www.brot-fuer-die-welt.de/service-kontakt/  e.g. https://www.brot-fuer-die-welt.de/service-kontakt/
-   pattern: 3x www.brot-fuer-die-welt.de/ueber-uns/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/im-ausland-arbeiten/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/freiwillige/
-## Brot für die Welt  https://www.brot-fuer-die-welt.de/jobs/
-   final: https://www.brot-fuer-die-welt.de/jobs/  title: 40x | Brot für die Welt  error: None
-   json: 32 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/mB_HKjn9o/137.25.303/137.25.303?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
-   pattern: 10x www.brot-fuer-die-welt.de/spenden/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/spenden/einsatz-der-spendengelder/
-   pattern: 6x www.brot-fuer-die-welt.de/spenden/  e.g. https://www.brot-fuer-die-welt.de/spenden/
-   pattern: 6x void(0);  e.g. javascript:void(0);
-   pattern: 3x www.brot-fuer-die-welt.de/service-kontakt/  e.g. https://www.brot-fuer-die-welt.de/service-kontakt/
-   pattern: 3x www.brot-fuer-die-welt.de/ueber-uns/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/im-ausland-arbeiten/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/freiwillige/
-## NABU  https://www.nabu.de/wir-ueber-uns/jobs/
-   final: https://www.nabu.de/index.html  title: Wir sind die Naturschutzmacher*innen!  error: None
-   pattern: 25x +\d+  e.g. tel:+49302849841560
-   pattern: 4x www.nabu.de/index.html  e.g. https://www.nabu.de/index.html
-## NABU  https://jobs.nabu.de/
-   final: https://jobs.nabu.de/de  title: NABU-Jobbörse  error: None
-   pattern: 6x www.google.com/maps/search/  e.g. https://www.google.com/maps/search/?api=1&query=Blumberger%20M%C3%BChle%202%2C%2016278%20Angerm%C3%BCnde%2C%20Deutschland
-   link: https://www.nabu.de/wir-ueber-uns/jobboerse/index.html?ref=nav
-   link: https://jobs.nabu.de/de
-   link: https://jobs.nabu.de/de?id=7e09e3
-   link: https://jobs.nabu.de/de?id=1997e3
-   link: https://jobs.nabu.de/de?id=c9f14c
-   link: https://jobs.nabu.de/de?id=95e274
-   link: https://jobs.nabu.de/de?id=dd68e0
-   link: https://jobs.nabu.de/de?id=1a66b1
-## Plan International  https://www.plan.de/ueber-uns/jobs.html
-   final: https://www.plan.de/ueber-uns/jobs.html  title: Die Seite wurde nicht gefunden  error: None
-   pattern: 49x www.plan.de/ueber-uns/jobs.html  e.g. https://www.plan.de/ueber-uns/jobs.html#
-   pattern: 7x www.plan.de/[^/]+  e.g. https://www.plan.de/engagement-von-und-fuer-schulen.html
-   pattern: 4x www.plan.de/patenschaft.html  e.g. https://www.plan.de/patenschaft.html
-   pattern: 4x www.plan.de/[^/]+/[^/]+  e.g. https://www.plan.de/wie-wir-arbeiten/safeguarding-heisst-kinder-innerhalb-unserer-organisation-schuetzen.html
-   pattern: 3x www.plan.de/datenschutz.html  e.g. https://www.plan.de/datenschutz.html
-   link: https://www.plan.de/ueber-uns/jobs.html#
-   link: https://www.plan.de/ueber-uns/jobs.html#main
-   link: https://jobs.plan.de/
-   link: https://www.plan.de/ueber-uns/jobs.html#top
-## Plan International  https://plan-international.org/careers/
-   final: https://plan-international.org/about/jobs/  title: Jobs at Plan International | Plan International  error: None
-   pattern: 14x plan-international.org/[^/]+/  e.g. https://plan-international.org/what-we-do/
-   pattern: 7x plan-international.org/about/jobs/[^/]+/  e.g. https://plan-international.org/about/jobs/our-values-at-work/
-   pattern: 4x plan-international.org/get-involved/  e.g. https://plan-international.org/get-involved/
-   pattern: 4x plan-international.org/get-involved/[^/]+/  e.g. https://plan-international.org/get-involved/venezuela-earthquake-appeal/
-   pattern: 3x plan-international.org/about/  e.g. https://plan-international.org/about/
-   link: https://plan-international.org/about/jobs/
-   link: https://jobs.plan-international.org/
-   link: https://plan-international.org/jobs/our-values-at-work/
-   link: https://plan-international.org/jobs/why-join-plan-international/
-   link: https://plan-international.org/about/jobs/our-values-at-work/
-   link: https://plan-international.org/about/jobs/join-our-emergency-response-roster/
-   link: https://plan-international.org/about/jobs/why-join-plan-international/
-   link: https://plan-international.org/about/jobs/plan-academy/
-   link: https://plan-international.org/about/jobs/what-is-it-like-to-work-at-plan-international/
-   link: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fplan-international.org%2Fabout%2Fjobs%2F
-   link: https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fplan-international.org%2Fabout%2Fjobs%2F
-   link: https://twitter.com/intent/tweet?text=Jobs%20at%20Plan%20International&url=https%3A%2F%2Fplan-international.org%2Fabout%2Fjobs%2F
-## Terre des hommes  https://www.tdh.de/ueber-uns/jobs
-   final: https://www.tdh.de/ueber-uns/jobs  title: 404 – Seite nicht gefunden – Terre des Hommes  error: None
-   pattern: 53x www.tdh.de/ueber-uns/jobs  e.g. https://www.tdh.de/ueber-uns/jobs#content-jumpmark
-   pattern: 12x www.tdh.de/informieren/themen/[^/]+  e.g. https://www.tdh.de/informieren/themen/hunger-und-ernaehrung
-   pattern: 6x www.tdh.de/spenden  e.g. https://www.tdh.de/spenden
-   pattern: 6x www.tdh.de/spenden/spendenshop  e.g. https://www.tdh.de/spenden/spendenshop
-   pattern: 5x www.tdh.de/newsletteranmeldung  e.g. https://www.tdh.de/newsletteranmeldung
-   link: https://www.tdh.de/ueber-uns/jobs#content-jumpmark
-   link: https://www.tdh.de/jobs
-   link: https://www.tdh.de/ueber-uns/jobs#mm-3
-   link: https://www.tdh.de/ueber-uns/jobs#mm-15
-   link: https://www.tdh.de/ueber-uns/jobs#mm-19
-   link: https://www.tdh.de/ueber-uns/jobs#mm-34
-   link: https://www.tdh.de/ueber-uns/jobs#mm-1
-   link: https://www.tdh.de/ueber-uns/jobs#mm-5
-   link: https://www.tdh.de/ueber-uns/jobs#mm-7
-   link: https://www.tdh.de/ueber-uns/jobs#mm-11
-   link: https://www.tdh.de/ueber-uns/jobs#mm-13
-   link: https://www.tdh.de/ueber-uns/jobs#mm-9
-   link: https://www.tdh.de/ueber-uns/jobs#mm-17
-   link: https://www.tdh.de/spenden/erbschaft-und-testament/erbschaftsbroschuere-bestellen
-   link: https://www.tdh.de/ueber-uns/jobs#mm-21
-   link: https://www.tdh.de/ueber-uns/jobs#mm-23
-   link: https://www.tdh.de/ueber-uns/jobs#mm-25
-   link: https://www.tdh.de/ueber-uns/jobs#mm-27
-   link: https://www.tdh.de/ueber-uns/jobs#mm-29
-   link: https://www.tdh.de/ueber-uns/jobs#mm-31
-   link: https://www.tdh.de/aktiv-werden/mein-tdh/stellenausschreibungen-ehrenamt
-   link: https://www.tdh.de/ueber-uns/jobs#mm-33
-   link: https://www.tdh.de/ueber-uns/jobs#pageTop
-## Terre des hommes  https://www.tdh.de/jobs
-   final: https://www.tdh.de/jobs  title: Jobs bei Terre des Hommes  error: None
-   pattern: 12x www.tdh.de/informieren/themen/[^/]+  e.g. https://www.tdh.de/informieren/themen/hunger-und-ernaehrung
-   pattern: 6x www.tdh.de/spenden/spendenshop  e.g. https://www.tdh.de/spenden/spendenshop
-   pattern: 5x www.tdh.de/informieren/ueber-uns  e.g. https://www.tdh.de/informieren/ueber-uns
-   pattern: 5x www.tdh.de/newsletteranmeldung  e.g. https://www.tdh.de/newsletteranmeldung
-   pattern: 5x www.tdh.de/aktiv-werden  e.g. https://www.tdh.de/aktiv-werden
-   link: https://www.tdh.de/jobs#content-jumpmark
-   link: https://www.tdh.de/jobs/werkstudentin-finanzen-m-w-d
-   link: https://www.tdh.de/jobs#
-   link: https://www.tdh.de/jobs
-   link: https://www.tdh.de/jobs#mm-3
-   link: https://www.tdh.de/jobs#mm-15
-   link: https://www.tdh.de/jobs#mm-19
-   link: https://www.tdh.de/jobs#mm-34
-   link: https://www.tdh.de/jobs#mm-1
-   link: https://www.tdh.de/jobs#mm-5
-   link: https://www.tdh.de/jobs#mm-7
-   link: https://www.tdh.de/jobs#mm-11
-   link: https://www.tdh.de/jobs#mm-13
-   link: https://www.tdh.de/jobs#mm-9
-   link: https://www.tdh.de/jobs#mm-17
-   link: https://www.tdh.de/spenden/erbschaft-und-testament/erbschaftsbroschuere-bestellen
-   link: https://www.tdh.de/jobs#mm-21
-   link: https://www.tdh.de/jobs#mm-23
-   link: https://www.tdh.de/jobs#mm-25
-   link: https://www.tdh.de/jobs#mm-27
-   link: https://www.tdh.de/jobs#mm-29
-   link: https://www.tdh.de/jobs#mm-31
-   link: https://www.tdh.de/aktiv-werden/mein-tdh/stellenausschreibungen-ehrenamt
-   link: https://www.tdh.de/jobs#mm-33
-   link: https://www.tdh.de/jobs#pageTop
-## Aktion gegen den Hunger  https://www.aktiongegendenhunger.de/jobs
-   final: https://www.aktiongegendenhunger.de/stellenangebote  title: Jobs und Stellenangebote | Aktion gegen den Hunger  error: None
-   json: 38 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/IcWw2ZiC_/185.53.601/185.53.601?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Engagement
-   json: 684 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement
-   json: 691 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/de/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement
-   pattern: 27x www.aktiongegendenhunger.de/[^/]+  e.g. https://www.aktiongegendenhunger.de/spenden-statt-schenken
-   pattern: 9x www.aktiongegendenhunger.de/spenden  e.g. https://www.aktiongegendenhunger.de/spenden?monthly=true
-   pattern: 8x www.aktiongegendenhunger.de/stellenangebote  e.g. https://www.aktiongegendenhunger.de/stellenangebote#main-content
-   pattern: 7x www.aktiongegendenhunger.de/datenschutz  e.g. https://www.aktiongegendenhunger.de/datenschutz
-   pattern: 5x www.aktiongegendenhunger.de/kampagnen  e.g. https://www.aktiongegendenhunger.de/kampagnen
-   link: https://www.aktiongegendenhunger.de/stellenangebote#main-content
-   link: https://www.aktiongegendenhunger.de/stellenangebote
-   link: https://careers.actionagainsthunger.org/?_ga=1.41833186.1754761703.1435568749
-   link: https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote
-   link: https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote
-   link: https://www.aktiongegendenhunger.de/stellenangebote#
-## Aktion gegen den Hunger  https://www.aktiongegendenhunger.de/ueber-uns/jobs
-   final: https://www.aktiongegendenhunger.de/ueber-uns/jobs  title: Fehlermeldung 404 | Aktion gegen den Hunger |  error: None
-   json: 38 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/IcWw2ZiC_/185.53.601/185.53.601?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Engagement
-   json: 684 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement
-   json: 691 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/de/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement
-   pattern: 27x www.aktiongegendenhunger.de/[^/]+  e.g. https://www.aktiongegendenhunger.de/spenden-statt-schenken
-   pattern: 10x www.aktiongegendenhunger.de/spenden  e.g. https://www.aktiongegendenhunger.de/spenden?monthly=true
-   pattern: 7x www.aktiongegendenhunger.de/datenschutz  e.g. https://www.aktiongegendenhunger.de/datenschutz
-   pattern: 5x www.aktiongegendenhunger.de/hunger  e.g. https://www.aktiongegendenhunger.de/hunger
-   pattern: 5x www.aktiongegendenhunger.de/kampagnen  e.g. https://www.aktiongegendenhunger.de/kampagnen
-   link: https://www.aktiongegendenhunger.de/ueber-uns/jobs#main-content
-   link: https://www.aktiongegendenhunger.de/stellenangebote
-   link: https://www.aktiongegendenhunger.de/ueber-uns/jobs#
-## Friedrich-Ebert-Stiftung  https://www.fes.de/jobs
-   final: https://www.fes.de/jobs  title: 404 - Seite nicht gefunden  error: None
-   pattern: 34x www.fes.de/[^/]+  e.g. https://www.fes.de/abteilung-internationale-zusammenarbeit
-   pattern: 18x www.fes.de/stiftung/[^/]+/jahresbericht-\d+-/-perspektiven-\d+  e.g. https://www.fes.de/stiftung/jahresberichte-zahlen-fakten/jahresbericht-2023-/-perspektiven-2024
-   pattern: 14x www.fes.de/[^/]+/[^/]+  e.g. https://www.fes.de/themenportal-die-welt-gerecht-gestalten/frieden-und-sicherheit
-   pattern: 5x www.fes.de/ueber-uns/[^/]+/[^/]+  e.g. https://www.fes.de/ueber-uns/ueber-die-friedrich-ebert-stiftung/organigramm-und-gremien
-   pattern: 5x www.fes.de/stellenangebote  e.g. https://www.fes.de/stellenangebote
-   link: https://www.fes.de/jobs#pageContent
-   link: https://www.fes.de/jobs#fes-footer
-   link: https://www.fes.de/jobs#
-   link: https://www.fes.de/stellenangebote
-   link: https://www.fes.de/stellenangebote/personalstrategie
-   link: https://www.fes.de/stellenangebote/datenschutz
-   link: https://www.fes.de/stellenangebote/praktikum
-   link: https://www.fes.de/stellenangebote/bewerbungs-faq
-   link: https://www.fes.de/jobs#top
-## Friedrich-Ebert-Stiftung  https://www.fes.de/stellenangebote
-   final: https://www.fes.de/stellenangebote  title: Stellenangebote  error: None
-   pattern: 55x www.fes.de/stellenangebote  e.g. https://www.fes.de/stellenangebote#
-   pattern: 24x www.fes.de/[^/]+  e.g. https://www.fes.de/abteilung-internationale-zusammenarbeit
-   pattern: 14x www.fes.de/[^/]+/[^/]+  e.g. https://www.fes.de/themenportal-die-welt-gerecht-gestalten/frieden-und-sicherheit
-   pattern: 4x www.fes.de/ueber-uns/[^/]+/[^/]+  e.g. https://www.fes.de/ueber-uns/ueber-die-friedrich-ebert-stiftung/organigramm-und-gremien
-   pattern: 3x www.fes.de/studienfoerderung  e.g. https://www.fes.de/studienfoerderung
-   link: https://www.fes.de/stellenangebote#
-   link: https://www.fes.de/stellenangebote#main-content
-   link: https://www.fes.de/stellenangebote#fes-footer
-   link: https://www.fes.de/stellenangebote
-   link: https://www.fes.de/stellenangebote#c502553
-   link: https://www.fes.de/stellenangebote/personalstrategie
-   link: https://jobs.fes.de/
-   link: https://www.fes.de/stellenangebote/referent-innen
-   link: https://www.fes.de/stellenangebote/sach-und-finanzsachbearbeiter-innen
-   link: https://www.fes.de/stellenangebote/praktikum
-   link: https://www.fes.de/stellenangebote/aushilfskraefte
-   link: https://www.fes.de/stellenangebote/bewerbungs-faq
-   link: https://www.fes.de/stellenangebote#top
-## Konrad-Adenauer-Stiftung  https://www.kas.de/de/karriere
-   final: https://www.kas.de/de/karriere  title: Web Application Firewall  error: None
-## Konrad-Adenauer-Stiftung  https://www.kas.de/de/web/karriere/stellenangebote
+   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-search-result-heading
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13740
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13741
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13744
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13746
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13747
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13664
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13736
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13737
+## KfW  https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword=praktikum
+   final: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12  title: Unsere Stellenangebote | Karriereportal | KfW Bankengruppe - Karriereportal  error: None
+   phenom: ['/widgets']
+   beesite: ['beesite']
+   json: 17 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/_ytECDtkj/54.30.192/54.30.192?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Essenziell
+   pattern: 39x jobs.kfw.de/index.php  e.g. https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading
+   pattern: 14x void(0);  e.g. javascript:void(0);
+   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading
+   link: https://jobs.kfw.de/index.php?ac=login
+   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading
+   link: https://jobs.kfw.de/index.php
+   link: https://jobs.kfw.de/index.php?ac=search_result
+   link: https://jobs.kfw.de/index.php?ac=statuspage&uid=0
+   link: https://jobs.kfw.de/index.php?ac=statuspage
+   link: https://jobs.kfw.de/index.php?ac=applicationstate
+   link: https://jobs.kfw.de/index.php?ac=messages
+   link: https://jobs.kfw.de/index.php?ac=logindata
+   link: https://jobs.kfw.de/index.php?ac=job_merker
+   link: https://jobs.kfw.de/index.php?ac=jobabo_overview
+   link: https://jobs.kfw.de/index.php?ac=event
+   link: https://jobs.kfw.de/index.php?ac=profile_application
+   link: https://jobs.kfw.de/index.php?ac=jobabo
+   link: https://jobs.kfw.de/(!'uid=lang');
+   link: https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=1
+   link: https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=2
+   link: https://jobs.kfw.de/index.php?ac=lost_username
+   link: https://jobs.kfw.de/index.php?ac=lost_password
+   link: https://jobs.kfw.de/index.php?ac=register
+   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-search-result-heading
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13741
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13744
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13664
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13736
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13737
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13732
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13733
+   link: https://jobs.kfw.de/index.php?ac=jobad&id=13729
+## Welthungerhilfe  https://career5.successfactors.eu/career?company=WelthungerP&lang=de_DE
+   final: https://career5.successfactors.eu/career?company=WelthungerP&lang=de_DE  title: Karrierechancen  error: None
+   successfactors: ['career012.successfactors.eu/career?company=WelthungerP&amp;career%5fns=job%5flisting%5fsummary&amp;navBarLevel=JOB%5fSEARCH&amp;_s.crb=G070TCxBHe9slDnfVb1vXaN8cuo%3d', 'career012.successfactors.eu/career?company=WelthungerP&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=G070TCxBHe9slDnfVb1vXaN8cuo%3d', 'career5.successfactors.eu/career?career_company=WelthungerP&lang=de_DE&company=WelthungerP&site=&loginFlowRequired=true&_s.crb=VTZaBuq3WyLF4F5EdfESSRhS%2bP3sDhtn5BLdH%2b7YTPc%3d', 'career5.successfactors.eu/career?company=WelthungerP&lang=de_DE', 'career5.successfactors.eu/career?company=WelthungerP&lang=de_DE#skipContent', 'career5.successfactors.eu/companyLogoServlet/?companyId=WelthungerP&amp;mod=1675759327593']
+   link: https://career012.successfactors.eu/career?company=WelthungerP&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=G070TCxBHe9slDnfVb1vXaN8cuo%3d
+## Amnesty  https://careers.amnesty.org/vacancy/find/results/
+   final: https://careers.amnesty.org/jobs/vacancy/find/results/  title: Careers | Amnesty International  error: None
+   pattern: 22x careers.amnesty.org/jobs/vacancy/find/results/  e.g. https://careers.amnesty.org/jobs/vacancy/find/results/#maincontent
+   link: https://careers.amnesty.org/jobs/vacancy/find/results/#maincontent
+   link: https://careers.amnesty.org/jobs/vacancy/find/results/
+   link: https://careers.amnesty.org/jobs/alertregister/
+   link: https://careers.amnesty.org/jobs/login/
+   link: https://careers.amnesty.org/jobs/vacancy/find/results/map/
+   link: https://careers.amnesty.org/jobs/vacancy/find/results/#
+   link: https://careers.amnesty.org/jobs/vacancy/find/results/ajaxaction/posbrowser_gridhandler/?sortasc_codelist5value=1&pagestamp=d1a0a73e-4f6b-4c7b-80b9-f57afe0d117c
+   link: https://careers.amnesty.org/jobs/vacancy/find/results/ajaxaction/posbrowser_gridhandler/?sortasc__rowlabel=1&pagestamp=d1a0a73e-4f6b-4c7b-80b9-f57afe0d117c
+   link: https://careers.amnesty.org/jobs/vacancy/ai-indonesia---campaigner-4300/4328/description/
+   link: https://careers.amnesty.org/jobs/vacancy/ai-indonesia---supporter-engagement-4301/4329/description/
+   link: https://careers.amnesty.org/jobs/vacancy/crisis-researcher-4284/4312/description/
+   link: https://careers.amnesty.org/jobs/vacancy/regional-researcher-saro-4290/4318/description/
+   link: https://careers.amnesty.org/jobs/vacancy/researcher--adviser-escr-4287/4315/description/
+   link: https://careers.amnesty.org/jobs/vacancy/technologist-4288/4316/description/
+## KAS  https://www.kas.de/de/web/karriere/stellenangebote
    final: https://www.kas.de/de/web/karriere/stellenangebote  title: Web Application Firewall  error: None
-## Ashoka  https://www.ashoka.org/en/careers
-   final: None  title: None  error: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.ashoka.org/en/careers
-Call log:
-  - navigating to "https://www.ashoka.org/en/careers", waiting until "domcontentloaded"
-
-## Ashoka  https://www.ashoka.org/de-de/jobs
-   final: https://www.ashoka.org/de-de/jobs  title: Seite nicht gefunden | Ashoka  error: None
-   link: https://www.ashoka.org/de-de/jobs#main
-## Fairtrade Deutschland  https://www.fairtrade-deutschland.de/service/jobs
-   final: https://www.fairtrade.net/de-de.html  title: Für eine gerechtere Weltwirtschaft | Fairtrade Deutschland  error: None
-   pattern: 16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html
-   pattern: 13x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html
-   pattern: 9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html
-   pattern: 6x www.fairtrade.net/de-de/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick.html
-   pattern: 6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html
-   link: https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html
-## Fairtrade Deutschland  https://www.fairtrade-deutschland.de/jobs
-   final: https://www.fairtrade.net/de-de.html  title: Für eine gerechtere Weltwirtschaft | Fairtrade Deutschland  error: None
-   pattern: 16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html
-   pattern: 13x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html
-   pattern: 9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html
-   pattern: 6x www.fairtrade.net/de-de/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick.html
-   pattern: 6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html
-   link: https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html
-## Greenpeace Deutschland  https://www.greenpeace.de/ueber-uns/jobs
-   final: https://www.greenpeace.de/ueber-uns/greenpeace-deutschland  title: Greenpeace Deutschland aktiv für die Umwelt | Greenpeace  error: None
-   pattern: 5x www.greenpeace.de/ueber-uns/organisation/greenpeace-deutschland/[^/]+  e.g. https://www.greenpeace.de/ueber-uns/organisation/greenpeace-deutschland/gruendung-greenpeace-deutschland
-   pattern: 4x www.greenpeace.de/ueber-uns/greenpeace-deutschland  e.g. https://www.greenpeace.de/ueber-uns/greenpeace-deutschland#main-content
-   pattern: 3x www.greenpeace.de/spenden/online-spenden  e.g. https://www.greenpeace.de/spenden/online-spenden
-   pattern: 3x www.greenpeace.de/spenden/[^/]+  e.g. https://www.greenpeace.de/spenden/tv-spot-gesehen
-   pattern: 3x www.greenpeace.de/spenden/foerdermitglieder-service/[^/]+  e.g. https://www.greenpeace.de/spenden/foerdermitglieder-service/haeufige-fragen-kontakt
-   link: https://www.greenpeace.de/jobs
-   link: https://www.greenpeace.de/jobs/greenfair-0
-## Greenpeace Deutschland  https://jobs.greenpeace.de/
-   final: https://jobs.greenpeace.de/  title: Jobs bei Greenpeace  error: None
-   recruitee: ['careers-analytics']
-   pattern: 18x jobs.greenpeace.de/o/[^/]+  e.g. https://jobs.greenpeace.de/o/fundraiser-wmd-bei-greenpeace
-   link: https://jobs.greenpeace.de/#content
-   link: https://jobs.greenpeace.de/
-   link: https://jobs.greenpeace.de/direkt-dialog
-   link: https://jobs.greenpeace.de/o/praktikum
-   link: https://jobs.greenpeace.de/#list-344859b8
-   link: https://jobs.greenpeace.de/mitarbeiten
-   link: https://jobs.greenpeace.de/o/fundraiser-wmd-bei-greenpeace
-   link: https://jobs.greenpeace.de/o/promoter-fundraiser-wmd-in-hamburg
-   link: https://jobs.greenpeace.de/o/promoter-fundraiser-wmd-in-berlin
-   link: https://jobs.greenpeace.de/o/fundraiser-promoter-wmd-in-frankfurt
-   link: https://jobs.greenpeace.de/o/promoter-fundraiser-wmd-in-kolnbonn
-   link: https://jobs.greenpeace.de/o/promoter-fundraiser-wmd-in-leipzig
-   link: https://www.greenpeace.de/jobs/praktika-foej
-   link: https://jobs.greenpeace.de/portraitmauriciovargas
-   link: https://jobs.greenpeace.de/portraitleonarddzahli
-   link: https://jobs.greenpeace.de/portraitangelapieske
-   link: https://jobs.greenpeace.de/portraitfawaddurrani
-   link: https://jobs.greenpeace.de/portraitunnolfharder
-   link: https://jobs.greenpeace.de/portraitlenamoritz-grk5p
 ## _API  
    final: None  title: None  error: None
-   api: ['workday unhcr/wd3/External: 200 total=11', 'workday wfp/wd3/job_openings: 200 total=110', 'workday amnesty/wd3/Amnesty_International: 422 total=', 'workday hrw/wd1/HRW: 422 total=', 'workday planinternational/wd3/Plan_International: 422 total=', 'slugs UNICEF: []', 'slugs UNDP: []', 'slugs UNHCR: []', 'slugs WFP: []', 'slugs WWF: []', 'slugs wwfde: []', 'slugs wwf-deutschland: []', 'slugs IFAW: []', 'slugs Welthungerhilfe: []', 'slugs Caritas: []', 'slugs caritas-international: []', 'slugs Diakonie: []', 'slugs Misereor: []', "slugs Kindernothilfe: ['personio:kindernothilfe (4 Stellen)']", 'slugs Amnesty: []', 'slugs amnestyde: []', "slugs Human Rights Watch: ['ashby:human (3 Stellen)', 'greenhouse:humanrightswatch (5 Stellen)']", 'slugs hrw: []', 'slugs GIZ: []', 'slugs KfW: []', 'slugs Brot fuer die Welt: []', 'slugs NABU: []', 'slugs Plan International: []', 'slugs plan: []', 'slugs tdh: []', 'slugs Terre des hommes: []', 'slugs Aktion gegen den Hunger: []', 'slugs aktiongegendenhunger: []', 'slugs FES: []', 'slugs Friedrich Ebert Stiftung: []', 'slugs KAS: []', "slugs Ashoka: ['lever:ashoka (1 Stellen)']", 'slugs Fairtrade: []', 'slugs fairtrade-deutschland: []', "slugs Greenpeace Deutschland: ['personio:greenpeace (4 Stellen)']", 'slugs greenpeace-de: []', "slugs greenpeaceev: ['recruitee:greenpeaceev (7 Stellen)']"]
+   api: ['slugs Brot fuer die Welt: []', 'slugs brotfuerdiewelt: []', 'slugs ewde: []', 'slugs Diakonie Katastrophenhilfe: []', 'slugs Plan: []', 'slugs plande: []', 'slugs plan-deutschland: []', 'slugs Aktion gegen den Hunger: []', 'slugs actionagainsthunger: []', 'slugs FES: []', 'slugs fes: []', 'slugs Fairtrade: []', 'slugs fairtradedeutschland: []', 'slugs Fairtrade Deutschland: []', 'slugs transfair: []', 'slugs giz: []', 'slugs kfw: []', 'slugs welthungerhilfe: []', 'slugs kas: []']
