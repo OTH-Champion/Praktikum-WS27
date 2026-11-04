@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-04T08:18+00:00",
+ "aktualisiert": "2026-11-04T08:56+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -39,7 +39,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 35
+   "stellen": 34
   },
   {
    "name": "Munich Re",
@@ -100,8 +100,8 @@
   {
    "name": "Deutsche Telekom",
    "career_url": "https://careers.telekom.com/de/jobs",
-   "ok": true,
-   "note": "",
+   "ok": false,
+   "note": "Keine Stellen gefunden (Seite oder Schnittstelle evtl. geändert)",
    "aktiv": true,
    "stellen": 0
   },
@@ -204,8 +204,8 @@
   {
    "name": "Knorr-Bremse",
    "career_url": "https://www.knorr-bremse.com/en/careers/",
-   "ok": false,
-   "note": "Fehler: ConnectTimeout",
+   "ok": true,
+   "note": "",
    "aktiv": true,
    "stellen": 4
   },
@@ -895,7 +895,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 62
+   "stellen": 64
   },
   {
    "name": "Hilton",
@@ -956,8 +956,8 @@
   {
    "name": "Hans im Glück",
    "career_url": "https://hansimglueck-burgergrill.de/jobs/",
-   "ok": false,
-   "note": "Keine Stellen gefunden (Seite oder Schnittstelle evtl. geändert)",
+   "ok": true,
+   "note": "",
    "aktiv": true,
    "stellen": 0
   },
@@ -1012,8 +1012,8 @@
   {
    "name": "Chelsea FC",
    "career_url": "https://www.chelseafc.com/en/careers",
-   "ok": false,
-   "note": "Keine Stellen gefunden (Seite oder Schnittstelle evtl. geändert)",
+   "ok": true,
+   "note": "",
    "aktiv": true,
    "stellen": 0
   },
@@ -1035,6 +1035,27 @@
   }
  ],
  "stellen": [
+  {
+   "titel": "Intern, Data Analytics, Dispersions & Resins",
+   "firma": "BASF",
+   "orte": [
+    {
+     "land": "HK",
+     "stadt": "Hongkong"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Präsenz",
+   "start": "November 2026",
+   "start_monat": "2026-11",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://basf.jobs/job/Intern%2C-Data-Analytics%2C-Dispersions-&-Resins/145432-en_US/"
+  },
   {
    "titel": "Intern, IT Supply Chain",
    "firma": "BASF",
@@ -1076,6 +1097,27 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://basf.jobs/job/Intern%2C-Supply-Chain-Management/145315-en_US/"
+  },
+  {
+   "titel": "Intern Global HR Reporting & Campaign Support (m/f/d)",
+   "firma": "BASF",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "4–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://basf.jobs/job/Intern-Global-HR-Reporting-&-Campaign-Support-%28mfd%29/145178-en_US/"
   },
   {
    "titel": "Internship Business Reporting (m/f/d) - Hybrid Option GER",
@@ -1141,6 +1183,48 @@
    "link": "https://basf.jobs/job/Internship-Management-Consulting-Data-ScienceData-Analytics-%28mfd%29/145868-en_US/"
   },
   {
+   "titel": "Internship Marketing & Sales - Global Training Projects & Digital Learning (m/f/d)",
+   "firma": "BASF",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Ludwigshafen am Rhein"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://basf.jobs/job/Internship-Marketing-&-Sales-Global-Training-Projects-&-Digital-Learning-%28mfd%29/145368-en_US/"
+  },
+  {
+   "titel": "Internship Risk Management & Internal Controls (m/f/d)",
+   "firma": "BASF",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Limburgerhof"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Präsenz",
+   "start": "Mai 2027",
+   "start_monat": "2027-05",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://basf.jobs/job/Internship-Risk-Management-&-Internal-Controls-%28mfd%29/144456-en_US/"
+  },
+  {
    "titel": "Praktikum Change Communications (m/w/d)",
    "firma": "BASF",
    "orte": [
@@ -1183,6 +1267,27 @@
    "link": "https://basf.jobs/job/Praktikum-Vocational-Training-%28mwd%29/144098-en_US/"
   },
   {
+   "titel": "HR Mobility Intern",
+   "firma": "EY",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": true,
+   "link": "https://careers.ey.com/ey/job/Luxembourg-HR-Mobility-Intern-L-1855/1444849033/"
+  },
+  {
    "titel": "PR & Events Intern",
    "firma": "Hyundai",
    "orte": [
@@ -1208,8 +1313,8 @@
    "firma": "Mercedes-Benz",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -1225,33 +1330,12 @@
    "link": "https://jobs.mercedes-benz.com/praktikant-in-distribution-commercial-operations-pflicht-praktikum--245155-MER0004A52"
   },
   {
-   "titel": "Praktikant*in Strategische Projektleitung & Produktsteuerung VAN (Pflicht- oder Kombipraktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projektleitung-produktsteuerung-van-pflicht--oder-kombipraktikum--245142-MER0004A4C"
-  },
-  {
    "titel": "Praktikant*in Employee Engagement & Corporate Communications (Pflicht-Praktikum)",
    "firma": "Mercedes-Benz",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -1267,12 +1351,33 @@
    "link": "https://jobs.mercedes-benz.com/praktikant-in-employee-engagement-corporate-communications-pflicht-praktikum--245163-MER0004A47"
   },
   {
+   "titel": "Praktikant*in Strategische Projektleitung & Produktsteuerung VAN (Pflicht- oder Kombipraktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-strategische-projektleitung-produktsteuerung-van-pflicht--oder-kombipraktikum--245142-MER0004A4C"
+  },
+  {
    "titel": "Praktikant*in Vertriebskommunikation und Vorstandsassistenz (Pflicht- oder Kombipraktikum)",
    "firma": "Mercedes-Benz",
    "orte": [
     {
-     "stadt": "Stuttgart",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Stuttgart"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -1292,8 +1397,8 @@
    "firma": "SAP",
    "orte": [
     {
-     "stadt": "Buenos Aires",
-     "land": "AR"
+     "land": "AR",
+     "stadt": "Buenos Aires"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -1309,117 +1414,33 @@
    "link": "https://jobs.sap.com/en/jobs/744000159538240/sap-intern-intelligent-contracting-automation"
   },
   {
-   "titel": "Internship Risk Management & Internal Controls (m/f/d)",
-   "firma": "BASF",
+   "titel": "Learn more about Financial Analyst BS/MS Intern, 2027",
+   "firma": "Google",
    "orte": [
     {
-     "stadt": "Limburgerhof",
-     "land": "DE"
+     "land": "IE",
+     "stadt": "Dublin"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Präsenz",
-   "start": "Mai 2027",
-   "start_monat": "2027-05",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://basf.jobs/job/Internship-Risk-Management-&-Internal-Controls-%28mfd%29/144456-en_US/"
-  },
-  {
-   "titel": "Intern Global HR Reporting & Campaign Support (m/f/d)",
-   "firma": "BASF",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "4–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://basf.jobs/job/Intern-Global-HR-Reporting-&-Campaign-Support-%28mfd%29/145178-en_US/"
-  },
-  {
-   "titel": "Intern, Data Analytics, Dispersions & Resins",
-   "firma": "BASF",
-   "orte": [
-    {
-     "stadt": "Hongkong",
-     "land": "HK"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Präsenz",
-   "start": "November 2026",
-   "start_monat": "2026-11",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://basf.jobs/job/Intern%2C-Data-Analytics%2C-Dispersions-&-Resins/145432-en_US/"
-  },
-  {
-   "titel": "Internship Marketing & Sales - Global Training Projects & Digital Learning (m/f/d)",
-   "firma": "BASF",
-   "orte": [
-    {
-     "stadt": "Ludwigshafen am Rhein",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://basf.jobs/job/Internship-Marketing-&-Sales-Global-Training-Projects-&-Digital-Learning-%28mfd%29/145368-en_US/"
-  },
-  {
-   "titel": "HR Mobility Intern",
-   "firma": "EY",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
    "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "13 Wochen",
+   "dauer_wochen": 13.0,
+   "stunden": "Vollzeit",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
-   "link": "https://careers.ey.com/ey/job/Luxembourg-HR-Mobility-Intern-L-1855/1444849033/"
+   "link": "https://www.google.com/about/careers/applications/jobs/results/100315940037501638-financial-analyst-bsms-intern-2027?q=intern&page=2"
   },
   {
    "titel": "Learn more about Business Program Manager MBA Intern, 2027",
    "firma": "Google",
    "orte": [
     {
-     "stadt": "London",
-     "land": "GB"
+     "land": "GB",
+     "stadt": "London"
     }
    ],
    "fachbereich": "Projektmanagement",
@@ -1439,16 +1460,16 @@
    "firma": "Google",
    "orte": [
     {
-     "stadt": "Associate Product Marketing Manager BS/MS Intern",
-     "land": "IE"
+     "land": "IE",
+     "stadt": "Associate Product Marketing Manager BS/MS Intern"
     },
     {
-     "stadt": "Hamburg",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Hamburg"
     },
     {
-     "stadt": "Dublin",
-     "land": "IE"
+     "land": "IE",
+     "stadt": "Dublin"
     }
    ],
    "fachbereich": "Produktmanagement",
@@ -1464,25 +1485,25 @@
    "link": "https://www.google.com/about/careers/applications/jobs/results/123907061523063494-associate-product-marketing-manager-bsms-intern-2027?q=intern"
   },
   {
-   "titel": "Learn more about Financial Analyst BS/MS Intern, 2027",
-   "firma": "Google",
+   "titel": "Marketing Intern - Excelsior Hotel Gallia",
+   "firma": "Marriott International",
    "orte": [
     {
-     "stadt": "Dublin",
-     "land": "IE"
+     "stadt": "Mailand",
+     "land": "IT"
     }
    ],
-   "fachbereich": "Finanzen & Controlling",
+   "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "13 Wochen",
-   "dauer_wochen": 13.0,
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
    "stunden": "Vollzeit",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": true,
-   "link": "https://www.google.com/about/careers/applications/jobs/results/100315940037501638-financial-analyst-bsms-intern-2027?q=intern&page=2"
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120546"
   },
   {
    "titel": "Becario/a de Operaciones Logísticas Internacionales",
@@ -3564,6 +3585,27 @@
    "link": "https://careers.ing.com/en/job/singapore/intern-financial-markets-client-solutions-group-csg/3121/46577324416"
   },
   {
+   "titel": "Human Resources Internship - W Barcelona",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "Dezember 2026",
+   "start_monat": "2026-12",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26144324"
+  },
+  {
    "titel": "Internship - AI, Digitalization & Software Development in Product Marketing (f/m/div)",
    "firma": "Infineon",
    "orte": [
@@ -4601,27 +4643,6 @@
    "link": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027?q=intern"
   },
   {
-   "titel": "Human Resources Internship - W Barcelona",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Dezember 2026",
-   "start_monat": "2026-12",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26144324"
-  },
-  {
    "titel": "Sustainable Finance Summer Internship Programme 2027 London",
    "firma": "Barclays",
    "orte": [
@@ -4979,6 +5000,48 @@
    "link": "https://careers.dhl.com/global/en/job/AV-389723/PRAKTIKANT-M-W-D-STRATEGISCHES-BETRIEBS-IT-INVESTITIONSCONTROLLING"
   },
   {
+   "titel": "Hotel Management (operations) - Internship",
+   "firma": "Hilton",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-02",
+   "datum_geschaetzt": false,
+   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/229774"
+  },
+  {
+   "titel": "Finance Intern (unpaid)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "AU",
+     "stadt": "Sydney"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-02",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26143121"
+  },
+  {
    "titel": "Internship - IT Business Analyst (B2B)",
    "firma": "Infineon",
    "orte": [
@@ -5166,6 +5229,27 @@
    "veroeffentlicht": "2026-11-02",
    "datum_geschaetzt": false,
    "link": "https://jobs.sap.com/en/jobs/744000159201239/integrated-communications-intern-asia-pacific"
+  },
+  {
+   "titel": "Brand Content Assistant — Emailing Intern",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-02",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000159149858"
   },
   {
    "titel": "Pflichtpraktikum im Bereich Logistik",
@@ -5588,69 +5672,6 @@
    "link": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Sustainable-Business-and-Communications_R-1189141"
   },
   {
-   "titel": "Finance Intern (unpaid)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Sydney",
-     "land": "AU"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-02",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26143121"
-  },
-  {
-   "titel": "Hotel Management (operations) - Internship",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-02",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/229774"
-  },
-  {
-   "titel": "Brand Content Assistant — Emailing Intern",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-02",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000159149858"
-  },
-  {
    "titel": "Cambridge Internship Program Azure Research, Security and Privacy",
    "firma": "Microsoft",
    "orte": [
@@ -5817,6 +5838,27 @@
    "veroeffentlicht": "2026-10-30",
    "datum_geschaetzt": false,
    "link": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-transaction-service-sales-wholesale-banking-w-m-d/3121/43201372352"
+  },
+  {
+   "titel": "Intern, Procurement",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26142264"
   },
   {
    "titel": "Praktikant*in Global Creative Hub & Governance (Pflicht-Praktikum)",
@@ -6174,27 +6216,6 @@
    "veroeffentlicht": "2026-10-30",
    "datum_geschaetzt": false,
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Vilnius/Supply-Chain-Intern_202607-119461-1"
-  },
-  {
-   "titel": "Intern, Procurement",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26142264"
   },
   {
    "titel": "Intern, Claims",
@@ -7149,6 +7170,27 @@
    "link": "https://jobs.sap.com/en/jobs/744000158292024/sales-corporate-digital-intern"
   },
   {
+   "titel": "Customer Experience Agent intern",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000158256029"
+  },
+  {
    "titel": "Praktikum - Projektmanagement / Value Management (ReDTC)",
    "firma": "Aumovio",
    "orte": [
@@ -7462,27 +7504,6 @@
    "veroeffentlicht": "2026-10-28",
    "datum_geschaetzt": false,
    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/Business-Development-Associate_JR249467-1"
-  },
-  {
-   "titel": "Customer Experience Agent intern",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-28",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000158256029"
   },
   {
    "titel": "[Internship] Market Analysis & Forecasting (F/M)",
@@ -9207,6 +9228,153 @@
    "link": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-global-capital-markets-w-m-d/3121/25999549248"
   },
   {
+   "titel": "Leadership & Talent Development Internship",
+   "firma": "Hilton",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "Amsterdam"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "10–12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228480"
+  },
+  {
+   "titel": "Intern Income Auditor",
+   "firma": "Hilton",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "Paris"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228497"
+  },
+  {
+   "titel": "Strategic Data Analysis Internship",
+   "firma": "Hilton",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "Amsterdam"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "10–12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228508"
+  },
+  {
+   "titel": "Intern Sales Coordinator",
+   "firma": "Hilton",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "Paris"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228509"
+  },
+  {
+   "titel": "Intern Group, Conference and Events Sales Agent",
+   "firma": "Hilton",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "Paris"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228514"
+  },
+  {
+   "titel": "Intern Reservations Agent",
+   "firma": "Hilton",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "Paris"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228517"
+  },
+  {
+   "titel": "Intern, Operations - The Singapore EDITION",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26138053"
+  },
+  {
    "titel": "Praktikant*in Customer Services Marktmanagement (Pflicht-Praktikum)",
    "firma": "Mercedes-Benz",
    "orte": [
@@ -9627,153 +9795,6 @@
    "link": "https://traderepublic.com/en-de/about?jobId=8041296003&gh_jid=8041296003"
   },
   {
-   "titel": "Intern, Operations - The Singapore EDITION",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26138053"
-  },
-  {
-   "titel": "Strategic Data Analysis Internship",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "stadt": "Amsterdam",
-     "land": "NL"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "10–12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228508"
-  },
-  {
-   "titel": "Leadership & Talent Development Internship",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "stadt": "Amsterdam",
-     "land": "NL"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "10–12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228480"
-  },
-  {
-   "titel": "Intern Reservations Agent",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "stadt": "Paris",
-     "land": "FR"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228517"
-  },
-  {
-   "titel": "Intern Income Auditor",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "stadt": "Paris",
-     "land": "FR"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228497"
-  },
-  {
-   "titel": "Intern Sales Coordinator",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "stadt": "Paris",
-     "land": "FR"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228509"
-  },
-  {
-   "titel": "Intern Group, Conference and Events Sales Agent",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "stadt": "Paris",
-     "land": "FR"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-22",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228514"
-  },
-  {
    "titel": "INTERNSHIP - ASSISTANT DIGITAL MARKETING PROJECT MANAGER (W/M)",
    "firma": "Allianz",
    "orte": [
@@ -9814,6 +9835,90 @@
    "veroeffentlicht": "2026-10-21",
    "datum_geschaetzt": false,
    "link": "https://careers.ing.com/en/job/luxembourg/internship-hr-communication-and-intranet/3121/46201154432"
+  },
+  {
+   "titel": "Cluster Reservations Internship (February 2027)",
+   "firma": "Hilton",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "Amsterdam"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228227"
+  },
+  {
+   "titel": "Groups Conferences & Events Intern - Renaissance Brussels Hotel",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "BE",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26137539"
+  },
+  {
+   "titel": "University Intern-Human Resources",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "AU",
+     "stadt": "Melbourne"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26138034"
+  },
+  {
+   "titel": "University Intern-Finance",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "AU",
+     "stadt": "Melbourne"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26138035"
   },
   {
    "titel": "Internship - Procurement (f/m/div)",
@@ -9965,6 +10070,48 @@
    "veroeffentlicht": "2026-10-21",
    "datum_geschaetzt": false,
    "link": "https://jobs.pwc.de/de/de/job/2572/Praktikum-Sports-Business-Advisory-w-m-d"
+  },
+  {
+   "titel": "Sales Assistant intern (LH)",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000156778792"
+  },
+  {
+   "titel": "Marketing Internship",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000156821140"
   },
   {
    "titel": "Innovation & Emerging Technology Intern [IDA: 00074]",
@@ -10219,132 +10366,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Marketing-Intern_202610-126893"
   },
   {
-   "titel": "University Intern-Finance",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Melbourne",
-     "land": "AU"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26138035"
-  },
-  {
-   "titel": "University Intern-Human Resources",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Melbourne",
-     "land": "AU"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26138034"
-  },
-  {
-   "titel": "Groups Conferences & Events Intern - Renaissance Brussels Hotel",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "BE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26137539"
-  },
-  {
-   "titel": "Cluster Reservations Internship (February 2027)",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "stadt": "Amsterdam",
-     "land": "NL"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/228227"
-  },
-  {
-   "titel": "Marketing Internship",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000156821140"
-  },
-  {
-   "titel": "Sales Assistant intern (LH)",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000156778792"
-  },
-  {
    "titel": "Becario/a de Ingeniería y Transformación Digital",
    "firma": "Renault",
    "orte": [
@@ -10518,6 +10539,27 @@
    "veroeffentlicht": "2026-10-20",
    "datum_geschaetzt": false,
    "link": "https://jobs.mercedes-benz.com/praktikant-in-marketing-management-sprinter-pflicht-praktikum--243187-MER00049FP"
+  },
+  {
+   "titel": "Purchasing Intern",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "November 2026",
+   "start_monat": "2026-11",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000156514910"
   },
   {
    "titel": "Praktikum - Supply Chain Management",
@@ -10919,27 +10961,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship--Digital---OE-Support-for-Performance-Excellence-Delivery--6-Months-_202610-126546"
   },
   {
-   "titel": "Purchasing Intern",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "November 2026",
-   "start_monat": "2026-11",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000156514910"
-  },
-  {
    "titel": "Becario/a de Gestión de Proyectos de Automoción e Industrialización",
    "firma": "Renault",
    "orte": [
@@ -11150,6 +11171,27 @@
    "link": "https://jobs.mercedes-benz.com/praktikant-in-transportplanung-netzwerksteuerung-inbound-242946-MER00049IT"
   },
   {
+   "titel": "Prácticas Recursos Humanos - SO/ Sotogrande",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Sotogrande"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000156285035"
+  },
+  {
    "titel": "Pflichtpraktikum in der Personalabteilung (m/w/div.)",
    "firma": "Bosch",
    "orte": [
@@ -11295,27 +11337,6 @@
    "veroeffentlicht": "2026-10-19",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/RedBull/744000156253469"
-  },
-  {
-   "titel": "Prácticas Recursos Humanos - SO/ Sotogrande",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Sotogrande",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-19",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000156285035"
   },
   {
    "titel": "Praktikant im Bereich Corporate M&A (m/w/d)",
@@ -12360,6 +12381,48 @@
    "link": "https://jobs.sap.com/en/jobs/744000155754760/communications-associate-sap-uk-intern-13-month-placement"
   },
   {
+   "titel": "Internship: People & Culture - The Hoxton, Lloyd",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "Amsterdam"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000155688737"
+  },
+  {
+   "titel": "Prácticas Profesionales / Internship Oportunities - SO/ Sotogrande",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Sotogrande"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-15",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000155795719"
+  },
+  {
    "titel": "Pflichtpraktikum im Technischen Vertrieb",
    "firma": "Bosch",
    "orte": [
@@ -12612,54 +12675,12 @@
    "link": "https://jobs.smartrecruiters.com/ScalableGmbH/744000155754649"
   },
   {
-   "titel": "Prácticas Profesionales / Internship Oportunities - SO/ Sotogrande",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Sotogrande",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000155795719"
-  },
-  {
-   "titel": "Internship: People & Culture - The Hoxton, Lloyd",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Amsterdam",
-     "land": "NL"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-15",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000155688737"
-  },
-  {
    "titel": "People & Culture Insights Intern 2027",
    "firma": "Greenpeace International",
    "orte": [
     {
-     "stadt": "Amsterdam",
-     "land": "NL"
+     "land": "NL",
+     "stadt": "Amsterdam"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -13158,6 +13179,69 @@
    "link": "https://careers.axa.com/careers-home/jobs/29059?lang=en-us&previousLocale=en-US"
   },
   {
+   "titel": "Finance Intern",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "AU",
+     "stadt": "Brisbane"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26133011"
+  },
+  {
+   "titel": "Human Resources Intern",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "AU",
+     "stadt": "Brisbane"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26133020"
+  },
+  {
+   "titel": "Stagiaire Finance",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "CH",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26133249"
+  },
+  {
    "titel": "Praktikant*in Digitalisierung und Bereichscontrolling Batterie & Motor Powertrain Mercedes-Benz Cars (Pflicht-Praktikum)",
    "firma": "Mercedes-Benz",
    "orte": [
@@ -13345,6 +13429,48 @@
    "veroeffentlicht": "2026-10-13",
    "datum_geschaetzt": false,
    "link": "https://jobs.sap.com/en/jobs/744000155236009/sap-ixp-intern-solution-support-engineer-customer-data-solutions"
+  },
+  {
+   "titel": "Groups, Sales and Events Intern",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "BE",
+     "stadt": "Brüssel"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000155217285"
+  },
+  {
+   "titel": "Food & Beverage: Operations & Administrative Intern",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000155256955"
   },
   {
    "titel": "Praktikum im Bereich Human Relations",
@@ -13620,111 +13746,6 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155311419"
   },
   {
-   "titel": "Finance Intern",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Brisbane",
-     "land": "AU"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26133011"
-  },
-  {
-   "titel": "Human Resources Intern",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Brisbane",
-     "land": "AU"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26133020"
-  },
-  {
-   "titel": "Stagiaire Finance",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "CH"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26133249"
-  },
-  {
-   "titel": "Food & Beverage: Operations & Administrative Intern",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000155256955"
-  },
-  {
-   "titel": "Groups, Sales and Events Intern",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Brüssel",
-     "land": "BE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000155217285"
-  },
-  {
    "titel": "Finance Intern, Singapore (Jan 2027)",
    "firma": "Allianz",
    "orte": [
@@ -13828,6 +13849,69 @@
    "veroeffentlicht": "2026-10-12",
    "datum_geschaetzt": false,
    "link": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Praktikum-Corporate-Strategy-%28mwd%29-80809/1224448601/"
+  },
+  {
+   "titel": "Human Resources Recruitment Administrator Intern",
+   "firma": "Hilton",
+   "orte": [
+    {
+     "land": "MT",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/226738"
+  },
+  {
+   "titel": "Human Resources Intern",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "AU",
+     "stadt": "Melbourne"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26132393"
+  },
+  {
+   "titel": "Human Resources Intern (The Westin Dragonara Resort)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "MT",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-10-12",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26132701"
   },
   {
    "titel": "Internship - Project Management Support (f/m/div)",
@@ -14164,69 +14248,6 @@
    "veroeffentlicht": "2026-10-12",
    "datum_geschaetzt": false,
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Grenzach/Praktikum-im-Bereich-Insights---Analytics--m-w-d-_202609-124618-3"
-  },
-  {
-   "titel": "Human Resources Intern",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Melbourne",
-     "land": "AU"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26132393"
-  },
-  {
-   "titel": "Human Resources Intern (The Westin Dragonara Resort)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "MT"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26132701"
-  },
-  {
-   "titel": "Human Resources Recruitment Administrator Intern",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "MT"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-12",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/226738"
   },
   {
    "titel": "Praktikum HR IT & Prozesse (w/m/d)",
@@ -14678,6 +14699,77 @@
    "link": "https://careers.ing.com/en/job/luxembourg/internship-financial-controller/3121/45697254464"
   },
   {
+   "titel": "Brand Creative Internship – Design Hotels",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/25167603"
+  },
+  {
+   "titel": "Internship Digital Marketing - Design Hotels",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26010592"
+  },
+  {
+   "titel": "Asia Pacific excluding China - Hotel Internship Program 2027",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    },
+    {
+     "land": "AU",
+     "stadt": "k. A."
+    },
+    {
+     "land": "NZ",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-08",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26114849"
+  },
+  {
    "titel": "Praktikant*in Beteiligungscontrolling (Pflicht-Praktikum)",
    "firma": "Mercedes-Benz",
    "orte": [
@@ -15014,77 +15106,6 @@
    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colombia---Bogota/LATAM-Internship-Program---Scale-Program-LATAM-Intern--Colombia-_JR361231-1"
   },
   {
-   "titel": "Internship Digital Marketing - Design Hotels",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26010592"
-  },
-  {
-   "titel": "Brand Creative Internship – Design Hotels",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/25167603"
-  },
-  {
-   "titel": "Asia Pacific excluding China - Hotel Internship Program 2027",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    },
-    {
-     "stadt": "k. A.",
-     "land": "AU"
-    },
-    {
-     "stadt": "k. A.",
-     "land": "NZ"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-08",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26114849"
-  },
-  {
    "titel": "Group Financial Controller Internship",
    "firma": "AXA",
    "orte": [
@@ -15125,6 +15146,27 @@
    "veroeffentlicht": "2026-10-07",
    "datum_geschaetzt": false,
    "link": "https://careers.ing.com/en/job/brussels/internship-transaction-services-sales/3121/45665873920"
+  },
+  {
+   "titel": "Sales & Event Intern - Renaissance Brussels Hotel",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "BE",
+     "stadt": "Brüssel"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-07",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26130357"
   },
   {
    "titel": "Intern Performance Management Global Logistics, Digital Process Management & Solutions",
@@ -15190,27 +15232,6 @@
    "link": "https://jobs.mercedes-benz.com/praktikant-in-steuerung-ausstattung-c--glc--und-cle--klasse-241335-MER000491Q"
   },
   {
-   "titel": "Internship – Quality Engineer and Consultant for SAP Build Process Automation F/M",
-   "firma": "SAP",
-   "orte": [
-    {
-     "land": "FR",
-     "stadt": "Levallois-Perret"
-    }
-   ],
-   "fachbereich": "Beratung (Consulting)",
-   "arbeitsmodell": "Hybrid",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.sap.com/en/jobs/744000154062390/internship-quality-engineer-and-consultant-for-sap-build-process-automation-fm"
-  },
-  {
    "titel": "Field Compliance Officer Intern",
    "firma": "SAP",
    "orte": [
@@ -15230,6 +15251,90 @@
    "veroeffentlicht": "2026-10-07",
    "datum_geschaetzt": false,
    "link": "https://jobs.sap.com/en/jobs/744000154121941/field-compliance-officer-intern"
+  },
+  {
+   "titel": "People & Culture Internship",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Eivissa"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-07",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000154066681"
+  },
+  {
+   "titel": "Finance Internship",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Eivissa"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-07",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000154066790"
+  },
+  {
+   "titel": "Sales&Marketing Internship",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Eivissa"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-07",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000154067523"
+  },
+  {
+   "titel": "Revenue Internship",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Eivissa"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-07",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000154068089"
   },
   {
    "titel": "Intern, Supply Chain Project Assistant",
@@ -15421,111 +15526,6 @@
    "link": "https://traderepublic.com/en-de/about?jobId=8015727003&gh_jid=8015727003"
   },
   {
-   "titel": "Sales & Event Intern - Renaissance Brussels Hotel",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Brüssel",
-     "land": "BE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26130357"
-  },
-  {
-   "titel": "Finance Internship",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Eivissa",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000154066790"
-  },
-  {
-   "titel": "Sales&Marketing Internship",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Eivissa",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000154067523"
-  },
-  {
-   "titel": "People & Culture Internship",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Eivissa",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000154066681"
-  },
-  {
-   "titel": "Revenue Internship",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Eivissa",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000154068089"
-  },
-  {
    "titel": "PRAKTIKANT (M/W/X) IM INNOVATION ENGAGEMENT MANAGEMENT",
    "firma": "DHL",
    "orte": [
@@ -15566,6 +15566,48 @@
    "veroeffentlicht": "2026-10-06",
    "datum_geschaetzt": false,
    "link": "https://careers.ing.com/en/job/singapore/intern-financial-markets-business-management/3121/45609017984"
+  },
+  {
+   "titel": "Sales Praktikum (m/w/d)",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-06",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000153671709"
+  },
+  {
+   "titel": "Prácticas Finanzas y Contabilidad - SO/ Sotogrande",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Sotogrande"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-06",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000153815522"
   },
   {
    "titel": "Praktikum Beschaffungslogistik",
@@ -15692,48 +15734,6 @@
    "veroeffentlicht": "2026-10-06",
    "datum_geschaetzt": false,
    "link": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Singapore/Content-Creator-Intern_0000038778"
-  },
-  {
-   "titel": "Sales Praktikum (m/w/d)",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-06",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000153671709"
-  },
-  {
-   "titel": "Prácticas Finanzas y Contabilidad - SO/ Sotogrande",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Sotogrande",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-06",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000153815522"
   },
   {
    "titel": "Intern Trade Sales Account Management",
@@ -16815,6 +16815,111 @@
    "link": "https://careers.axa.com/careers-home/jobs/19553?lang=en-us&previousLocale=en-US"
   },
   {
+   "titel": "Distribution Technology Internship - Design Hotels",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-02",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036132"
+  },
+  {
+   "titel": "Social Media & Community Management Internship - Design Hotels",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-02",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036144"
+  },
+  {
+   "titel": "Communications Internship - Design Hotels",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-02",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036152"
+  },
+  {
+   "titel": "Global Reservations Internship - Design Hotels",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-02",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036160"
+  },
+  {
+   "titel": "Public Relations Internship - Design Hotels",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-02",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26038685"
+  },
+  {
    "titel": "Praktikum Change Management, Prozess- und Projektmanagement - Center of Change (w/m/d)",
    "firma": "KPMG",
    "orte": [
@@ -16899,7 +17004,7 @@
    "link": "https://jobs.smartrecruiters.com/Continental/744000153151129"
   },
   {
-   "titel": "Communications Internship - Design Hotels",
+   "titel": "Commercial Strategy Internship - Design Hotels",
    "firma": "Marriott International",
    "orte": [
     {
@@ -16907,7 +17012,7 @@
      "land": "DE"
     }
    ],
-   "fachbereich": "Marketing & Kommunikation",
+   "fachbereich": "Business Development & Strategie",
    "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
@@ -16917,91 +17022,7 @@
    "stunden_num": null,
    "veroeffentlicht": "2026-10-02",
    "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036152"
-  },
-  {
-   "titel": "Global Reservations Internship - Design Hotels",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-02",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036160"
-  },
-  {
-   "titel": "Public Relations Internship - Design Hotels",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-02",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26038685"
-  },
-  {
-   "titel": "Distribution Technology Internship - Design Hotels",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-02",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036132"
-  },
-  {
-   "titel": "Social Media & Community Management Internship - Design Hotels",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-02",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036144"
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036167"
   },
   {
    "titel": "Internship – Project Office (Digitalization & Low-Code Automation)",
@@ -17044,6 +17065,27 @@
    "veroeffentlicht": "2026-10-01",
    "datum_geschaetzt": false,
    "link": "https://jobs.infineon.com/careers/job/563808972110914"
+  },
+  {
+   "titel": "Events & Banquet Coordinator (Internship)",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "BE",
+     "stadt": "Brüssel"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "4–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-01",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000152953950"
   },
   {
    "titel": "Praktikum Technischer Einkauf",
@@ -17128,27 +17170,6 @@
    "veroeffentlicht": "2026-10-01",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152931867"
-  },
-  {
-   "titel": "Events & Banquet Coordinator (Internship)",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Brüssel",
-     "land": "BE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "4–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-01",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000152953950"
   },
   {
    "titel": "Intern Social Media",
@@ -17918,6 +17939,90 @@
    "link": "https://careers.ing.com/en/job/singapore/intern-trade-finance-product-management/3121/45174747072"
   },
   {
+   "titel": "Hilton Hospitality Operations Internships 2027 – Front Office, F&D, Kitchen & Housekeeping",
+   "firma": "Hilton",
+   "orte": [
+    {
+     "land": "AT",
+     "stadt": "Wien"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-25",
+   "datum_geschaetzt": false,
+   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/224891"
+  },
+  {
+   "titel": "Intern, Talent Acquisition (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-25",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092879"
+  },
+  {
+   "titel": "Operations Intern",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-25",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26124109"
+  },
+  {
+   "titel": "Reservations Department Internship",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-25",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000151824760"
+  },
+  {
    "titel": "Praktikum im Bereich Sales Performance Management",
    "firma": "Bosch",
    "orte": [
@@ -17960,88 +18065,25 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151836935"
   },
   {
-   "titel": "Operations Intern",
+   "titel": "Human Resources Intern / Pflichtpraktikum (m/w/d)",
    "firma": "Marriott International",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-25",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26124109"
-  },
-  {
-   "titel": "Intern, Talent Acquisition (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "DE",
+     "stadt": "Berlin"
     }
    ],
    "fachbereich": "Personal (HR)",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
+   "dauer": "9 Monate",
+   "dauer_wochen": 39.1,
    "stunden": "Vollzeit",
    "stunden_num": null,
-   "veroeffentlicht": "2026-09-25",
+   "veroeffentlicht": "2026-09-24",
    "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092879"
-  },
-  {
-   "titel": "Hilton Hospitality Operations Internships 2027 – Front Office, F&D, Kitchen & Housekeeping",
-   "firma": "Hilton",
-   "orte": [
-    {
-     "stadt": "Wien",
-     "land": "AT"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-25",
-   "datum_geschaetzt": false,
-   "link": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/224891"
-  },
-  {
-   "titel": "Reservations Department Internship",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-25",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000151824760"
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26123760"
   },
   {
    "titel": "Internship - IT Business Analyst (Human Resources)",
@@ -18174,27 +18216,6 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151563196"
   },
   {
-   "titel": "Human Resources Intern / Pflichtpraktikum (m/w/d)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "9 Monate",
-   "dauer_wochen": 39.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-24",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26123760"
-  },
-  {
    "titel": "Intern Strategy & Executive Support - AI Factory (m/f/d)",
    "firma": "Allianz",
    "orte": [
@@ -18214,6 +18235,27 @@
    "veroeffentlicht": "2026-09-23",
    "datum_geschaetzt": false,
    "link": "https://careers.allianz.com/global/en/job/106532/Intern-Strategy-Executive-Support-AI-Factory-m-f-d"
+  },
+  {
+   "titel": "Accounting Intern (m/w/d)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-23",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26123376"
   },
   {
    "titel": "Internship - Data Analysis & Reporting",
@@ -18319,27 +18361,6 @@
    "veroeffentlicht": "2026-09-23",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151378729"
-  },
-  {
-   "titel": "Accounting Intern (m/w/d)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-23",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26123376"
   },
   {
    "titel": "Human Resources Intern (6-12 months)",
@@ -18572,6 +18593,48 @@
    "link": "https://jobs.kpmg.de/job-invite/376/?locale=de_DE"
   },
   {
+   "titel": "Lobby Operations Intern",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000150989101"
+  },
+  {
+   "titel": "Raffles Butler Intern",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-22",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000150991164"
+  },
+  {
    "titel": "Praktikum - Business Development und Marketing",
    "firma": "Aumovio",
    "orte": [
@@ -18677,48 +18740,6 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150988719"
   },
   {
-   "titel": "Raffles Butler Intern",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000150991164"
-  },
-  {
-   "titel": "Lobby Operations Intern",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-22",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000150989101"
-  },
-  {
    "titel": "Commercial Intern (6-12 months)",
    "firma": "Allianz",
    "orte": [
@@ -18738,6 +18759,48 @@
    "veroeffentlicht": "2026-09-21",
    "datum_geschaetzt": false,
    "link": "https://careers.allianz.com/global/en/job/106523/Commercial-Intern-6-12-months"
+  },
+  {
+   "titel": "Intern, Financial Operations – Singapore & Maldives",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-21",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26113625"
+  },
+  {
+   "titel": "International Interns - Finance",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "JP",
+     "stadt": "Tokio"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-21",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26121611"
   },
   {
    "titel": "Marketing Intern",
@@ -18782,48 +18845,6 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150746369"
   },
   {
-   "titel": "International Interns - Finance",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Tokio",
-     "land": "JP"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-21",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26121611"
-  },
-  {
-   "titel": "Intern, Financial Operations – Singapore & Maldives",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-21",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26113625"
-  },
-  {
    "titel": "Internal IT Services Intern (m/f/d)",
    "firma": "Allianz",
    "orte": [
@@ -18866,6 +18887,48 @@
    "link": "https://careers.axa.com/careers-home/jobs/27688?lang=en-us&previousLocale=en-US"
   },
   {
+   "titel": "Intern, Legal",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "4 Monate",
+   "dauer_wochen": 17.4,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-18",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120781"
+  },
+  {
+   "titel": "The Westin Yokohama-University Intern-Front Office Operations",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "JP",
+     "stadt": "Yokohama"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-18",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120966"
+  },
+  {
    "titel": "Praktikum im Bereich Controlling",
    "firma": "Bosch",
    "orte": [
@@ -18906,48 +18969,6 @@
    "veroeffentlicht": "2026-09-18",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150393389"
-  },
-  {
-   "titel": "Intern, Legal",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "4 Monate",
-   "dauer_wochen": 17.4,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-18",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120781"
-  },
-  {
-   "titel": "The Westin Yokohama-University Intern-Front Office Operations",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Yokohama",
-     "land": "JP"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-18",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120966"
   },
   {
    "titel": "Intern Global Performance & Rewards (m/f/d)",
@@ -19076,6 +19097,27 @@
    "link": "https://careers.allianz.com/global/en/job/106398/Customer-Experience-Intern-m-f-d"
   },
   {
+   "titel": "Frasers House, A Luxury Collection Hotel, Singapore - University Intern - Front Office",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-17",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120226"
+  },
+  {
    "titel": "Internship - Master Data Analyst",
    "firma": "Infineon",
    "orte": [
@@ -19095,6 +19137,27 @@
    "veroeffentlicht": "2026-09-17",
    "datum_geschaetzt": false,
    "link": "https://jobs.infineon.com/careers/job/563808971515592"
+  },
+  {
+   "titel": "Finance Internship",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-09-17",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000150099029"
   },
   {
    "titel": "Praktikum - Human Relations",
@@ -19200,48 +19263,6 @@
    "veroeffentlicht": "2026-09-17",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000150052969"
-  },
-  {
-   "titel": "Frasers House, A Luxury Collection Hotel, Singapore - University Intern - Front Office",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-17",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120226"
-  },
-  {
-   "titel": "Finance Internship",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-09-17",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000150099029"
   },
   {
    "titel": "Technical Solutions: Internship Opportunities",
@@ -19370,33 +19391,12 @@
    "link": "https://careers.ing.com/en/job/luxembourg/internship-account-manager/3121/44762283328"
   },
   {
-   "titel": "Quality Assistant intern",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-16",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000149888985"
-  },
-  {
    "titel": "Sales Internship",
    "firma": "Accor",
    "orte": [
     {
-     "stadt": "Barcelona",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Barcelona"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -19410,6 +19410,27 @@
    "veroeffentlicht": "2026-09-16",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/AccorHotel/744000149832739"
+  },
+  {
+   "titel": "Quality Assistant intern",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-16",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000149888985"
   },
   {
    "titel": "Account Executive Intern",
@@ -19479,8 +19500,8 @@
    "firma": "Accor",
    "orte": [
     {
-     "stadt": "Brüssel",
-     "land": "BE"
+     "land": "BE",
+     "stadt": "Brüssel"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -19672,6 +19693,27 @@
    "link": "https://careers.ing.com/en/job/ghent/intern-stagiaire-administrative-support-daily-banking-private-individuals/3121/44417630080"
   },
   {
+   "titel": "EET intern",
+   "firma": "Greenpeace Deutschland",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "London"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-10",
+   "datum_geschaetzt": false,
+   "link": "https://greenpeace.jobs.personio.de/job/2792142"
+  },
+  {
    "titel": "Pflichtpraktikum im strategischen Einkauf – Globale Beschaffung",
    "firma": "Bosch",
    "orte": [
@@ -19691,27 +19733,6 @@
    "veroeffentlicht": "2026-09-10",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000148761995"
-  },
-  {
-   "titel": "EET intern",
-   "firma": "Greenpeace Deutschland",
-   "orte": [
-    {
-     "stadt": "London",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-10",
-   "datum_geschaetzt": false,
-   "link": "https://greenpeace.jobs.personio.de/job/2792142"
   },
   {
    "titel": "Praktikum Controlling und Reporting (w/m/d)",
@@ -19856,6 +19877,27 @@
    "link": "https://careers.axa.com/careers-home/jobs/15135?lang=en-us&previousLocale=en-US"
   },
   {
+   "titel": "Intern, Learning & Development Operations (Jan to Jun 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-08",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26115088"
+  },
+  {
    "titel": "Pflichtpraktikum - Service Operations & Customer Journey",
    "firma": "Aumovio",
    "orte": [
@@ -19917,27 +19959,6 @@
    "veroeffentlicht": "2026-09-08",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/Sixt/744000148141249"
-  },
-  {
-   "titel": "Intern, Learning & Development Operations (Jan to Jun 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-08",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26115088"
   },
   {
    "titel": "Praktikum Projektportfolio- / Programm-Management (PPM) (w/m/d)",
@@ -20008,6 +20029,27 @@
    "veroeffentlicht": "2026-09-07",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147839109"
+  },
+  {
+   "titel": "Groups and Events Intern",
+   "firma": "Accor",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000147561749"
   },
   {
    "titel": "Praktikum in Digital Order Management",
@@ -20092,27 +20134,6 @@
    "veroeffentlicht": "2026-09-04",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000147517579"
-  },
-  {
-   "titel": "Groups and Events Intern",
-   "firma": "Accor",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/AccorHotel/744000147561749"
   },
   {
    "titel": "Internship in Global Belonging (m/f/d) – Communication Design & Analytics",
@@ -20375,8 +20396,8 @@
    "firma": "Accor",
    "orte": [
     {
-     "stadt": "Kopenhagen",
-     "land": "DK"
+     "land": "DK",
+     "stadt": "Kopenhagen"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -20837,8 +20858,8 @@
    "firma": "Accor",
    "orte": [
     {
-     "stadt": "Barcelona",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Barcelona"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -21075,8 +21096,8 @@
    "firma": "Accor",
    "orte": [
     {
-     "stadt": "Barcelona",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Barcelona"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -21226,6 +21247,90 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000140398912"
   },
   {
+   "titel": "Intern, Loyalty Operations (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-28",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093505"
+  },
+  {
+   "titel": "Intern, Employer Brand & Talent Projects (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-28",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093507"
+  },
+  {
+   "titel": "Intern, Feasibility (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-28",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093512"
+  },
+  {
+   "titel": "Intern, Area Operations (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-28",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093514"
+  },
+  {
    "titel": "Praktikum Sektor Healthcare - KPMG intern (w/m/d)",
    "firma": "KPMG",
    "orte": [
@@ -21267,90 +21372,6 @@
    "link": "https://jobs.kpmg.de/job-invite/12380/?locale=de_DE"
   },
   {
-   "titel": "Intern, Loyalty Operations (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-28",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093505"
-  },
-  {
-   "titel": "Intern, Area Operations (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-28",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093514"
-  },
-  {
-   "titel": "Intern, Feasibility (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-28",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093512"
-  },
-  {
-   "titel": "Intern, Employer Brand & Talent Projects (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-28",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093507"
-  },
-  {
    "titel": "Intern - Corporate Strategy and Distribution Growth (6-month internship)",
    "firma": "Allianz",
    "orte": [
@@ -21372,432 +21393,12 @@
    "link": "https://careers.allianz.com/global/en/job/26833/Intern-Corporate-Strategy-and-Distribution-Growth-6-month-internship"
   },
   {
-   "titel": "Intern, Partnerships (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092986"
-  },
-  {
-   "titel": "Intern, Rooms Operations (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093042"
-  },
-  {
-   "titel": "Intern, Brand Management (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093030"
-  },
-  {
-   "titel": "Intern, Commercial Analytics (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092980"
-  },
-  {
-   "titel": "Intern, Asset Management (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092860"
-  },
-  {
-   "titel": "Intern, Commercial Analytics (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092984"
-  },
-  {
-   "titel": "Intern, HR Operations (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092897"
-  },
-  {
-   "titel": "Intern, HR Compensation and Benefits (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092903"
-  },
-  {
-   "titel": "Intern, Strategy Planning & Deployment (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093046"
-  },
-  {
-   "titel": "Intern, Strategy Planning & Consulting (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093044"
-  },
-  {
-   "titel": "Intern, Strategy Planning & Consulting (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092874"
-  },
-  {
-   "titel": "Intern, HR Technology & Analytics (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092885"
-  },
-  {
-   "titel": "Intern, APEC Digital Product (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092911"
-  },
-  {
-   "titel": "Intern, HR Services (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093019"
-  },
-  {
-   "titel": "Intern, Financial Operations, APEC (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093039"
-  },
-  {
-   "titel": "Intern, Luxury Group, APEC (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092990"
-  },
-  {
-   "titel": "Intern, Destination & Loyalty Marketing (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092909"
-  },
-  {
-   "titel": "Intern, Marketing and Platform Operations (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092920"
-  },
-  {
-   "titel": "Intern, F&B Strategy & Marketing (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092987"
-  },
-  {
-   "titel": "Intern, Brand Marketing, Premium and Select (Jan-June 2027)",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Singapur",
-     "land": "SG"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-27",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092997"
-  },
-  {
    "titel": "Intern, Area Operations, Revenue Management (Jan-June 2027)",
    "firma": "Marriott International",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -21817,8 +21418,8 @@
    "firma": "Marriott International",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -21834,12 +21435,75 @@
    "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092842"
   },
   {
+   "titel": "Intern, Asset Management (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092860"
+  },
+  {
+   "titel": "Intern, Strategy Planning & Consulting (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092874"
+  },
+  {
+   "titel": "Intern, HR Technology & Analytics (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092885"
+  },
+  {
    "titel": "Intern, Talent Acquisition & Talent Management (Luxury) (Jan-June 2027)",
    "firma": "Marriott International",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -21853,6 +21517,363 @@
    "veroeffentlicht": "2026-07-27",
    "datum_geschaetzt": false,
    "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092891"
+  },
+  {
+   "titel": "Intern, HR Operations (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092897"
+  },
+  {
+   "titel": "Intern, HR Compensation and Benefits (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092903"
+  },
+  {
+   "titel": "Intern, Destination & Loyalty Marketing (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092909"
+  },
+  {
+   "titel": "Intern, APEC Digital Product (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092911"
+  },
+  {
+   "titel": "Intern, Marketing and Platform Operations (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092920"
+  },
+  {
+   "titel": "Intern, Commercial Analytics (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092980"
+  },
+  {
+   "titel": "Intern, Commercial Analytics (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092984"
+  },
+  {
+   "titel": "Intern, Partnerships (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092986"
+  },
+  {
+   "titel": "Intern, F&B Strategy & Marketing (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092987"
+  },
+  {
+   "titel": "Intern, Luxury Group, APEC (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092990"
+  },
+  {
+   "titel": "Intern, Brand Marketing, Premium and Select (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26092997"
+  },
+  {
+   "titel": "Intern, HR Services (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093019"
+  },
+  {
+   "titel": "Intern, Brand Management (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093030"
+  },
+  {
+   "titel": "Intern, Financial Operations, APEC (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093039"
+  },
+  {
+   "titel": "Intern, Rooms Operations (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093042"
+  },
+  {
+   "titel": "Intern, Strategy Planning & Consulting (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093044"
+  },
+  {
+   "titel": "Intern, Strategy Planning & Deployment (Jan-June 2027)",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "SG",
+     "stadt": "Singapur"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-27",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093046"
   },
   {
    "titel": "Praktikant Mobile Banking und Web (w/m/d)",
@@ -23121,8 +23142,8 @@
    "firma": "Marriott International",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -23344,8 +23365,8 @@
    "firma": "Marriott International",
    "orte": [
     {
-     "stadt": "Mailand",
-     "land": "IT"
+     "land": "IT",
+     "stadt": "Mailand"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -23407,8 +23428,8 @@
    "firma": "Marriott International",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -23667,8 +23688,8 @@
    "firma": "Marriott International",
    "orte": [
     {
-     "stadt": "Singapur",
-     "land": "SG"
+     "land": "SG",
+     "stadt": "Singapur"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",

@@ -7328,7 +7328,6 @@
    "fachbereich": "Business Development & Strategie",
    "first_seen": "2026-11-04",
    "grund": "Titel/Abteilung kaufmännisch",
-   "kept_runs": 1,
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -7353,7 +7352,6 @@
    "fachbereich": "Projektmanagement",
    "first_seen": "2026-11-04",
    "grund": "Text: 4 kaufmännische vs. 1 technische Begriffe",
-   "kept_runs": 1,
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -7378,7 +7376,6 @@
    "fachbereich": "Finanzen & Controlling",
    "first_seen": "2026-11-04",
    "grund": "Titel/Abteilung kaufmännisch",
-   "kept_runs": 1,
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -7403,7 +7400,6 @@
    "fachbereich": "Business Development & Strategie",
    "first_seen": "2026-11-04",
    "grund": "Titel/Abteilung kaufmännisch",
-   "kept_runs": 1,
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -7875,6 +7871,30 @@
    "stunden_num": null,
    "title": "Global Reservations Internship - Design Hotels",
    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036160"
+  },
+  "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036167": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Marriott International",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Business Development & Strategie",
+   "first_seen": "2026-11-04",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "posted": "2026-10-02",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Commercial Strategy Internship - Design Hotels",
+   "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26036167"
   },
   "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26037353": {
    "arbeitsmodell": "k. A.",
@@ -8723,6 +8743,30 @@
    "stunden_num": null,
    "title": "Frasers House, A Luxury Collection Hotel, Singapore - University Intern - Front Office",
    "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120226"
+  },
+  "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120546": {
+   "arbeitsmodell": "k. A.",
+   "company": "Marriott International",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-04",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "posted": "2026-11-04",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Marketing Intern - Excelsior Hotel Gallia",
+   "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120546"
   },
   "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120781": {
    "arbeitsmodell": "Präsenz",
@@ -16415,30 +16459,6 @@
    "stunden_num": null,
    "title": "Praktikant Public Sector Consulting: Digitale Infrastrukturen (w/m/d)",
    "url": "https://jobs.pwc.de/de/de/job/979/Praktikant-Public-Sector-Consulting-Digitale-Infrastrukturen-w-m-d"
-  },
-  "https://jobs.sap.com/en/jobs/744000154062390/internship-quality-engineer-and-consultant-for-sap-build-process-automation-fm": {
-   "arbeitsmodell": "Hybrid",
-   "company": "SAP",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Beratung (Consulting)",
-   "first_seen": "2026-11-03",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-04",
-   "orte": [
-    {
-     "land": "FR",
-     "stadt": "Levallois-Perret"
-    }
-   ],
-   "posted": "2026-10-07",
-   "sprache": "en",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Internship – Quality Engineer and Consultant for SAP Build Process Automation F/M",
-   "url": "https://jobs.sap.com/en/jobs/744000154062390/internship-quality-engineer-and-consultant-for-sap-build-process-automation-fm"
   },
   "https://jobs.sap.com/en/jobs/744000154121941/field-compliance-officer-intern": {
    "arbeitsmodell": "Hybrid",
@@ -28754,7 +28774,9 @@
   "https://jobs.mercedes-benz.com/praktikant-in-projektleitung-entwicklung-242947-MER00049K2": "2026-11-04",
   "https://jobs.mercedes-benz.com/praktikant-in-projektleitung-entwicklung-s-klasse-244275-MER00048VC": "2026-11-04",
   "https://jobs.mercedes-benz.com/praktikant-in-projektleitung-qualit-t-commercial-van-electric-combustion-architecture-pflicht-praktikum--244339-MER00049AF": "2026-11-04",
+  "https://jobs.mercedes-benz.com/praktikant-in-qualit-t-privat-van-electric-combustion-architecture-pflicht-praktikum--245181-MER0004A54": "2026-11-04",
   "https://jobs.mercedes-benz.com/praktikant-in-research-development---elektrische-antriebe-pflicht-praktikum--244387-MER00049JT": "2026-11-04",
+  "https://jobs.mercedes-benz.com/praktikant-in-rohbau-anlagenplanung--245140-MER0004A36": "2026-11-04",
   "https://jobs.mercedes-benz.com/praktikant-in-rohbau-anlagenplanung-z1-z2-z3-z4-245140-MER0004A36": "2026-11-04",
   "https://jobs.mercedes-benz.com/praktikant-in-s-klasse-guard-242092-MER0004933": "2026-11-04",
   "https://jobs.mercedes-benz.com/praktikant-in-signatur-core-suv-derivate-modul-spoiler-lichtintegration-242848-MER00049JK": "2026-11-04",
@@ -28911,6 +28933,7 @@
   "https://jobs.schaeffler.com/job/Wroclaw-Order-Entry-Intern-%28All-Genders%29-50-086/1453419033/": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/517934": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519081": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519366": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520278": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520291": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520437": "2026-11-04",
@@ -28918,6 +28941,8 @@
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521208": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521212": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521230": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521269": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521932": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521963": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521974": "2026-11-03",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522135": "2026-11-04",
@@ -28926,9 +28951,11 @@
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522346": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522377": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522447": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522506": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522711": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/523061": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/523326": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/523494": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/523836": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/523854": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/524091": "2026-11-04",
@@ -28936,11 +28963,14 @@
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/525269": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526314": "2026-11-03",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526362": "2026-11-03",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526471": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526477": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526600": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526868": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526984": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527117": "2026-11-03",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527491": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527683": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527907": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527914": "2026-11-04",
   "https://jobs.smartrecruiters.com/AccorHotel/744000141257985": "2026-11-04",
@@ -29295,6 +29325,8 @@
   "https://jobs.smartrecruiters.com/Sixt/744000137608010": "2026-11-04",
   "https://jobs.thyssenkrupp.com/de/job/Praktikum-im-Bereich-HRD-m_w_d-fuer-6-Monate-Wadern-Lockweiler/970825": "2026-11-04",
   "https://jobs.thyssenkrupp.com/de/job/Praktikum-im-Bereich-Lean-Management_OPX-fuer-6-Monate-m_w_d-Muehlacker/967531": "2026-11-04",
+  "https://jobs.totalenergies.com/en_US/careers/JobDetail/STAGE-STAGIAIRE-QUALITE-H-F/85881": "2026-11-04",
+  "https://jobs.totalenergies.com/en_US/careers/JobDetail/STAGIAIRE-ANALYSE-DES-FLUX-TRANSPORTS/85886": "2026-11-04",
   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=353274": "2026-11-04",
   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=353395": "2026-11-04",
   "https://jobs.volvogroup.com/job/Milton-Lean-Implementation-Intern-%28Winter-2027%29-ON-L9T-0M1/1372678755/": "2026-11-04",
