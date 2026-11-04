@@ -40,13 +40,9 @@
     - https://www.bmwgroup.jobs/de/de/jobs.html?textSearch=internship
 
 - name: Mercedes-Benz
-  ats: browser
+  ats: mercedes
+  url: https://jobs.mercedes-benz.com/
   career_url: https://jobs.mercedes-benz.com/
-  list_url: https://jobs.mercedes-benz.com/?searchText=praktikum
-  job_link: jobs\.mercedes-benz\.com/[a-z0-9-]+-mer0[0-9a-z]+
-  extra_urls:
-    - https://jobs.mercedes-benz.com/?searchText=internship
-    - https://jobs.mercedes-benz.com/?searchText=intern
 
 - name: Siemens
   ats: browser
@@ -412,8 +408,11 @@
   career_url: https://www.lvmh.com/en/join-us
 
 - name: Reckitt (Durex)
-  ats: successfactors
-  url: https://careers.reckitt.com
+  ats: browser
+  list_url: https://careers.reckitt.com/search/?q=intern&locale=en_US
+  job_link: /job/[^/?#]+/\d+
+  extra_urls:
+    - https://careers.reckitt.com/search/?q=praktikum&locale=de_DE
   career_url: https://careers.reckitt.com/
 
 - name: Nokia
@@ -661,8 +660,11 @@
   career_url: https://www.panasonic.com/global/corporate/careers.html
 
 - name: Hyundai
-  ats: successfactors
-  url: https://jobs.hyundai-europe.com
+  ats: browser
+  list_url: https://jobs.hyundai-europe.com/search/?q=intern&locale=en_US
+  job_link: /job/[^/?#]+/\d+
+  extra_urls:
+    - https://jobs.hyundai-europe.com/search/?q=praktikum&locale=de_DE
   career_url: https://jobs.hyundai-europe.com/
 
 - name: Kia

@@ -489,6 +489,44 @@ class Phenom:
         return fetch_html_detail(http, job["url"])
 
 
+# --------------------------------------------------------------------------- Mercedes-Benz
+class MercedesBenz:
+    """Stellenbörse von Mercedes-Benz (jobs.api.mercedes-benz.com/search, alle Stellen inkl. Beschreibung)"""
+
+    FIELDS = ["ID", "PositionID", "PositionTitle", "PositionURI", "PositionLocation.CityName",
+              "PositionLocation.CountryCode", "PositionLocation.DisplayName", "ParentOrganizationName",
+              "PositionStartDate", "PositionFormattedDescription.Content", "JobCategory.Name", "CareerLevel.Name",
+              "PositionSchedule.Name", "PublicationStartDate"]
+
+    def list(self, http, comp, settings):
+        out, first, total = [], 1, None
+        while total is None or first <= min(total, comp.get("max_rows", 2000)):
+            q = {"LanguageCode": "EN", "SearchParameters": {"FirstItem": first, "CountItem": 100,
+                 "Sort": [{"Criterion": "PublicationStartDate", "Direction": "DESC"}], "MatchedObjectDescriptor": self.FIELDS},
+                 "SearchCriteria": [{"CriterionName": "PublicationLanguage.Code", "CriterionValue": ["EN"]}]}
+            data = http.json("https://jobs.api.mercedes-benz.com/search?" + urlencode({"data": json.dumps(q, separators=(",", ":"))}),
+                             headers={"Origin": "https://jobs.mercedes-benz.com", "Referer": "https://jobs.mercedes-benz.com/"})
+            res = data.get("SearchResult") or {}
+            total = res.get("SearchResultCountAll") or 0
+            items = res.get("SearchResultItems") or []
+            for it in items:
+                j = it.get("MatchedObjectDescriptor") or {}
+                locs = [", ".join(x for x in (l.get("CityName"), l.get("CountryCode")) if x) for l in j.get("PositionLocation") or []]
+                desc = j.get("PositionFormattedDescription") or []
+                text = " ".join(html_to_text(d.get("Content")) for d in desc if isinstance(d, dict) and d.get("Content"))
+                out.append({
+                    "url": j.get("PositionURI"), "title": clean(j.get("PositionTitle")),
+                    "locations": [l for l in locs if l], "posted": parse_date(j.get("PublicationStartDate") or ""),
+                    "department": ", ".join(c.get("Name", "") for c in j.get("JobCategory") or []),
+                    "text": text,
+                })
+            if not items:
+                break
+            first += len(items)
+        print(f"    [mercedes] {total} Stellen insgesamt")
+        return _uniq(out)
+
+
 # --------------------------------------------------------------------------- Pinpoint
 class Pinpoint:
     """Karriereseiten von Pinpoint (…/postings.json)"""
@@ -635,7 +673,7 @@ def fetch_html_detail(http, url: str) -> dict:
 
 
 ADAPTERS = {
-    "oracle": OracleHCM(), "phenom": Phenom(), "pinpoint": Pinpoint(),
+    "mercedes": MercedesBenz(), "oracle": OracleHCM(), "phenom": Phenom(), "pinpoint": Pinpoint(),
     "radancy": Radancy(),
     "workday": Workday(), "greenhouse": Greenhouse(), "lever": Lever(), "smartrecruiters": SmartRecruiters(),
     "ashby": Ashby(), "personio": Personio(), "recruitee": Recruitee(), "successfactors": SuccessFactors(),
