@@ -217,9 +217,11 @@ def extra_api():
             out.append(f"workday {line}: {r.status_code} total={r.json().get('total') if r.ok else ''}")
         except Exception as e:
             out.append(f"workday {line}: ERR {e}")
-    for nm in ["Marriott", "Hilton", "Accor", "AccorHotel", "IHG", "Hyatt", "Vapiano", "Block House", "blockhouse", "LOsteria",
-               "Hans im Glueck", "hansimglueck", "FC Bayern", "fcbayern", "FC Barcelona", "Real Madrid", "Manchester United",
-               "Manchester City", "Liverpool FC", "Chelsea FC", "Greenpeace", "greenpeacede"]:
+    for nm in ["UNICEF", "UNDP", "UNHCR", "WFP", "WWF", "wwfde", "wwf-deutschland", "IFAW", "Welthungerhilfe", "Caritas",
+               "caritas-international", "Diakonie", "Misereor", "Kindernothilfe", "Amnesty", "amnestyde", "Human Rights Watch", "hrw",
+               "GIZ", "KfW", "Brot fuer die Welt", "NABU", "Plan International", "plan", "tdh", "Terre des hommes",
+               "Aktion gegen den Hunger", "aktiongegendenhunger", "FES", "Friedrich Ebert Stiftung", "KAS", "Ashoka",
+               "Fairtrade", "fairtrade-deutschland", "Greenpeace Deutschland", "greenpeace-de", "greenpeaceev"]:
         try:
             out.append(f"slugs {nm}: {api_probe(nm)}")
         except Exception as e:

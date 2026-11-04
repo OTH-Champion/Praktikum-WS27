@@ -1,17 +1,26 @@
-Marriott|https://careers.marriott.com/jobs?keywords=intern|https://jobs.marriott.com/marriott/jobs?keywords=intern
-Hilton|https://jobs.hilton.com/us/en/search-results?keywords=intern
-Accor|https://careers.accor.com/global/en/search-results?keywords=intern|https://careers.accor.com/
-IHG|https://careers.ihg.com/en/jobs?keywords=intern|https://careers.ihg.com/
-Hyatt|https://careers.hyatt.com/en-US/careers/searchjobs?keyword=intern|https://careers.hyatt.com/
-Vapiano|https://www.vapiano.de/de/karriere/|https://www.vapiano.com/de/jobs/
-Block House|https://www.block-house.de/karriere/|https://www.block-house.de/karriere/jobs/
-L'Osteria|https://losteria.net/de/karriere/|https://jobs.losteria.net/
-Hans im Glück|https://hansimglueck-burgergrill.de/karriere/|https://hansimglueck-burgergrill.de/jobs/
-FC Bayern|https://fcbayern.com/de/club/jobs|https://fcbayern.com/de/club/karriere
-FC Barcelona|https://www.fcbarcelona.com/en/club/jobs|https://careers.fcbarcelona.com/
-Real Madrid|https://www.realmadrid.com/es-ES/el-club/empleo|https://www.realmadrid.com/en-US/the-club/jobs
-Manchester United|https://careers.manutd.com/|https://www.manutd.com/en/careers
-Manchester City|https://www.mancity.com/club/careers|https://careers.cityfootballgroup.com/
-Liverpool FC|https://www.liverpoolfc.com/careers|https://careers.liverpoolfc.com/
-Chelsea FC|https://www.chelseafc.com/en/careers|https://careers.chelseafc.com/
-Greenpeace|https://www.greenpeace.de/ueber-uns/jobs|https://www.greenpeace.org/international/jobs/
+UNICEF|https://jobs.unicef.org/en-us/listing/|https://www.unicef.org/careers/
+UNDP|https://www.undp.org/careers|https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
+UNHCR|https://www.unhcr.org/careers|https://unhcr.wd3.myworkdayjobs.com/External
+WFP|https://www.wfp.org/careers/job-openings|https://wd3.myworkdaysite.com/recruiting/wfp/job_openings
+WWF Deutschland|https://www.wwf.de/ueber-uns/jobs|https://www.wwf.de/jobs
+WWF International|https://wwf.panda.org/get_involved/jobs/|https://www.worldwildlife.org/about/careers
+IFAW|https://www.ifaw.org/careers|https://www.ifaw.org/de/karriere
+Welthungerhilfe|https://www.welthungerhilfe.de/jobs/|https://www.welthungerhilfe.de/ueber-uns/jobs
+Caritas international|https://www.caritas-international.de/ueberuns/jobs|https://www.caritas.de/jobs
+Diakonie Katastrophenhilfe|https://www.diakonie-katastrophenhilfe.de/ueber-uns/jobs|https://www.diakonie-katastrophenhilfe.de/jobs
+Misereor|https://www.misereor.de/jobs|https://www.misereor.de/ueber-uns/jobs
+Kindernothilfe|https://www.kindernothilfe.de/jobs|https://www.kindernothilfe.de/ueber-uns/jobs
+Amnesty International|https://www.amnesty.org/en/careers/|https://www.amnesty.de/mitmachen/jobs
+Human Rights Watch|https://www.hrw.org/careers|https://careers.hrw.org/
+GIZ|https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29|https://www.giz.de/de/jobs/
+KfW|https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/|https://jobs.kfw.de/
+Brot für die Welt|https://www.brot-fuer-die-welt.de/ueber-uns/jobs/|https://www.brot-fuer-die-welt.de/jobs/
+NABU|https://www.nabu.de/wir-ueber-uns/jobs/|https://jobs.nabu.de/
+Plan International|https://www.plan.de/ueber-uns/jobs.html|https://plan-international.org/careers/
+Terre des hommes|https://www.tdh.de/ueber-uns/jobs|https://www.tdh.de/jobs
+Aktion gegen den Hunger|https://www.aktiongegendenhunger.de/jobs|https://www.aktiongegendenhunger.de/ueber-uns/jobs
+Friedrich-Ebert-Stiftung|https://www.fes.de/jobs|https://www.fes.de/stellenangebote
+Konrad-Adenauer-Stiftung|https://www.kas.de/de/karriere|https://www.kas.de/de/web/karriere/stellenangebote
+Ashoka|https://www.ashoka.org/en/careers|https://www.ashoka.org/de-de/jobs
+Fairtrade Deutschland|https://www.fairtrade-deutschland.de/service/jobs|https://www.fairtrade-deutschland.de/jobs
+Greenpeace Deutschland|https://www.greenpeace.de/ueber-uns/jobs|https://jobs.greenpeace.de/
