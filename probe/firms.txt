@@ -1,25 +1,17 @@
-Mercedes-Benz|https://jobs.mercedes-benz.com/?searchText=praktikum
-Lufthansa|https://www.lufthansagroup.careers/de/jobsuche?searchTerm=praktikum
-Deloitte|https://job.deloitte.com/search?search=praktikum
-Novo Nordisk|https://www.novonordisk.com/careers/find-a-job/career-search-results.html?searchText=intern
-Bolt|https://bolt.eu/en/careers/positions/
-airBaltic|https://careers.airbaltic.com/en/vacancies
-Maersk|https://www.maersk.com/careers/vacancies?search=intern
-Linde|https://www.linde.com/careers/search-jobs|https://www.linde-engineering.com/careers
-KraussMaffei|https://www.kraussmaffei.com/de/karriere/stellenangebote
-ams OSRAM|https://ams-osram.com/about-us/career|https://ams-osram.com/de/ueber-uns/karriere/jobs
-MTU|https://www.mtu.de/de/karriere/stellenangebote/jobsuche/|https://www.mtu.de/de/karriere/
-Verbund|https://www.verbund.com/de/karriere
-Generali|https://www.generali.com/careers/our-job-opportunities|https://www.generali.de/karriere
-UBS|https://jobs.ubs.com/TGnewUI/Search/Home/Home?partnerid=25008&siteid=5012
-Bayer|https://career.bayer.com/en/jobs-search?keywords=intern
-Stellantis|https://psa-recrute.talent-soft.com/job/list-of-jobs.aspx?LCID=2057
-Honda|https://www.honda.de/cars/karriere.html|https://hondaeurope.jobs/
-Mitsubishi Electric|https://www.mitsubishielectric.com/en/careers/
-Kia|https://www.kia.com/de/ueber-kia/karriere/
-Fletcher Building|https://fletcherbuilding.com/careers
-H&M|https://hmgroup.com/careers/
-LVMH|https://www.lvmh.com/en/join-us/our-job-offers
-BNP Paribas|https://group.bnpparibas/en/careers/all-job-offers
-Panasonic|https://careers.panasonic.eu/
-Walmart|https://careers.walmart.com/us/en/results?q=intern
+Marriott|https://careers.marriott.com/jobs?keywords=intern|https://jobs.marriott.com/marriott/jobs?keywords=intern
+Hilton|https://jobs.hilton.com/us/en/search-results?keywords=intern
+Accor|https://careers.accor.com/global/en/search-results?keywords=intern|https://careers.accor.com/
+IHG|https://careers.ihg.com/en/jobs?keywords=intern|https://careers.ihg.com/
+Hyatt|https://careers.hyatt.com/en-US/careers/searchjobs?keyword=intern|https://careers.hyatt.com/
+Vapiano|https://www.vapiano.de/de/karriere/|https://www.vapiano.com/de/jobs/
+Block House|https://www.block-house.de/karriere/|https://www.block-house.de/karriere/jobs/
+L'Osteria|https://losteria.net/de/karriere/|https://jobs.losteria.net/
+Hans im Glück|https://hansimglueck-burgergrill.de/karriere/|https://hansimglueck-burgergrill.de/jobs/
+FC Bayern|https://fcbayern.com/de/club/jobs|https://fcbayern.com/de/club/karriere
+FC Barcelona|https://www.fcbarcelona.com/en/club/jobs|https://careers.fcbarcelona.com/
+Real Madrid|https://www.realmadrid.com/es-ES/el-club/empleo|https://www.realmadrid.com/en-US/the-club/jobs
+Manchester United|https://careers.manutd.com/|https://www.manutd.com/en/careers
+Manchester City|https://www.mancity.com/club/careers|https://careers.cityfootballgroup.com/
+Liverpool FC|https://www.liverpoolfc.com/careers|https://careers.liverpoolfc.com/
+Chelsea FC|https://www.chelseafc.com/en/careers|https://careers.chelseafc.com/
+Greenpeace|https://www.greenpeace.de/ueber-uns/jobs|https://www.greenpeace.org/international/jobs/

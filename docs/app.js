@@ -213,27 +213,46 @@
   // ---------------------------------------------------------------- Mail (mailto, nichts wird gespeichert)
   function favList() { return jobs.filter((j) => favs.has(j.link)); }
   function siteUrl() { return location.origin + location.pathname; }
-  function entryText(j, i) {
-    return `${i + 1}) ${j.titel}\n   ${j.firma} · ${j.orte.map(ortText).join(" / ")}\n   ${j.link}\n`;
+  const NL = "\r\n"; // mailto verlangt CRLF, sonst ziehen manche Mailprogramme alles zu Fließtext zusammen
+  const known = (v) => v && v !== "k. A.";
+  function entryInfo(j) {
+    const info = [`${j.firma} · ${j.orte.map(ortText).join(" / ")}`];
+    const extra = [j.fachbereich, known(j.start) ? `Start ${j.start}` : "", known(j.dauer) ? j.dauer : "",
+      known(j.arbeitsmodell) ? j.arbeitsmodell : ""].filter(Boolean);
+    if (extra.length) info.push(extra.join(" · "));
+    return info;
   }
-  function plainList() {
-    return `Meine Praktikums-Favoriten\n\n${favList().map(entryText).join("\n")}\nPraktikum WS27: ${siteUrl()}\n`;
+  // Klartext (Mail): Titel in Großbuchstaben als Überschrift, Link direkt darunter, dann Infos, 2 Leerzeilen Abstand
+  function entryText(j) {
+    return [`▶ ${j.titel.toLocaleUpperCase("de-DE")}`, j.link, ...entryInfo(j)].join(NL);
+  }
+  const SEP = NL + NL + NL;
+  function listBody(entries, heading) {
+    return `${heading}${NL}${"=".repeat(heading.length)}${SEP}${entries.join(SEP)}${SEP}Alle Praktika: ${siteUrl()}${NL}`;
+  }
+  function plainList() { return listBody(favList().map(entryText), "Meine Praktikums-Favoriten"); }
+  // HTML (Zwischenablage): echte größere Überschrift je Stelle
+  function htmlList() {
+    const items = favList().map((j) =>
+      `<p style="margin:0;font-size:17px;font-weight:bold">${esc(j.titel)}</p>` +
+      `<p style="margin:2px 0 0"><a href="${esc(j.link)}">${esc(j.link)}</a></p>` +
+      entryInfo(j).map((t) => `<p style="margin:2px 0 0;color:#555">${esc(t)}</p>`).join("")).join("<br><br>");
+    return `<h2>Meine Praktikums-Favoriten</h2>${items}<br><br><p>Alle Praktika: <a href="${esc(siteUrl())}">${esc(siteUrl())}</a></p>`;
   }
   function mailParts() {
     const list = favList(), parts = [];
-    const foot = `\nAlle Praktika: ${siteUrl()}\n`;
     let cur = [];
-    const size = (arr) => encodeURIComponent(`Meine Praktikums-Favoriten\n\n${arr.join("\n")}${foot}`).length;
-    list.forEach((j, i) => {
-      const e = entryText(j, i);
-      if (cur.length && size([...cur, e]) > 1700) { parts.push(cur); cur = []; }
+    const size = (arr) => encodeURIComponent(listBody(arr, "Meine Praktikums-Favoriten (Teil 10/10)")).length;
+    list.forEach((j) => {
+      const e = entryText(j);
+      if (cur.length && size([...cur, e]) > 1900) { parts.push(cur); cur = []; }
       cur.push(e);
     });
     if (cur.length) parts.push(cur);
-    return parts.map((p, i) => ({
-      subject: `Praktikum WS27: meine Favoriten${parts.length > 1 ? ` (Teil ${i + 1}/${parts.length})` : ""}`,
-      body: `Meine Praktikums-Favoriten${parts.length > 1 ? ` (Teil ${i + 1}/${parts.length})` : ""}\n\n${p.join("\n")}${foot}`,
-    }));
+    return parts.map((p, i) => {
+      const suffix = parts.length > 1 ? ` (Teil ${i + 1}/${parts.length})` : "";
+      return { subject: `Praktikum WS27: meine Favoriten${suffix}`, body: listBody(p, `Meine Praktikums-Favoriten${suffix}`) };
+    });
   }
   function mailto(addr, m) {
     return `mailto:${encodeURIComponent(addr).replace(/%40/g, "@")}?subject=${encodeURIComponent(m.subject)}&body=${encodeURIComponent(m.body)}`;
@@ -358,7 +377,14 @@
     });
     $("copy").addEventListener("click", async () => {
       try {
-        await navigator.clipboard.writeText(plainList());
+        if (window.ClipboardItem && navigator.clipboard.write) {
+          await navigator.clipboard.write([new ClipboardItem({
+            "text/html": new Blob([htmlList()], { type: "text/html" }),
+            "text/plain": new Blob([plainList()], { type: "text/plain" }),
+          })]);
+        } else {
+          await navigator.clipboard.writeText(plainList());
+        }
         $("mail-msg").textContent = "Liste kopiert. Du kannst sie in jede Mail oder Notiz einfügen.";
       } catch {
         $("mail-msg").textContent = "Kopieren hat nicht geklappt. Bitte „Mail erstellen“ nutzen.";

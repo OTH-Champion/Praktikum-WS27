@@ -329,7 +329,7 @@ class SuccessFactors:
             items = data.get("jobSearchResult") or []
             for it in items:
                 r = it.get("response") or it
-                jid, slug = r.get("id"), r.get("urlTitle") or "job"
+                jid, slug = r.get("id"), __import__("html").unescape(r.get("urlTitle") or "job")
                 if not jid:
                     continue
                 locs = r.get("jobLocationShort") or r.get("jobLocationState") or []
