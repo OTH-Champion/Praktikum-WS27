@@ -87,7 +87,8 @@ def all_companies(company_status: list[dict], jobs_out: list[dict], prev: dict) 
 # --------------------------------------------------------------------------- Bewertung einer Stelle
 def evaluate(job: dict, comp: dict, geo: Geo, settings: dict) -> tuple[dict | None, str]:
     """Prüft Ort, Sprache und BWL-Bezug und liest die Eckdaten. -> (Eintrag, Grund)"""
-    orte, status = geo.resolve(job.get("locations") or [], job.get("country_hints"))
+    hints = job.get("country_hints") or ([comp["default_land"]] if comp.get("default_land") else None)
+    orte, status = geo.resolve(job.get("locations") or [], hints)
     if not orte and status != "fremd" and comp.get("ort_aus_titel"):  # z. B. UNICEF: Ort steht nur im Titel
         orte, status = geo.resolve([job["title"]], None)
     if not orte:

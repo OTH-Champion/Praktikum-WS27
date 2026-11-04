@@ -832,6 +832,7 @@
 - name: Kindernothilfe
   ats: personio
   url: https://kindernothilfe.jobs.personio.de
+  default_land: DE   # Ortsangaben wie "Duisburg & remote" ohne Land
   career_url: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt
 
 - name: Amnesty International
