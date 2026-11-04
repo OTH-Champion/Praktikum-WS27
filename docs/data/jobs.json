@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-04T22:54+00:00",
+ "aktualisiert": "2026-11-04T23:20+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -1063,7 +1063,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 4
+   "stellen": 3
   },
   {
    "name": "WWF Deutschland",
@@ -1119,7 +1119,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 1
   },
   {
    "name": "Kindernothilfe",
@@ -1151,7 +1151,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 1
   },
   {
    "name": "GIZ",
@@ -1159,7 +1159,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 4
+   "stellen": 8
   },
   {
    "name": "KfW (inkl. KfW Entwicklungsbank)",
@@ -1175,7 +1175,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 1
+   "stellen": 2
   },
   {
    "name": "NABU",
@@ -1239,7 +1239,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 1
   },
   {
    "name": "Fairtrade Deutschland",
@@ -1255,7 +1255,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 1
   }
  ],
  "stellen": [
@@ -1663,8 +1663,8 @@
    "firma": "GIZ",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Berlin"
+     "stadt": "Berlin",
+     "land": "DE"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -2463,6 +2463,27 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/123907061523063494-associate-product-marketing-manager-bsms-intern-2027?q=intern"
+  },
+  {
+   "titel": "Praktikant*in im Sektorvorhaben Fragilität & HDP-Nexus",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "stadt": "Berlin",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Programm- & Projektarbeit",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79540"
   },
   {
    "titel": "Becario/a de Operaciones Logísticas Internacionales",
@@ -4548,8 +4569,8 @@
    "firma": "GIZ",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Bonn"
+     "stadt": "Bonn",
+     "land": "DE"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -5579,6 +5600,27 @@
    "veroeffentlicht": "2026-11-03",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027?q=intern"
+  },
+  {
+   "titel": "Praktikant*in im globalen Vorhaben Connective Cities",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79532"
   },
   {
    "titel": "Sustainable Finance Summer Internship Programme 2027 London",
@@ -7114,6 +7156,27 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Vilnius/Supply-Chain-Intern_202607-119461-1"
   },
   {
+   "titel": "Praktikant*in im Sektorvorhaben \"Zusammenarbeit mit der Wirtschaft\" – Hamburg Sustainability Conference",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "stadt": "Berlin",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Beratung (Consulting)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79509"
+  },
+  {
    "titel": "Intern, Claims",
    "firma": "AXA",
    "orte": [
@@ -7644,6 +7707,27 @@
    "veroeffentlicht": "2026-10-29",
    "datum_geschaetzt": false,
    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Marketing-Intern--Hair-Care_593929-1"
+  },
+  {
+   "titel": "Praktikant*in (m/w/d) im Sektorvorhaben (SV) Nachhaltige Agrarlieferketten – Schwerpunkt Entwaldungsfreie Lieferketten",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79495"
   },
   {
    "titel": "INTERNSHIP - PUBLIC AFFAIRS ECONOMI RESEARCH",
@@ -8553,12 +8637,12 @@
    "firma": "UNDP",
    "orte": [
     {
-     "land": "CH",
-     "stadt": "Genf"
+     "stadt": "Genf",
+     "land": "CH"
     },
     {
-     "land": "CH",
-     "stadt": "Home Based"
+     "stadt": "Home Based",
+     "land": "CH"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -8620,8 +8704,8 @@
    "firma": "GIZ",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Eschborn"
+     "stadt": "Eschborn",
+     "land": "DE"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -9250,8 +9334,8 @@
    "firma": "GIZ",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Bonn"
+     "stadt": "Bonn",
+     "land": "DE"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -10048,8 +10132,8 @@
    "firma": "WFP (Welternährungsprogramm)",
    "orte": [
     {
-     "land": "GB",
-     "stadt": "London"
+     "stadt": "London",
+     "land": "GB"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -10716,6 +10800,27 @@
    "link": "https://traderepublic.com/en-de/about?jobId=8041296003&gh_jid=8041296003"
   },
   {
+   "titel": "Praktikant*in für die Bildungs- und Netzwerkarbeit (m/w/d) München Teilzeit oder Vollzeit",
+   "firma": "Misereor",
+   "orte": [
+    {
+     "stadt": "München",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "3 Monate",
+   "dauer_wochen": 13.0,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-22",
+   "datum_geschaetzt": false,
+   "link": "https://www.misereor.de/ueber-misereor/jobs/job-details/muenchen/praktikantin-fuer-die-bildungs-und-netzwerkarbeit-m-w-d"
+  },
+  {
    "titel": "INTERNSHIP - ASSISTANT DIGITAL MARKETING PROJECT MANAGER (W/M)",
    "firma": "Allianz",
    "orte": [
@@ -11270,8 +11375,8 @@
    "firma": "WFP (Welternährungsprogramm)",
    "orte": [
     {
-     "land": "CN",
-     "stadt": "Peking"
+     "stadt": "Peking",
+     "land": "CN"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -11291,8 +11396,8 @@
    "firma": "WFP (Welternährungsprogramm)",
    "orte": [
     {
-     "land": "CN",
-     "stadt": "Peking"
+     "stadt": "Peking",
+     "land": "CN"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -11306,27 +11411,6 @@
    "veroeffentlicht": "2026-10-21",
    "datum_geschaetzt": false,
    "link": "https://wfp.wd3.myworkdayjobs.com/job_openings/job/Beijing-China/Internship---Policy-Engagement---Programme-Policy-Team--WFP-Beijing-Office--China_JR127738-1"
-  },
-  {
-   "titel": "Internship - Knowledge Management, Due Diligence Team, Supply Chain Division - Rome, Italy",
-   "firma": "WFP (Welternährungsprogramm)",
-   "orte": [
-    {
-     "land": "IT",
-     "stadt": "Rom"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "November 2026",
-   "start_monat": "2026-11",
-   "dauer": "3 Monate",
-   "dauer_wochen": 13.0,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://wfp.wd3.myworkdayjobs.com/job_openings/job/Rome-Italy/Internship---Knowledge-Management--Due-Diligence-Team--Supply-Chain-Division---Rome--Italy_JR127744"
   },
   {
    "titel": "Becario/a de Ingeniería y Transformación Digital",
@@ -12966,27 +13050,6 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155992724"
   },
   {
-   "titel": "Regional Marketing Intern CEE Mother & Child Care (all genders)",
-   "firma": "Philips",
-   "orte": [
-    {
-     "land": "PL",
-     "stadt": "Warschau"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "30 Std.",
-   "stunden_num": 30.0,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Regional-Marketing-Intern-CEE-Mother---Child-Care--all-genders-_592714"
-  },
-  {
    "titel": "Praktikum in der Personalabteilung",
    "firma": "Kindernothilfe",
    "orte": [
@@ -13010,6 +13073,27 @@
    "veroeffentlicht": "2026-10-16",
    "datum_geschaetzt": false,
    "link": "https://kindernothilfe.jobs.personio.de/job/2845709"
+  },
+  {
+   "titel": "Regional Marketing Intern CEE Mother & Child Care (all genders)",
+   "firma": "Philips",
+   "orte": [
+    {
+     "land": "PL",
+     "stadt": "Warschau"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "30 Std.",
+   "stunden_num": 30.0,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Regional-Marketing-Intern-CEE-Mother---Child-Care--all-genders-_592714"
   },
   {
    "titel": "Internship in Business & Service Operations (m/f/d)",
@@ -13667,8 +13751,8 @@
    "firma": "Greenpeace International",
    "orte": [
     {
-     "land": "NL",
-     "stadt": "Amsterdam"
+     "stadt": "Amsterdam",
+     "land": "NL"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -14774,6 +14858,27 @@
    "veroeffentlicht": "2026-10-13",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155311419"
+  },
+  {
+   "titel": "Estágio em gestão de projetos e comunicação - Ashoka Portugal",
+   "firma": "Ashoka",
+   "orte": [
+    {
+     "stadt": "Madrid",
+     "land": "ES"
+    }
+   ],
+   "fachbereich": "Programm- & Projektarbeit",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.lever.co/ashoka/c2b9e131-6bf2-4e59-8f5a-c5fd42fb9ed0"
   },
   {
    "titel": "Finance Intern, Singapore (Jan 2027)",
@@ -19246,6 +19351,27 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151378729"
   },
   {
+   "titel": "Development & Outreach Department Intern",
+   "firma": "Human Rights Watch",
+   "orte": [
+    {
+     "stadt": "Sydney",
+     "land": "AU"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "November 2026",
+   "start_monat": "2026-11",
+   "dauer": "3 Monate",
+   "dauer_wochen": 13.0,
+   "stunden": "20 Std.",
+   "stunden_num": 20.0,
+   "veroeffentlicht": "2026-09-23",
+   "datum_geschaetzt": false,
+   "link": "https://job-boards.greenhouse.io/humanrightswatch/jobs/8837312002"
+  },
+  {
    "titel": "Human Resources Intern (6-12 months)",
    "firma": "Allianz",
    "orte": [
@@ -20538,8 +20664,8 @@
    "firma": "Greenpeace UK",
    "orte": [
     {
-     "land": "GB",
-     "stadt": "London"
+     "stadt": "London",
+     "land": "GB"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -25482,8 +25608,8 @@
    "firma": "Brot für die Welt",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Berlin"
+     "stadt": "Berlin",
+     "land": "DE"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -25885,6 +26011,27 @@
    "veroeffentlicht": "2024-02-04",
    "datum_geschaetzt": false,
    "link": "https://jobs.pwc.de/de/de/job/727/Praktikum-Accounting-und-Kapitalmarktberatung-w-m-d"
+  },
+  {
+   "titel": "Praktikant*in Abteilung Politik",
+   "firma": "Brot für die Welt",
+   "orte": [
+    {
+     "stadt": "Berlin",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "3 Monate",
+   "dauer_wochen": 13.0,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2024-02-01",
+   "datum_geschaetzt": false,
+   "link": "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-abteilung-politik-1942881"
   },
   {
    "titel": "Praktikum Turnaround & Restructuring Management (w/m/d)",
@@ -26449,6 +26596,27 @@
    "veroeffentlicht": "2022-06-20",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/743999833804247"
+  },
+  {
+   "titel": "Praktikum",
+   "firma": "Greenpeace Deutschland",
+   "orte": [
+    {
+     "stadt": "Hamburg",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Programm- & Projektarbeit",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "8 Wochen",
+   "dauer_wochen": 8.0,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2021-09-01",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.greenpeace.de/o/praktikum"
   },
   {
    "titel": "Praktikum ERP (w/m/d)",

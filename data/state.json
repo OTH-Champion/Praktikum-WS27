@@ -9083,7 +9083,7 @@
    "dauer_wochen": null,
    "fachbereich": "Marketing & Kommunikation",
    "first_seen": "2026-11-04",
-   "grund": "Text: 2 kaufmännische vs. 0 technische Begriffe",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -9111,7 +9111,7 @@
    "dauer_wochen": null,
    "fachbereich": "Personal (HR)",
    "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -9127,6 +9127,30 @@
    "stunden_num": null,
    "title": "EET intern",
    "url": "https://greenpeace.jobs.personio.de/job/2792142"
+  },
+  "https://job-boards.greenhouse.io/humanrightswatch/jobs/8837312002": {
+   "arbeitsmodell": "k. A.",
+   "company": "Human Rights Watch",
+   "dauer": "3 Monate",
+   "dauer_wochen": 13.0,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-04",
+   "grund": "NGO (gelockerter Filter)",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "AU",
+     "stadt": "Sydney"
+    }
+   ],
+   "posted": "2026-09-23",
+   "sprache": "en",
+   "start": "November 2026",
+   "start_monat": "2026-11",
+   "stunden": "20 Std.",
+   "stunden_num": 20.0,
+   "title": "Development & Outreach Department Intern",
+   "url": "https://job-boards.greenhouse.io/humanrightswatch/jobs/8837312002"
   },
   "https://jobs.adidas-group.com/job/Kwun-Tong-Intern-Performance-Management-Global-Logistics%2C-Digital-Process-Management-&amp;-Solutions/1444991833/": {
    "arbeitsmodell": "k. A.",
@@ -9279,7 +9303,7 @@
    "dauer_wochen": 26.1,
    "fachbereich": "Finanzen & Controlling",
    "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -9303,7 +9327,7 @@
    "dauer_wochen": 26.1,
    "fachbereich": "Marketing & Kommunikation",
    "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -9320,6 +9344,54 @@
    "title": "Praktikant*in für Kommunikation und Public Relations im Globalvorhaben Gute Beschäftigung für sozial gerechten Wandel",
    "url": "https://jobs.giz.de/index.php?ac=jobad&id=79488"
   },
+  "https://jobs.giz.de/index.php?ac=jobad&id=79495": {
+   "arbeitsmodell": "k. A.",
+   "company": "GIZ",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "first_seen": "2026-11-04",
+   "grund": "NGO (gelockerter Filter)",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bonn"
+    }
+   ],
+   "posted": "2026-10-29",
+   "sprache": "de",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Praktikant*in (m/w/d) im Sektorvorhaben (SV) Nachhaltige Agrarlieferketten – Schwerpunkt Entwaldungsfreie Lieferketten",
+   "url": "https://jobs.giz.de/index.php?ac=jobad&id=79495"
+  },
+  "https://jobs.giz.de/index.php?ac=jobad&id=79509": {
+   "arbeitsmodell": "k. A.",
+   "company": "GIZ",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Beratung (Consulting)",
+   "first_seen": "2026-11-04",
+   "grund": "NGO (gelockerter Filter)",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "posted": "2026-10-30",
+   "sprache": "de",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Praktikant*in im Sektorvorhaben \"Zusammenarbeit mit der Wirtschaft\" – Hamburg Sustainability Conference",
+   "url": "https://jobs.giz.de/index.php?ac=jobad&id=79509"
+  },
   "https://jobs.giz.de/index.php?ac=jobad&id=79522": {
    "arbeitsmodell": "k. A.",
    "company": "GIZ",
@@ -9327,7 +9399,7 @@
    "dauer_wochen": 26.1,
    "fachbereich": "Marketing & Kommunikation",
    "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -9344,6 +9416,30 @@
    "title": "Praktikant*in im Bereich Kommunikation der Allianz für Integrität",
    "url": "https://jobs.giz.de/index.php?ac=jobad&id=79522"
   },
+  "https://jobs.giz.de/index.php?ac=jobad&id=79532": {
+   "arbeitsmodell": "Hybrid",
+   "company": "GIZ",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-04",
+   "grund": "NGO (gelockerter Filter)",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bonn"
+    }
+   ],
+   "posted": "2026-11-03",
+   "sprache": "de",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Praktikant*in im globalen Vorhaben Connective Cities",
+   "url": "https://jobs.giz.de/index.php?ac=jobad&id=79532"
+  },
   "https://jobs.giz.de/index.php?ac=jobad&id=79536": {
    "arbeitsmodell": "k. A.",
    "company": "GIZ",
@@ -9351,7 +9447,7 @@
    "dauer_wochen": 26.1,
    "fachbereich": "Business Development & Strategie",
    "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -9367,6 +9463,54 @@
    "stunden_num": null,
    "title": "Praktikant*in im Globalvorhaben Strategische Umweltdialoge",
    "url": "https://jobs.giz.de/index.php?ac=jobad&id=79536"
+  },
+  "https://jobs.giz.de/index.php?ac=jobad&id=79540": {
+   "arbeitsmodell": "k. A.",
+   "company": "GIZ",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Programm- & Projektarbeit",
+   "first_seen": "2026-11-04",
+   "grund": "NGO (gelockerter Filter)",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "posted": "2026-11-04",
+   "sprache": "de",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Praktikant*in im Sektorvorhaben Fragilität & HDP-Nexus",
+   "url": "https://jobs.giz.de/index.php?ac=jobad&id=79540"
+  },
+  "https://jobs.greenpeace.de/o/praktikum": {
+   "arbeitsmodell": "k. A.",
+   "company": "Greenpeace Deutschland",
+   "dauer": "8 Wochen",
+   "dauer_wochen": 8.0,
+   "fachbereich": "Programm- & Projektarbeit",
+   "first_seen": "2026-11-04",
+   "grund": "NGO (gelockerter Filter)",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Hamburg"
+    }
+   ],
+   "posted": "2021-09-01",
+   "sprache": "de",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Praktikum",
+   "url": "https://jobs.greenpeace.de/o/praktikum"
   },
   "https://jobs.hyundai-europe.com/default/job/PR-&amp;-Events-Intern/10463-en_GB": {
    "arbeitsmodell": "k. A.",
@@ -12051,6 +12195,30 @@
    "stunden_num": null,
    "title": "Praktikum Nachhaltigkeit / Sustainability / ESG (w/m/d)",
    "url": "https://jobs.kpmg.de/job-invite/6782/?locale=de_DE"
+  },
+  "https://jobs.lever.co/ashoka/c2b9e131-6bf2-4e59-8f5a-c5fd42fb9ed0": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Ashoka",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Programm- & Projektarbeit",
+   "first_seen": "2026-11-04",
+   "grund": "NGO (gelockerter Filter)",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "posted": "2026-10-13",
+   "sprache": "es",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Estágio em gestão de projetos e comunicação - Ashoka Portugal",
+   "url": "https://jobs.lever.co/ashoka/c2b9e131-6bf2-4e59-8f5a-c5fd42fb9ed0"
   },
   "https://jobs.mercedes-benz.com/intern-customer-portfolio-management-mandatory-internship--243372-MER00049NJ": {
    "arbeitsmodell": "k. A.",
@@ -26259,7 +26427,7 @@
    "dauer_wochen": null,
    "fachbereich": "Beratung (Consulting)",
    "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -26287,7 +26455,7 @@
    "dauer_wochen": null,
    "fachbereich": "Personal (HR)",
    "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -28243,7 +28411,7 @@
    "dauer_wochen": 26.1,
    "fachbereich": "Marketing & Kommunikation",
    "first_seen": "2026-11-04",
-   "grund": "Text: 4 kaufmännische vs. 0 technische Begriffe",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -28267,7 +28435,7 @@
    "dauer_wochen": 26.1,
    "fachbereich": "Personal (HR)",
    "first_seen": "2026-11-04",
-   "grund": "Text: 5 kaufmännische vs. 0 technische Begriffe",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -28291,7 +28459,7 @@
    "dauer_wochen": 34.8,
    "fachbereich": "Marketing & Kommunikation",
    "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -28308,30 +28476,6 @@
    "title": "Internship - Media and Communications, Partnership Team - WFP London Office, UK",
    "url": "https://wfp.wd3.myworkdayjobs.com/job_openings/job/London-United-Kingdom/Internship---Media-and-Communications--Partnership-Team---WFP-London-Office--UK_JR127797"
   },
-  "https://wfp.wd3.myworkdayjobs.com/job_openings/job/Rome-Italy/Internship---Knowledge-Management--Due-Diligence-Team--Supply-Chain-Division---Rome--Italy_JR127744": {
-   "arbeitsmodell": "k. A.",
-   "company": "WFP (Welternährungsprogramm)",
-   "dauer": "3 Monate",
-   "dauer_wochen": 13.0,
-   "fachbereich": "Einkauf & Supply Chain",
-   "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-04",
-   "orte": [
-    {
-     "land": "IT",
-     "stadt": "Rom"
-    }
-   ],
-   "posted": "2026-10-21",
-   "sprache": "en",
-   "start": "November 2026",
-   "start_monat": "2026-11",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Internship - Knowledge Management, Due Diligence Team, Supply Chain Division - Rome, Italy",
-   "url": "https://wfp.wd3.myworkdayjobs.com/job_openings/job/Rome-Italy/Internship---Knowledge-Management--Due-Diligence-Team--Supply-Chain-Division---Rome--Italy_JR127744"
-  },
   "https://workfor.international.greenpeace.org/o/people-culture-insights-intern-2027": {
    "arbeitsmodell": "Hybrid",
    "company": "Greenpeace International",
@@ -28339,7 +28483,7 @@
    "dauer_wochen": 26.1,
    "fachbereich": "Personal (HR)",
    "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -28356,6 +28500,30 @@
    "title": "People & Culture Insights Intern 2027",
    "url": "https://workfor.international.greenpeace.org/o/people-culture-insights-intern-2027"
   },
+  "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-abteilung-politik-1942881": {
+   "arbeitsmodell": "k. A.",
+   "company": "Brot für die Welt",
+   "dauer": "3 Monate",
+   "dauer_wochen": 13.0,
+   "fachbereich": "Finanzen & Controlling",
+   "first_seen": "2026-11-04",
+   "grund": "NGO (gelockerter Filter)",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "posted": "2024-02-01",
+   "sprache": "de",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Praktikant*in Abteilung Politik",
+   "url": "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-abteilung-politik-1942881"
+  },
   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-online-marketing-1942383": {
    "arbeitsmodell": "k. A.",
    "company": "Brot für die Welt",
@@ -28363,7 +28531,7 @@
    "dauer_wochen": 13.0,
    "fachbereich": "Marketing & Kommunikation",
    "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-04",
    "orte": [
     {
@@ -28803,6 +28971,30 @@
    "stunden_num": null,
    "title": "Learn more about Strategy and Operations MBA Intern, 2027",
    "url": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027?q=intern"
+  },
+  "https://www.misereor.de/ueber-misereor/jobs/job-details/muenchen/praktikantin-fuer-die-bildungs-und-netzwerkarbeit-m-w-d": {
+   "arbeitsmodell": "k. A.",
+   "company": "Misereor",
+   "dauer": "3 Monate",
+   "dauer_wochen": 13.0,
+   "fachbereich": "Recht & Compliance",
+   "first_seen": "2026-11-04",
+   "grund": "NGO (gelockerter Filter)",
+   "last_seen": "2026-11-04",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "München"
+    }
+   ],
+   "posted": "2026-10-22",
+   "sprache": "de",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Praktikant*in für die Bildungs- und Netzwerkarbeit (m/w/d) München Teilzeit oder Vollzeit",
+   "url": "https://www.misereor.de/ueber-misereor/jobs/job-details/muenchen/praktikantin-fuer-die-bildungs-und-netzwerkarbeit-m-w-d"
   }
  },
  "rejected": {
