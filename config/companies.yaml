@@ -820,6 +820,7 @@
   career_url: https://www.diakonie-katastrophenhilfe.de/ueber-uns/mitarbeit/stellenangebote.html
   list_url: https://www.diakonie-katastrophenhilfe.de/ueber-uns/mitarbeit/stellenangebote.html
   job_link: (stellenangebote/details/|stellenangebote/[^/]+-\d+)
+  may_be_empty: true   # Seite meldet oft "Derzeit keine offenen Stellenausschreibungen"
 
 - name: Misereor
   ats: browser
@@ -853,12 +854,14 @@
   career_url: https://www.giz.de/de/karriere/jobs
   list_url: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword=praktikum
   job_link: index\.php\?ac=jobad&id=\d+
+  next_click: 10
 
 - name: KfW (inkl. KfW Entwicklungsbank)
   ats: browser
   career_url: https://jobs.kfw.de/
   list_url: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword=praktikum
   job_link: index\.php\?ac=jobad&id=\d+
+  next_click: 10
 
 - name: Brot für die Welt
   ats: browser

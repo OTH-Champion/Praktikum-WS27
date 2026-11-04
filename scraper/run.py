@@ -270,7 +270,7 @@ def main() -> int:
                 added += 1
                 print(f"  + {c['title'][:70]} [{', '.join(o['stadt'] + ' ' + o['land'] for o in entry['orte'])}; "
                       f"{entry['fachbereich']}; {entry['dauer']}; {entry['stunden']}; Start {entry['start']}]")
-            if st["found"] == 0:
+            if st["found"] == 0 and not comp.get("may_be_empty"):
                 st["ok"] = False
                 st["note"] = "Keine Stellen gefunden (Seite oder Schnittstelle evtl. geändert)"
         except Exception as e:  # noqa: BLE001
