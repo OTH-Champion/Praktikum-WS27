@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-04T22:11+00:00",
+ "aktualisiert": "2026-11-04T22:48+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -23,7 +23,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 1
   },
   {
    "name": "Bosch",
@@ -623,7 +623,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 49
+   "stellen": 50
   },
   {
    "name": "Philips",
@@ -1470,6 +1470,69 @@
    "link": "https://basf.jobs/job/Praktikum-Vocational-Training-%28mwd%29/144098-en_US/"
   },
   {
+   "titel": "Praktikant (m/w/d) im Bereich IT-Strategie, Compliance & KPI-Management",
+   "firma": "Allianz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Unterföhring"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "September 2026",
+   "start_monat": "2026-09",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://careers.allianz.com/global/en/job/105109/Praktikant-m-w-d-im-Bereich-IT-Strategie-Compliance-KPI-Management"
+  },
+  {
+   "titel": "Intern - Private Credit / Direct Lending (f/m/d)",
+   "firma": "Allianz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "München"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "3 Monate",
+   "dauer_wochen": 13.0,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://careers.allianz.com/global/en/job/109049/Intern-Private-Credit-Direct-Lending-f-m-d"
+  },
+  {
+   "titel": "Allianz UK Finance Summer Internship 2027",
+   "firma": "Allianz",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Guildford"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "9 Wochen",
+   "dauer_wochen": 9.0,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://careers.allianz.com/global/en/job/109478/Allianz-UK-Finance-Summer-Internship-2027"
+  },
+  {
    "titel": "HR Mobility Intern",
    "firma": "EY",
    "orte": [
@@ -1489,6 +1552,69 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://careers.ey.com/ey/job/Luxembourg-HR-Mobility-Intern-L-1855/1444849033/"
+  },
+  {
+   "titel": "Private Banking - Intern - Digitalisation & AI in Portfolio Management",
+   "firma": "ING",
+   "orte": [
+    {
+     "land": "BE",
+     "stadt": "Brüssel"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://careers.ing.com/en/job/brussels/private-banking-intern-digitalisation-and-ai-in-portfolio-management/3121/46622323584"
+  },
+  {
+   "titel": "Praktikant Client Services – Wholesale Banking (w/m/d)",
+   "firma": "ING",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "ab sofort",
+   "start_monat": "2026-11",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-services-wholesale-banking-w-m-d/3121/46616433024"
+  },
+  {
+   "titel": "Praktikant Client Coverage im Bereich Corporate Banking (w/m/d)",
+   "firma": "ING",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Hamburg"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://careers.ing.com/en/job/hamburg/praktikant-client-coverage-im-bereich-corporate-banking-w-m-d/3121/46616432320"
   },
   {
    "titel": "Marketing Intern - Excelsior Hotel Gallia",
@@ -1512,6 +1638,27 @@
    "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26120546"
   },
   {
+   "titel": "Praktikant*in im Globalvorhaben Strategische Umweltdialoge",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79536"
+  },
+  {
    "titel": "PR & Events Intern",
    "firma": "Hyundai",
    "orte": [
@@ -1531,6 +1678,27 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://jobs.hyundai-europe.com/default/job/PR-&amp;-Events-Intern/10463-en_GB"
+  },
+  {
+   "titel": "Praktikant*in Customer Experience (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-customer-experience-pflicht-praktikum--245256-MER0004A5F"
   },
   {
    "titel": "Praktikant*in Distribution & Commercial Operations (Pflicht-Praktikum)",
@@ -1573,6 +1741,111 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": false,
    "link": "https://jobs.mercedes-benz.com/praktikant-in-employee-engagement-corporate-communications-pflicht-praktikum--245163-MER0004A47"
+  },
+  {
+   "titel": "Praktikant*in HR Top Management Sales & Customer (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-top-management-sales-customer-pflicht-praktikum--245282-MER0004A4W"
+  },
+  {
+   "titel": "Praktikant*in im Personalbereich",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Hamburg"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-personalbereich-245302-MER00049NL"
+  },
+  {
+   "titel": "Praktikant*in Lieferantenkapazitätsmanagement im Einkauf",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-lieferantenkapazit-tsmanagement-im-einkauf-245243-MER00049T7"
+  },
+  {
+   "titel": "Praktikant*in Projektmanagement im Team Baureihenmanagement",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektmanagement-im-team-baureihenmanagement-245296-MER00049K1"
+  },
+  {
+   "titel": "Praktikant*in Spieltheorie im Einkauf",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Sindelfingen"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-spieltheorie-im-einkauf-245311-MER00049VA"
   },
   {
    "titel": "Praktikant*in Strategische Projektleitung & Produktsteuerung VAN (Pflicht- oder Kombipraktikum)",
@@ -1638,6 +1911,48 @@
    "link": "https://jobs.mercedes-benz.com/praktikant-in-vertriebskommunikation-und-vorstandsassistenz-pflicht--oder-kombipraktikum--245129-MER00049OA"
   },
   {
+   "titel": "Learning Operations & Customer Care Intern",
+   "firma": "Nokia",
+   "orte": [
+    {
+     "land": "PT",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.nokia.com/en/sites/CX_1/job/41812"
+  },
+  {
+   "titel": "Praktikum Projektmanagement Office (w/m/d)",
+   "firma": "PwC",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt a. M"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.pwc.de/de/de/job/2497/Praktikum-Projektmanagement-Office-w-m-d"
+  },
+  {
    "titel": "Praktikum Financial Services Consulting - Transformation (w/m/d)",
    "firma": "PwC",
    "orte": [
@@ -1678,6 +1993,363 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": false,
    "link": "https://jobs.sap.com/en/jobs/744000159538240/sap-intern-intelligent-contracting-automation"
+  },
+  {
+   "titel": "Internship - Partner Solution Enablement Associate F/M",
+   "firma": "SAP",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "Levallois-Perret"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "Dezember 2026",
+   "start_monat": "2026-12",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.sap.com/en/jobs/744000159612310/internship-partner-solution-enablement-associate-fm"
+  },
+  {
+   "titel": "Praktikum Qualität im Einkauf",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Ansbach"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159576179"
+  },
+  {
+   "titel": "Praktikum - Planungslogistik",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bamberg"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159588627"
+  },
+  {
+   "titel": "Praktikum Trade Marketing",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Leinfelden-Echterdingen"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159588860"
+  },
+  {
+   "titel": "Praktikum Strategischer Einkauf",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Leinfelden-Echterdingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159591390"
+  },
+  {
+   "titel": "Praktikum Regelung elektrischer Antriebe",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Lohr am Main"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159614311"
+  },
+  {
+   "titel": "Undergraduate Placement Year 2027 Fleet & Field Administrator (Internship)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Worcester"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "39 Std.",
+   "stunden_num": 39.0,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159615034"
+  },
+  {
+   "titel": "Praktikum in Content Management, Mediengestaltung und interne Kommunikation",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Lohr am Main"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159616782"
+  },
+  {
+   "titel": "Pflichtpraktikum im Bereich Marketing, Kommunikation, Messen und Events",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Ulm"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159618349"
+  },
+  {
+   "titel": "Mandatory Internship in Strategic Purchasing for Turned Parts",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Elchingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Präsenz",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159618709"
+  },
+  {
+   "titel": "Pflichtpraktikum im strategischen Einkauf für Drehteile (w/m/div.)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Elchingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Präsenz",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159618748"
+  },
+  {
+   "titel": "Pflichtpraktikum im Supply Chain Management - Bereich Planungslogistik",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159626594"
+  },
+  {
+   "titel": "Pflichtpraktikum HR Administration / Personalbetreuung",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "München"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159631747"
+  },
+  {
+   "titel": "Undergraduate Placement Year 2027 – Data Privacy Intern",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Worcester"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "Hybrid",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "39 Std.",
+   "stunden_num": 39.0,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159640003"
+  },
+  {
+   "titel": "Extracurricular Internship: Product Management (f/m/div)",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "PT",
+     "stadt": "Aveiro"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159679459"
+  },
+  {
+   "titel": "Legal Intern",
+   "firma": "Continental",
+   "orte": [
+    {
+     "land": "HR",
+     "stadt": "Faridabad"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/Continental/744000159607929"
+  },
+  {
+   "titel": "Internship Media & Influencer Marketing Personal Health BNL",
+   "firma": "Philips",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship-Media---Influencer-Marketing-Personal-Health-BNL_594948"
   },
   {
    "titel": "Learn more about Financial Analyst BS/MS Intern, 2027",
@@ -1751,676 +2423,46 @@
    "link": "https://www.google.com/about/careers/applications/jobs/results/123907061523063494-associate-product-marketing-manager-bsms-intern-2027?q=intern"
   },
   {
-   "titel": "Praktikant*in Lieferantenkapazitätsmanagement im Einkauf",
-   "firma": "Mercedes-Benz",
+   "titel": "HR Internship - 12 Months",
+   "firma": "Siemens",
    "orte": [
     {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-lieferantenkapazit-tsmanagement-im-einkauf-245243-MER00049T7"
-  },
-  {
-   "titel": "Praktikant*in Customer Experience (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-customer-experience-pflicht-praktikum--245256-MER0004A5F"
-  },
-  {
-   "titel": "Praktikant*in HR Top Management Sales & Customer (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-hr-top-management-sales-customer-pflicht-praktikum--245282-MER0004A4W"
-  },
-  {
-   "titel": "Praktikant*in Projektmanagement im Team Baureihenmanagement",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-projektmanagement-im-team-baureihenmanagement-245296-MER00049K1"
-  },
-  {
-   "titel": "Praktikant*in im Personalbereich",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Hamburg",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-im-personalbereich-245302-MER00049NL"
-  },
-  {
-   "titel": "Praktikant*in Spieltheorie im Einkauf",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Sindelfingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-spieltheorie-im-einkauf-245311-MER00049VA"
-  },
-  {
-   "titel": "Extracurricular Internship: Product Management (f/m/div)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Aveiro",
-     "land": "PT"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159679459"
-  },
-  {
-   "titel": "Undergraduate Placement Year 2027 – Data Privacy Intern",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Worcester",
+     "stadt": "HR Internship",
      "land": "GB"
     }
    ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "Hybrid",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "39 Std.",
-   "stunden_num": 39.0,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159640003"
-  },
-  {
-   "titel": "Pflichtpraktikum im Supply Chain Management - Bereich Planungslogistik",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159626594"
-  },
-  {
-   "titel": "Mandatory Internship in Strategic Purchasing for Turned Parts",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Elchingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Präsenz",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159618709"
-  },
-  {
-   "titel": "Praktikum in Content Management, Mediengestaltung und interne Kommunikation",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Lohr am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159616782"
-  },
-  {
-   "titel": "Undergraduate Placement Year 2027 Fleet & Field Administrator (Internship)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Worcester",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "39 Std.",
-   "stunden_num": 39.0,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159615034"
-  },
-  {
-   "titel": "Pflichtpraktikum HR Administration / Personalbetreuung",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "München",
-     "land": "DE"
-    }
-   ],
    "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159631747"
-  },
-  {
-   "titel": "Pflichtpraktikum im strategischen Einkauf für Drehteile (w/m/div.)",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Elchingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Präsenz",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159618748"
-  },
-  {
-   "titel": "Pflichtpraktikum im Bereich Marketing, Kommunikation, Messen und Events",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Ulm",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159618349"
-  },
-  {
-   "titel": "Praktikum Regelung elektrischer Antriebe",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Lohr am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
    "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159614311"
-  },
-  {
-   "titel": "Praktikum Strategischer Einkauf",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Leinfelden-Echterdingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159591390"
-  },
-  {
-   "titel": "Praktikum Trade Marketing",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Leinfelden-Echterdingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159588860"
-  },
-  {
-   "titel": "Praktikum - Planungslogistik",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Bamberg",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159588627"
-  },
-  {
-   "titel": "Praktikum Qualität im Einkauf",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Ansbach",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159576179"
-  },
-  {
-   "titel": "Internship - Partner Solution Enablement Associate F/M",
-   "firma": "SAP",
-   "orte": [
-    {
-     "stadt": "Levallois-Perret",
-     "land": "FR"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "Dezember 2026",
-   "start_monat": "2026-12",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
    "stunden": "Vollzeit",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.sap.com/en/jobs/744000159612310/internship-partner-solution-enablement-associate-fm"
+   "datum_geschaetzt": true,
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504448"
   },
   {
-   "titel": "Intern - Private Credit / Direct Lending (f/m/d)",
-   "firma": "Allianz",
-   "orte": [
-    {
-     "stadt": "München",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "3 Monate",
-   "dauer_wochen": 13.0,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://careers.allianz.com/global/en/job/109049/Intern-Private-Credit-Direct-Lending-f-m-d"
-  },
-  {
-   "titel": "Allianz UK Finance Summer Internship 2027",
-   "firma": "Allianz",
-   "orte": [
-    {
-     "stadt": "Guildford",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "9 Wochen",
-   "dauer_wochen": 9.0,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://careers.allianz.com/global/en/job/109478/Allianz-UK-Finance-Summer-Internship-2027"
-  },
-  {
-   "titel": "Praktikant (m/w/d) im Bereich IT-Strategie, Compliance & KPI-Management",
-   "firma": "Allianz",
-   "orte": [
-    {
-     "stadt": "Unterföhring",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Hybrid",
-   "start": "September 2026",
-   "start_monat": "2026-09",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://careers.allianz.com/global/en/job/105109/Praktikant-m-w-d-im-Bereich-IT-Strategie-Compliance-KPI-Management"
-  },
-  {
-   "titel": "Praktikum Projektmanagement Office (w/m/d)",
-   "firma": "PwC",
-   "orte": [
-    {
-     "stadt": "Frankfurt a. M",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.pwc.de/de/de/job/2497/Praktikum-Projektmanagement-Office-w-m-d"
-  },
-  {
-   "titel": "Legal Intern",
-   "firma": "Continental",
-   "orte": [
-    {
-     "stadt": "Faridabad",
-     "land": "HR"
-    }
-   ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/Continental/744000159607929"
-  },
-  {
-   "titel": "Learning Operations & Customer Care Intern",
-   "firma": "Nokia",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "PT"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.nokia.com/en/sites/CX_1/job/41812"
-  },
-  {
-   "titel": "Private Banking - Intern - Digitalisation & AI in Portfolio Management",
+   "titel": "Internship Financial Institutions Advisory Team",
    "firma": "ING",
    "orte": [
     {
-     "stadt": "Brüssel",
-     "land": "BE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://careers.ing.com/en/job/brussels/private-banking-intern-digitalisation-and-ai-in-portfolio-management/3121/46622323584"
-  },
-  {
-   "titel": "Praktikant Client Services – Wholesale Banking (w/m/d)",
-   "firma": "ING",
-   "orte": [
-    {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "ab sofort",
-   "start_monat": "2026-11",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://careers.ing.com/en/job/frankfurt-am-main/praktikant-client-services-wholesale-banking-w-m-d/3121/46616433024"
-  },
-  {
-   "titel": "Praktikant Client Coverage im Bereich Corporate Banking (w/m/d)",
-   "firma": "ING",
-   "orte": [
-    {
-     "stadt": "Hamburg",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://careers.ing.com/en/job/hamburg/praktikant-client-coverage-im-bereich-corporate-banking-w-m-d/3121/46616432320"
-  },
-  {
-   "titel": "Internship Media & Influencer Marketing Personal Health BNL",
-   "firma": "Philips",
-   "orte": [
-    {
-     "stadt": "k. A.",
+     "stadt": "Amsterdam",
      "land": "NL"
     }
    ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Internship-Media---Influencer-Marketing-Personal-Health-BNL_594948"
-  },
-  {
-   "titel": "Praktikant*in im Globalvorhaben Strategische Umweltdialoge",
-   "firma": "GIZ",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "4 Monate",
+   "dauer_wochen": 17.4,
+   "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": false,
-   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79536"
+   "link": "https://careers.ing.com/en/job/amsterdam/internship-financial-institutions-advisory-team/3121/46627262272"
   },
   {
    "titel": "Becario/a de Operaciones Logísticas Internacionales",
@@ -4502,6 +4544,27 @@
    "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26144324"
   },
   {
+   "titel": "Praktikant*in im Bereich Kommunikation der Allianz für Integrität",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bonn"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79522"
+  },
+  {
    "titel": "Internship - AI, Digitalization & Software Development in Product Marketing (f/m/div)",
    "firma": "Infineon",
    "orte": [
@@ -5516,27 +5579,6 @@
    "veroeffentlicht": "2026-11-03",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027?q=intern"
-  },
-  {
-   "titel": "Praktikant*in im Bereich Kommunikation der Allianz für Integrität",
-   "firma": "GIZ",
-   "orte": [
-    {
-     "stadt": "Bonn",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79522"
   },
   {
    "titel": "Sustainable Finance Summer Internship Programme 2027 London",
@@ -8549,6 +8591,27 @@
    "link": "https://jobs.adidas-group.com/job/Lima-Intern-HR-LIM/1437775233/"
   },
   {
+   "titel": "Praktikant*in für Kommunikation und Public Relations im Globalvorhaben Gute Beschäftigung für sozial gerechten Wandel",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Eschborn"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79488"
+  },
+  {
    "titel": "Intern, SMA",
    "firma": "Infineon",
    "orte": [
@@ -9137,27 +9200,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship-in-Business-Solution-Management---Digital-Health-Products--as-of-1-January-2027--Rotkreuz--12-months-_202610-127498-1"
   },
   {
-   "titel": "Praktikant*in für Kommunikation und Public Relations im Globalvorhaben Gute Beschäftigung für sozial gerechten Wandel",
-   "firma": "GIZ",
-   "orte": [
-    {
-     "stadt": "Eschborn",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79488"
-  },
-  {
    "titel": "Intern - Allianz Consulting - Right shoring, Business Transition and Support (m/f/d)",
    "firma": "Allianz",
    "orte": [
@@ -9177,6 +9219,27 @@
    "veroeffentlicht": "2026-10-26",
    "datum_geschaetzt": false,
    "link": "https://careers.allianz.com/global/en/job/108535/Intern-Allianz-Consulting-Right-shoring-Business-Transition-and-Support-m-f-d"
+  },
+  {
+   "titel": "Praktikant*in für Wirtschaftspolitik, Makroökonomische Modellierung und Infrastruktur im Globalvorhaben \"Nachhaltige Wirtschaftstransformation & Sustainable Finance\"",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bonn"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79476"
   },
   {
    "titel": "Praktikant*in Nachhaltigkeit Lieferkette - Menschenrechte im Einkauf",
@@ -9494,27 +9557,6 @@
    "link": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Field-Sales---Trade-Marketing_R-1189154"
   },
   {
-   "titel": "Praktikant*in für Wirtschaftspolitik, Makroökonomische Modellierung und Infrastruktur im Globalvorhaben \"Nachhaltige Wirtschaftstransformation & Sustainable Finance\"",
-   "firma": "GIZ",
-   "orte": [
-    {
-     "stadt": "Bonn",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79476"
-  },
-  {
    "titel": "Supply Chain Demand Support Intern",
    "firma": "Philips",
    "orte": [
@@ -9597,6 +9639,27 @@
    "veroeffentlicht": "2026-10-23",
    "datum_geschaetzt": false,
    "link": "https://careers.allianz.com/global/en/job/108690/Intern-Strategy-Executive-Support-CTO-Office-m-f-d"
+  },
+  {
+   "titel": "Praktikant (w/m/d) im Bereich Human Resources - Change Management",
+   "firma": "KfW (inkl. KfW Entwicklungsbank)",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-23",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.kfw.de/index.php?ac=jobad&id=13702"
   },
   {
    "titel": "Praktikant*in Inhouse Consulting mit dem Schwerpunkt Lean Management",
@@ -9960,8 +10023,8 @@
    "firma": "WFP (Welternährungsprogramm)",
    "orte": [
     {
-     "stadt": "London",
-     "land": "GB"
+     "land": "GB",
+     "stadt": "London"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -9975,27 +10038,6 @@
    "veroeffentlicht": "2026-10-23",
    "datum_geschaetzt": false,
    "link": "https://wfp.wd3.myworkdayjobs.com/job_openings/job/London-United-Kingdom/Internship---Media-and-Communications--Partnership-Team---WFP-London-Office--UK_JR127797"
-  },
-  {
-   "titel": "Praktikant (w/m/d) im Bereich Human Resources - Change Management",
-   "firma": "KfW (inkl. KfW Entwicklungsbank)",
-   "orte": [
-    {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-23",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.kfw.de/index.php?ac=jobad&id=13702"
   },
   {
    "titel": "Business Development Support Intern, Broker",
@@ -11199,12 +11241,33 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Marketing-Intern_202610-126893"
   },
   {
+   "titel": "Internship - Management Services, WFP China Office, Beijing",
+   "firma": "WFP (Welternährungsprogramm)",
+   "orte": [
+    {
+     "land": "CN",
+     "stadt": "Peking"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "November 2026",
+   "start_monat": "2026-11",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-21",
+   "datum_geschaetzt": false,
+   "link": "https://wfp.wd3.myworkdayjobs.com/job_openings/job/Beijing-China/Internship---Management-Services--WFP-China-Office--Beijing_JR127688-1"
+  },
+  {
    "titel": "Internship - Policy Engagement - Programme Policy Team, WFP Beijing Office, China",
    "firma": "WFP (Welternährungsprogramm)",
    "orte": [
     {
-     "stadt": "Peking",
-     "land": "CN"
+     "land": "CN",
+     "stadt": "Peking"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -11224,8 +11287,8 @@
    "firma": "WFP (Welternährungsprogramm)",
    "orte": [
     {
-     "stadt": "Rom",
-     "land": "IT"
+     "land": "IT",
+     "stadt": "Rom"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -11239,27 +11302,6 @@
    "veroeffentlicht": "2026-10-21",
    "datum_geschaetzt": false,
    "link": "https://wfp.wd3.myworkdayjobs.com/job_openings/job/Rome-Italy/Internship---Knowledge-Management--Due-Diligence-Team--Supply-Chain-Division---Rome--Italy_JR127744"
-  },
-  {
-   "titel": "Internship - Management Services, WFP China Office, Beijing",
-   "firma": "WFP (Welternährungsprogramm)",
-   "orte": [
-    {
-     "stadt": "Peking",
-     "land": "CN"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "November 2026",
-   "start_monat": "2026-11",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-21",
-   "datum_geschaetzt": false,
-   "link": "https://wfp.wd3.myworkdayjobs.com/job_openings/job/Beijing-China/Internship---Management-Services--WFP-China-Office--Beijing_JR127688-1"
   },
   {
    "titel": "Becario/a de Ingeniería y Transformación Digital",
@@ -20400,6 +20442,27 @@
    "link": "https://careers.ing.com/en/job/ghent/intern-stagiaire-administrative-support-daily-banking-private-individuals/3121/44417630080"
   },
   {
+   "titel": "EET intern",
+   "firma": "Greenpeace UK",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "London"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-10",
+   "datum_geschaetzt": false,
+   "link": "https://greenpeace.jobs.personio.de/job/2792142"
+  },
+  {
    "titel": "Pflichtpraktikum im strategischen Einkauf – Globale Beschaffung",
    "firma": "Bosch",
    "orte": [
@@ -20419,27 +20482,6 @@
    "veroeffentlicht": "2026-09-10",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000148761995"
-  },
-  {
-   "titel": "EET intern",
-   "firma": "Greenpeace UK",
-   "orte": [
-    {
-     "stadt": "London",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-10",
-   "datum_geschaetzt": false,
-   "link": "https://greenpeace.jobs.personio.de/job/2792142"
   },
   {
    "titel": "Praktikum Controlling und Reporting (w/m/d)",
@@ -22662,8 +22704,8 @@
    "firma": "KfW (inkl. KfW Entwicklungsbank)",
    "orte": [
     {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -25323,8 +25365,8 @@
    "firma": "Brot für die Welt",
    "orte": [
     {
-     "stadt": "Berlin",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Berlin"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
