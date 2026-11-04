@@ -67,8 +67,18 @@ def fachbereich(title: str, department: str = "", text: str = "") -> tuple[str |
     return (hits[0] if hits else None), len(hits), tech
 
 
-def assess(title: str, department: str, text: str) -> dict:
+def assess(title: str, department: str, text: str, ngo: bool = False) -> dict:
+    """ngo=True: gelockerter Filter (nur für NGOs/UN/Stiftungen, Schalter `ngo: true` in companies.yaml).
+    Abgelehnt wird dann nur, was schon am Titel eindeutig technisch ist."""
     fach, n_bwl, n_tech = fachbereich(title, department, text)
+    if ngo:
+        if n_tech > n_bwl or (not n_bwl and re.search(r"\bIT\b|\bIT-", title)):
+            return {"relevant": False, "grund": "Titel technisch", "fachbereich": fach or "Sonstiges BWL"}
+        if not fach:
+            counts = [(len(r.findall((text or "")[:6000])), n) for n, r in FACH_RES]
+            top = max(counts)
+            fach = top[1] if top[0] >= 2 else "Programm- & Projektarbeit"
+        return {"relevant": True, "grund": "NGO (gelockerter Filter)", "fachbereich": fach}
     if n_bwl or n_tech:
         relevant = n_bwl > n_tech
         grund = "Titel/Abteilung kaufmännisch" if relevant else "Titel technisch"

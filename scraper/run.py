@@ -97,7 +97,7 @@ def evaluate(job: dict, comp: dict, geo: Geo, settings: dict) -> tuple[dict | No
     ok, lang = textinfo.language_ok(f"{job['title']}\n{text}", settings["sprachen"])
     if not ok:
         return None, f"Sprache {lang}"
-    a = classify.assess(job["title"], job.get("department", ""), text)
+    a = classify.assess(job["title"], job.get("department", ""), text, ngo=bool(comp.get("ngo")))
     if not a["relevant"]:
         return None, f"kein BWL-Bezug ({a['grund']})"
     full = f"{job['title']}\n{text}\n{job.get('extra', '')}"
