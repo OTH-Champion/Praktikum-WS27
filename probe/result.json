@@ -1,300 +1,73 @@
 [
  {
-  "name": "Marriott",
-  "url": "https://careers.marriott.com/jobs?keywords=intern",
-  "final": "https://careers.marriott.com/jobs?keywords=intern&utm_source=marriottcareers&utm_medium=referralwebsite",
-  "title": "Search Jobs | Marriott International Careers",
-  "sigs": {
-   "oracle": [
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/my-profile/sign-in",
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/25119196/apply/email?posting_typ",
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26060409/apply/email?posting_typ",
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26106897/apply/email?posting_typ",
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26122236/apply/email?posting_typ",
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26125657/apply/email?posting_typ"
-   ]
-  },
+  "name": "UNICEF",
+  "url": "https://jobs.unicef.org/en-us/listing/",
+  "final": "https://jobs.unicef.org/en-us/listing/",
+  "title": "Vacancies | UNICEF Careers",
+  "sigs": {},
   "links": [
-   "https://careers.marriott.com/jobs?keywords=intern&utm_source=marriottcareers&utm_medium=referralwebsite#main",
-   "https://careers.marriott.com/ar/jobs",
-   "https://careers.marriott.com/jobs",
-   "https://careers.marriott.com/es/jobs",
-   "https://careers.marriott.com/el/jobs",
-   "https://careers.marriott.com/fr/jobs",
-   "https://careers.marriott.com/de/jobs",
-   "https://careers.marriott.com/id/jobs",
-   "https://careers.marriott.com/it/jobs",
-   "https://careers.marriott.com/ja/jobs",
-   "https://careers.marriott.com/ko/jobs",
-   "https://careers.marriott.com/pl/jobs",
-   "https://careers.marriott.com/pt/jobs",
-   "https://careers.marriott.com/ru/jobs",
-   "https://careers.marriott.com/th/jobs",
-   "https://careers.marriott.com/tr/jobs",
-   "https://careers.marriott.com/vi/jobs",
-   "https://careers.marriott.com/zh-cn/jobs",
-   "https://careers.marriott.com/zh-hk/jobs",
-   "https://careers.marriott.com/jobs?keywords=intern&utm_source=marriottcareers&utm_medium=referralwebsite#",
-   "https://careers.marriott.com/brands/four-points-express/jobs",
-   "https://careers.marriott.com/brands/marriott-vacation-club/jobs",
-   "https://careers.marriott.com/brands/studiores/jobs",
-   "https://careers.marriott.com/la-baie-cook-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%99%E7%90%86-%E3%83%A9-%E3%83%99/job/P1-7362753-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/assistant-f-b-sales-and-reservation-manager-le-m%C3%A9ridien-saigon/job/P1-7451198-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/assistant-style-shift-leader/job/P1-4071657-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/assistant-style-shift-leader/job/P1-7064434-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/junior-technician/job/P1-5534144-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/senior-at-your-service-agent/job/P1-7560593-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/senior-loss-prevention-officer/job/P1-7432056-0?utm_source=marriottcareers&utm_medium=referralwebsite"
+   "https://jobs.unicef.org/en-us/listing/#main-content",
+   "https://jobs.unicef.org/en-us/listing/#",
+   "https://jobs.unicef.org/",
+   "https://jobs.unicef.org/en-us/listing/",
+   "https://jobs.unicef.org/en-us/job/596817/communication-associate-eufunded-social-protection-eu4people-and-roma-inclusion-programmes-communication-section-36-months-sarajevo-bosnia-and-herzegovina-nationals-only-office-based",
+   "https://jobs.unicef.org/en-us/job/596803/national-mics-consultant-caribbean-multicountry-multiple-indicators-cluster-survey-programme-section-bridgetown-barbados-12-months-596803",
+   "https://jobs.unicef.org/en-us/job/596812/fund-raising-officer-foundations-no1-ft-00129175-sao-paulo-brazil-lacr",
+   "https://jobs.unicef.org/en-us/job/596796/national-internship-education-unit-yaound%C3%A9-cameroon-6months-cameroon-nationals-only",
+   "https://jobs.unicef.org/en-us/job/596815/social-behavior-change-specialist-no3-ft-00133370-conakryguinea-wcar",
+   "https://jobs.unicef.org/en-us/job/596693/readvertised-interagency-peoplecentered-humanitarian-action-consultant-unicef-office-of-emergency-programmes-emops-pchp-geneva-switzerland-7-months-remote-596693",
+   "https://jobs.unicef.org/en-us/job/596764/coordinator-of-the-regional-early-childhood-intervention-eci-network",
+   "https://jobs.unicef.org/en-us/job/596797/fund-raising-specialist-ig-legacy-pathways-p3-fixed-term-position-rome-italy-private-fund-raising-and-partnerships-00113289",
+   "https://jobs.unicef.org/en-us/job/596801/nutrition-officer-nob-ta-364-days-139030-abuja-nigeria-wcar",
+   "https://jobs.unicef.org/en-us/job/596802/people-and-culture-manager-p4-temporary-position-6-months-138386-democratic-republic-of-congo-bunia-wcar",
+   "https://jobs.unicef.org/en-us/job/596806/finance-specialist-p3-fixed-term-position-div-of-financial-and-adm-mgmt-brussels-belgium-00121857",
+   "https://jobs.unicef.org/en-us/job/596807/logistics-assistant-g5-temporary-position-364-days-supply-division-copenhagen-denmark-00139038-open-to-eu-citizens-and-valid-danish-work-permit-holders",
+   "https://jobs.unicef.org/en-us/job/596808/international-consultant-ig-systems-uniq-success-specialist-eap-region-private-fr-partnership-pfp-12-months-rome-italy-remote-with-travel",
+   "https://jobs.unicef.org/en-us/job/596809/batch-recruitment-2-position-finance-associate-g6-ta-364-days-139075-139031-abuja-nigeria-wcar",
+   "https://jobs.unicef.org/en-us/job/596810/monitoring-specialist-p3-temporary-position-copenhagen-364-days-supply-division-00124204",
+   "https://jobs.unicef.org/en-us/job/596811/batch-recruitment-2-posts-senior-business-analyst-associates-g7-temporary-position-business-innovation-and-support-gssc-open-to-eu-citizens-valid-hungarian-work-permit-holders",
+   "https://jobs.unicef.org/en-us/job/596814/people-and-culture-specialist-p3-fixed-term-position-135273-digital-impact-division-digital-inclusion-geneva-switzerland",
+   "https://jobs.unicef.org/en-us/job/596721/individual-consultant-cost-efficiency-and-cost-effectiveness-of-child-protection-case-management-in-humanitarian-settings-gpd-child-protection-6-months-coe-amman-jordan-remote-596721",
+   "https://jobs.unicef.org/en-us/job/596748/programme-specialist-migration-and-displacement-p3-temporary-appointment-364-days-00138953-global-programme-division-coe-child-protection-and-migration-nairobi-kenya-remote",
+   "https://jobs.unicef.org/en-us/job/596793/pme-consultant-unicef-office-of-emergency-programmes-peoplecentered-humanitarian-partnerships-section-emops-pchp-geneva-switzerland-12-months-remote-596793",
+   "https://jobs.unicef.org/en-us/listing/?page=2&page-items=20",
+   "https://www.unicef.org/careers/beware-fraudulent-job-offers",
+   "https://www.unicef.org/careers/unicef-job-categories"
   ],
   "error": null,
   "patterns": [
-   "18x careers.marriott.com/[^/]+/job/P1-\\d+-0  e.g. https://careers.marriott.com/la-baie-cook-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%99%E7%90%86-%E3%83%A9-%E3%83%99/job/P1-7362753-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "13x careers.marriott.com/brands/[^/]+/  e.g. https://careers.marriott.com/brands/apartments-by-marriott/",
-   "7x careers.marriott.com/brands/[^/]+/jobs  e.g. https://careers.marriott.com/brands/four-points-express/jobs",
-   "3x careers.marriott.com/brands/ac-hotels/  e.g. https://careers.marriott.com/brands/ac-hotels/",
-   "3x careers.marriott.com/brands/aloft/  e.g. https://careers.marriott.com/brands/aloft/"
+   "15x www.unicef.org/careers/[^/]+  e.g. https://www.unicef.org/careers/where-we-work",
+   "10x jobs.unicef.org/en-us/job/\\d+/[^/]+  e.g. https://jobs.unicef.org/en-us/job/596817/communication-associate-eufunded-social-protection-eu4people-and-roma-inclusion-programmes-communication-section-36-months-sarajevo-bosnia-and-herzegovina-nationals-only-office-based",
+   "5x jobs.unicef.org/en-us/listing/  e.g. https://jobs.unicef.org/en-us/listing/#main-content",
+   "3x www.unicef.org/careers/  e.g. https://www.unicef.org/careers/"
   ],
-  "jsons": [
-   "3 Treffer in https://olivia.paradox.ai/api/widget/otrquqkakqzbhynlkvwm/rules?referrer=&widget_page_url=https:%2F%2Fcareers.marriott.com%2Fjobs%3Fkeywords%3Dintern% | keys=['default_value', 'id', 'matching', 'name', 'type'] | z.B. Page URL",
-   "3 Treffer in https://olivia.paradox.ai/api/widget/otrquqkakqzbhynlkvwm?request_language_code=en&source=2&catch_all_on=true&conversation_id=0&widget_target_id=17059 | keys=['alt_text', 'cms_id', 'description', 'intent_id', 'intent_name', 'is_allow_iframe', 'is_help_intent', 'media', 'media_meta_data', 'media_thumb', 'title', 'type', 'url'] | z.B. "
-  ],
+  "jsons": [],
   "api": []
  },
  {
-  "name": "Marriott",
-  "url": "https://jobs.marriott.com/marriott/jobs?keywords=intern",
-  "final": "https://careers.marriott.com/jobs?utm_source=marriottcareers&utm_medium=referralwebsite",
-  "title": "Search Jobs | Marriott International Careers",
-  "sigs": {
-   "oracle": [
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/my-profile/sign-in",
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/25119196/apply/email?posting_typ",
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26060409/apply/email?posting_typ",
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26106897/apply/email?posting_typ",
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26122236/apply/email?posting_typ",
-    "ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26125657/apply/email?posting_typ"
-   ]
-  },
+  "name": "UNICEF",
+  "url": "https://www.unicef.org/careers/",
+  "final": "https://www.unicef.org/careers/",
+  "title": "UNICEF Careers | UNICEF Careers",
+  "sigs": {},
   "links": [
-   "https://careers.marriott.com/jobs?utm_source=marriottcareers&utm_medium=referralwebsite#main",
-   "https://careers.marriott.com/ar/jobs",
-   "https://careers.marriott.com/jobs",
-   "https://careers.marriott.com/es/jobs",
-   "https://careers.marriott.com/el/jobs",
-   "https://careers.marriott.com/fr/jobs",
-   "https://careers.marriott.com/de/jobs",
-   "https://careers.marriott.com/id/jobs",
-   "https://careers.marriott.com/it/jobs",
-   "https://careers.marriott.com/ja/jobs",
-   "https://careers.marriott.com/ko/jobs",
-   "https://careers.marriott.com/pl/jobs",
-   "https://careers.marriott.com/pt/jobs",
-   "https://careers.marriott.com/ru/jobs",
-   "https://careers.marriott.com/th/jobs",
-   "https://careers.marriott.com/tr/jobs",
-   "https://careers.marriott.com/vi/jobs",
-   "https://careers.marriott.com/zh-cn/jobs",
-   "https://careers.marriott.com/zh-hk/jobs",
-   "https://careers.marriott.com/jobs?utm_source=marriottcareers&utm_medium=referralwebsite#",
-   "https://careers.marriott.com/brands/four-points-express/jobs",
-   "https://careers.marriott.com/brands/marriott-vacation-club/jobs",
-   "https://careers.marriott.com/brands/studiores/jobs",
-   "https://careers.marriott.com/la-baie-cook-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%99%E7%90%86-%E3%83%A9-%E3%83%99/job/P1-7362753-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/assistant-f-b-sales-and-reservation-manager-le-m%C3%A9ridien-saigon/job/P1-7451198-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/assistant-style-shift-leader/job/P1-4071657-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/assistant-style-shift-leader/job/P1-7064434-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/junior-technician/job/P1-5534144-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/senior-at-your-service-agent/job/P1-7560593-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "https://careers.marriott.com/senior-loss-prevention-officer/job/P1-7432056-0?utm_source=marriottcareers&utm_medium=referralwebsite"
+   "http://jobs.unicef.org/",
+   "https://www.unicef.org/careers/beware-fraudulent-job-offers",
+   "https://www.unicef.org/careers/unicef-job-categories"
   ],
   "error": null,
   "patterns": [
-   "18x careers.marriott.com/[^/]+/job/P1-\\d+-0  e.g. https://careers.marriott.com/la-baie-cook-%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%99%E7%90%86-%E3%83%A9-%E3%83%99/job/P1-7362753-0?utm_source=marriottcareers&utm_medium=referralwebsite",
-   "13x careers.marriott.com/brands/[^/]+/  e.g. https://careers.marriott.com/brands/apartments-by-marriott/",
-   "7x careers.marriott.com/brands/[^/]+/jobs  e.g. https://careers.marriott.com/brands/four-points-express/jobs",
-   "3x careers.marriott.com/brands/ac-hotels/  e.g. https://careers.marriott.com/brands/ac-hotels/",
-   "3x careers.marriott.com/brands/aloft/  e.g. https://careers.marriott.com/brands/aloft/"
+   "16x www.unicef.org/careers/[^/]+  e.g. https://www.unicef.org/careers/where-we-work",
+   "8x www.unicef.org/careers/  e.g. https://www.unicef.org/careers/#main-content",
+   "5x www.unicef.org/careers/stories/[^/]+  e.g. https://www.unicef.org/careers/stories/unv-and-unicef-launch-global-learning-townhall-series"
   ],
-  "jsons": [
-   "3 Treffer in https://olivia.paradox.ai/api/widget/otrquqkakqzbhynlkvwm/rules?referrer=&widget_page_url=https:%2F%2Fcareers.marriott.com%2Fjobs%3Futm_source%3Dmarri | keys=['default_value', 'id', 'matching', 'name', 'type'] | z.B. Page URL",
-   "3 Treffer in https://olivia.paradox.ai/api/widget/otrquqkakqzbhynlkvwm?request_language_code=en&source=2&catch_all_on=true&conversation_id=0&widget_target_id=17059 | keys=['alt_text', 'cms_id', 'description', 'intent_id', 'intent_name', 'is_allow_iframe', 'is_help_intent', 'media', 'media_meta_data', 'media_thumb', 'title', 'type', 'url'] | z.B. "
-  ],
+  "jsons": [],
   "api": []
  },
  {
-  "name": "Hilton",
-  "url": "https://jobs.hilton.com/us/en/search-results?keywords=intern",
-  "final": "https://jobs.hilton.com/us/en/search-results?keywords=intern",
-  "title": "Careers at Hilton | 404 | Not Found",
-  "sigs": {
-   "oracle": [
-    "efet.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP",
-    "efet.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&amp;action=ICE_JOB_SEARCH_RESP",
-    "efet.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING\\u0026action=ICE_JOB_SEARCH_RESP",
-    "efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
-    "efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-    "efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile/sign-in"
-   ]
-  },
-  "links": [
-   "https://efet.fa.us2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP",
-   "https://jobs.hilton.com/404",
-   "https://jobs.hilton.com/us/en/search-results?keywords=intern#",
-   "https://jobs.hilton.com/ar/",
-   "https://jobs.hilton.com/zh-hant/",
-   "https://jobs.hilton.com/fr/",
-   "https://jobs.hilton.com/de/",
-   "https://jobs.hilton.com/it/",
-   "https://jobs.hilton.com/ja/",
-   "https://jobs.hilton.com/pt-br/",
-   "https://jobs.hilton.com/es/",
-   "https://jobs.hilton.com/th/",
-   "https://jobs.hilton.com/tr/",
-   "https://jobs.hilton.com/vi/",
-   "https://jobs.hilton.com/",
-   "https://jobs.hilton.com/life-at-hilton",
-   "https://jobs.hilton.com/blogs",
-   "https://jobs.hilton.com/benefits",
-   "https://jobs.hilton.com/career-paths",
-   "https://jobs.hilton.com/hotel-career-paths",
-   "https://jobs.hilton.com/corporate-career-paths",
-   "https://jobs.hilton.com/early-career-paths",
-   "https://jobs.hilton.com/locations",
-   "https://jobs.hilton.com/united-states-canada-caribbean-latin-america",
-   "https://jobs.hilton.com/europe-middle-east-africa",
-   "https://jobs.hilton.com/asia-pacific",
-   "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
-   "https://jobs.hilton.com/career-paths/",
-   "https://jobs.hilton.com/404#",
-   "https://jobs.hilton.com/accommodations-accessibility-assistance"
-  ],
-  "error": null,
-  "patterns": [
-   "11x jobs.hilton.com/[^/]+  e.g. https://jobs.hilton.com/life-at-hilton",
-   "3x efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1  e.g. https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
-  ],
-  "jsons": [
-   "25 Treffer in https://jobs.hilton.com/_next/data/EVdmR52_fhTWyMQqv4A-r/en.json | keys=['__typename', 'contentBlocks', 'contentType', 'databaseId', 'dateGmt', 'id', 'isPreview', 'link', 'modifiedGmt', 'seo', 'title'] | z.B. Home",
-   "25 Treffer in https://jobs.hilton.com/_next/data/EVdmR52_fhTWyMQqv4A-r/en/life-at-hilton.json?slug=life-at-hilton | keys=['__typename', 'contentBlocks', 'contentType', 'databaseId', 'dateGmt', 'id', 'isPreview', 'link', 'modifiedGmt', 'seo', 'title'] | z.B. Life at Hilton",
-   "25 Treffer in https://jobs.hilton.com/_next/data/EVdmR52_fhTWyMQqv4A-r/en/benefits.json?slug=benefits | keys=['__typename', 'contentBlocks', 'contentType', 'databaseId', 'dateGmt', 'id', 'isPreview', 'link', 'modifiedGmt', 'seo', 'title'] | z.B. Benefits",
-   "3 Treffer in https://jobs.hilton.com/_next/data/EVdmR52_fhTWyMQqv4A-r/en/404.json | keys=['__typename', 'id', 'languageSwitcher', 'menuItems', 'name'] | z.B. Utility"
-  ],
-  "api": []
- },
- {
-  "name": "Accor",
-  "url": "https://careers.accor.com/global/en/search-results?keywords=intern",
-  "final": "https://careers.accor.com/global/en/search-results?keywords=intern",
-  "title": "Page not found | Accor",
-  "sigs": {
-   "phenom": [
-    "/widgets"
-   ]
-  },
-  "links": [
-   "https://careers.accor.com/global/en/blogs/2026-6/inspiring-the-next-generation-of-hospitality-talent",
-   "https://careers.accor.com/global/en/jobs?options=251%2C252%2C192%2C3%2C5%2C251%2C252%2C192%2C3%2C5&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "https://careers.accor.com/global/en/jobs?q=&options=201,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=194,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=195,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=204,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=212,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=219,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=225,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=224,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=230,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=236,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=237,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=238,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=243,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=198,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=199,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=209%2C&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=221,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=231,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=240,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=244,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?options=196,250&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "https://careers.accor.com/global/en/jobs?options=245&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "https://careers.accor.com/global/en/jobs?q=&options=202,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=216,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?options=246%2C246&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "https://careers.accor.com/global/en/jobs",
-   "https://careers.accor.com/global/en/business-development-jobs",
-   "https://careers.accor.com/global/en/corporate-social-responsibility-jobs"
-  ],
-  "error": null,
-  "patterns": [
-   "53x careers.accor.com/global/en/jobs  e.g. https://careers.accor.com/global/en/jobs?options=251%2C252%2C192%2C3%2C5%2C251%2C252%2C192%2C3%2C5&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "41x careers.accor.com/global/en/[^/]+  e.g. https://careers.accor.com/global/en/accor-at-a-glance",
-   "3x careers.accor.com/global/en/search-results  e.g. https://careers.accor.com/global/en/search-results?keywords=intern#",
-   "3x careers.accor.com/global/en/graduate-opportunities  e.g. https://careers.accor.com/global/en/graduate-opportunities"
-  ],
-  "jsons": [
-   "10 Treffer in https://sidebar.bugherd.com/sidebar/resources?apikey=soy8eekv9dxugrehonat6a | keys=['active', 'active_count', 'archived_at', 'created_at', 'deleted_at', 'id', 'inactive_count', 'name', 'project_id', 'task_count', 'updated_at'] | z.B. styling"
-  ],
-  "api": []
- },
- {
-  "name": "Accor",
-  "url": "https://careers.accor.com/",
-  "final": "https://careers.accor.com/global/en/",
-  "title": "Hospitality is a work of heart | Accor",
-  "sigs": {
-   "phenom": [
-    "/widgets"
-   ]
-  },
-  "links": [
-   "https://careers.accor.com/global/en/jobs?options=251%2C252%2C192%2C3%2C5%2C251%2C252%2C192%2C3%2C5&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "https://careers.accor.com/global/en/blogs/2026-6/inspiring-the-next-generation-of-hospitality-talent",
-   "https://careers.accor.com/global/en/jobs?q=&options=201,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=194,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=195,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=204,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=212,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=219,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=225,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=224,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=230,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=236,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=237,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=238,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=243,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=198,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=199,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=209%2C&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=221,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=231,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=240,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=244,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?options=196,250&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "https://careers.accor.com/global/en/jobs?options=245&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "https://careers.accor.com/global/en/jobs?q=&options=202,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?q=&options=216,&page=1&la=0&lo=0&lr=1",
-   "https://careers.accor.com/global/en/jobs?options=246%2C246&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "https://careers.accor.com/jobs",
-   "https://careers.accor.com/jobs?options=194,194&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "https://careers.accor.com/jobs?options=216,216&page=1&ln=&la=0&lo=0&lr=1&li="
-  ],
-  "error": null,
-  "patterns": [
-   "53x careers.accor.com/global/en/jobs  e.g. https://careers.accor.com/global/en/jobs?options=251%2C252%2C192%2C3%2C5%2C251%2C252%2C192%2C3%2C5&page=1&ln=&la=0&lo=0&lr=1&li=",
-   "41x careers.accor.com/global/en/[^/]+  e.g. https://careers.accor.com/global/en/accor-at-a-glance",
-   "4x careers.accor.com/global/en/  e.g. https://careers.accor.com/global/en/#",
-   "4x careers.accor.com/[^/]+  e.g. https://careers.accor.com/brand-page-sofitel",
-   "3x careers.accor.com/global/en/graduate-opportunities  e.g. https://careers.accor.com/global/en/graduate-opportunities"
-  ],
-  "jsons": [
-   "18 Treffer in https://deg3xyi07y58.cloudfront.net/ugc/v3/27feeeca-b5dd-4077-b487-995a35970eb7/ed641e51-977b-4dcd-8470-cf4785abb7fc.json | keys=['link', 'products', 'title'] | z.B. None",
-   "10 Treffer in https://sidebar.bugherd.com/sidebar/resources?apikey=soy8eekv9dxugrehonat6a | keys=['active', 'active_count', 'archived_at', 'created_at', 'deleted_at', 'id', 'inactive_count', 'name', 'project_id', 'task_count', 'updated_at'] | z.B. styling"
-  ],
-  "api": []
- },
- {
-  "name": "IHG",
-  "url": "https://careers.ihg.com/en/jobs?keywords=intern",
-  "final": "https://careers.ihg.com/en/jobs?keywords=intern",
+  "name": "UNDP",
+  "url": "https://www.undp.org/careers",
+  "final": "https://www.undp.org/careers",
   "title": "Access Denied",
   "sigs": {},
   "links": [],
@@ -304,10 +77,43 @@
   "api": []
  },
  {
-  "name": "IHG",
-  "url": "https://careers.ihg.com/",
-  "final": "https://careers.ihg.com/",
-  "title": "Access Denied",
+  "name": "UNDP",
+  "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+  "final": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+  "title": "UNDP Careers",
+  "sigs": {
+   "oracle": [
+    "estm.fa.em2.oraclecloud.com%2FhcmUI%2FCandidateExperience%2Fen%2Fsites%2FCX_1&wt.tv=1.0.4&wt.ce=1&wt.co_f=4",
+    "estm.fa.em2.oraclecloud.com&dcsuri=%2FhcmUI%2FCandidateExperience%2Fen%2Fsites%2FCX_1&wt.tz=0&wt.bh=21&wt.u",
+    "estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP",
+    "estm.fa.em2.oraclecloud.com/hcmRestApi/CandidateExperience/en/siteSettings/CX_1",
+    "estm.fa.em2.oraclecloud.com/hcmRestApi/CandidateExperience/en/sites/CX_1/page/15003?statusCode=ORA_ACTIVE&o",
+    "estm.fa.em2.oraclecloud.com/hcmRestApi/CandidateExperience/globalSettings"
+   ]
+  },
+  "links": [
+   "https://estm.fa.em2.oraclecloud.com/fscmUI/faces/deeplink?objType=IRC_RECRUITING&action=ICE_JOB_SEARCH_RESP",
+   "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs",
+   "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=POSTING_DATES&selectedPostingDatesFacet=30"
+  ],
+  "error": null,
+  "patterns": [
+   "9x estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions  e.g. https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=governance",
+   "4x www.undp.org/content/undp/en/home/[^/]+  e.g. https://www.undp.org/content/undp/en/home/sustainable-development-goals.html",
+   "4x www.undp.org/news-centre  e.g. https://www.undp.org/news-centre",
+   "4x www.undp.org/careers  e.g. https://www.undp.org/careers"
+  ],
+  "jsons": [
+   "31 Treffer in https://estm.fa.em2.oraclecloud.com/hcmRestApi/CandidateExperience/en/siteSettings/CX_1 | keys=['name', 'sublinks', 'text', 'url', 'visibleOnMobile'] | z.B. Report fraud, abuse, misconduct",
+   "3 Treffer in https://estm.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=flexFieldsFacet.values&finder=findReq | keys=['href', 'kind', 'name', 'rel'] | z.B. recruitingCEJobRequisitions"
+  ],
+  "api": []
+ },
+ {
+  "name": "UNHCR",
+  "url": "https://www.unhcr.org/careers",
+  "final": "https://www.unhcr.org/careers",
+  "title": "Nur einen Moment…",
   "sigs": {},
   "links": [],
   "error": null,
@@ -316,336 +122,222 @@
   "api": []
  },
  {
-  "name": "Hyatt",
-  "url": "https://careers.hyatt.com/en-US/careers/searchjobs?keyword=intern",
-  "final": "https://careers.hyatt.com/en-US/careers/error/404",
-  "title": "Hyatt - Careers",
-  "sigs": {},
+  "name": "UNHCR",
+  "url": "https://unhcr.wd3.myworkdayjobs.com/External",
+  "final": "https://unhcr.wd3.myworkdayjobs.com/External",
+  "title": "Search for Jobs",
+  "sigs": {
+   "workday": [
+    "unhcr/wd3/External",
+    "unhcr/wd3/videoplayerlabels"
+   ]
+  },
   "links": [
-   "https://careers.hyatt.com/en-US/careers/job-alerts"
+   "https://unhcr.wd3.myworkdayjobs.com/External",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Jakarta-Indonesia/Programme-Assistant_JR2668971-1",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Seoul-Korea-Republic-of/PSP-IG-Assistant_JR2668266",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/The-Hague-Netherlands/Assistant-PPH-Officer--Corporates-_JR2669024",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Kuala-Lumpur-Malaysia/Senior-PSP-Assistant--Digital-_JR2669023-1",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Kuala-Lumpur-Malaysia/PSP-Digital-and-Comms-Intern_JR2669013-1",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Hong-Kong-China/Senior-PPH-Assistant_JR2668764",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Kuala-Lumpur-Malaysia/PSP-Associate--Salesforce-Database-_JR2668979-1",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Sao-Paulo-Brazil/Database-Assistant_JR2668991",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Farchana-Chad/Driver_JR2668981-1",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Hadjer-Hadid-Chad/Community-Based-Protection-Associate_JR2668980-2",
+   "https://unhcr.wd3.myworkdayjobs.com/en-US/External/job/Budapest-GSC-Hungary/Head-of-Global-Shared-Services_JR2668926-1",
+   "https://www.unhcr.org/how-avoid-scams-and-fraudulent-job-offers"
   ],
   "error": null,
-  "patterns": [
-   "12x void(0)  e.g. javascript:void(0)"
-  ],
-  "jsons": [
-   "46 Treffer in https://careers.hyatt.com/customerinfo/hyatt.r-cfe9247.info.json | keys=['fragment', 'title', 'url'] | z.B. hyatt.navbar.pages.why_hyatt"
-  ],
+  "patterns": [],
+  "jsons": [],
   "api": []
  },
  {
-  "name": "Hyatt",
-  "url": "https://careers.hyatt.com/",
-  "final": "https://careers.hyatt.com/en-US/careers/",
-  "title": "Hyatt - Careers",
+  "name": "WFP",
+  "url": "https://www.wfp.org/careers/job-openings",
+  "final": "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
+  "title": "Search for Jobs",
   "sigs": {},
   "links": [
-   "https://careers.hyatt.com/en-US/careers/job-alerts",
-   "http://www.amresorts-jobs.com/"
+   "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Rome-Italy/Project-Manager_JR126329",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Guatemala-City-Guatemala-The-Republic-Of/Resilience-Consultant_JR128047-1",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Bekily-Madagascar-The-Democratic/Chauffeur-SC2--Multiple-Duty-Station_JR127842",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Rome-Italy/ITSM-Demand-Manager_JR127993",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Fort-Dauphin-Madagascar-The-Democratic/Medical-Officer-NOC_JR128179-1",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nouakchott-Mauritania-The-Islamic-Re/Charg-e--de-la-communication_JR128193",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Cairo-Egypt-Republic-of/Senior-Finance-Associate_JR128189",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Manila-Philippines-The-RepOf-Th/Procurement-Associate_JR128103-2",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gilgit-Pakistan-The-Islamic-Rep/Engineer---SC8---Skardu--Gilgit-Baltistan_JR128169",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nairobi-Kenya-The-Republic-Of/Security-Associate--G6--2-Positions----Nairobi---Marsabit_JR128138",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Lusaka-Zambia-The-Republic-Of/Programme-Policy-Officer---Enabled-Government-and-Partner-Programmes--Strategic-Outcome-3-Manager--CST-I_JR127934",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nairobi-Kenya-The-Republic-Of/Communications-Officer--Editorial---Communications-Coordination---SC8---Nairobi_JR128139",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Diffa-Niger-The-Republic-Of-The/Programme-Associate--Associ-e-au-Programme--cash-based-transfert--_JR128145",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gedaref-Sudan-The-Republic-Of-The/Site-Maintenance-SC-L2--Gedaref_JR128154",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Homs-Syria-The-Arab-Republic-O/VA052-2026-Programme-Policy-Officer--NOA--Homs_JR128158",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Homs-Syria-The-Arab-Republic-O/VA050-2026-Head-of-Field-Office--NOB--Homs_JR128152",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Beni-Congo-The-Dem-RepOf/Assistant-e---l-entretien-des-sites--SC-4----Beni--Rp-dem-du-Congo_JR128150",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Lusaka-Zambia-The-Republic-Of/Monitoring-Assistant-Roster--SSA3-_JR128037",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gaza-West-Bank--Gaza/Programme-Assistant--Protection--AAP---CFM---SC5--Gaza_JR127747-1",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Port-Sudan-Sudan-The-Republic-Of-The/Communications-Officer--SC8-Port-Sudan_JR128105",
+   "https://www.wfp.org/careers/fraudulent-job-offers"
   ],
   "error": null,
-  "patterns": [
-   "15x void(0)  e.g. javascript:void(0)"
-  ],
-  "jsons": [
-   "46 Treffer in https://careers.hyatt.com/customerinfo/hyatt.r-cfe9247.info.json | keys=['fragment', 'title', 'url'] | z.B. hyatt.navbar.pages.why_hyatt"
-  ],
+  "patterns": [],
+  "jsons": [],
   "api": []
  },
  {
-  "name": "Vapiano",
-  "url": "https://www.vapiano.de/de/karriere/",
-  "final": "https://www.vapiano.de/de/karriere/",
-  "title": "404 - Seite nicht gefunden!",
+  "name": "WFP",
+  "url": "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
+  "final": "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
+  "title": "Search for Jobs",
   "sigs": {},
   "links": [
-   "https://karriere.gastro-soul.de/jobs/vapiano"
+   "https://wd3.myworkdaysite.com/recruiting/wfp/job_openings",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Rome-Italy/Project-Manager_JR126329",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Guatemala-City-Guatemala-The-Republic-Of/Resilience-Consultant_JR128047-1",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Bekily-Madagascar-The-Democratic/Chauffeur-SC2--Multiple-Duty-Station_JR127842",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Rome-Italy/ITSM-Demand-Manager_JR127993",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Fort-Dauphin-Madagascar-The-Democratic/Medical-Officer-NOC_JR128179-1",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nouakchott-Mauritania-The-Islamic-Re/Charg-e--de-la-communication_JR128193",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Cairo-Egypt-Republic-of/Senior-Finance-Associate_JR128189",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Manila-Philippines-The-RepOf-Th/Procurement-Associate_JR128103-2",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gilgit-Pakistan-The-Islamic-Rep/Engineer---SC8---Skardu--Gilgit-Baltistan_JR128169",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nairobi-Kenya-The-Republic-Of/Security-Associate--G6--2-Positions----Nairobi---Marsabit_JR128138",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Lusaka-Zambia-The-Republic-Of/Programme-Policy-Officer---Enabled-Government-and-Partner-Programmes--Strategic-Outcome-3-Manager--CST-I_JR127934",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Nairobi-Kenya-The-Republic-Of/Communications-Officer--Editorial---Communications-Coordination---SC8---Nairobi_JR128139",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Diffa-Niger-The-Republic-Of-The/Programme-Associate--Associ-e-au-Programme--cash-based-transfert--_JR128145",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gedaref-Sudan-The-Republic-Of-The/Site-Maintenance-SC-L2--Gedaref_JR128154",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Homs-Syria-The-Arab-Republic-O/VA052-2026-Programme-Policy-Officer--NOA--Homs_JR128158",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Homs-Syria-The-Arab-Republic-O/VA050-2026-Head-of-Field-Office--NOB--Homs_JR128152",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Beni-Congo-The-Dem-RepOf/Assistant-e---l-entretien-des-sites--SC-4----Beni--Rp-dem-du-Congo_JR128150",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Lusaka-Zambia-The-Republic-Of/Monitoring-Assistant-Roster--SSA3-_JR128037",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Gaza-West-Bank--Gaza/Programme-Assistant--Protection--AAP---CFM---SC5--Gaza_JR127747-1",
+   "https://wd3.myworkdaysite.com/en-US/recruiting/wfp/job_openings/job/Port-Sudan-Sudan-The-Republic-Of-The/Communications-Officer--SC8-Port-Sudan_JR128105",
+   "https://www.wfp.org/careers/fraudulent-job-offers"
+  ],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "WWF Deutschland",
+  "url": "https://www.wwf.de/ueber-uns/jobs",
+  "final": "https://www.wwf.de/ueber-uns/jobs",
+  "title": "404 - Seite nicht gefunden",
+  "sigs": {},
+  "links": [
+   "https://www.wwf.de/ueber-uns/jobs#main"
   ],
   "error": null,
   "patterns": [
-   "5x www.vapiano.de/de/karriere/  e.g. https://www.vapiano.de/de/karriere/#main-content"
+   "3x www.wwf.de/presse  e.g. https://www.wwf.de/presse",
+   "3x www.wwf.de/spenden-helfen/mitgliederservice  e.g. https://www.wwf.de/spenden-helfen/mitgliederservice"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Vapiano",
-  "url": "https://www.vapiano.com/de/jobs/",
-  "final": "https://vapiano.com/de/jobs/",
-  "title": "Page not found | VAPIANO",
+  "name": "WWF Deutschland",
+  "url": "https://www.wwf.de/jobs",
+  "final": "https://www.wwf.de/ueber-uns/stellenangebote",
+  "title": "WWF Umwelt Jobs – Stellenangebote Natur- und Umwelt",
   "sigs": {},
   "links": [
-   "https://vapiano.com/de/jobs/#"
+   "https://www.wwf.de/ueber-uns/stellenangebote#main",
+   "https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/senior-controller-m-w-d-strategische-steuerung-transformation-no8sllx1",
+   "https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/advisor-m-w-d-fisheries-policy-qo7dpbhv",
+   "https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/social-media-redakteur-m-w-d-mit-tiktok-und-videoschwerpunkt-khljlmu5",
+   "https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/studentischer-mitarbeiter-m-w-d-it-ji920k4h",
+   "https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/studentischer-mittarbeiter-m-w-d-fundraising-r3w1jc6n",
+   "https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/teamleitung-m-w-d-circular-economy-4c0r2j30",
+   "https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/wwf-camp-teamer-m-w-d-n9nke43y",
+   "https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/praktikantin-in-der-nachhaltigkeitsberatung-m-w-d-5uuabdmz",
+   "https://www.wwf.de/ueber-uns/stellenangebote/weitere-jobs/praktikum-in-der-stiftung-nordwest-natur",
+   "https://www.jao-berlin.de/de/topic/153.einsatzstellen.html?id=16",
+   "https://wwf-at.onlyfy.jobs/job/0qr9ewr5",
+   "http://wwf.panda.org/jobs_wwf/",
+   "https://www.naturetrustalliance.org/jobs/",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wwf.de%2Fueber-uns%2Fstellenangebote&text=WWF%20Jobs%20%E2%80%93%20Aktuelle%20Stellenangebote%20des%20WWF",
+   "https://bsky.app/intent/compose?text=WWF%20Deutschland%20https%3A%2F%2Fwww.wwf.de%2Fueber-uns%2Fstellenangebote",
+   "whatsapp://send?text=WWF%20Deutschland%20https%3A%2F%2Fwww.wwf.de%2Fueber-uns%2Fstellenangebote"
   ],
   "error": null,
   "patterns": [
-   "10x vapiano.com/[^/]+/  e.g. https://vapiano.com/vapiano-mammut-opens-in-budapest/",
-   "5x hello@vapiano.eu  e.g. mailto:hello@vapiano.eu",
-   "4x vapiano.com/news/  e.g. https://vapiano.com/news/",
-   "3x vapiano.com/franchise/  e.g. https://vapiano.com/franchise/",
-   "3x vapiano.com/about/  e.g. https://vapiano.com/about/"
-  ],
-  "jsons": [
-   "17 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/1nJmv5gBov3_RT/5.1.7/5.1.7?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
-  ],
-  "api": []
- },
- {
-  "name": "Block House",
-  "url": "https://www.block-house.de/karriere/",
-  "final": "https://www.block-house.de/restaurants/karriere/",
-  "title": "Karriere in der Gastronomie | BLOCK HOUSE",
-  "sigs": {},
-  "links": [
-   "https://karriere.block-gruppe.de/stellenangebote.html?filter[aufgabengebiet_id][]=1"
-  ],
-  "error": null,
-  "patterns": [
-   "17x www.block-house.de/restaurants/karriere/  e.g. https://www.block-house.de/restaurants/karriere/#",
-   "10x www.block-house.de/speisekarte/  e.g. https://www.block-house.de/speisekarte/",
-   "7x www.block-house.de/restaurants/  e.g. https://www.block-house.de/restaurants/",
-   "7x www.block-house.de/reservieren/  e.g. https://www.block-house.de/reservieren/",
-   "7x www.block-house.de/suche/  e.g. https://www.block-house.de/suche/?products%5Bquery%5D="
+   "7x www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/[^/]+  e.g. https://www.wwf.de/ueber-uns/stellenangebote/stellenangebot/stelle/senior-controller-m-w-d-strategische-steuerung-transformation-no8sllx1",
+   "3x www.wwf.de/presse  e.g. https://www.wwf.de/presse",
+   "3x www.wwf.de/ueber-uns  e.g. https://www.wwf.de/ueber-uns",
+   "3x www.wwf.de/spenden-helfen/mitgliederservice  e.g. https://www.wwf.de/spenden-helfen/mitgliederservice"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Block House",
-  "url": "https://www.block-house.de/karriere/jobs/",
-  "final": "https://www.block-house.de/karriere/jobs/",
-  "title": "Seite nicht gefunden | BLOCK HOUSE",
+  "name": "WWF International",
+  "url": "https://wwf.panda.org/get_involved/jobs/",
+  "final": "https://wwf.panda.org/get_involved/jobs/",
+  "title": "403 Forbidden",
   "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "WWF International",
+  "url": "https://www.worldwildlife.org/about/careers",
+  "final": "https://www.worldwildlife.org/about/careers/",
+  "title": "Working at WWF | WWF",
+  "sigs": {
+   "smartrecruiters": [
+    "WorldWildlifeFundInc1"
+   ]
+  },
   "links": [
-   "https://www.block-house.de/karriere/jobs/#",
-   "https://www.block-house.de/karriere/jobs/#content"
+   "https://www.diversityjobs.com/world-wildlife-fund?utm_campaign=EmployerMember&utm_medium=badge&utm_source=WorldWildlifeFund"
   ],
   "error": null,
   "patterns": [
-   "14x www.block-house.de/karriere/jobs/  e.g. https://www.block-house.de/karriere/jobs/#",
-   "11x www.block-house.de/speisekarte/  e.g. https://www.block-house.de/speisekarte/",
-   "10x www.block-house.de/restaurants/  e.g. https://www.block-house.de/restaurants/",
-   "8x www.block-house.de/reservieren/  e.g. https://www.block-house.de/reservieren/",
-   "7x www.block-house.de/suche/  e.g. https://www.block-house.de/suche/?products%5Bquery%5D="
+   "8x www.worldwildlife.org/places/[^/]+/  e.g. https://www.worldwildlife.org/places/where-wwf-works-africa/",
+   "5x protect.worldwildlife.org/page/\\d+/action/1  e.g. https://protect.worldwildlife.org/page/52716/action/1?en_og_source=Web_Donation&ea.tracking.id=Web_Topnav&supporter.appealCode=AWE2604OQ18299A09177RX",
+   "4x www.worldwildlife.org/about/  e.g. https://www.worldwildlife.org/about/",
+   "4x www.worldwildlife.org/our-work/[^/]+/  e.g. https://www.worldwildlife.org/our-work/locally-led-conservation/",
+   "4x www.worldwildlife.org/places/conservation-areas/  e.g. https://www.worldwildlife.org/places/conservation-areas/"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "L'Osteria",
-  "url": "https://losteria.net/de/karriere/",
-  "final": "https://losteria.net/de/karriere/",
-  "title": "Karriere bei L'Osteria – Werde Teil der LA FAMIGLIA",
+  "name": "IFAW",
+  "url": "https://www.ifaw.org/careers",
+  "final": "https://www.ifaw.org/careers",
+  "title": "Careers | IFAW",
   "sigs": {
    "phenom": [
     "/widgets"
    ]
   },
   "links": [
-   "https://losteria.career.softgarden.de/#jobs%3Acategory%253D%255B%2522Finanzen%2522%252C%2522Personal%2522%252C%2522Handwerk%252C%2520Dienstleistung%2520und%2520Fertigung%2522%252C%2522Verwaltung%2522%252C%2522Ingenieure%2520und%2520technische%2520Berufe%2522%252C%2522Recht%2522%252C%2522Vertrieb%2520und%2520Verkauf%2522%255D"
+   "https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/Opportunity/OpportunityDetail?opportunityId=844e9b2d-5f20-40d9-acbe-922ef761d9e9",
+   "https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/Opportunity/OpportunityDetail?opportunityId=bde2c121-31be-4f55-ab1f-801fd9ce8f82"
   ],
   "error": null,
   "patterns": [
-   "42x losteria.net/de/karriere/  e.g. https://losteria.net/de/karriere/#",
-   "5x losteria.net/de/restaurants/  e.g. https://losteria.net/de/restaurants/",
-   "5x losteria.net/de/speisekarte/pizza/  e.g. https://losteria.net/de/speisekarte/pizza/",
-   "4x losteria.net/de/reservieren/  e.g. https://losteria.net/de/reservieren/",
-   "4x losteria.net/de/aktuelles/aktionen/  e.g. https://losteria.net/de/aktuelles/aktionen/"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "L'Osteria",
-  "url": "https://jobs.losteria.net/",
-  "final": null,
-  "title": null,
-  "sigs": {},
-  "links": [],
-  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.losteria.net/\nCall log:\n  - navigating to \"https://jobs.losteria.net/\", waiting until \"domcontentloaded\"\n",
-  "patterns": [],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Hans im Glück",
-  "url": "https://hansimglueck-burgergrill.de/karriere/",
-  "final": "https://hansimglueck-burgergrill.de/karriere/",
-  "title": "404",
-  "sigs": {},
-  "links": [
-   "https://hansimglueck-burgergrill.de/essen-bestellen/",
-   "https://hansimglueck-burgergrill.de/jobs/"
-  ],
-  "error": null,
-  "patterns": [],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Hans im Glück",
-  "url": "https://hansimglueck-burgergrill.de/jobs/",
-  "final": "https://hansimglueck-burgergrill.de/jobs/",
-  "title": "Karriere bei HANS IM GLÜCK – Entdecke unsere Jobs und Arbeitskultur",
-  "sigs": {},
-  "links": [
-   "https://hansimglueck-burgergrill.de/jobs/",
-   "https://hansimglueck-burgergrill.de/en/jobs/",
-   "https://hansimglueck-burgergrill.de/essen-bestellen/",
-   "https://hansimglueck-burgergrill.de/jobs/stelle-finden/",
-   "https://hansimglueck-burgergrill.de/jobs/stelle-finden/?job=Servicemitarbeiter",
-   "https://hansimglueck-burgergrill.de/jobs/stelle-finden/?job=K%C3%BCchenmitarbeiter&cHash=30a68e383e6682084fc4914fdd420517",
-   "https://hansimglueck-burgergrill.de/jobs/stelle-finden/?job=Barmitarbeiter",
-   "https://hansimglueck-burgergrill.de/jobs/stelle-finden/?job=Betriebsleiter",
-   "https://hansimglueck-burgergrill.de/jobs/stelle-finden/?city=all&job=Zentrale&cHash=4ed568c5e7a43b1e0a2a7183652948c0",
-   "https://hansimglueck-burgergrill.de/jobs/stelle-finden/?job=Zentrale&city=M%C3%BCnchen",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Amberg",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Amsterdam",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Augsburg",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Basel",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Berlin",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Bern",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Bielefeld",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Bochum",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Bonn",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Braunschweig",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Bremen",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Buchs",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Chemnitz",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Chur",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Den%20Haag",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Dortmund",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Dresden",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=D%C3%BCsseldorf",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Emmen",
-   "https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Erfurt"
-  ],
-  "error": null,
-  "patterns": [
-   "300x hansimglueck-burgergrill.de/[^/]+/stelle-finden/  e.g. https://hansimglueck-burgergrill.de/bei-uns-arbeiten/stelle-finden/?city=Amberg",
-   "12x hansimglueck-burgergrill.de/jobs/stelle-finden/  e.g. https://hansimglueck-burgergrill.de/jobs/stelle-finden/",
-   "7x hansimglueck-burgergrill.de/jobs/  e.g. https://hansimglueck-burgergrill.de/jobs/"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "FC Bayern",
-  "url": "https://fcbayern.com/de/club/jobs",
-  "final": "https://fcbayern.com/de/club/jobs",
-  "title": "FC Bayern München - Support",
-  "sigs": {},
-  "links": [],
-  "error": null,
-  "patterns": [],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "FC Bayern",
-  "url": "https://fcbayern.com/de/club/karriere",
-  "final": "https://fcbayern.com/de/club/karriere",
-  "title": "FC Bayern München - Support",
-  "sigs": {},
-  "links": [],
-  "error": null,
-  "patterns": [],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "FC Barcelona",
-  "url": "https://www.fcbarcelona.com/en/club/jobs",
-  "final": "https://www.fcbarcelona.com/en/club/jobs",
-  "title": "Sorry, an error has occurred",
-  "sigs": {
-   "phenom": [
-    "/widgets"
-   ]
-  },
-  "links": [],
-  "error": null,
-  "patterns": [
-   "11x www.fcbarcelona.com/en/tickets/[^/]+  e.g. https://www.fcbarcelona.com/en/tickets/things-to-do-in-barcelona?int=WB_26-27_K03-12&btm_source=WebBarca&btm_medium=NativeRibbon&btm_campaign=TSE_EN_TKT_ALL_WW",
-   "8x www.fcbarcelona.com/en/football/first-team/players/\\d+/[^/]+  e.g. https://www.fcbarcelona.com/en/football/first-team/players/5051/joao-pedro-cavaco-cancelo",
-   "6x www.fcbarcelona.com/en/club/members/[^/]+  e.g. https://www.fcbarcelona.com/en/club/members/26-27-pass",
-   "5x www.fcbarcelona.com/en/culers  e.g. https://www.fcbarcelona.com/en/culers",
-   "5x www.fcbarcelona.com/en/football/first-team/news  e.g. https://www.fcbarcelona.com/en/football/first-team/news?int=WB_26-27_K0-92&btm_source=WebBarca&btm_medium=MainMenu&btm_campaign=FIRSTTEAM_EN_TKT_FUT_WW"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "FC Barcelona",
-  "url": "https://careers.fcbarcelona.com/",
-  "final": null,
-  "title": null,
-  "sigs": {},
-  "links": [],
-  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.fcbarcelona.com/\nCall log:\n  - navigating to \"https://careers.fcbarcelona.com/\", waiting until \"domcontentloaded\"\n",
-  "patterns": [],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Real Madrid",
-  "url": "https://www.realmadrid.com/es-ES/el-club/empleo",
-  "final": "https://www.realmadrid.com/es-ES/el-club/empleo",
-  "title": "Real Madrid CF | Web oficial del Real Madrid CF",
-  "sigs": {},
-  "links": [],
-  "error": null,
-  "patterns": [
-   "5x www.realmadrid.com/es-ES/el-club/patrocinadores  e.g. https://www.realmadrid.com/es-ES/el-club/patrocinadores",
-   "4x www.realmadrid.com/es-ES/legal/[^/]+  e.g. https://www.realmadrid.com/es-ES/legal/politica-de-privacidad",
-   "3x www.realmadrid.com/es-ES/entradas  e.g. https://www.realmadrid.com/es-ES/entradas?filter-tickets=vip;general&filter-football=primer-equipo-masculino",
-   "3x www.realmadrid.com/es-ES/futbol/[^/]+  e.g. https://www.realmadrid.com/es-ES/futbol/primer-equipo-masculino"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Real Madrid",
-  "url": "https://www.realmadrid.com/en-US/the-club/jobs",
-  "final": "https://www.realmadrid.com/en-US/the-club/jobs",
-  "title": "Real Madrid CF | Web oficial del Real Madrid CF",
-  "sigs": {},
-  "links": [],
-  "error": null,
-  "patterns": [
-   "5x www.realmadrid.com/en-US/the-club/sponsors  e.g. https://www.realmadrid.com/en-US/the-club/sponsors"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Manchester United",
-  "url": "https://careers.manutd.com/",
-  "final": "https://careers.manutd.com/",
-  "title": "Jobs at Manchester United | Manchester United Careers",
-  "sigs": {},
-  "links": [
-   "https://careers.manutd.com/themes/11719/privacy_policy"
-  ],
-  "error": null,
-  "patterns": [
-   "17x careers.manutd.com/opportunities  e.g. https://careers.manutd.com/opportunities",
-   "4x careers.manutd.com/purpose  e.g. https://careers.manutd.com/purpose",
-   "3x careers.manutd.com/careers  e.g. https://careers.manutd.com/careers",
-   "3x careers.manutd.com/[^/]+  e.g. https://careers.manutd.com/life-at-united"
+   "4x www.ifaw.org/careers  e.g. https://www.ifaw.org/careers?form=join"
   ],
   "jsons": [
-   "4 Treffer in https://careers.manutd.com/postings.json?_=1793776344441 | keys=['benefits', 'benefits_header', 'compensation', 'compensation_currency', 'compensation_frequency', 'compensation_maximum', 'compensation_minimum', 'compensation_visible', 'deadline_at', 'description', 'employment_type', 'employment_type_text', 'id', 'job'] | z.B. Senior Manager, Commercial Development",
-   "4 Treffer in https://careers.manutd.com/postings.json?_=1793776344569 | keys=['benefits', 'benefits_header', 'compensation', 'compensation_currency', 'compensation_frequency', 'compensation_maximum', 'compensation_minimum', 'compensation_visible', 'deadline_at', 'description', 'employment_type', 'employment_type_text', 'id', 'job'] | z.B. Senior Manager, Commercial Development",
-   "4 Treffer in https://careers.manutd.com/postings.json?_=1793776344568 | keys=['benefits', 'benefits_header', 'compensation', 'compensation_currency', 'compensation_frequency', 'compensation_maximum', 'compensation_minimum', 'compensation_visible', 'deadline_at', 'description', 'employment_type', 'employment_type_text', 'id', 'job'] | z.B. Senior Manager, Commercial Development"
+   "70 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/pgstGFyjGbQhwG/67.45.139/67.45.139?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Targeting"
   ],
   "api": []
  },
  {
-  "name": "Manchester United",
-  "url": "https://www.manutd.com/en/careers",
-  "final": "https://www.manutd.com/en/careers",
-  "title": "Attention Required! | Cloudflare",
+  "name": "IFAW",
+  "url": "https://www.ifaw.org/de/karriere",
+  "final": "https://www.ifaw.org/de/karriere",
+  "title": "404 - Seite nicht gefunden.",
   "sigs": {},
   "links": [],
   "error": null,
@@ -654,139 +346,1061 @@
   "api": []
  },
  {
-  "name": "Manchester City",
-  "url": "https://www.mancity.com/club/careers",
-  "final": "https://www.mancity.com/club/careers",
-  "title": "Error 404",
-  "sigs": {},
-  "links": [],
-  "error": null,
-  "patterns": [
-   "12x www.mancity.com/[^/]+  e.g. https://www.mancity.com/manchester-city-women",
-   "6x www.mancity.com/citytv  e.g. https://www.mancity.com/citytv",
-   "6x www.mancity.com/fixtures  e.g. https://www.mancity.com/fixtures",
-   "6x www.mancity.com/tickets  e.g. https://www.mancity.com/tickets",
-   "6x www.mancity.com/store/products/[^/]+/  e.g. https://www.mancity.com/store/products/tour-and-museum/"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Manchester City",
-  "url": "https://careers.cityfootballgroup.com/",
-  "final": "https://careers.cityfootballgroup.com/",
-  "title": "Careers at City Football Group",
+  "name": "Welthungerhilfe",
+  "url": "https://www.welthungerhilfe.de/jobs/",
+  "final": "https://www.welthungerhilfe.de/ueber-uns/karriere",
+  "title": "Karriere & Jobs - Welthungerhilfe",
   "sigs": {
    "successfactors": [
-    "career5.successfactors.eu",
-    "jobs2web",
-    "rmkcdn.successfactors.com"
+    "career5.successfactors.eu/career?company=WelthungerP",
+    "career5.successfactors.eu/career?company=WelthungerP&amp;lang=de_DE",
+    "career5.successfactors.eu/career?company=WelthungerP&lang=de_DE"
    ]
   },
-  "links": [],
+  "links": [
+   "https://www.welthungerhilfe.org/jobs",
+   "http://www.devnetjobs.org/"
+  ],
   "error": null,
   "patterns": [
-   "7x cityfootballgroup.com/academies/[^/]+  e.g. https://cityfootballgroup.com/academies/city-football-academy-manchester",
-   "4x cityfootballgroup.com/clubs/[^/]+  e.g. https://cityfootballgroup.com/clubs/new-york-city",
-   "3x cityfootballgroup.com/company  e.g. https://cityfootballgroup.com/company"
+   "13x www.welthungerhilfe.de/ueber-uns/karriere  e.g. https://www.welthungerhilfe.de/ueber-uns/karriere#whh-main-nav",
+   "13x career5.successfactors.eu/career  e.g. https://career5.successfactors.eu/career?company=WelthungerP&lang=de_DE",
+   "8x www.welthungerhilfe.de/[^/]+  e.g. https://www.welthungerhilfe.de/zusatzleistungen-fuer-mitarbeitende-in-deutschland",
+   "6x www.welthungerhilfe.de/spenden/[^/]+  e.g. https://www.welthungerhilfe.de/spenden/spenden-per-ueberweisung",
+   "5x www.welthungerhilfe.de/spenden  e.g. https://www.welthungerhilfe.de/spenden"
+  ],
+  "jsons": [
+   "229 Treffer in https://www.welthungerhilfe.de/glossar/?tx_igxglossar_glossar[action]=ajax&tx_igxglossar_glossar[controller]=Glossar&_=1793826769400 | keys=['id', 'link', 'name', 'teaser'] | z.B. Advocacy"
+  ],
+  "api": []
+ },
+ {
+  "name": "Welthungerhilfe",
+  "url": "https://www.welthungerhilfe.de/ueber-uns/jobs",
+  "final": "https://www.welthungerhilfe.de/ueber-uns/jobs",
+  "title": "404 – Die gesuchte Seite wurde nicht gefunden - Welthungerhilfe",
+  "sigs": {},
+  "links": [
+   "https://www.welthungerhilfe.de/ueber-uns/jobs#whh-main-nav",
+   "https://www.welthungerhilfe.de/ueber-uns/jobs#toggle-search",
+   "https://www.welthungerhilfe.de/ueber-uns/jobs#main-content",
+   "https://www.welthungerhilfe.de/ueber-uns/jobs#main-footer",
+   "https://www.welthungerhilfe.de/ueber-uns/jobs#"
+  ],
+  "error": null,
+  "patterns": [
+   "10x www.welthungerhilfe.de/ueber-uns/jobs  e.g. https://www.welthungerhilfe.de/ueber-uns/jobs#whh-main-nav",
+   "6x www.welthungerhilfe.de/spenden/[^/]+  e.g. https://www.welthungerhilfe.de/spenden/spenden-per-ueberweisung",
+   "5x www.welthungerhilfe.de/spenden  e.g. https://www.welthungerhilfe.de/spenden",
+   "5x www.welthungerhilfe.de/[^/]+  e.g. https://www.welthungerhilfe.de/spenden-burkina-faso",
+   "4x www.welthungerhilfe.de/aktuelles/publikation  e.g. https://www.welthungerhilfe.de/aktuelles/publikation"
+  ],
+  "jsons": [
+   "229 Treffer in https://www.welthungerhilfe.de/glossar/?tx_igxglossar_glossar[action]=ajax&tx_igxglossar_glossar[controller]=Glossar&_=1793826838067 | keys=['id', 'link', 'name', 'teaser'] | z.B. Advocacy"
+  ],
+  "api": []
+ },
+ {
+  "name": "Caritas international",
+  "url": "https://www.caritas-international.de/ueberuns/jobs",
+  "final": "https://www.caritas-international.de/ueberuns/jobs",
+  "title": "Stellenangebote",
+  "sigs": {},
+  "links": [
+   "https://www.caritas-international.de/ueberuns/jobs#main",
+   "https://www.caritas-international.de/ueberuns/jobs/jobs.aspx",
+   "https://www.caritas-international.de/ueberuns/jobs#collapse31",
+   "https://www.caritas-international.de/ueberuns/jobs#b70f3b2d-ccc7-43a3-be1e-123acbf116db",
+   "https://www.caritas-international.de/ueberuns/jobs#f5a41586-01b9-4246-823c-ae672972e9d0",
+   "https://www.caritas-international.de/ueberuns/jobs#74bb9ca0-26af-4511-ab4d-efbdd2672d14",
+   "https://www.caritas-international.de/ueberuns/jobs#13825b1b-fe8b-4dde-8e97-78cb1488f7c4",
+   "https://www.caritas-international.de/ueberuns/jobs#32561fa8-2552-4d25-9937-ad01cb96a219",
+   "https://www.caritas-international.de/ueberuns/jobs#5ecb464c-e92f-44dd-94fb-c759479ac9f7",
+   "https://www.caritas-international.de/ueberuns/jobs#84ee3e29-5dbf-4b6f-aaa8-b398ba1d02a8",
+   "https://www.caritas-international.de/ueberuns/jobs#EmployerJobOffers",
+   "https://www.caritas-international.de/ueberuns/jobs#AllJobOffers",
+   "http://www.caritas-international.de/jobs/veranstaltungs-manager-in/3399708/",
+   "http://www.caritas-international.de/jobs/referent-in-kinder--jugend--familien--bildungspoli/3398041/",
+   "http://www.caritas-international.de/jobs/juristische-doktorand-innen/3275796/",
+   "https://www.caritas-international.de/ueberuns/jobs#tab-3337604",
+   "https://www.caritas-international.de/ueberuns/jobs#tab-3374836",
+   "https://www.caritas-international.de/ueberuns/jobs#tab-3383506",
+   "https://www.caritas-international.de/ueberuns/jobs/"
+  ],
+  "error": null,
+  "patterns": [
+   "14x www.caritas-international.de/ueberuns/jobs  e.g. https://www.caritas-international.de/ueberuns/jobs#main",
+   "8x www.caritas-international.de/spenden/[^/]+  e.g. https://www.caritas-international.de/spenden/hier-wird-hilfe-gebraucht",
+   "5x www.caritas-international.de/blog/blog  e.g. https://www.caritas-international.de/blog/blog",
+   "5x www.caritas-international.de/ueberuns/ueberuns  e.g. https://www.caritas-international.de/ueberuns/ueberuns",
+   "5x www.caritas-international.de/spenden/online/formular  e.g. https://www.caritas-international.de/spenden/online/formular"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Liverpool FC",
-  "url": "https://www.liverpoolfc.com/careers",
-  "final": "https://www.liverpoolfc.com/recruitment",
-  "title": "Liverpool FC — Join Our Club",
+  "name": "Caritas international",
+  "url": "https://www.caritas.de/jobs",
+  "final": "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/",
+  "title": "Freie Jobs: Jobbörse und Praktikumsbörse der Caritas in Deutschland",
   "sigs": {},
   "links": [
-   "https://jobsearch.liverpoolfc.com/?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-header-primary-cta&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=0",
-   "https://jobsearch.liverpoolfc.com/",
-   "https://www.liverpoolfc.com/theredway?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-feature&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=1",
-   "https://www.liverpoolfc.com/redtogether?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-feature&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=3",
-   "https://www.liverpoolfc.com/history/honours?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-card-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=4",
-   "https://www.liverpoolfc.com/foundation?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-card-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=4",
-   "https://www.liverpoolfc.com/corporate/charter?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-card-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=4",
-   "https://www.premierleague.com/equality-diversity-and-inclusion-standard?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-content-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=5",
-   "https://www.weareincludability.co.uk/?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-content-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=5",
-   "https://www.stonewall.org.uk/build-workplace-works-lgbtq-people?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-content-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=5",
-   "https://www.liverpoolfc.com/redtogether?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-content-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=5",
-   "https://www.gov.uk/government/publications/disability-confident-guidance-for-levels-1-2-and-3/level-1-disability-confident-committed?lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=basic-page-content-grid&lfm_page=%2Frecruitment&lfm_campaign=other-marketing-blocks&lfm_page_position=5"
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#main",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#carinet-menu",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#",
+   "https://www.caritas.de/diecaritas/deutschercaritasverband/standorte/geschaeftsstellen",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/jobs.aspx",
+   "https://www.caritas.de/fuerprofis/stellungnahmen/stellungnahmen-und-positionen",
+   "https://www.caritas.de/diecaritas/deutschercaritasverband/standorte/jobs-beim-deutschen-caritasverband-e.v/jobs-beim-deutschen-caritasverband-e.v",
+   "https://www.caritas.de/diecaritas/deutschercaritasverband/standorte/jobs-beim-deutschen-caritasverband-e.v/jobs/jobboerse",
+   "https://www.caritas.de/diecaritas/deutschercaritasverband/mitarbeitende/arbeitsrechtlichekommission/zentrale-schlichtungsstelle/zentrale-schlichtungsstelle",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/meinejobsuche/meinejobsuche",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/fuer-dienstgeber/jobs/registrierung",
+   "https://www.caritas.de/jobs/",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-1",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-23",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-30",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-38",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-48",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-58",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-0",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-2",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-13",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-3",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-4",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-5",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-6",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-7",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-8",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-9",
+   "https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#mm-10"
   ],
   "error": null,
   "patterns": [
-   "12x profile.liverpoolfc.com/en/register  e.g. https://profile.liverpoolfc.com/en/register?returnUrl=https://www.liverpoolfc.com&lfm_medium=marketing-block-other&lfm_source=cms&lfm_content=mega-menu-primary-promo-card&lfm_page=%2F%5B...slug%5D&lfm_campaign=other-marketing-blocks",
-   "7x www.liverpoolfc.com/info/contact-us  e.g. https://www.liverpoolfc.com/info/contact-us",
-   "7x www.facebook.com/LiverpoolFC  e.g. https://www.facebook.com/LiverpoolFC",
-   "7x uk.linkedin.com/company/[^/]+  e.g. https://uk.linkedin.com/company/liverpool-football-club",
-   "7x www.tiktok.com/@liverpoolfc  e.g. https://www.tiktok.com/@liverpoolfc"
+   "188x www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/  e.g. https://www.caritas.de/fuerprofis/arbeitenbeidercaritas/jobboerse/#main",
+   "18x void(0)  e.g. javascript:void(0)",
+   "12x www.caritas.de/hilfeundberatung/onlineberatung/[^/]+/start  e.g. https://www.caritas.de/hilfeundberatung/onlineberatung/allgemeine-soziale-beratung/start",
+   "12x www.caritas.de/fuerprofis/fachthemen/migration/[^/]+/[^/]+  e.g. https://www.caritas.de/fuerprofis/fachthemen/migration/migrationsdebatte-die-caritas-ordnet-ein/migrationsdebatte-die-caritas-ordnet-ein",
+   "10x www.caritas.de/magazin/zeitschriften/sozialcourage/archiv/jahrgang-\\d+/jahrgang-\\d+  e.g. https://www.caritas.de/magazin/zeitschriften/sozialcourage/archiv/jahrgang-2022/jahrgang-2022"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Diakonie Katastrophenhilfe",
+  "url": "https://www.diakonie-katastrophenhilfe.de/ueber-uns/jobs",
+  "final": "https://www.diakonie-katastrophenhilfe.de/ueber-uns/jobs",
+  "title": "404 - Diakonie Katastrophenhilfe",
+  "sigs": {},
+  "links": [
+   "https://www.diakonie-katastrophenhilfe.de/ueber-uns/jobs#"
+  ],
+  "error": null,
+  "patterns": [
+   "22x www.diakonie-katastrophenhilfe.de/ueber-uns  e.g. https://www.diakonie-katastrophenhilfe.de/ueber-uns",
+   "11x www.diakonie-katastrophenhilfe.de/projekte  e.g. https://www.diakonie-katastrophenhilfe.de/projekte",
+   "7x www.diakonie-katastrophenhilfe.de/themen  e.g. https://www.diakonie-katastrophenhilfe.de/themen",
+   "7x www.diakonie-katastrophenhilfe.de/spende  e.g. https://www.diakonie-katastrophenhilfe.de/spende",
+   "4x www.diakonie-katastrophenhilfe.de/gemeinden  e.g. https://www.diakonie-katastrophenhilfe.de/gemeinden"
   ],
   "jsons": [
-   "7 Treffer in https://backend.liverpoolfc.com/lfc-rest-api/globals?countryCode=US | keys=['description', 'id', 'link', 'title', 'type'] | z.B. Join ALL RED Essentials, your FREE, Official LFC Account",
-   "7 Treffer in https://backend.liverpoolfc.com/lfc-rest-api/globals?countryCode=US | keys=['description', 'id', 'link', 'title', 'type'] | z.B. Join ALL RED Essentials, your FREE, Official LFC Account",
-   "49 Treffer in https://backend.liverpoolfc.com/lfc-rest-api/redirects | keys=['id', 'name', 'source', 'target'] | z.B. Membership MyLFC to All Red",
-   "15 Treffer in https://backend.liverpoolfc.com/lfc-rest-api/basicpage/recruitment | keys=['description', 'featureVariant', 'id', 'image', 'imageCarousel', 'introText', 'layout', 'link', 'pillColor', 'pillTitle', 'title', 'type'] | z.B. The Liverpool Way"
+   "30 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/CdZms07aS/34.17.195/34.17.195?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
   ],
   "api": []
  },
  {
-  "name": "Liverpool FC",
-  "url": "https://careers.liverpoolfc.com/",
-  "final": "https://careers.liverpoolfc.com/members/index.php",
-  "title": "Liverpool Football Club Careers Hub",
+  "name": "Diakonie Katastrophenhilfe",
+  "url": "https://www.diakonie-katastrophenhilfe.de/jobs",
+  "final": "https://www.diakonie-katastrophenhilfe.de/jobs",
+  "title": "404 - Diakonie Katastrophenhilfe",
+  "sigs": {},
+  "links": [
+   "https://www.diakonie-katastrophenhilfe.de/jobs#"
+  ],
+  "error": null,
+  "patterns": [
+   "22x www.diakonie-katastrophenhilfe.de/ueber-uns  e.g. https://www.diakonie-katastrophenhilfe.de/ueber-uns",
+   "11x www.diakonie-katastrophenhilfe.de/projekte  e.g. https://www.diakonie-katastrophenhilfe.de/projekte",
+   "7x www.diakonie-katastrophenhilfe.de/themen  e.g. https://www.diakonie-katastrophenhilfe.de/themen",
+   "7x www.diakonie-katastrophenhilfe.de/spende  e.g. https://www.diakonie-katastrophenhilfe.de/spende",
+   "4x www.diakonie-katastrophenhilfe.de/gemeinden  e.g. https://www.diakonie-katastrophenhilfe.de/gemeinden"
+  ],
+  "jsons": [
+   "30 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/CdZms07aS/34.17.195/34.17.195?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
+  ],
+  "api": []
+ },
+ {
+  "name": "Misereor",
+  "url": "https://www.misereor.de/jobs",
+  "final": "https://www.misereor.de/ueber-misereor/jobs",
+  "title": "Jobs bei Misereor: Misereor",
   "sigs": {
    "phenom": [
     "/widgets"
    ]
   },
   "links": [
-   "https://jobsearch.liverpoolfc.com/",
-   "https://www.tribepad.com/looking-for-a-job/"
+   "https://www.misereor.de/ueber-misereor/jobs",
+   "https://www.misereor.de/ueber-misereor/jobs#c29026",
+   "https://www.misereor.de/ueber-misereor/jobs#c29106",
+   "https://www.misereor.de/ueber-misereor/jobs#c29000",
+   "https://www.misereor.de/ueber-misereor/jobs#carousel29457",
+   "https://www.misereor.de/ueber-misereor/jobs/job-details/muenchen/praktikantin-fuer-die-bildungs-und-netzwerkarbeit-m-w-d",
+   "https://www.agiamondo.de/bewerber/stellenmarkt/",
+   "https://www.misereor.de/ueber-misereor/jobs/ausbildung",
+   "https://www.misereor.de/ueber-misereor/jobs/praktikum",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-22",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-39",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-258",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-267",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-274",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-261",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-57",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-21",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-65",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-64",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-63",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-60",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-59",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-20",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-89",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-87",
+   "https://www.misereor.de/spenden/spendenaktionen/spendenaktion-erstellen",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-85",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-82",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-19",
+   "https://www.misereor.de/ueber-misereor/jobs#mainnavigation-subpages-for-117"
   ],
   "error": null,
   "patterns": [
-   "4x careers.liverpoolfc.com/members/index.php  e.g. https://careers.liverpoolfc.com/members/index.php#mainContent",
-   "3x careers.liverpoolfc.com/members/  e.g. https://careers.liverpoolfc.com/members/"
+   "48x www.misereor.de/ueber-misereor/jobs  e.g. https://www.misereor.de/ueber-misereor/jobs",
+   "8x www.misereor.de/informieren/[^/]+  e.g. https://www.misereor.de/informieren/menschenrechte-und-frieden-schuetzen",
+   "8x www.misereor.de/spenden/[^/]+  e.g. https://www.misereor.de/spenden/spenden-wo-es-am-noetigsten-ist",
+   "6x www.misereor.de/mitmachen/schule-unterricht/[^/]+  e.g. https://www.misereor.de/mitmachen/schule-unterricht/zeitschrift-fuer-lehrkraefte",
+   "6x www.misereor.de/mitmachen/gemeinden-gruppen/[^/]+  e.g. https://www.misereor.de/mitmachen/gemeinden-gruppen/gemeinden-fuer-klimaschutz"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Chelsea FC",
-  "url": "https://www.chelseafc.com/en/careers",
-  "final": "https://www.chelseafc.com/en/careers?ssoc=1",
-  "title": "Careers | Official Site | Chelsea Football Club",
-  "sigs": {},
+  "name": "Misereor",
+  "url": "https://www.misereor.de/ueber-uns/jobs",
+  "final": "https://www.misereor.de/ueber-uns/jobs",
+  "title": "404: Misereor",
+  "sigs": {
+   "phenom": [
+    "/widgets"
+   ]
+  },
   "links": [
-   "https://secure.workforceready.eu/ta/6189861.careers?CareersSearch"
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-22",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-39",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-258",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-267",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-274",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-261",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-57",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-21",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-65",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-64",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-63",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-60",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-59",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-20",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-89",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-87",
+   "https://www.misereor.de/spenden/spendenaktionen/spendenaktion-erstellen",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-85",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-82",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-19",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-117",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-115",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-116",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-112",
+   "https://www.misereor.de/ueber-misereor/jobs",
+   "https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-277",
+   "https://www.misereor.de/ueber-misereor/jobs/stellenangebote",
+   "https://www.misereor.de/ueber-misereor/jobs/praktikum",
+   "https://www.misereor.de/ueber-misereor/jobs/ausbildung",
+   "https://www.misereor.de/ueber-uns/jobs#"
   ],
   "error": null,
   "patterns": [
-   "17x www.chelseafc.com/en/[^/]+  e.g. https://www.chelseafc.com/en/non-matchday-venues-stamford-bridge",
-   "5x www.chelseafc.com/en/tickets/mens-tickets  e.g. https://www.chelseafc.com/en/tickets/mens-tickets",
-   "4x www.chelseafc.com/en/matches/[^/]+  e.g. https://www.chelseafc.com/en/matches/mens-fixtures-and-results",
-   "3x www.chelseafc.com/en/news/latest-news  e.g. https://www.chelseafc.com/en/news/latest-news",
-   "3x www.chelseafc.com/en/video/watch/watch-discover  e.g. https://www.chelseafc.com/en/video/watch/watch-discover"
+   "38x www.misereor.de/ueber-uns/jobs  e.g. https://www.misereor.de/ueber-uns/jobs#mainnavigation-subpages-for-22",
+   "8x www.misereor.de/informieren/[^/]+  e.g. https://www.misereor.de/informieren/menschenrechte-und-frieden-schuetzen",
+   "8x www.misereor.de/spenden/[^/]+  e.g. https://www.misereor.de/spenden/spenden-wo-es-am-noetigsten-ist",
+   "6x \\d+  e.g. tel:0241442907",
+   "6x www.misereor.de/kontakt/kontaktformular  e.g. https://www.misereor.de/kontakt/kontaktformular?contactUid=79&referrerUid=333&cHash=1de3c382fde0c92dda7e0c66cc4ee452"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Kindernothilfe",
+  "url": "https://www.kindernothilfe.de/jobs",
+  "final": "https://www.kindernothilfe.de/jobs-und-karriere",
+  "title": "Jobs und Karriere | Kindernothilfe e. V.",
+  "sigs": {
+   "phenom": [
+    "/widgets"
+   ]
+  },
+  "links": [
+   "https://www.kindernothilfe.de/jobs-und-karriere#mainContent",
+   "https://www.kindernothilfe.de/jobs-und-karriere",
+   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt",
+   "https://www.kindernothilfe.de/jobs-und-karriere/wie-wir-arbeiten",
+   "https://www.kindernothilfe.de/jobs-und-karriere/einstiegsmoeglichkeiten",
+   "https://www.kindernothilfe.de/jobs-und-karriere/praktikumsprogramm",
+   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2004089",
+   "https://www.kindernothilfe.de/jobs-und-karriere/faqs",
+   "https://www.kindernothilfe.de/jobs-und-karriere#mainHeading",
+   "https://www.kindernothilfe.de/informieren/ueber-die-kindernothilfe/anfahrt-geschaeftsstelle",
+   "https://www.kindernothilfe.de/jobs-und-karriere#"
+  ],
+  "error": null,
+  "patterns": [
+   "30x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/",
+   "15x www.kindernothilfe.de/[^/]+  e.g. https://www.kindernothilfe.de/jobs-und-karriere#mainContent",
+   "8x www.tiktok.com/legal/privacy-policy  e.g. https://www.tiktok.com/legal/privacy-policy?lang=en",
+   "8x privacy.microsoft.com/en-US/privacystatement  e.g. https://privacy.microsoft.com/en-US/privacystatement",
+   "7x www.haufe.de/datenschutzerklaerung_24_\\d+.html  e.g. https://www.haufe.de/datenschutzerklaerung_24_360.html?_ga=2.25712510.2118662886.1516026902-1046601484.1501084227"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Kindernothilfe",
+  "url": "https://www.kindernothilfe.de/ueber-uns/jobs",
+  "final": "https://www.kindernothilfe.de/ueber-uns/jobs",
+  "title": "Seite nicht gefunden | Kindernothilfe e. V.",
+  "sigs": {},
+  "links": [
+   "https://www.kindernothilfe.de/ueber-uns/jobs#mainContent",
+   "https://www.kindernothilfe.de/jobs-und-karriere",
+   "https://www.kindernothilfe.de/ueber-uns/jobs#mainHeading",
+   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt",
+   "https://www.kindernothilfe.de/jobs-und-karriere/wie-wir-arbeiten",
+   "https://www.kindernothilfe.de/informieren/ueber-die-kindernothilfe/anfahrt-geschaeftsstelle",
+   "https://www.kindernothilfe.de/ueber-uns/jobs",
+   "https://www.kindernothilfe.de/ueber-uns/jobs#"
+  ],
+  "error": null,
+  "patterns": [
+   "30x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/",
+   "8x www.tiktok.com/legal/privacy-policy  e.g. https://www.tiktok.com/legal/privacy-policy?lang=en",
+   "8x privacy.microsoft.com/en-US/privacystatement  e.g. https://privacy.microsoft.com/en-US/privacystatement",
+   "7x www.haufe.de/datenschutzerklaerung_24_\\d+.html  e.g. https://www.haufe.de/datenschutzerklaerung_24_360.html?_ga=2.25712510.2118662886.1516026902-1046601484.1501084227",
+   "7x stripe.com/privacy  e.g. https://stripe.com/privacy"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Amnesty International",
+  "url": "https://www.amnesty.org/en/careers/",
+  "final": "https://www.amnesty.org/en/careers/",
+  "title": "Careers - Amnesty International",
+  "sigs": {},
+  "links": [
+   "https://careers.amnesty.org/vacancy/find/results/"
+  ],
+  "error": null,
+  "patterns": [
+   "6x www.amnesty.org/en/about-us/  e.g. https://www.amnesty.org/en/about-us/",
+   "6x www.youtube.com/watch  e.g. https://www.youtube.com/watch?v=fhQk0KnY054&feature=youtu.be",
+   "5x www.amnesty.org/en/careers/  e.g. https://www.amnesty.org/en/careers/",
+   "5x www.amnesty.org/en/[^/]+/  e.g. https://www.amnesty.org/en/what-we-do/",
+   "3x www.amnesty.org/en/get-involved/  e.g. https://www.amnesty.org/en/get-involved/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Amnesty International",
+  "url": "https://www.amnesty.de/mitmachen/jobs",
+  "final": "https://www.amnesty.de/mitmachen/jobs",
+  "title": "404-Seite | Amnesty International",
+  "sigs": {
+   "personio": [
+    "amnesty-international-deutschland"
+   ]
+  },
+  "links": [
+   "https://www.amnesty.de/mitmachen/jobs#",
+   "https://www.amnesty.de/mitmachen/jobs#main-content",
+   "https://amnesty-international-deutschland.jobs.personio.de/",
+   "https://www.amnesty.de/mitmachen/jobs#qr-popup"
+  ],
+  "error": null,
+  "patterns": [
+   "50x www.amnesty.de/mitmachen/jobs  e.g. https://www.amnesty.de/mitmachen/jobs#",
+   "7x www.amnesty.de/index.php/[^/]+  e.g. https://www.amnesty.de/index.php/israel-palaestina-gaza-nahostkonflikt",
+   "6x www.amnesty.de/mitmachen/[^/]+  e.g. https://www.amnesty.de/mitmachen/werde-sofort-aktiv",
+   "4x www.amnesty.de/pressemitteilung/[^/]+  e.g. https://www.amnesty.de/pressemitteilung/istgh-strafgerichtshof-us-sanktionen",
+   "3x stripe.com/privacy  e.g. https://stripe.com/privacy"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Human Rights Watch",
+  "url": "https://www.hrw.org/careers",
+  "final": "https://www.hrw.org/careers",
+  "title": "Careers | Human Rights Watch",
+  "sigs": {
+   "greenhouse": [
+    "humanrightswatch"
+   ]
+  },
+  "links": [
+   "https://www.hrw.org/careers#all_jobs",
+   "https://www.hrw.org/sites/default/files/media_2023/06/careers_faq.pdf",
+   "https://job-boards.greenhouse.io/humanrightswatch/jobs/8927767002",
+   "https://job-boards.greenhouse.io/humanrightswatch/jobs/8909714002",
+   "https://job-boards.greenhouse.io/humanrightswatch/jobs/8837312002",
+   "https://job-boards.greenhouse.io/humanrightswatch/jobs/8464516002",
+   "https://job-boards.greenhouse.io/humanrightswatch/jobs/8766367002"
+  ],
+  "error": null,
+  "patterns": [
+   "17x www.hrw.org/careers  e.g. https://www.hrw.org/careers#hrw-cookie-dialog",
+   "10x job-boards.greenhouse.io/humanrightswatch/jobs/\\d+  e.g. https://job-boards.greenhouse.io/humanrightswatch/jobs/8927767002",
+   "6x www.hrw.org/topic/[^/]+  e.g. https://www.hrw.org/topic/crisis-and-conflict",
+   "4x donate.hrw.org/page/\\d+/donate/1  e.g. https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EP2022EVpgdonate&promo_id=1000",
+   "3x www.hrw.org/publications  e.g. https://www.hrw.org/publications"
   ],
   "jsons": [
-   "54 Treffer in https://www.chelseafc.com/en/api/sponsors/footer?contentId=32ahWcttljOU0sIWyabchD&countryCode=US | keys=['id', 'isActive', 'isExternal', 'title', 'url'] | z.B. Circle"
+   "23 Treffer in https://boards-api.greenhouse.io/v1/boards/humanrightswatch/jobs?content=true | keys=['absolute_url', 'ai_disclaimer', 'ai_opt_out_request_url', 'application_deadline', 'company_name', 'content', 'data_compliance', 'departments', 'first_published', 'id', 'include_ai_disclaimer', 'internal_job_id', 'language', 'location'] | z.B. Advisor, Talent Acquisition and Global Mobility"
   ],
   "api": []
  },
  {
-  "name": "Chelsea FC",
-  "url": "https://careers.chelseafc.com/",
-  "final": null,
-  "title": null,
+  "name": "Human Rights Watch",
+  "url": "https://careers.hrw.org/",
+  "final": "https://www.hrw.org/careers",
+  "title": "Careers | Human Rights Watch",
+  "sigs": {
+   "greenhouse": [
+    "humanrightswatch"
+   ]
+  },
+  "links": [
+   "https://www.hrw.org/careers#all_jobs",
+   "https://www.hrw.org/sites/default/files/media_2023/06/careers_faq.pdf",
+   "https://job-boards.greenhouse.io/humanrightswatch/jobs/8927767002",
+   "https://job-boards.greenhouse.io/humanrightswatch/jobs/8909714002",
+   "https://job-boards.greenhouse.io/humanrightswatch/jobs/8837312002",
+   "https://job-boards.greenhouse.io/humanrightswatch/jobs/8464516002",
+   "https://job-boards.greenhouse.io/humanrightswatch/jobs/8766367002"
+  ],
+  "error": null,
+  "patterns": [
+   "17x www.hrw.org/careers  e.g. https://www.hrw.org/careers#hrw-cookie-dialog",
+   "10x job-boards.greenhouse.io/humanrightswatch/jobs/\\d+  e.g. https://job-boards.greenhouse.io/humanrightswatch/jobs/8927767002",
+   "6x www.hrw.org/topic/[^/]+  e.g. https://www.hrw.org/topic/crisis-and-conflict",
+   "4x donate.hrw.org/page/\\d+/donate/1  e.g. https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EP2022EVpgdonate&promo_id=1000",
+   "3x www.hrw.org/publications  e.g. https://www.hrw.org/publications"
+  ],
+  "jsons": [
+   "23 Treffer in https://boards-api.greenhouse.io/v1/boards/humanrightswatch/jobs?content=true | keys=['absolute_url', 'ai_disclaimer', 'ai_opt_out_request_url', 'application_deadline', 'company_name', 'content', 'data_compliance', 'departments', 'first_published', 'id', 'include_ai_disclaimer', 'internal_job_id', 'language', 'location'] | z.B. Advisor, Talent Acquisition and Global Mobility"
+  ],
+  "api": []
+ },
+ {
+  "name": "GIZ",
+  "url": "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29",
+  "final": "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12",
+  "title": "Unsere Stellenangebote | Karriereportal | Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+  "sigs": {
+   "phenom": [
+    "/widgets"
+   ],
+   "beesite": [
+    "beesite",
+    "milchundzucker"
+   ]
+  },
+  "links": [
+   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-main-heading",
+   "https://jobs.giz.de/index.php?ac=login",
+   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading",
+   "https://jobs.giz.de/index.php?ac=search_result",
+   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level[]=26",
+   "https://jobs.giz.de/index.php?ac=statuspage&uid=0",
+   "https://jobs.giz.de/index.php?ac=statuspage",
+   "https://jobs.giz.de/index.php?ac=applicationstate",
+   "https://jobs.giz.de/index.php?ac=messages",
+   "https://jobs.giz.de/index.php?ac=logindata",
+   "https://jobs.giz.de/index.php?ac=job_merker",
+   "https://jobs.giz.de/index.php?ac=jobabo_overview",
+   "https://jobs.giz.de/index.php?ac=event",
+   "https://jobs.giz.de/index.php?ac=profile_application",
+   "https://jobs.giz.de/index.php?ac=privacy_statements",
+   "https://jobs.giz.de/index.php?ac=jobabo",
+   "https://jobs.giz.de/(!'uid=lang');",
+   "https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=1",
+   "https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=2",
+   "https://jobs.giz.de/index.php?ac=lost_password",
+   "https://jobs.giz.de/index.php?ac=lost_username",
+   "https://jobs.giz.de/index.php?ac=register",
+   "https://jobs.giz.de/index.php?ac=privacy_policy",
+   "https://jobs.giz.de/index.php?ac=imprint",
+   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#",
+   "https://jobs.giz.de/index.php",
+   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-search-result-heading",
+   "https://www.linkedin.com/shareArticle?mini=true&url=ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ&title=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ",
+   "https://wa.me/?text=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ%20ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ",
+   "https://jobs.giz.de/index.php?ac=accessibility"
+  ],
+  "error": null,
+  "patterns": [
+   "37x jobs.giz.de/index.php  e.g. https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-main-heading"
+  ],
+  "jsons": [
+   "4 Treffer in https://jobs.giz.de/assets/js/jobboard-giz.config.json | keys=['channel', 'date', 'id', 'job_id', 'location', 'title', 'uri'] | z.B. PositionTitle"
+  ],
+  "api": []
+ },
+ {
+  "name": "GIZ",
+  "url": "https://www.giz.de/de/jobs/",
+  "final": "https://www.giz.de/de/karriere/jobs",
+  "title": "Karrieremöglichkeiten | GIZ",
+  "sigs": {},
+  "links": [
+   "https://www.giz.de/de/karriere/jobs#main-content",
+   "https://www.giz.de/de/karriere/jobs#footer-content",
+   "https://www.giz.de/en/career/jobs",
+   "https://www.giz.de/de/karriere/jobs",
+   "https://www.giz.de/de/karriere/jobs#fuer-berufserfahrene",
+   "https://www.giz.de/de/karriere/jobs#fuer-einsteigerinnen",
+   "https://www.giz.de/de/karriere/jobs/weltweit",
+   "https://www.giz.de/de/karriere/jobs/deutschland",
+   "https://www.giz.de/de/karriere/jobs/digital",
+   "https://www.giz.de/de/karriere/jobs/entwicklungsdienst",
+   "https://www.giz.de/de/karriere/jobs/integrierte-fachkraefte",
+   "https://www.giz.de/de/karriere/jobs/ausbildung",
+   "https://www.giz.de/de/karriere/jobs/praktikum",
+   "https://www.giz.de/de/karriere/jobs/duales-studium",
+   "https://www.giz.de/de/karriere/jobs/trainee",
+   "https://jobs.giz.de/index.php?ac=search_result"
+  ],
+  "error": null,
+  "patterns": [
+   "7x www.giz.de/de/karriere/jobs  e.g. https://www.giz.de/de/karriere/jobs#main-content",
+   "3x www.giz.de/de/ueber-uns/organisation/vorstand/[^/]+  e.g. https://www.giz.de/de/ueber-uns/organisation/vorstand/thorsten-schaefer-guembel"
+  ],
+  "jsons": [
+   "222 Treffer in https://www.giz.de/de/glossary/list | keys=['id', 'label', 'name', 'text'] | z.B. AA"
+  ],
+  "api": []
+ },
+ {
+  "name": "KfW",
+  "url": "https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/",
+  "final": "https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/",
+  "title": "HTTP 404 | KfW",
+  "sigs": {},
+  "links": [
+   "https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/#main-anchor",
+   "https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/#",
+   "https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Pressematerial/Kontakt-Pressestelle/",
+   "https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/#top"
+  ],
+  "error": null,
+  "patterns": [
+   "15x www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/  e.g. https://www.kfw.de/KfW-Konzern/Karriere/Stellenangebote/#main-anchor"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "KfW",
+  "url": "https://jobs.kfw.de/",
+  "final": "https://jobs.kfw.de/index.php?ac=start",
+  "title": "Startseite | Karriereportal | KfW Bankengruppe - Karriereportal",
+  "sigs": {
+   "phenom": [
+    "/widgets"
+   ],
+   "beesite": [
+    "beesite"
+   ]
+  },
+  "links": [
+   "https://jobs.kfw.de/index.php?ac=start#skip-to-main-heading",
+   "https://jobs.kfw.de/index.php?ac=login",
+   "https://jobs.kfw.de/index.php?ac=start#skip-to-mainnav-heading",
+   "https://jobs.kfw.de/index.php",
+   "https://jobs.kfw.de/index.php?ac=search_result",
+   "https://jobs.kfw.de/index.php?ac=statuspage&uid=0",
+   "https://jobs.kfw.de/index.php?ac=statuspage",
+   "https://jobs.kfw.de/index.php?ac=applicationstate",
+   "https://jobs.kfw.de/index.php?ac=messages",
+   "https://jobs.kfw.de/index.php?ac=logindata",
+   "https://jobs.kfw.de/index.php?ac=job_merker",
+   "https://jobs.kfw.de/index.php?ac=jobabo_overview",
+   "https://jobs.kfw.de/index.php?ac=event",
+   "https://jobs.kfw.de/index.php?ac=profile_application",
+   "https://jobs.kfw.de/index.php?ac=jobabo",
+   "https://jobs.kfw.de/(!'uid=lang');",
+   "https://jobs.kfw.de/index.php?ac=start&language=1",
+   "https://jobs.kfw.de/index.php?ac=start&language=2",
+   "https://jobs.kfw.de/index.php?ac=lost_username",
+   "https://jobs.kfw.de/index.php?ac=lost_password",
+   "https://jobs.kfw.de/index.php?ac=register",
+   "https://jobs.kfw.de/index.php?ac=imprint",
+   "https://jobs.kfw.de/index.php?ac=privacy_policy",
+   "https://jobs.kfw.de/index.php?ac=contact",
+   "https://jobs.kfw.de/#"
+  ],
+  "error": null,
+  "patterns": [
+   "30x jobs.kfw.de/index.php  e.g. https://jobs.kfw.de/index.php?ac=start#skip-to-main-heading"
+  ],
+  "jsons": [
+   "17 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/_ytECDtkj/54.30.192/54.30.192?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Essenziell"
+  ],
+  "api": []
+ },
+ {
+  "name": "Brot für die Welt",
+  "url": "https://www.brot-fuer-die-welt.de/ueber-uns/jobs/",
+  "final": "https://www.brot-fuer-die-welt.de/ueber-uns/jobs/",
+  "title": "40x | Brot für die Welt",
+  "sigs": {},
+  "links": [
+   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/",
+   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/",
+   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/im-ausland-arbeiten/",
+   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/freiwillige/"
+  ],
+  "error": null,
+  "patterns": [
+   "10x www.brot-fuer-die-welt.de/spenden/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/spenden/einsatz-der-spendengelder/",
+   "6x www.brot-fuer-die-welt.de/spenden/  e.g. https://www.brot-fuer-die-welt.de/spenden/",
+   "6x void(0);  e.g. javascript:void(0);",
+   "3x www.brot-fuer-die-welt.de/service-kontakt/  e.g. https://www.brot-fuer-die-welt.de/service-kontakt/",
+   "3x www.brot-fuer-die-welt.de/ueber-uns/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/"
+  ],
+  "jsons": [
+   "32 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/mB_HKjn9o/137.25.303/137.25.303?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
+  ],
+  "api": []
+ },
+ {
+  "name": "Brot für die Welt",
+  "url": "https://www.brot-fuer-die-welt.de/jobs/",
+  "final": "https://www.brot-fuer-die-welt.de/jobs/",
+  "title": "40x | Brot für die Welt",
+  "sigs": {},
+  "links": [
+   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/",
+   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/",
+   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/im-ausland-arbeiten/",
+   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/freiwillige/"
+  ],
+  "error": null,
+  "patterns": [
+   "10x www.brot-fuer-die-welt.de/spenden/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/spenden/einsatz-der-spendengelder/",
+   "6x www.brot-fuer-die-welt.de/spenden/  e.g. https://www.brot-fuer-die-welt.de/spenden/",
+   "6x void(0);  e.g. javascript:void(0);",
+   "3x www.brot-fuer-die-welt.de/service-kontakt/  e.g. https://www.brot-fuer-die-welt.de/service-kontakt/",
+   "3x www.brot-fuer-die-welt.de/ueber-uns/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/"
+  ],
+  "jsons": [
+   "32 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/mB_HKjn9o/137.25.303/137.25.303?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
+  ],
+  "api": []
+ },
+ {
+  "name": "NABU",
+  "url": "https://www.nabu.de/wir-ueber-uns/jobs/",
+  "final": "https://www.nabu.de/index.html",
+  "title": "Wir sind die Naturschutzmacher*innen!",
   "sigs": {},
   "links": [],
-  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.chelseafc.com/\nCall log:\n  - navigating to \"https://careers.chelseafc.com/\", waiting until \"domcontentloaded\"\n",
+  "error": null,
+  "patterns": [
+   "25x +\\d+  e.g. tel:+49302849841560",
+   "4x www.nabu.de/index.html  e.g. https://www.nabu.de/index.html"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "NABU",
+  "url": "https://jobs.nabu.de/",
+  "final": "https://jobs.nabu.de/de",
+  "title": "NABU-Jobbörse",
+  "sigs": {},
+  "links": [
+   "https://www.nabu.de/wir-ueber-uns/jobboerse/index.html?ref=nav",
+   "https://jobs.nabu.de/de",
+   "https://jobs.nabu.de/de?id=7e09e3",
+   "https://jobs.nabu.de/de?id=1997e3",
+   "https://jobs.nabu.de/de?id=c9f14c",
+   "https://jobs.nabu.de/de?id=95e274",
+   "https://jobs.nabu.de/de?id=dd68e0",
+   "https://jobs.nabu.de/de?id=1a66b1"
+  ],
+  "error": null,
+  "patterns": [
+   "6x www.google.com/maps/search/  e.g. https://www.google.com/maps/search/?api=1&query=Blumberger%20M%C3%BChle%202%2C%2016278%20Angerm%C3%BCnde%2C%20Deutschland"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Plan International",
+  "url": "https://www.plan.de/ueber-uns/jobs.html",
+  "final": "https://www.plan.de/ueber-uns/jobs.html",
+  "title": "Die Seite wurde nicht gefunden",
+  "sigs": {},
+  "links": [
+   "https://www.plan.de/ueber-uns/jobs.html#",
+   "https://www.plan.de/ueber-uns/jobs.html#main",
+   "https://jobs.plan.de/",
+   "https://www.plan.de/ueber-uns/jobs.html#top"
+  ],
+  "error": null,
+  "patterns": [
+   "49x www.plan.de/ueber-uns/jobs.html  e.g. https://www.plan.de/ueber-uns/jobs.html#",
+   "7x www.plan.de/[^/]+  e.g. https://www.plan.de/engagement-von-und-fuer-schulen.html",
+   "4x www.plan.de/patenschaft.html  e.g. https://www.plan.de/patenschaft.html",
+   "4x www.plan.de/[^/]+/[^/]+  e.g. https://www.plan.de/wie-wir-arbeiten/safeguarding-heisst-kinder-innerhalb-unserer-organisation-schuetzen.html",
+   "3x www.plan.de/datenschutz.html  e.g. https://www.plan.de/datenschutz.html"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Plan International",
+  "url": "https://plan-international.org/careers/",
+  "final": "https://plan-international.org/about/jobs/",
+  "title": "Jobs at Plan International | Plan International",
+  "sigs": {},
+  "links": [
+   "https://plan-international.org/about/jobs/",
+   "https://jobs.plan-international.org/",
+   "https://plan-international.org/jobs/our-values-at-work/",
+   "https://plan-international.org/jobs/why-join-plan-international/",
+   "https://plan-international.org/about/jobs/our-values-at-work/",
+   "https://plan-international.org/about/jobs/join-our-emergency-response-roster/",
+   "https://plan-international.org/about/jobs/why-join-plan-international/",
+   "https://plan-international.org/about/jobs/plan-academy/",
+   "https://plan-international.org/about/jobs/what-is-it-like-to-work-at-plan-international/",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fplan-international.org%2Fabout%2Fjobs%2F",
+   "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fplan-international.org%2Fabout%2Fjobs%2F",
+   "https://twitter.com/intent/tweet?text=Jobs%20at%20Plan%20International&url=https%3A%2F%2Fplan-international.org%2Fabout%2Fjobs%2F"
+  ],
+  "error": null,
+  "patterns": [
+   "14x plan-international.org/[^/]+/  e.g. https://plan-international.org/what-we-do/",
+   "7x plan-international.org/about/jobs/[^/]+/  e.g. https://plan-international.org/about/jobs/our-values-at-work/",
+   "4x plan-international.org/get-involved/  e.g. https://plan-international.org/get-involved/",
+   "4x plan-international.org/get-involved/[^/]+/  e.g. https://plan-international.org/get-involved/venezuela-earthquake-appeal/",
+   "3x plan-international.org/about/  e.g. https://plan-international.org/about/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Terre des hommes",
+  "url": "https://www.tdh.de/ueber-uns/jobs",
+  "final": "https://www.tdh.de/ueber-uns/jobs",
+  "title": "404 – Seite nicht gefunden – Terre des Hommes",
+  "sigs": {},
+  "links": [
+   "https://www.tdh.de/ueber-uns/jobs#content-jumpmark",
+   "https://www.tdh.de/jobs",
+   "https://www.tdh.de/ueber-uns/jobs#mm-3",
+   "https://www.tdh.de/ueber-uns/jobs#mm-15",
+   "https://www.tdh.de/ueber-uns/jobs#mm-19",
+   "https://www.tdh.de/ueber-uns/jobs#mm-34",
+   "https://www.tdh.de/ueber-uns/jobs#mm-1",
+   "https://www.tdh.de/ueber-uns/jobs#mm-5",
+   "https://www.tdh.de/ueber-uns/jobs#mm-7",
+   "https://www.tdh.de/ueber-uns/jobs#mm-11",
+   "https://www.tdh.de/ueber-uns/jobs#mm-13",
+   "https://www.tdh.de/ueber-uns/jobs#mm-9",
+   "https://www.tdh.de/ueber-uns/jobs#mm-17",
+   "https://www.tdh.de/spenden/erbschaft-und-testament/erbschaftsbroschuere-bestellen",
+   "https://www.tdh.de/ueber-uns/jobs#mm-21",
+   "https://www.tdh.de/ueber-uns/jobs#mm-23",
+   "https://www.tdh.de/ueber-uns/jobs#mm-25",
+   "https://www.tdh.de/ueber-uns/jobs#mm-27",
+   "https://www.tdh.de/ueber-uns/jobs#mm-29",
+   "https://www.tdh.de/ueber-uns/jobs#mm-31",
+   "https://www.tdh.de/aktiv-werden/mein-tdh/stellenausschreibungen-ehrenamt",
+   "https://www.tdh.de/ueber-uns/jobs#mm-33",
+   "https://www.tdh.de/ueber-uns/jobs#pageTop"
+  ],
+  "error": null,
+  "patterns": [
+   "53x www.tdh.de/ueber-uns/jobs  e.g. https://www.tdh.de/ueber-uns/jobs#content-jumpmark",
+   "12x www.tdh.de/informieren/themen/[^/]+  e.g. https://www.tdh.de/informieren/themen/hunger-und-ernaehrung",
+   "6x www.tdh.de/spenden  e.g. https://www.tdh.de/spenden",
+   "6x www.tdh.de/spenden/spendenshop  e.g. https://www.tdh.de/spenden/spendenshop",
+   "5x www.tdh.de/newsletteranmeldung  e.g. https://www.tdh.de/newsletteranmeldung"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Terre des hommes",
+  "url": "https://www.tdh.de/jobs",
+  "final": "https://www.tdh.de/jobs",
+  "title": "Jobs bei Terre des Hommes",
+  "sigs": {},
+  "links": [
+   "https://www.tdh.de/jobs#content-jumpmark",
+   "https://www.tdh.de/jobs/werkstudentin-finanzen-m-w-d",
+   "https://www.tdh.de/jobs#",
+   "https://www.tdh.de/jobs",
+   "https://www.tdh.de/jobs#mm-3",
+   "https://www.tdh.de/jobs#mm-15",
+   "https://www.tdh.de/jobs#mm-19",
+   "https://www.tdh.de/jobs#mm-34",
+   "https://www.tdh.de/jobs#mm-1",
+   "https://www.tdh.de/jobs#mm-5",
+   "https://www.tdh.de/jobs#mm-7",
+   "https://www.tdh.de/jobs#mm-11",
+   "https://www.tdh.de/jobs#mm-13",
+   "https://www.tdh.de/jobs#mm-9",
+   "https://www.tdh.de/jobs#mm-17",
+   "https://www.tdh.de/spenden/erbschaft-und-testament/erbschaftsbroschuere-bestellen",
+   "https://www.tdh.de/jobs#mm-21",
+   "https://www.tdh.de/jobs#mm-23",
+   "https://www.tdh.de/jobs#mm-25",
+   "https://www.tdh.de/jobs#mm-27",
+   "https://www.tdh.de/jobs#mm-29",
+   "https://www.tdh.de/jobs#mm-31",
+   "https://www.tdh.de/aktiv-werden/mein-tdh/stellenausschreibungen-ehrenamt",
+   "https://www.tdh.de/jobs#mm-33",
+   "https://www.tdh.de/jobs#pageTop"
+  ],
+  "error": null,
+  "patterns": [
+   "12x www.tdh.de/informieren/themen/[^/]+  e.g. https://www.tdh.de/informieren/themen/hunger-und-ernaehrung",
+   "6x www.tdh.de/spenden/spendenshop  e.g. https://www.tdh.de/spenden/spendenshop",
+   "5x www.tdh.de/informieren/ueber-uns  e.g. https://www.tdh.de/informieren/ueber-uns",
+   "5x www.tdh.de/newsletteranmeldung  e.g. https://www.tdh.de/newsletteranmeldung",
+   "5x www.tdh.de/aktiv-werden  e.g. https://www.tdh.de/aktiv-werden"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Aktion gegen den Hunger",
+  "url": "https://www.aktiongegendenhunger.de/jobs",
+  "final": "https://www.aktiongegendenhunger.de/stellenangebote",
+  "title": "Jobs und Stellenangebote | Aktion gegen den Hunger",
+  "sigs": {},
+  "links": [
+   "https://www.aktiongegendenhunger.de/stellenangebote#main-content",
+   "https://www.aktiongegendenhunger.de/stellenangebote",
+   "https://careers.actionagainsthunger.org/?_ga=1.41833186.1754761703.1435568749",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote",
+   "https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote",
+   "https://www.aktiongegendenhunger.de/stellenangebote#"
+  ],
+  "error": null,
+  "patterns": [
+   "27x www.aktiongegendenhunger.de/[^/]+  e.g. https://www.aktiongegendenhunger.de/spenden-statt-schenken",
+   "9x www.aktiongegendenhunger.de/spenden  e.g. https://www.aktiongegendenhunger.de/spenden?monthly=true",
+   "8x www.aktiongegendenhunger.de/stellenangebote  e.g. https://www.aktiongegendenhunger.de/stellenangebote#main-content",
+   "7x www.aktiongegendenhunger.de/datenschutz  e.g. https://www.aktiongegendenhunger.de/datenschutz",
+   "5x www.aktiongegendenhunger.de/kampagnen  e.g. https://www.aktiongegendenhunger.de/kampagnen"
+  ],
+  "jsons": [
+   "38 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/IcWw2ZiC_/185.53.601/185.53.601?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Engagement",
+   "684 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement",
+   "691 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/de/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement"
+  ],
+  "api": []
+ },
+ {
+  "name": "Aktion gegen den Hunger",
+  "url": "https://www.aktiongegendenhunger.de/ueber-uns/jobs",
+  "final": "https://www.aktiongegendenhunger.de/ueber-uns/jobs",
+  "title": "Fehlermeldung 404 | Aktion gegen den Hunger |",
+  "sigs": {},
+  "links": [
+   "https://www.aktiongegendenhunger.de/ueber-uns/jobs#main-content",
+   "https://www.aktiongegendenhunger.de/stellenangebote",
+   "https://www.aktiongegendenhunger.de/ueber-uns/jobs#"
+  ],
+  "error": null,
+  "patterns": [
+   "27x www.aktiongegendenhunger.de/[^/]+  e.g. https://www.aktiongegendenhunger.de/spenden-statt-schenken",
+   "10x www.aktiongegendenhunger.de/spenden  e.g. https://www.aktiongegendenhunger.de/spenden?monthly=true",
+   "7x www.aktiongegendenhunger.de/datenschutz  e.g. https://www.aktiongegendenhunger.de/datenschutz",
+   "5x www.aktiongegendenhunger.de/hunger  e.g. https://www.aktiongegendenhunger.de/hunger",
+   "5x www.aktiongegendenhunger.de/kampagnen  e.g. https://www.aktiongegendenhunger.de/kampagnen"
+  ],
+  "jsons": [
+   "38 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/IcWw2ZiC_/185.53.601/185.53.601?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Engagement",
+   "684 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement",
+   "691 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/de/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement"
+  ],
+  "api": []
+ },
+ {
+  "name": "Friedrich-Ebert-Stiftung",
+  "url": "https://www.fes.de/jobs",
+  "final": "https://www.fes.de/jobs",
+  "title": "404 - Seite nicht gefunden",
+  "sigs": {},
+  "links": [
+   "https://www.fes.de/jobs#pageContent",
+   "https://www.fes.de/jobs#fes-footer",
+   "https://www.fes.de/jobs#",
+   "https://www.fes.de/stellenangebote",
+   "https://www.fes.de/stellenangebote/personalstrategie",
+   "https://www.fes.de/stellenangebote/datenschutz",
+   "https://www.fes.de/stellenangebote/praktikum",
+   "https://www.fes.de/stellenangebote/bewerbungs-faq",
+   "https://www.fes.de/jobs#top"
+  ],
+  "error": null,
+  "patterns": [
+   "34x www.fes.de/[^/]+  e.g. https://www.fes.de/abteilung-internationale-zusammenarbeit",
+   "18x www.fes.de/stiftung/[^/]+/jahresbericht-\\d+-/-perspektiven-\\d+  e.g. https://www.fes.de/stiftung/jahresberichte-zahlen-fakten/jahresbericht-2023-/-perspektiven-2024",
+   "14x www.fes.de/[^/]+/[^/]+  e.g. https://www.fes.de/themenportal-die-welt-gerecht-gestalten/frieden-und-sicherheit",
+   "5x www.fes.de/ueber-uns/[^/]+/[^/]+  e.g. https://www.fes.de/ueber-uns/ueber-die-friedrich-ebert-stiftung/organigramm-und-gremien",
+   "5x www.fes.de/stellenangebote  e.g. https://www.fes.de/stellenangebote"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Friedrich-Ebert-Stiftung",
+  "url": "https://www.fes.de/stellenangebote",
+  "final": "https://www.fes.de/stellenangebote",
+  "title": "Stellenangebote",
+  "sigs": {},
+  "links": [
+   "https://www.fes.de/stellenangebote#",
+   "https://www.fes.de/stellenangebote#main-content",
+   "https://www.fes.de/stellenangebote#fes-footer",
+   "https://www.fes.de/stellenangebote",
+   "https://www.fes.de/stellenangebote#c502553",
+   "https://www.fes.de/stellenangebote/personalstrategie",
+   "https://jobs.fes.de/",
+   "https://www.fes.de/stellenangebote/referent-innen",
+   "https://www.fes.de/stellenangebote/sach-und-finanzsachbearbeiter-innen",
+   "https://www.fes.de/stellenangebote/praktikum",
+   "https://www.fes.de/stellenangebote/aushilfskraefte",
+   "https://www.fes.de/stellenangebote/bewerbungs-faq",
+   "https://www.fes.de/stellenangebote#top"
+  ],
+  "error": null,
+  "patterns": [
+   "55x www.fes.de/stellenangebote  e.g. https://www.fes.de/stellenangebote#",
+   "24x www.fes.de/[^/]+  e.g. https://www.fes.de/abteilung-internationale-zusammenarbeit",
+   "14x www.fes.de/[^/]+/[^/]+  e.g. https://www.fes.de/themenportal-die-welt-gerecht-gestalten/frieden-und-sicherheit",
+   "4x www.fes.de/ueber-uns/[^/]+/[^/]+  e.g. https://www.fes.de/ueber-uns/ueber-die-friedrich-ebert-stiftung/organigramm-und-gremien",
+   "3x www.fes.de/studienfoerderung  e.g. https://www.fes.de/studienfoerderung"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Konrad-Adenauer-Stiftung",
+  "url": "https://www.kas.de/de/karriere",
+  "final": "https://www.kas.de/de/karriere",
+  "title": "Web Application Firewall",
+  "sigs": {},
+  "links": [],
+  "error": null,
   "patterns": [],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Greenpeace",
+  "name": "Konrad-Adenauer-Stiftung",
+  "url": "https://www.kas.de/de/web/karriere/stellenangebote",
+  "final": "https://www.kas.de/de/web/karriere/stellenangebote",
+  "title": "Web Application Firewall",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Ashoka",
+  "url": "https://www.ashoka.org/en/careers",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.ashoka.org/en/careers\nCall log:\n  - navigating to \"https://www.ashoka.org/en/careers\", waiting until \"domcontentloaded\"\n",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Ashoka",
+  "url": "https://www.ashoka.org/de-de/jobs",
+  "final": "https://www.ashoka.org/de-de/jobs",
+  "title": "Seite nicht gefunden | Ashoka",
+  "sigs": {},
+  "links": [
+   "https://www.ashoka.org/de-de/jobs#main"
+  ],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Fairtrade Deutschland",
+  "url": "https://www.fairtrade-deutschland.de/service/jobs",
+  "final": "https://www.fairtrade.net/de-de.html",
+  "title": "Für eine gerechtere Weltwirtschaft | Fairtrade Deutschland",
+  "sigs": {},
+  "links": [
+   "https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html"
+  ],
+  "error": null,
+  "patterns": [
+   "16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html",
+   "13x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html",
+   "9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html",
+   "6x www.fairtrade.net/de-de/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick.html",
+   "6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Fairtrade Deutschland",
+  "url": "https://www.fairtrade-deutschland.de/jobs",
+  "final": "https://www.fairtrade.net/de-de.html",
+  "title": "Für eine gerechtere Weltwirtschaft | Fairtrade Deutschland",
+  "sigs": {},
+  "links": [
+   "https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html"
+  ],
+  "error": null,
+  "patterns": [
+   "16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html",
+   "13x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html",
+   "9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html",
+   "6x www.fairtrade.net/de-de/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick.html",
+   "6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Greenpeace Deutschland",
   "url": "https://www.greenpeace.de/ueber-uns/jobs",
   "final": "https://www.greenpeace.de/ueber-uns/greenpeace-deutschland",
   "title": "Greenpeace Deutschland aktiv für die Umwelt | Greenpeace",
@@ -807,22 +1421,39 @@
   "api": []
  },
  {
-  "name": "Greenpeace",
-  "url": "https://www.greenpeace.org/international/jobs/",
-  "final": "https://workfor.international.greenpeace.org/",
-  "title": "Careers at Greenpeace International",
+  "name": "Greenpeace Deutschland",
+  "url": "https://jobs.greenpeace.de/",
+  "final": "https://jobs.greenpeace.de/",
+  "title": "Jobs bei Greenpeace",
   "sigs": {
    "recruitee": [
     "careers-analytics"
    ]
   },
   "links": [
-   "https://workfor.international.greenpeace.org/#jobs-b415ed29"
+   "https://jobs.greenpeace.de/#content",
+   "https://jobs.greenpeace.de/",
+   "https://jobs.greenpeace.de/direkt-dialog",
+   "https://jobs.greenpeace.de/o/praktikum",
+   "https://jobs.greenpeace.de/#list-344859b8",
+   "https://jobs.greenpeace.de/mitarbeiten",
+   "https://jobs.greenpeace.de/o/fundraiser-wmd-bei-greenpeace",
+   "https://jobs.greenpeace.de/o/promoter-fundraiser-wmd-in-hamburg",
+   "https://jobs.greenpeace.de/o/promoter-fundraiser-wmd-in-berlin",
+   "https://jobs.greenpeace.de/o/fundraiser-promoter-wmd-in-frankfurt",
+   "https://jobs.greenpeace.de/o/promoter-fundraiser-wmd-in-kolnbonn",
+   "https://jobs.greenpeace.de/o/promoter-fundraiser-wmd-in-leipzig",
+   "https://www.greenpeace.de/jobs/praktika-foej",
+   "https://jobs.greenpeace.de/portraitmauriciovargas",
+   "https://jobs.greenpeace.de/portraitleonarddzahli",
+   "https://jobs.greenpeace.de/portraitangelapieske",
+   "https://jobs.greenpeace.de/portraitfawaddurrani",
+   "https://jobs.greenpeace.de/portraitunnolfharder",
+   "https://jobs.greenpeace.de/portraitlenamoritz-grk5p"
   ],
   "error": null,
   "patterns": [
-   "4x www.linkedin.com/pulse/[^/]+/  e.g. https://www.linkedin.com/pulse/atlantic-ocean-lobster-diversity-cl%C3%ADodhna-kirk-1e/",
-   "3x workfor.international.greenpeace.org/o/people-culture-insights-intern-\\d+  e.g. https://workfor.international.greenpeace.org/o/people-culture-insights-intern-2027"
+   "18x jobs.greenpeace.de/o/[^/]+  e.g. https://jobs.greenpeace.de/o/fundraiser-wmd-bei-greenpeace"
   ],
   "jsons": [],
   "api": []
@@ -837,37 +1468,48 @@
   "error": null,
   "patterns": [],
   "api": [
-   "workday marriott/wd5/Marriott_Careers: 422 total=",
-   "workday hilton/wd1/Hilton: 422 total=",
-   "workday accor/wd3/Accor: 422 total=",
-   "workday ihg/wd1/IHG: 422 total=",
-   "workday hyatt/wd5/Hyatt: 422 total=",
-   "workday manutd/wd3/ManUtd: 422 total=",
-   "workday chelseafc/wd3/Chelsea: 422 total=",
-   "workday cityfootballgroup/wd3/CFG: 422 total=",
-   "workday greenpeace/wd3/Greenpeace: 422 total=",
-   "slugs Marriott: []",
-   "slugs Hilton: []",
-   "slugs Accor: ['smartrecruiters:accor (577 Stellen)']",
-   "slugs AccorHotel: ['smartrecruiters:accorhotel (6367 Stellen)']",
-   "slugs IHG: []",
-   "slugs Hyatt: []",
-   "slugs Vapiano: ['personio:vapiano (8 Stellen)']",
-   "slugs Block House: ['greenhouse:block (203 Stellen)', 'ashby:blockhouse (1 Stellen)']",
-   "slugs blockhouse: ['ashby:blockhouse (1 Stellen)']",
-   "slugs LOsteria: []",
-   "slugs Hans im Glueck: []",
-   "slugs hansimglueck: []",
-   "slugs FC Bayern: []",
-   "slugs fcbayern: []",
-   "slugs FC Barcelona: []",
-   "slugs Real Madrid: []",
-   "slugs Manchester United: []",
-   "slugs Manchester City: []",
-   "slugs Liverpool FC: []",
-   "slugs Chelsea FC: []",
-   "slugs Greenpeace: ['personio:greenpeace (4 Stellen)']",
-   "slugs greenpeacede: []"
+   "workday unhcr/wd3/External: 200 total=11",
+   "workday wfp/wd3/job_openings: 200 total=110",
+   "workday amnesty/wd3/Amnesty_International: 422 total=",
+   "workday hrw/wd1/HRW: 422 total=",
+   "workday planinternational/wd3/Plan_International: 422 total=",
+   "slugs UNICEF: []",
+   "slugs UNDP: []",
+   "slugs UNHCR: []",
+   "slugs WFP: []",
+   "slugs WWF: []",
+   "slugs wwfde: []",
+   "slugs wwf-deutschland: []",
+   "slugs IFAW: []",
+   "slugs Welthungerhilfe: []",
+   "slugs Caritas: []",
+   "slugs caritas-international: []",
+   "slugs Diakonie: []",
+   "slugs Misereor: []",
+   "slugs Kindernothilfe: ['personio:kindernothilfe (4 Stellen)']",
+   "slugs Amnesty: []",
+   "slugs amnestyde: []",
+   "slugs Human Rights Watch: ['ashby:human (3 Stellen)', 'greenhouse:humanrightswatch (5 Stellen)']",
+   "slugs hrw: []",
+   "slugs GIZ: []",
+   "slugs KfW: []",
+   "slugs Brot fuer die Welt: []",
+   "slugs NABU: []",
+   "slugs Plan International: []",
+   "slugs plan: []",
+   "slugs tdh: []",
+   "slugs Terre des hommes: []",
+   "slugs Aktion gegen den Hunger: []",
+   "slugs aktiongegendenhunger: []",
+   "slugs FES: []",
+   "slugs Friedrich Ebert Stiftung: []",
+   "slugs KAS: []",
+   "slugs Ashoka: ['lever:ashoka (1 Stellen)']",
+   "slugs Fairtrade: []",
+   "slugs fairtrade-deutschland: []",
+   "slugs Greenpeace Deutschland: ['personio:greenpeace (4 Stellen)']",
+   "slugs greenpeace-de: []",
+   "slugs greenpeaceev: ['recruitee:greenpeaceev (7 Stellen)']"
   ]
  }
 ]
