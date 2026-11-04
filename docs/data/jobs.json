@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-04T22:52+00:00",
+ "aktualisiert": "2026-11-04T22:54+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -1127,7 +1127,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 2
   },
   {
    "name": "Amnesty International",
@@ -8549,6 +8549,31 @@
    "link": "https://careers.ing.com/en/job/singapore/intern-finance-data-and-analytics/3121/46385215744"
   },
   {
+   "titel": "Intern - Effective Development Cooperation (Switzerland or Home-based) - 2 positions",
+   "firma": "UNDP",
+   "orte": [
+    {
+     "land": "CH",
+     "stadt": "Genf"
+    },
+    {
+     "land": "CH",
+     "stadt": "Home Based"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-27",
+   "datum_geschaetzt": false,
+   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37749"
+  },
+  {
    "titel": "Intern Product Development & Sourcing (Digital Transformation)",
    "firma": "adidas",
    "orte": [
@@ -9200,31 +9225,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship-in-Business-Solution-Management---Digital-Health-Products--as-of-1-January-2027--Rotkreuz--12-months-_202610-127498-1"
   },
   {
-   "titel": "Intern - Effective Development Cooperation (Switzerland or Home-based) - 2 positions",
-   "firma": "UNDP",
-   "orte": [
-    {
-     "stadt": "Genf",
-     "land": "CH"
-    },
-    {
-     "stadt": "Home Based",
-     "land": "CH"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-27",
-   "datum_geschaetzt": false,
-   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37749"
-  },
-  {
    "titel": "Intern - Allianz Consulting - Right shoring, Business Transition and Support (m/f/d)",
    "firma": "Allianz",
    "orte": [
@@ -9670,8 +9670,8 @@
    "firma": "KfW (inkl. KfW Entwicklungsbank)",
    "orte": [
     {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -12987,6 +12987,31 @@
    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Regional-Marketing-Intern-CEE-Mother---Child-Care--all-genders-_592714"
   },
   {
+   "titel": "Praktikum in der Personalabteilung",
+   "firma": "Kindernothilfe",
+   "orte": [
+    {
+     "stadt": "Duisburg",
+     "land": "DE"
+    },
+    {
+     "stadt": "Remote",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://kindernothilfe.jobs.personio.de/job/2845709"
+  },
+  {
    "titel": "Internship in Business & Service Operations (m/f/d)",
    "firma": "Allianz",
    "orte": [
@@ -13743,6 +13768,48 @@
    "link": "https://careers.ing.com/en/job/singapore/intern-global-securities-finance-gsf-trading-financial-markets/3121/45930008896"
   },
   {
+   "titel": "Praktikant (w/m/d) im Bereich Konzernentwicklung & Volkswirtschaft - Innovation Hub",
+   "firma": "KfW (inkl. KfW Entwicklungsbank)",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.kfw.de/index.php?ac=jobad&id=13674"
+  },
+  {
+   "titel": "Praktikant (w/m/d) im Bereich Konzernentwicklung & Volkswirtschaft - Innovation Hub",
+   "firma": "KfW (inkl. KfW Entwicklungsbank)",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "August 2027",
+   "start_monat": "2027-08",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-14",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.kfw.de/index.php?ac=jobad&id=13675"
+  },
+  {
    "titel": "Praktikant*in HR Consultant Van Vertrieb und Entwicklung (Pflicht-Praktikum)",
    "firma": "Mercedes-Benz",
    "orte": [
@@ -14119,48 +14186,6 @@
    "veroeffentlicht": "2026-10-14",
    "datum_geschaetzt": false,
    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Argentina---Buenos-Aires/LATAM-Internship-Program---Alliances---Channels-Intern--Argentina-_JR364075-1"
-  },
-  {
-   "titel": "Praktikant (w/m/d) im Bereich Konzernentwicklung & Volkswirtschaft - Innovation Hub",
-   "firma": "KfW (inkl. KfW Entwicklungsbank)",
-   "orte": [
-    {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.kfw.de/index.php?ac=jobad&id=13674"
-  },
-  {
-   "titel": "Praktikant (w/m/d) im Bereich Konzernentwicklung & Volkswirtschaft - Innovation Hub",
-   "firma": "KfW (inkl. KfW Entwicklungsbank)",
-   "orte": [
-    {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "August 2027",
-   "start_monat": "2027-08",
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-14",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.kfw.de/index.php?ac=jobad&id=13675"
   },
   {
    "titel": "Legal Internship",
@@ -22771,8 +22796,8 @@
    "firma": "KfW (inkl. KfW Entwicklungsbank)",
    "orte": [
     {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -25218,6 +25243,31 @@
    "veroeffentlicht": "2025-03-28",
    "datum_geschaetzt": false,
    "link": "https://jobs.kpmg.de/job-invite/11143/?locale=de_DE"
+  },
+  {
+   "titel": "Praktikum im Team Globales Lernen & Engagement",
+   "firma": "Kindernothilfe",
+   "orte": [
+    {
+     "stadt": "Duisburg",
+     "land": "DE"
+    },
+    {
+     "stadt": "Remote",
+     "land": "DE"
+    }
+   ],
+   "fachbereich": "Beratung (Consulting)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2025-03-06",
+   "datum_geschaetzt": false,
+   "link": "https://kindernothilfe.jobs.personio.de/job/2005714"
   },
   {
    "titel": "Praktikum Digital Products & Services (w/m/d)",
