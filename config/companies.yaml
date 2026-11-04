@@ -764,3 +764,155 @@
   ats: personio
   url: https://greenpeace.jobs.personio.de
   career_url: https://www.greenpeace.org.uk/about-greenpeace/jobs/
+
+# ---------------------------------------------------------------- UN, Entwicklungszusammenarbeit, NGOs
+- name: UNICEF
+  ats: browser
+  career_url: https://www.unicef.org/careers/
+  list_url: https://jobs.unicef.org/en-us/search/?search-keyword=intern
+  job_link: jobs\.unicef\.org/en-us/job/\d+/
+
+- name: UNDP
+  ats: oracle
+  url: https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
+  career_url: https://www.undp.org/careers
+
+- name: UNHCR
+  ats: workday
+  url: https://unhcr.wd3.myworkdayjobs.com/External
+  career_url: https://www.unhcr.org/careers
+
+- name: WFP (Welternährungsprogramm)
+  ats: workday
+  url: https://wfp.wd3.myworkdayjobs.com/job_openings
+  career_url: https://www.wfp.org/careers/job-openings
+
+- name: WWF Deutschland
+  ats: browser
+  career_url: https://www.wwf.de/ueber-uns/stellenangebote
+  list_url: https://www.wwf.de/ueber-uns/stellenangebote
+  job_link: wwf\.de/ueber-uns/stellenangebote/stellenangebot/stelle/
+
+- name: WWF International
+  enabled: false   # Stellenseite (panda.org) sperrt automatische Abrufe
+  career_url: https://wwf.panda.org/get_involved/jobs/
+
+- name: IFAW
+  ats: browser
+  career_url: https://www.ifaw.org/careers
+  list_url: https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/
+  job_link: OpportunityDetail\?opportunityId=[0-9a-f-]+
+
+- name: Welthungerhilfe
+  ats: browser
+  career_url: https://www.welthungerhilfe.de/ueber-uns/karriere
+  list_url: https://career012.successfactors.eu/career?company=WelthungerP&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH&lang=de_DE
+  job_link: career_job_req_id=\d+
+
+- name: Caritas international
+  ats: browser
+  career_url: https://www.caritas-international.de/ueberuns/jobs/
+  list_url: https://www.caritas-international.de/ueberuns/jobs/
+  job_link: caritas-international\.de/jobs/[^/]+/\d+
+
+- name: Diakonie Katastrophenhilfe
+  ats: browser   # gehört wie Brot für die Welt zum Evangelischen Werk für Diakonie und Entwicklung
+  career_url: https://www.diakonie-katastrophenhilfe.de/ueber-uns/mitarbeit/stellenangebote.html
+  list_url: https://www.diakonie-katastrophenhilfe.de/ueber-uns/mitarbeit/stellenangebote.html
+  job_link: (stellenangebote/details/|stellenangebote/[^/]+-\d+)
+
+- name: Misereor
+  ats: browser
+  career_url: https://www.misereor.de/ueber-misereor/jobs
+  list_url: https://www.misereor.de/ueber-misereor/jobs
+  job_link: misereor\.de/ueber-misereor/jobs/job-details/
+
+- name: Kindernothilfe
+  ats: personio
+  url: https://kindernothilfe.jobs.personio.de
+  career_url: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt
+
+- name: Amnesty International
+  ats: browser
+  career_url: https://www.amnesty.org/en/careers/
+  list_url: https://careers.amnesty.org/jobs/vacancy/find/results/
+  job_link: careers\.amnesty\.org/jobs/vacancy/[^/]+/\d+/description
+
+- name: Amnesty International Deutschland
+  ats: personio
+  url: https://amnesty-international-deutschland.jobs.personio.de
+  career_url: https://www.amnesty.de/mitmachen/jobs
+
+- name: Human Rights Watch
+  ats: greenhouse
+  url: https://boards.greenhouse.io/humanrightswatch
+  career_url: https://www.hrw.org/careers
+
+- name: GIZ
+  ats: browser
+  career_url: https://www.giz.de/de/karriere/jobs
+  list_url: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword=praktikum
+  job_link: index\.php\?ac=jobad&id=\d+
+
+- name: KfW (inkl. KfW Entwicklungsbank)
+  ats: browser
+  career_url: https://jobs.kfw.de/
+  list_url: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword=praktikum
+  job_link: index\.php\?ac=jobad&id=\d+
+
+- name: Brot für die Welt
+  ats: browser
+  career_url: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/
+  list_url: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
+  job_link: brot-fuer-die-welt\.de/ueber-uns/stellenangebote/details/
+
+- name: NABU
+  ats: browser
+  career_url: https://jobs.nabu.de/de
+  list_url: https://jobs.nabu.de/de
+  job_link: jobs\.nabu\.de/de\?id=[0-9a-f]+
+
+- name: Plan International Deutschland
+  ats: browser
+  career_url: https://jobs.plan.de/stellenangebote.html
+  list_url: https://jobs.plan.de/stellenangebote.html
+  job_link: jobs\.plan\.de/[^/?#]+-j\d+\.html
+
+- name: Plan International
+  ats: successfactors
+  url: https://jobs.plan-international.org
+  career_url: https://jobs.plan-international.org/
+
+- name: Terre des hommes
+  ats: browser
+  career_url: https://www.tdh.de/jobs
+  list_url: https://www.tdh.de/jobs
+  job_link: tdh\.de/jobs/[a-z0-9-]{6,}
+
+- name: Aktion gegen den Hunger
+  enabled: false   # keine Stellenliste auf der Seite, das verlinkte internationale Portal existiert nicht mehr
+  career_url: https://www.aktiongegendenhunger.de/stellenangebote
+
+- name: Friedrich-Ebert-Stiftung
+  ats: browser
+  career_url: https://www.fes.de/stellenangebote
+  list_url: https://jobs.fes.de/
+  job_link: jobs\.fes\.de/jobportal/fes/viewAusschreibung/
+
+- name: Konrad-Adenauer-Stiftung
+  enabled: false   # Firewall sperrt automatische Abrufe
+  career_url: https://www.kas.de/de/web/karriere/stellenangebote
+
+- name: Ashoka
+  ats: lever
+  url: https://jobs.lever.co/ashoka
+  career_url: https://www.ashoka.org/
+
+- name: Fairtrade Deutschland
+  enabled: false   # keine öffentliche Stellenliste gefunden (Seite leitet auf fairtrade.net um)
+  career_url: https://www.fairtrade.net/de-de.html
+
+- name: Greenpeace Deutschland
+  ats: recruitee
+  url: https://greenpeaceev.recruitee.com
+  career_url: https://jobs.greenpeace.de/
