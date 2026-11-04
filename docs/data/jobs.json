@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-04T23:20+00:00",
+ "aktualisiert": "2026-11-04T23:22+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -1663,8 +1663,8 @@
    "firma": "GIZ",
    "orte": [
     {
-     "stadt": "Berlin",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Berlin"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -1678,6 +1678,27 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": false,
    "link": "https://jobs.giz.de/index.php?ac=jobad&id=79536"
+  },
+  {
+   "titel": "Praktikant*in im Sektorvorhaben Fragilität & HDP-Nexus",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Programm- & Projektarbeit",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-04",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79540"
   },
   {
    "titel": "PR & Events Intern",
@@ -2463,27 +2484,6 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/123907061523063494-associate-product-marketing-manager-bsms-intern-2027?q=intern"
-  },
-  {
-   "titel": "Praktikant*in im Sektorvorhaben Fragilität & HDP-Nexus",
-   "firma": "GIZ",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Programm- & Projektarbeit",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-04",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79540"
   },
   {
    "titel": "Becario/a de Operaciones Logísticas Internacionales",
@@ -4569,8 +4569,8 @@
    "firma": "GIZ",
    "orte": [
     {
-     "stadt": "Bonn",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Bonn"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -4584,6 +4584,27 @@
    "veroeffentlicht": "2026-11-03",
    "datum_geschaetzt": false,
    "link": "https://jobs.giz.de/index.php?ac=jobad&id=79522"
+  },
+  {
+   "titel": "Praktikant*in im globalen Vorhaben Connective Cities",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bonn"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79532"
   },
   {
    "titel": "Internship - AI, Digitalization & Software Development in Product Marketing (f/m/div)",
@@ -5600,27 +5621,6 @@
    "veroeffentlicht": "2026-11-03",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027?q=intern"
-  },
-  {
-   "titel": "Praktikant*in im globalen Vorhaben Connective Cities",
-   "firma": "GIZ",
-   "orte": [
-    {
-     "stadt": "Bonn",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79532"
   },
   {
    "titel": "Sustainable Finance Summer Internship Programme 2027 London",
@@ -6799,6 +6799,27 @@
    "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26142264"
   },
   {
+   "titel": "Praktikant*in im Sektorvorhaben \"Zusammenarbeit mit der Wirtschaft\" – Hamburg Sustainability Conference",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Beratung (Consulting)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-30",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79509"
+  },
+  {
    "titel": "Praktikant*in Global Creative Hub & Governance (Pflicht-Praktikum)",
    "firma": "Mercedes-Benz",
    "orte": [
@@ -7156,27 +7177,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Vilnius/Supply-Chain-Intern_202607-119461-1"
   },
   {
-   "titel": "Praktikant*in im Sektorvorhaben \"Zusammenarbeit mit der Wirtschaft\" – Hamburg Sustainability Conference",
-   "firma": "GIZ",
-   "orte": [
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Beratung (Consulting)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79509"
-  },
-  {
    "titel": "Intern, Claims",
    "firma": "AXA",
    "orte": [
@@ -7238,6 +7238,27 @@
    "veroeffentlicht": "2026-10-29",
    "datum_geschaetzt": false,
    "link": "https://careers.dhl.com/global/en/job/AV-389074/Intern-ESG-Reporting-and-Controlling"
+  },
+  {
+   "titel": "Praktikant*in (m/w/d) im Sektorvorhaben (SV) Nachhaltige Agrarlieferketten – Schwerpunkt Entwaldungsfreie Lieferketten",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bonn"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79495"
   },
   {
    "titel": "Internship - Regional Distribution Centre Logistics Management",
@@ -7707,27 +7728,6 @@
    "veroeffentlicht": "2026-10-29",
    "datum_geschaetzt": false,
    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Marketing-Intern--Hair-Care_593929-1"
-  },
-  {
-   "titel": "Praktikant*in (m/w/d) im Sektorvorhaben (SV) Nachhaltige Agrarlieferketten – Schwerpunkt Entwaldungsfreie Lieferketten",
-   "firma": "GIZ",
-   "orte": [
-    {
-     "stadt": "Bonn",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79495"
   },
   {
    "titel": "INTERNSHIP - PUBLIC AFFAIRS ECONOMI RESEARCH",
@@ -8637,12 +8637,12 @@
    "firma": "UNDP",
    "orte": [
     {
-     "stadt": "Genf",
-     "land": "CH"
+     "land": "CH",
+     "stadt": "Genf"
     },
     {
-     "stadt": "Home Based",
-     "land": "CH"
+     "land": "CH",
+     "stadt": "Home Based"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -8704,8 +8704,8 @@
    "firma": "GIZ",
    "orte": [
     {
-     "stadt": "Eschborn",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Eschborn"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -9334,8 +9334,8 @@
    "firma": "GIZ",
    "orte": [
     {
-     "stadt": "Bonn",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Bonn"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -10808,7 +10808,7 @@
      "land": "DE"
     }
    ],
-   "fachbereich": "Recht & Compliance",
+   "fachbereich": "Programm- & Projektarbeit",
    "arbeitsmodell": "k. A.",
    "start": "Januar 2027",
    "start_monat": "2027-01",
@@ -11400,7 +11400,7 @@
      "land": "CN"
     }
    ],
-   "fachbereich": "Personal (HR)",
+   "fachbereich": "Programm- & Projektarbeit",
    "arbeitsmodell": "k. A.",
    "start": "November 2026",
    "start_monat": "2026-11",
@@ -13751,8 +13751,8 @@
    "firma": "Greenpeace International",
    "orte": [
     {
-     "stadt": "Amsterdam",
-     "land": "NL"
+     "land": "NL",
+     "stadt": "Amsterdam"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -14356,6 +14356,27 @@
    "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26133249"
   },
   {
+   "titel": "Estágio em gestão de projetos e comunicação - Ashoka Portugal",
+   "firma": "Ashoka",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "fachbereich": "Programm- & Projektarbeit",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.lever.co/ashoka/c2b9e131-6bf2-4e59-8f5a-c5fd42fb9ed0"
+  },
+  {
    "titel": "Praktikant*in Digitalisierung und Bereichscontrolling Batterie & Motor Powertrain Mercedes-Benz Cars (Pflicht-Praktikum)",
    "firma": "Mercedes-Benz",
    "orte": [
@@ -14858,27 +14879,6 @@
    "veroeffentlicht": "2026-10-13",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155311419"
-  },
-  {
-   "titel": "Estágio em gestão de projetos e comunicação - Ashoka Portugal",
-   "firma": "Ashoka",
-   "orte": [
-    {
-     "stadt": "Madrid",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Programm- & Projektarbeit",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.lever.co/ashoka/c2b9e131-6bf2-4e59-8f5a-c5fd42fb9ed0"
   },
   {
    "titel": "Finance Intern, Singapore (Jan 2027)",
@@ -19246,6 +19246,27 @@
    "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26123376"
   },
   {
+   "titel": "Development & Outreach Department Intern",
+   "firma": "Human Rights Watch",
+   "orte": [
+    {
+     "land": "AU",
+     "stadt": "Sydney"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "November 2026",
+   "start_monat": "2026-11",
+   "dauer": "3 Monate",
+   "dauer_wochen": 13.0,
+   "stunden": "20 Std.",
+   "stunden_num": 20.0,
+   "veroeffentlicht": "2026-09-23",
+   "datum_geschaetzt": false,
+   "link": "https://job-boards.greenhouse.io/humanrightswatch/jobs/8837312002"
+  },
+  {
    "titel": "Internship - Data Analysis & Reporting",
    "firma": "Infineon",
    "orte": [
@@ -19349,27 +19370,6 @@
    "veroeffentlicht": "2026-09-23",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151378729"
-  },
-  {
-   "titel": "Development & Outreach Department Intern",
-   "firma": "Human Rights Watch",
-   "orte": [
-    {
-     "stadt": "Sydney",
-     "land": "AU"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "November 2026",
-   "start_monat": "2026-11",
-   "dauer": "3 Monate",
-   "dauer_wochen": 13.0,
-   "stunden": "20 Std.",
-   "stunden_num": 20.0,
-   "veroeffentlicht": "2026-09-23",
-   "datum_geschaetzt": false,
-   "link": "https://job-boards.greenhouse.io/humanrightswatch/jobs/8837312002"
   },
   {
    "titel": "Human Resources Intern (6-12 months)",
@@ -20664,8 +20664,8 @@
    "firma": "Greenpeace UK",
    "orte": [
     {
-     "stadt": "London",
-     "land": "GB"
+     "land": "GB",
+     "stadt": "London"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -26021,7 +26021,7 @@
      "land": "DE"
     }
    ],
-   "fachbereich": "Finanzen & Controlling",
+   "fachbereich": "Programm- & Projektarbeit",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
@@ -26602,8 +26602,8 @@
    "firma": "Greenpeace Deutschland",
    "orte": [
     {
-     "stadt": "Hamburg",
-     "land": "DE"
+     "land": "DE",
+     "stadt": "Hamburg"
     }
    ],
    "fachbereich": "Programm- & Projektarbeit",
