@@ -77,7 +77,7 @@ def assess(title: str, department: str, text: str, ngo: bool = False) -> dict:
         if not fach:
             counts = [(len(r.findall((text or "")[:6000])), n) for n, r in FACH_RES]
             top = max(counts)
-            fach = top[1] if top[0] >= 2 else "Programm- & Projektarbeit"
+            fach = top[1] if top[0] >= 5 else "Programm- & Projektarbeit"
         return {"relevant": True, "grund": "NGO (gelockerter Filter)", "fachbereich": fach}
     if n_bwl or n_tech:
         relevant = n_bwl > n_tech
