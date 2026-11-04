@@ -34,7 +34,7 @@ FACH_RULES = [
 ]
 FACH_RES = [(n, re.compile(p, re.I)) for n, p in FACH_RULES]
 TECH = re.compile(
-    r"engineer|ingenieur|ingeniero|(?<!personal)(?<!geschäfts)(?<!-)entwickl|(?<!business )(?<!product )(?<!talent )(?<!people )development|developer|software|firmware|hardware|embedded|elektro|electric|"
+    r"engineer|ingenieur|ingeniero|(?<!personal)(?<!geschäfts)(?<!konzern)(?<!unternehmens)(?<!organisations)(?<!wirtschafts)(?<!-)entwickl(?!ungsbank|ungszusammenarbeit|ungspolit|ungshilfe)|(?<!business )(?<!product )(?<!talent )(?<!people )(?<!organizational )development(?! cooperation| (?:&|and) outreach| finance)|developer|software|firmware|hardware|embedded|elektro|electric|"
     r"mechani|mechatron|konstrukt|physik|physics|chemi|verfahrenstechn|process engineering|"
     r"halbleiter|semiconductor|verification|simulation|frontend|backend|full.?stack|devops|cyber|"
     r"robot|fertigung|manufacturing|produktion|production|montage|wartung|maintenance|\blabor\b|\blab\b|"

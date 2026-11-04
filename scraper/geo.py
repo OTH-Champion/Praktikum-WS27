@@ -181,7 +181,7 @@ class Geo:
             hint = "XX"
         pieces: list[str] = []
         for loc in locations or []:
-            for p in re.split(r"\s*(?:;|\||\n| or | und | and |\s/\s)\s*", str(loc or "")):
+            for p in re.split(r"\s*(?:;|\||\n| or | und | and |\s/\s|\s&\s)\s*", str(loc or "")):
                 if clean(p):
                     pieces.append(p)
         ok, seen, fremd, unknown = [], set(), 0, 0

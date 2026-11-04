@@ -771,6 +771,7 @@
   career_url: https://www.unicef.org/careers/
   list_url: https://jobs.unicef.org/en-us/search/?search-keyword=intern
   job_link: jobs\.unicef\.org/en-us/job/\d+/
+  ort_aus_titel: true
 
 - name: UNDP
   ats: oracle
