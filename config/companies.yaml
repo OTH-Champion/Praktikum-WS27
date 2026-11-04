@@ -760,7 +760,7 @@
   url: https://workfor.international.greenpeace.org
   career_url: https://www.greenpeace.org/international/jobs/
 
-- name: Greenpeace Deutschland
+- name: Greenpeace UK  # Personio-Konto "greenpeace" listet Stellen in London, nicht Hamburg
   ats: personio
   url: https://greenpeace.jobs.personio.de
-  career_url: https://www.greenpeace.de/jobs
+  career_url: https://www.greenpeace.org.uk/about-greenpeace/jobs/
