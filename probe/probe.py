@@ -42,6 +42,7 @@ SIGS = {
     "csod": re.compile(r"([a-z0-9-]+\.csod\.com)"),
     "radancy": re.compile(r"(tbcdn\.talentbrew\.com|radancy)"),
     "join": re.compile(r"join\.com/companies/([A-Za-z0-9_-]+)"),
+    "gupy": re.compile(r"([a-z0-9-]+\.gupy\.io)"),
 }
 
 TK = {"name", "title", "jobTitle", "job_title", "positionTitle", "postingTitle", "displayName", "Title", "RecruitPostName", "JobTitle"}
@@ -217,35 +218,13 @@ def extra_api():
             out.append(f"workday {line}: {r.status_code} total={r.json().get('total') if r.ok else ''}")
         except Exception as e:
             out.append(f"workday {line}: ERR {e}")
-    for nm in ["Brot fuer die Welt", "brotfuerdiewelt", "ewde", "Diakonie Katastrophenhilfe", "Plan", "plande", "plan-deutschland",
-               "Aktion gegen den Hunger", "actionagainsthunger", "FES", "fes", "Fairtrade", "fairtradedeutschland", "Fairtrade Deutschland",
-               "transfair", "giz", "kfw", "welthungerhilfe", "kas"]:
+    names = [l.split("|", 1)[0].strip() for l in (HERE / "firms.txt").read_text().splitlines() if "|" in l]
+    names += (HERE / "slugs.txt").read_text().split() if (HERE / "slugs.txt").exists() else []
+    for nm in names:
         try:
             out.append(f"slugs {nm}: {api_probe(nm)}")
         except Exception as e:
             out.append(f"slugs {nm}: ERR {e}")
-    return out
-    for ats, slug in [("gh", "traderepublicbank"), ("gh", "traderepublic"), ("gh", "scalablecapital"), ("gh", "byd"),
-                      ("gh", "bolt"), ("gh", "dazn"), ("gh", "spotify"), ("lever", "spotify"), ("lever", "dazn"),
-                      ("sr", "Sixt"), ("sr", "Continental"), ("sr", "Aumovio"), ("sr", "RedBull"), ("sr", "ContactEnergy"),
-                      ("sr", "ScalableCapital"), ("sr", "DAZN"), ("sr", "airBaltic"), ("sr", "Bolt"), ("sr", "Ryanair")]:
-        try:
-            if ats == "gh":
-                r = s.get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs", timeout=15)
-                n = len(r.json().get("jobs", [])) if r.ok else r.status_code
-                ex = [j["title"] + " @ " + j.get("location", {}).get("name", "") for j in r.json().get("jobs", [])[:3]] if r.ok else []
-            elif ats == "lever":
-                r = s.get(f"https://api.lever.co/v0/postings/{slug}?mode=json", timeout=15)
-                n = len(r.json()) if r.ok else r.status_code
-                ex = [j["text"] for j in r.json()[:3]] if r.ok else []
-            else:
-                r = s.get(f"https://api.smartrecruiters.com/v1/companies/{slug}/postings?q=intern&limit=5", timeout=15)
-                j = r.json() if r.ok else {}
-                n = j.get("totalFound", r.status_code)
-                ex = [p["name"] + " @ " + p.get("location", {}).get("city", "") + " / " + p.get("company", {}).get("name", "") for p in j.get("content", [])[:3]]
-            out.append(f"{ats} {slug}: {n} {ex}")
-        except Exception as e:
-            out.append(f"{ats} {slug}: ERR {e}")
     return out
 
 
