@@ -1,5 +1,53 @@
 {
  "jobs": {
+  "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-Supply-Chain_20103566": {
+   "arbeitsmodell": "k. A.",
+   "company": "Acciona",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Einkauf & Supply Chain",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "CL",
+     "stadt": "Santiago de Chile"
+    }
+   ],
+   "posted": "2026-11-03",
+   "sprache": "es",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Práctica Profesional Supply Chain",
+   "url": "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-Supply-Chain_20103566"
+  },
+  "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-rea-Comercial_20103562": {
+   "arbeitsmodell": "k. A.",
+   "company": "Acciona",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "CL",
+     "stadt": "Santiago de Chile"
+    }
+   ],
+   "posted": "2026-11-03",
+   "sprache": "es",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Práctica Profesional Área Comercial",
+   "url": "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-rea-Comercial_20103562"
+  },
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Praktikant--d-m-w--HR-mit-Schwerpunkt-Recruiting-und-Temp-Management_JR10452758": {
    "arbeitsmodell": "k. A.",
    "company": "Airbus",
@@ -2064,30 +2112,6 @@
    "title": "Intern, Supply Chain Management",
    "url": "https://basf.jobs/job/Intern%2C-Supply-Chain-Management/145315-en_US/"
   },
-  "https://basf.jobs/job/Intern-Global-HR-Reporting-&-Campaign-Support-%28mfd%29/145178-en_US/": {
-   "arbeitsmodell": "Hybrid",
-   "company": "BASF",
-   "dauer": "4–6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Personal (HR)",
-   "first_seen": "2026-11-04",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-05",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Berlin"
-    }
-   ],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Intern Global HR Reporting & Campaign Support (m/f/d)",
-   "url": "https://basf.jobs/job/Intern-Global-HR-Reporting-&-Campaign-Support-%28mfd%29/145178-en_US/"
-  },
   "https://basf.jobs/job/Internship-Management-Consulting-%28mfd%29/144271-en_US/": {
    "arbeitsmodell": "Hybrid",
    "company": "BASF",
@@ -4135,6 +4159,30 @@
    "stunden_num": null,
    "title": "Internship - Financial Controller",
    "url": "https://careers.axa.com/careers-home/jobs/29965?lang=en-us&previousLocale=en-US"
+  },
+  "https://careers.axa.com/careers-home/jobs/30274?lang=en-us&previousLocale=en-US": {
+   "arbeitsmodell": "Hybrid",
+   "company": "AXA",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Personal (HR)",
+   "first_seen": "2026-11-05",
+   "grund": "Text: 3 kaufmännische vs. 1 technische Begriffe",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "Paris"
+    }
+   ],
+   "posted": "2026-11-05",
+   "sprache": "en",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Internship - Flood Nat Cat Analyst - March 2027",
+   "url": "https://careers.axa.com/careers-home/jobs/30274?lang=en-us&previousLocale=en-US"
   },
   "https://careers.dazn.com/en/postings/fc7cac34-a3f7-4bf5-8b8e-1bd930db9ee4": {
    "arbeitsmodell": "Hybrid",
@@ -7016,6 +7064,702 @@
    "title": "Quant & Analytics Intern - Financial Services Risk Consulting",
    "url": "https://careers.ey.com/ey/job/Zurich-Quant-&amp;-Analytics-Intern-Financial-Services-Risk-Consulting-8005/1417103933/"
   },
+  "https://careers.glovoapp.com/job/3pl-commercial-intern-spain-in-barcelona-spain-jid-744000136526272": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Einkauf & Supply Chain",
+   "first_seen": "2026-11-05",
+   "grund": "Text: 5 kaufmännische vs. 0 technische Begriffe",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-07-08",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "3pl Commercial Intern Spain",
+   "url": "https://careers.glovoapp.com/job/3pl-commercial-intern-spain-in-barcelona-spain-jid-744000136526272"
+  },
+  "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000132160454": {
+   "arbeitsmodell": "k. A.",
+   "company": "Glovo",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "posted": "2026-06-15",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Account Manager Intern Groceries Spain",
+   "url": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000132160454"
+  },
+  "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000157402989": {
+   "arbeitsmodell": "k. A.",
+   "company": "Glovo",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "posted": "2026-10-23",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Account Manager Intern Groceries Spain",
+   "url": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000157402989"
+  },
+  "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-catman-in-madrid-spain-jid-744000155211801": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "posted": "2026-10-13",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "title": "Account Manager Intern Q Commerce Catman",
+   "url": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-catman-in-madrid-spain-jid-744000155211801"
+  },
+  "https://careers.glovoapp.com/job/account-manager-intern-specialties-spain-in-madrid-spain-jid-744000148807773": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "posted": "2026-09-10",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Account Manager Intern Specialties Spain",
+   "url": "https://careers.glovoapp.com/job/account-manager-intern-specialties-spain-in-madrid-spain-jid-744000148807773"
+  },
+  "https://careers.glovoapp.com/job/brands-ads-intern-in-milano-italy-jid-744000140902719": {
+   "arbeitsmodell": "k. A.",
+   "company": "Glovo",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "posted": "2026-07-31",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Brands Ads Intern",
+   "url": "https://careers.glovoapp.com/job/brands-ads-intern-in-milano-italy-jid-744000140902719"
+  },
+  "https://careers.glovoapp.com/job/category-management-intern-q-commerce-in-milano-italy-jid-744000140708549": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "fachbereich": "Produktmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "posted": "2026-07-30",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "title": "Category Management Intern Q Commerce",
+   "url": "https://careers.glovoapp.com/job/category-management-intern-q-commerce-in-milano-italy-jid-744000140708549"
+  },
+  "https://careers.glovoapp.com/job/category-management-internship-in-milano-italy-jid-744000151793969": {
+   "arbeitsmodell": "k. A.",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Produktmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "posted": "2026-09-25",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Category Management Internship",
+   "url": "https://careers.glovoapp.com/job/category-management-internship-in-milano-italy-jid-744000151793969"
+  },
+  "https://careers.glovoapp.com/job/commercial-analyst-intern-they-she-he-in-milano-italy-jid-744000140633819": {
+   "arbeitsmodell": "k. A.",
+   "company": "Glovo",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-05",
+   "grund": "Text: 9 kaufmännische vs. 0 technische Begriffe",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "posted": "2026-07-30",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Commercial Analyst Intern They She He",
+   "url": "https://careers.glovoapp.com/job/commercial-analyst-intern-they-she-he-in-milano-italy-jid-744000140633819"
+  },
+  "https://careers.glovoapp.com/job/data-analyst-intern-in-barcelona-spain-jid-744000133574326": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-06-23",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Data Analyst Intern",
+   "url": "https://careers.glovoapp.com/job/data-analyst-intern-in-barcelona-spain-jid-744000133574326"
+  },
+  "https://careers.glovoapp.com/job/data-analyst-intern-in-barcelona-spain-jid-744000154651959": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-10-09",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Data Analyst Intern",
+   "url": "https://careers.glovoapp.com/job/data-analyst-intern-in-barcelona-spain-jid-744000154651959"
+  },
+  "https://careers.glovoapp.com/job/intern-account-manager-groceries-specialties-portugal-in-lisbon-portugal-jid-744000146156149": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "PT",
+     "stadt": "Lissabon"
+    }
+   ],
+   "posted": "2026-08-28",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Intern Account Manager Groceries Specialties Portugal",
+   "url": "https://careers.glovoapp.com/job/intern-account-manager-groceries-specialties-portugal-in-lisbon-portugal-jid-744000146156149"
+  },
+  "https://careers.glovoapp.com/job/intern-account-manager-top-accounts-spain-in-madrid-spain-jid-744000153719071": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "posted": "2026-10-06",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern Account Manager Top Accounts Spain",
+   "url": "https://careers.glovoapp.com/job/intern-account-manager-top-accounts-spain-in-madrid-spain-jid-744000153719071"
+  },
+  "https://careers.glovoapp.com/job/intern-brands-ads-global-hq-in-barcelona-spain-jid-744000156554419": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-10-20",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Intern Brands Ads Global Hq",
+   "url": "https://careers.glovoapp.com/job/intern-brands-ads-global-hq-in-barcelona-spain-jid-744000156554419"
+  },
+  "https://careers.glovoapp.com/job/intern-catalog-content-global-hq-in-barcelona-spain-jid-744000129171603": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-05-29",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern Catalog Content Global Hq",
+   "url": "https://careers.glovoapp.com/job/intern-catalog-content-global-hq-in-barcelona-spain-jid-744000129171603"
+  },
+  "https://careers.glovoapp.com/job/intern-data-analyst-i-people-strategy-global-hq-in-barcelona-spain-jid-744000152474589": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-09-29",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern Data Analyst I People Strategy Global Hq",
+   "url": "https://careers.glovoapp.com/job/intern-data-analyst-i-people-strategy-global-hq-in-barcelona-spain-jid-744000152474589"
+  },
+  "https://careers.glovoapp.com/job/intern-key-accounts-italy-in-milano-italy-jid-744000140854105": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "posted": "2026-07-31",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern Key Accounts Italy",
+   "url": "https://careers.glovoapp.com/job/intern-key-accounts-italy-in-milano-italy-jid-744000140854105"
+  },
+  "https://careers.glovoapp.com/job/intern-marketing-and-growth-in-barcelona-spain-jid-744000149286679": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-09-14",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern Marketing And Growth",
+   "url": "https://careers.glovoapp.com/job/intern-marketing-and-growth-in-barcelona-spain-jid-744000149286679"
+  },
+  "https://careers.glovoapp.com/job/intern-people-generalist-in-madrid-spain-jid-744000159376449": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Personal (HR)",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "posted": "2026-11-03",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern People Generalist",
+   "url": "https://careers.glovoapp.com/job/intern-people-generalist-in-madrid-spain-jid-744000159376449"
+  },
+  "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000157400459": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Personal (HR)",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-10-23",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern People Operations",
+   "url": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000157400459"
+  },
+  "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000159832379": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Personal (HR)",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-11-05",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern People Operations",
+   "url": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000159832379"
+  },
+  "https://careers.glovoapp.com/job/intern-real-state-in-barcelona-spain-jid-744000129182974": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Finanzen & Controlling",
+   "first_seen": "2026-11-05",
+   "grund": "Text: 2 kaufmännische vs. 0 technische Begriffe",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-05-29",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern Real State",
+   "url": "https://careers.glovoapp.com/job/intern-real-state-in-barcelona-spain-jid-744000129182974"
+  },
+  "https://careers.glovoapp.com/job/intern-regions-spain-in-barcelona-spain-jid-744000153815878": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Personal (HR)",
+   "first_seen": "2026-11-05",
+   "grund": "Text: 3 kaufmännische vs. 0 technische Begriffe",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-10-06",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern Regions Spain",
+   "url": "https://careers.glovoapp.com/job/intern-regions-spain-in-barcelona-spain-jid-744000153815878"
+  },
+  "https://careers.glovoapp.com/job/intern-retail-global-hq-in-barcelona-spain-jid-744000155970319": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-10-16",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern Retail Global Hq",
+   "url": "https://careers.glovoapp.com/job/intern-retail-global-hq-in-barcelona-spain-jid-744000155970319"
+  },
+  "https://careers.glovoapp.com/job/intern-sales-development-representative-portugal-in-lisbon-portugal-jid-744000151357159": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Text: 15 kaufmännische vs. 0 technische Begriffe",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "PT",
+     "stadt": "Lissabon"
+    }
+   ],
+   "posted": "2026-09-23",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern Sales Development Representative Portugal",
+   "url": "https://careers.glovoapp.com/job/intern-sales-development-representative-portugal-in-lisbon-portugal-jid-744000151357159"
+  },
+  "https://careers.glovoapp.com/job/intern-talent-development-global-hq-in-barcelona-spain-jid-744000154066964": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Personal (HR)",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "posted": "2026-10-07",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Intern Talent Development Global Hq",
+   "url": "https://careers.glovoapp.com/job/intern-talent-development-global-hq-in-barcelona-spain-jid-744000154066964"
+  },
+  "https://careers.glovoapp.com/job/operations-analyst-intern-in-milano-italy-jid-744000159186209": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Einkauf & Supply Chain",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "posted": "2026-11-02",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Operations Analyst Intern",
+   "url": "https://careers.glovoapp.com/job/operations-analyst-intern-in-milano-italy-jid-744000159186209"
+  },
+  "https://careers.glovoapp.com/job/specialities-intern-in-milano-italy-jid-744000139587689": {
+   "arbeitsmodell": "k. A.",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Text: 5 kaufmännische vs. 0 technische Begriffe",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "posted": "2026-07-24",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Specialities Intern",
+   "url": "https://careers.glovoapp.com/job/specialities-intern-in-milano-italy-jid-744000139587689"
+  },
+  "https://careers.glovoapp.com/job/specialties-intern-in-milano-italy-jid-744000156490889": {
+   "arbeitsmodell": "k. A.",
+   "company": "Glovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Text: 5 kaufmännische vs. 0 technische Begriffe",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "posted": "2026-10-20",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Specialties Intern",
+   "url": "https://careers.glovoapp.com/job/specialties-intern-in-milano-italy-jid-744000156490889"
+  },
   "https://careers.ing.com/en/job/amsterdam/internship-conversational-banking/3121/46484570560": {
    "arbeitsmodell": "Hybrid",
    "company": "ING",
@@ -8395,6 +9139,54 @@
    "stunden_num": null,
    "title": "Praktikum Brand Marketing (all genders)",
    "url": "https://careers.reckitt.com/job/Heidelberg-Praktikum-Brand-Marketing-%28all-genders%29-Bade-69115/1438998733"
+  },
+  "https://careers.vestas.com/job/Aarhus-N-Finance-Intern-Regi-8200/1452600533": {
+   "arbeitsmodell": "k. A.",
+   "company": "Vestas",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Finanzen & Controlling",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "DK",
+     "stadt": "Finance Intern Finance Intern Aarhus N"
+    }
+   ],
+   "posted": "2026-10-29",
+   "sprache": "en",
+   "start": "August 2027",
+   "start_monat": "2027-08",
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Finance Intern",
+   "url": "https://careers.vestas.com/job/Aarhus-N-Finance-Intern-Regi-8200/1452600533"
+  },
+  "https://careers.vestas.com/job/Aarhus-N-Procurement-Intern-Regi-8200/1451142333": {
+   "arbeitsmodell": "k. A.",
+   "company": "Vestas",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Einkauf & Supply Chain",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "DK",
+     "stadt": "Procurement Intern Procurement Intern Aarhus N"
+    }
+   ],
+   "posted": "2026-10-26",
+   "sprache": "en",
+   "start": "September 2027",
+   "start_monat": "2027-09",
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Procurement Intern",
+   "url": "https://careers.vestas.com/job/Aarhus-N-Procurement-Intern-Regi-8200/1451142333"
   },
   "https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/One-Island-East/XMLNAME-2026-PBTPC-Winter-Intern_WD89114": {
    "arbeitsmodell": "k. A.",
@@ -10568,6 +11360,30 @@
    "title": "Campaign Activation Coordinator Intern - Nespresso",
    "url": "https://jobdetails.nestle.com/job/Brussels-Campaign-Activation-Coordinator-Intern-Nespresso/1444635633/"
   },
+  "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Cross-Border-E-Commerce-%28mwd%29-60329/1454864333/": {
+   "arbeitsmodell": "k. A.",
+   "company": "Nestlé",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "posted": "2026-11-05",
+   "sprache": "de",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "title": "Praktikum Cross Border E-Commerce (m/w/d)",
+   "url": "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Cross-Border-E-Commerce-%28mwd%29-60329/1454864333/"
+  },
   "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Digital-&amp;-Media-Relations-%28mwd%29-60329/1450651933/": {
    "arbeitsmodell": "k. A.",
    "company": "Nestlé",
@@ -10687,30 +11503,6 @@
    "stunden_num": 40.0,
    "title": "Praktikum Marketing & Communications (m/w/d)",
    "url": "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Marketing-&amp;-Communications-%28mwd%29-60329/1451334333/"
-  },
-  "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Sales-%28mwd%29-60329/1450791633/": {
-   "arbeitsmodell": "k. A.",
-   "company": "Nestlé",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "first_seen": "2026-11-05",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-05",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Frankfurt am Main"
-    }
-   ],
-   "posted": "2026-10-23",
-   "sprache": "de",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "title": "Praktikum Sales (m/w/d)",
-   "url": "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Sales-%28mwd%29-60329/1450791633/"
   },
   "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Sales-Kaffee-&amp;-Schokolade-%28mwd%29-60329/1451331233/": {
    "arbeitsmodell": "k. A.",
@@ -19892,43 +20684,19 @@
    "title": "Concur Customer Marketing Intern",
    "url": "https://jobs.sap.com/en/jobs/744000159864772/concur-customer-marketing-intern"
   },
-  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503103": {
-   "arbeitsmodell": "Präsenz",
-   "company": "Siemens",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "fachbereich": "Marketing & Kommunikation",
-   "first_seen": "2026-11-05",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-05",
-   "orte": [
-    {
-     "land": "GB",
-     "stadt": "Communications Internship"
-    }
-   ],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Communications Internship (12 months)",
-   "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503103"
-  },
-  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504448": {
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503105": {
    "arbeitsmodell": "Hybrid",
    "company": "Siemens",
    "dauer": "12 Monate",
    "dauer_wochen": 52.1,
-   "fachbereich": "Personal (HR)",
+   "fachbereich": "Business Development & Strategie",
    "first_seen": "2026-11-05",
    "grund": "Titel/Abteilung kaufmännisch",
    "last_seen": "2026-11-05",
    "orte": [
     {
      "land": "GB",
-     "stadt": "HR Internship"
+     "stadt": "Business Development Internship -12 Months London"
     }
    ],
    "posted": null,
@@ -19937,8 +20705,8 @@
    "start_monat": null,
    "stunden": "Vollzeit",
    "stunden_num": null,
-   "title": "HR Internship - 12 Months",
-   "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504448"
+   "title": "Business Development Internship -12 Months",
+   "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503105"
   },
   "https://jobs.smartrecruiters.com/AccorHotel/744000141069659": {
    "arbeitsmodell": "k. A.",
@@ -27644,6 +28412,30 @@
    "title": "Praktikum im Bereich Logistik und Supply Chain – Packmittelmanagement, Prozessoptimierung",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159854909"
   },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000159903304": {
+   "arbeitsmodell": "k. A.",
+   "company": "Bosch",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Schwäbisch Gmünd"
+    }
+   ],
+   "posted": "2026-11-05",
+   "sprache": "de",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Praktikum im internationalen Vertrieb (EU) von Lenksystemen und Komponenten für LKW, Busse und Sonderfahrzeuge",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159903304"
+  },
   "https://jobs.smartrecruiters.com/Continental/744000128233531": {
    "arbeitsmodell": "k. A.",
    "company": "Continental",
@@ -31092,6 +31884,54 @@
    "title": "Praktikant*in Online-Marketing",
    "url": "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-online-marketing-1942383"
   },
+  "https://www.ferrerocareers.com/int/en/jobs/internship-junior-people-business-partner-global-marketing-starting-march": {
+   "arbeitsmodell": "Präsenz",
+   "company": "Ferrero",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Personal (HR)",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "k. A."
+    }
+   ],
+   "posted": "2026-11-05",
+   "sprache": "en",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "INTERNSHIP Junior People Business Partner Global Marketing (starting from March) People & Organization Job ID: 78471 Luxembourg, LU (On-Site) Internship Details",
+   "url": "https://www.ferrerocareers.com/int/en/jobs/internship-junior-people-business-partner-global-marketing-starting-march"
+  },
+  "https://www.ferrerocareers.com/int/en/jobs/internship-travel-market-customer-service-supply-chain-starting-march": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Ferrero",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-05",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-05",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "Senningerberg"
+    }
+   ],
+   "posted": "2026-11-05",
+   "sprache": "en",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "INTERNSHIP Travel Market Customer Service Supply Chain (starting from March) End to End Supply Chain Job ID: 78349 Senningerberg, L, LU (Hybrid) Internship Details",
+   "url": "https://www.ferrerocareers.com/int/en/jobs/internship-travel-market-customer-service-supply-chain-starting-march"
+  },
   "https://www.google.com/about/careers/applications/jobs/results/100315940037501638-financial-analyst-bsms-intern-2027?q=intern&page=3": {
    "arbeitsmodell": "k. A.",
    "company": "Google",
@@ -31518,6 +32358,12 @@
   }
  },
  "rejected": {
+  "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Ho-Chi-Minh/Accounting-Intern_20100936": "2026-11-05",
+  "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Illinois/Acciona-Energy-2027-Summer-Internship-Program_20103768": "2026-11-05",
+  "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-Ingeniera-Biocombustibles_20090946-1": "2026-11-05",
+  "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-en-Calidad-y-Seguridad_20103558": "2026-11-05",
+  "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-en-Medio-Ambiente_20103556-2": "2026-11-05",
+  "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-en-Regulacin_20103564": "2026-11-05",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/FTM-Intern_JR10448390": "2026-11-05",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449495": "2026-11-05",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data-Support---Services_JR10449171": "2026-11-05",
@@ -31572,6 +32418,7 @@
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/Stage-2027---Stagiaire-Analyste-SOC-L1---All-Gender-_JR10449557": "2026-11-05",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/Stage-2027---Stagiaire-en-Dveloppement-d-un-robot-de-test-pour-applications-smartphone-et-web--F-H-_JR10445365": "2026-11-05",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Salaunes/H-F-Stagiaire-Production-Aronautique_JR10448960": "2026-11-05",
+  "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-Support-to-PreFAL-Fuselages--Internship_JR10455664": "2026-11-05",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla-Area/XMLNAME--Discover-I-2027-2028-A400M-MRO-Manufacturing-Engineering-processes-Intern_JR10454366": "2026-11-05",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stade/Internship---Development-of-Tooling-Concepts-for-Rapid-Preforming-Technologies_JR10451609": "2026-11-05",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stade/Internship-in--Manufacturing-and-Assembly-analysis-of-composite-structure---m-f-d---Open-_JR10453740": "2026-11-05",
@@ -31791,6 +32638,7 @@
   "https://bbva.wd3.myworkdayjobs.com/BBVA/job/99000-EXTRANJERO-Zurich/Internship-Business-Unit-Control-100-_JR00117482": "2026-11-05",
   "https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/Programa-de-Prctica-2027---I_JR00119033": "2026-11-05",
   "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=3KSnghbhoM0QoajaPZ518dm7z1%2fORO9OiyGVRlG0yKI%3d": "2026-11-05",
+  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=fq00Ye4QRWwA1HTPhdFbH8S4IkQ2WfcYrecHbCh%2f0Q4%3d": "2026-11-05",
   "https://careers.allianz.com/global/en/job/102332/Actuarial-Intern": "2026-11-05",
   "https://careers.allianz.com/global/en/job/106629/L-D-AI-Tech-Intern-m-f-d": "2026-11-05",
   "https://careers.allianz.com/global/en/job/108094/Data-Office-Analyst-Intern": "2026-11-05",
@@ -31873,9 +32721,18 @@
   "https://careers.glovoapp.com/job/account-management-intern-in-zagreb-croatia-jid-744000153754369": "2026-11-05",
   "https://careers.glovoapp.com/job/account-manager-intern-in-casablanca-morocco-jid-744000143040519": "2026-11-05",
   "https://careers.glovoapp.com/job/accounting-lead-in-warsaw-poland-jid-744000154821899": "2026-11-05",
+  "https://careers.glovoapp.com/job/am-q-commerce-retail-intern-in-casablanca-morocco-jid-744000134247620": "2026-11-05",
+  "https://careers.glovoapp.com/job/brand-ads-intern-in-casablanca-morocco-jid-744000129798246": "2026-11-05",
   "https://careers.glovoapp.com/job/catalog-operations-intern-q-commerce-in-casablanca-morocco-jid-744000152638469": "2026-11-05",
   "https://careers.glovoapp.com/job/category-management-analyst-uganda-in-kampala-uganda-jid-744000140274434": "2026-11-05",
+  "https://careers.glovoapp.com/job/comms-ai-intern-in-barcelona-spain-jid-744000151353849": "2026-11-05",
+  "https://careers.glovoapp.com/job/intern-demand-planning-global-hq-in-barcelona-spain-jid-744000149604315": "2026-11-05",
+  "https://careers.glovoapp.com/job/intern-health-safety-global-hq-in-barcelona-spain-jid-744000131392744": "2026-11-05",
+  "https://careers.glovoapp.com/job/intern-in-tunis-tunisia-jid-744000134187639": "2026-11-05",
+  "https://careers.glovoapp.com/job/intern-key-accounts-kazakhstan-in-nur-sultan-kazakhstan-jid-744000138047740": "2026-11-05",
+  "https://careers.glovoapp.com/job/intern-regions-spain-in-las-palmas-de-gran-canaria-spain-jid-744000145903669": "2026-11-05",
   "https://careers.glovoapp.com/job/operations-analyst-bulgaria-in-sofia-bulgaria-jid-744000157212429": "2026-11-05",
+  "https://careers.glovoapp.com/job/q-commerce-intern-in-yerevan-armenia-jid-744000139307260": "2026-11-05",
   "https://careers.glovoapp.com/job/sales-executive-bulgaria-in-sofia-bulgaria-jid-744000154966789": "2026-11-05",
   "https://careers.glovoapp.com/job/sales-specialist-poland-they-she-he-in-warsaw-poland-jid-744000155567619": "2026-11-05",
   "https://careers.glovoapp.com/job/senior-financial-analyst-tunisia-in-tunis-tunisia-jid-744000154953479": "2026-11-05",
@@ -32604,14 +33461,16 @@
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520437": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520547": "2026-11-03",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521010": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521205": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521208": "2026-11-04",
-  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521212": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521212": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521230": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521457": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521758": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521912": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521963": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521974": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/521995": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522135": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522138": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/522168": "2026-11-04",
@@ -32630,6 +33489,8 @@
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/523838": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/523854": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/524091": "2026-11-05",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/524538": "2026-11-05",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/524604": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/524628": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/525197": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/525238": "2026-11-05",
@@ -32640,18 +33501,19 @@
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526314": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526329": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526362": "2026-11-03",
-  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526471": "2026-11-04",
-  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526477": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526471": "2026-11-05",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526477": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526600": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526815": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526984": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527117": "2026-11-03",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527422": "2026-11-05",
-  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527491": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527491": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527683": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527690": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527691": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527695": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527724": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527907": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527914": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/528541": "2026-11-05",
@@ -33013,6 +33875,8 @@
   "https://jobs.smartrecruiters.com/BoschGroup/744000159859240": "2026-11-05",
   "https://jobs.smartrecruiters.com/BoschGroup/744000159873350": "2026-11-05",
   "https://jobs.smartrecruiters.com/BoschGroup/744000159889329": "2026-11-05",
+  "https://jobs.smartrecruiters.com/BoschGroup/744000159895019": "2026-11-05",
+  "https://jobs.smartrecruiters.com/BoschGroup/744000159903541": "2026-11-05",
   "https://jobs.smartrecruiters.com/Continental/744000131426259": "2026-11-05",
   "https://jobs.smartrecruiters.com/Grab/744000134684719": "2026-11-05",
   "https://jobs.smartrecruiters.com/Grab/744000140389140": "2026-11-05",
@@ -33423,6 +34287,7 @@
   "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.191769.html": "2026-11-05",
   "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196410.html": "2026-11-04",
   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-abteilung-politik-1942881": "2026-11-04",
+  "https://www.ferrerocareers.com/int/en/jobs/internship-cocoa-chocolates-materials-management-starting-march": "2026-11-05",
   "https://www.google.com/about/careers/applications/jobs/results/102057291577991878-data-center-facilities-technician-intern-2027?q=intern&page=2": "2026-11-05",
   "https://www.google.com/about/careers/applications/jobs/results/102906012280726214-silicon-manufacturing-intern-2027?q=intern&page=4": "2026-11-05",
   "https://www.google.com/about/careers/applications/jobs/results/103082311292986054-data-center-technician-intern-2027?q=intern": "2026-11-05",
