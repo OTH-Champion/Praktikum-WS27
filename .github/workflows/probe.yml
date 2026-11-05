@@ -23,6 +23,7 @@ jobs:
           python-version: "3.12"
       - run: pip install requests playwright && python -m playwright install --with-deps chromium
       - run: python probe/probe.py $(cat probe/only 2>/dev/null || true) 2>&1 | tail -150
+      - run: cat probe/result.txt
       - name: Ergebnis speichern
         run: |
           git config user.name "github-actions[bot]"
