@@ -946,3 +946,259 @@
   ats: recruitee
   url: https://greenpeaceev.recruitee.com
   career_url: https://jobs.greenpeace.de/
+
+# ============================================================ Ergänzt November 2026: Spanien & Portugal
+- name: Iberdrola
+  enabled: false   # Firewall sperrt automatische Abrufe (Access Denied)
+  career_url: https://www.iberdrola.com/talento/ofertas-empleo
+
+- name: Naturgy
+  ats: browser   # klassische SuccessFactors-Stellenbörse
+  career_url: https://www.naturgy.com/en/work-with-us/
+  list_url: https://career5.successfactors.eu/career?company=C0000880172P&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH
+  job_link: career_job_req_id=\d+
+
+- name: Repsol
+  ats: workday
+  url: https://repsol.wd3.myworkdayjobs.com/Repsol
+  career_url: https://www.repsol.com/en/careers/index.cshtml
+
+- name: Enel
+  ats: browser   # gemeinsame Stellenbörse von Enel und Endesa
+  career_url: https://jobs.enel.com/en_US/careers
+  list_url: https://jobs.enel.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50
+  job_link: /careers/JobDetail/\d+
+  extra_urls:
+    - https://jobs.enel.com/en_US/careers/SearchJobs/?search=pr%C3%A1cticas&jobRecordsPerPage=50
+    - https://jobs.enel.com/en_US/careers/SearchJobs/?search=becario&jobRecordsPerPage=50
+    - https://jobs.enel.com/en_US/careers
+  unterfirmen:
+    Endesa: \bEndesa\b
+
+- name: Telefónica
+  ats: successfactors
+  url: https://jobs.telefonica.com
+  career_url: https://jobs.telefonica.com/
+
+- name: Santander
+  ats: workday
+  url: https://santander.wd3.myworkdayjobs.com/SantanderCareers
+  career_url: https://www.santander.com/en/careers
+
+- name: BBVA
+  ats: workday
+  url: https://bbva.wd3.myworkdayjobs.com/BBVA
+  career_url: https://careers.bbva.com/
+
+- name: CaixaBank
+  ats: successfactors
+  url: https://caixabankcareers.com
+  career_url: https://caixabankcareers.com/
+
+- name: Mapfre
+  ats: successfactors
+  url: https://jobs.mapfre.com
+  career_url: https://www.mapfre.com/en/talent/
+
+- name: Inditex
+  enabled: false   # Firewall sperrt automatische Abrufe (Access Denied)
+  career_url: https://www.inditexcareers.com/
+
+- name: Acciona
+  ats: browser
+  career_url: https://www.acciona.com/our-purpose/work-with-us/job-offers
+  list_url: https://www.acciona.com/our-purpose/work-with-us/job-offers
+  job_link: /job-offers/[^/?#]+
+
+- name: Redeia (Red Eléctrica)
+  enabled: false   # keine öffentliche Stellenliste gefunden
+  career_url: https://www.redeia.com/
+
+- name: Amadeus
+  ats: workday
+  url: https://amadeus.wd502.myworkdayjobs.com/jobs
+  career_url: https://amadeus.com/en/careers/overview
+
+- name: Moeve (ehemals Cepsa)
+  enabled: false   # keine öffentliche Stellenliste gefunden
+  career_url: https://www.moeveglobal.com/
+
+- name: Glovo
+  ats: browser
+  career_url: https://careers.glovoapp.com/jobs-at-glovo/
+  list_url: https://careers.glovoapp.com/jobs-at-glovo/
+  job_link: /job/[^/]+-jid-\d+
+
+- name: EDP
+  ats: successfactors
+  url: https://jobs.edp.com
+  career_url: https://jobs.edp.com/
+
+- name: Galp
+  ats: successfactors
+  url: https://jobs.galp.com
+  career_url: https://www.galp.com/corp/en/people
+
+# ============================================================ Ergänzt November 2026: übriges Europa
+- name: Ørsted
+  enabled: false   # Stellenliste nur per Skript ohne erkennbare Schnittstelle
+  career_url: https://orsted.com/en/careers/vacancies-list
+
+- name: Vestas
+  ats: successfactors
+  url: https://careers.vestas.com
+  career_url: https://careers.vestas.com/
+
+- name: Equinor
+  ats: workday
+  url: https://equinor.wd3.myworkdayjobs.com/EQNR
+  career_url: https://www.equinor.com/careers/jobs
+
+- name: Vattenfall
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/Vattenfall
+  career_url: https://group.vattenfall.com/careers
+
+- name: Statkraft
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/Statkraft1
+  career_url: https://www.statkraft.com/careers/
+
+- name: Engie
+  ats: successfactors
+  url: https://jobs.engie.com
+  career_url: https://jobs.engie.com/
+
+- name: Schneider Electric
+  enabled: false   # Firewall sperrt automatische Abrufe (Access Denied)
+  career_url: https://www.se.com/ww/en/about-us/careers/job-search/
+
+- name: Adyen
+  ats: greenhouse
+  url: https://boards.greenhouse.io/adyen
+  career_url: https://careers.adyen.com/vacancies
+
+- name: Booking.com
+  ats: browser
+  career_url: https://careers.booking.com/
+  list_url: https://jobs.booking.com/booking/jobs?keywords=intern
+  job_link: /booking/jobs/\d+
+
+- name: Nestlé
+  ats: successfactors
+  url: https://jobdetails.nestle.com
+  career_url: https://www.nestle.com/jobs
+
+- name: Airbus
+  ats: workday
+  url: https://ag.wd3.myworkdayjobs.com/Airbus
+  career_url: https://www.airbus.com/en/careers
+
+# ============================================================ Ergänzt November 2026: Südamerika
+- name: Mercado Libre
+  ats: eightfold
+  url: https://mercadolibre.eightfold.ai/careers
+  domain: mercadolibre.com
+  career_url: https://careers-meli.mercadolibre.com/en/jobs
+
+- name: Nubank
+  ats: ashby
+  url: https://jobs.ashbyhq.com/nubank
+  career_url: https://nu.com/en/careers
+
+- name: Ambev
+  ats: browser   # Anzeigen meist auf Portugiesisch (werden vom Sprachfilter aussortiert)
+  career_url: https://ambev.gupy.io/
+  list_url: https://ambev.gupy.io/
+  job_link: gupy\.io/jobs/\d+
+
+- name: Itaú Unibanco
+  ats: browser   # Anzeigen meist auf Portugiesisch (werden vom Sprachfilter aussortiert)
+  career_url: https://carreiras.itau.com.br/
+  list_url: https://vemproitau.gupy.io/
+  job_link: gupy\.io/jobs/\d+
+
+- name: Falabella
+  enabled: false   # keine öffentliche Stellenliste gefunden
+  career_url: https://www.falabella.com/
+
+- name: Cencosud
+  enabled: false   # keine öffentliche Stellenliste gefunden
+  career_url: https://www.cencosud.com/trabaja-con-nosotros
+
+- name: Petrobras
+  enabled: false   # Praktika laufen über öffentliche Auswahlverfahren, keine Stellenbörse
+  career_url: https://petrobras.com.br/en/careers
+
+- name: Natura &Co
+  enabled: false   # Stellenbörse beim Test nicht erreichbar
+  career_url: https://www.naturaeco.com/
+
+- name: Globant
+  enabled: false   # Stellen nur über eine interne Schnittstelle ohne direkte Links
+  career_url: https://career.globant.com/
+
+# ============================================================ Ergänzt November 2026: Australien, Neuseeland, Asien
+- name: Atlassian
+  ats: browser
+  career_url: https://www.atlassian.com/company/careers/all-jobs
+  list_url: https://www.atlassian.com/company/careers/all-jobs
+  job_link: /company/careers/details/\d+
+
+- name: Canva
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/Canva
+  career_url: https://www.lifeatcanva.com/en/jobs/
+
+- name: Xero
+  ats: ashby
+  url: https://jobs.ashbyhq.com/xero
+  career_url: https://careers.xero.com/
+
+- name: Telstra
+  ats: workday
+  url: https://telstra.wd3.myworkdayjobs.com/Telstra_Careers
+  career_url: https://www.telstra.com.au/careers
+
+- name: Macquarie Group
+  ats: browser
+  career_url: https://www.macquarie.com/au/en/careers.html
+  list_url: https://recruitment.macquarie.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50
+  job_link: /careers/JobDetail\?jobId=\d+
+
+- name: Qantas
+  ats: browser
+  career_url: https://careers.qantas.com/
+  list_url: https://careers.qantas.com/jobs/?search=intern
+  job_link: /jobs/job-details/\d+/
+
+- name: Grab
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/Grab
+  career_url: https://www.grab.careers/en/jobs/
+
+- name: Sea Group (Shopee)
+  ats: browser
+  career_url: https://www.sea.com/careers
+  list_url: https://apply.workable.com/shopee-9/
+  job_link: /shopee-9/j/[A-Z0-9]+
+
+- name: DBS
+  ats: workday
+  url: https://dbs.wd3.myworkdayjobs.com/DBS_Careers
+  career_url: https://www.dbs.com/careers/default.page
+
+- name: Singtel
+  ats: successfactors
+  url: https://groupcareers.singtel.com
+  career_url: https://groupcareers.singtel.com/
+
+- name: Standard Chartered
+  ats: successfactors
+  url: https://jobs.standardchartered.com
+  career_url: https://jobs.standardchartered.com/
+
+- name: Rakuten
+  ats: workday
+  url: https://rakuten.wd1.myworkdayjobs.com/RakutenMobile
+  career_url: https://global.rakuten.com/corp/careers/

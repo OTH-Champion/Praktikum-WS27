@@ -110,12 +110,64 @@ h1 { margin: 0; font-size: clamp(30px, 5vw, 46px); line-height: 1.08; letter-spa
 input:focus, select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
 .selects { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 10px; align-items: end; }
 .selects-2 { grid-template-columns: repeat(4, minmax(0, 1fr)) auto; }
-.selects label { display: grid; gap: 4px; font-size: 12px; font-weight: 600; color: var(--muted); }
+.selects label, .selects .field { display: grid; gap: 4px; font-size: 12px; font-weight: 600; color: var(--muted); min-width: 0; }
+
+/* Mehrfachauswahl */
+.ms { position: relative; min-width: 0; }
+.ms-btn {
+  width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 6px; padding: 9px 10px;
+  font: inherit; font-size: 14px; font-weight: 400; color: var(--ink); text-align: left; cursor: pointer;
+  background: var(--bg); border: 1px solid var(--line); border-radius: 10px;
+}
+.ms-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.ms.on .ms-btn { border-color: var(--accent); background: var(--accent-soft); }
+.ms-val { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ms-btn svg { flex: none; width: 16px; height: 16px; fill: none; stroke: var(--muted); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.ms-btn[aria-expanded="true"] svg { transform: rotate(180deg); }
+.ms-pop {
+  position: absolute; z-index: 20; top: calc(100% + 6px); left: 0; width: max(100%, 280px); max-width: calc(100vw - 32px);
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: 0 12px 34px rgba(8, 25, 33, .18);
+  padding: 8px; display: grid; gap: 6px; font-weight: 400;
+}
+.ms-q { width: 100%; padding: 8px 10px; font: inherit; font-size: 14px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; }
+.ms-list { max-height: 300px; overflow-y: auto; overscroll-behavior: contain; }
+.ms-group { padding: 8px 6px 2px; font-size: 11px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+.ms-opt { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 8px; padding: 6px; border-radius: 8px; font-size: 14px; color: var(--ink); cursor: pointer; }
+.ms-opt:hover { background: var(--accent-soft); }
+.ms-opt input { width: 16px; height: 16px; margin: 0; accent-color: var(--accent); }
+.ms-n { font-size: 12px; color: var(--muted); }
+.ms-none { margin: 6px; color: var(--muted); font-size: 13px; }
+.ms-foot { display: flex; justify-content: space-between; gap: 8px; padding-top: 6px; border-top: 1px solid var(--line); }
+.ms-foot .ghost, .ms-foot .cta { padding: 7px 12px; font-size: 13px; }
 select { width: 100%; padding: 9px 10px; font: inherit; font-size: 14px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 10px; }
 .chips { display: flex; flex-wrap: wrap; gap: 8px; }
 .chip { border: 1px solid var(--line); background: var(--chip); color: var(--ink); padding: 6px 12px; border-radius: 999px; font: inherit; font-size: 14px; cursor: pointer; }
 .chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
 .chip[aria-pressed="true"]::before { content: "✓ "; }
+.chip .n { display: inline-block; min-width: 20px; padding: 0 6px; margin-left: 2px; border-radius: 999px; font-size: 12px; line-height: 18px; text-align: center; background: var(--surface); color: var(--muted); }
+.chip-new { border-color: var(--warm); }
+.chip-new .n { background: var(--warm-soft); color: var(--warm); }
+.chip[aria-pressed="true"] .n { background: rgba(255, 255, 255, .22); color: inherit; }
+
+/* Bewerbungsstatus */
+.statusbar { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 0; }
+.st-row { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; margin-top: 6px; }
+select.status { width: auto; padding: 4px 8px; font-size: 13px; border-radius: 8px; }
+select.st-beworben { background: var(--eras-soft); color: var(--eras); border-color: transparent; font-weight: 600; }
+select.st-gespraech { background: var(--warm-soft); color: var(--warm); border-color: transparent; font-weight: 600; }
+select.st-zusage { background: var(--ok-soft); color: var(--ok); border-color: transparent; font-weight: 600; }
+select.st-absage { background: var(--chip); color: var(--muted); border-color: transparent; font-weight: 600; }
+.tags-inline { display: inline-flex; margin: 0 0 0 4px; vertical-align: 1px; }
+.tag-new { background: var(--warm); color: var(--warm-ink); }
+.tag-off { background: var(--chip); color: var(--muted); }
+tr.offline .title { color: var(--muted); }
+
+/* Leere Ergebnisse */
+.empty-title { margin: 0 0 8px; font-weight: 650; color: var(--ink); }
+.empty-help p { margin: 8px 0; }
+.sugg-list { list-style: none; padding: 0; margin: 10px auto; display: grid; gap: 8px; max-width: 520px; }
+.sugg { width: 100%; display: flex; justify-content: space-between; gap: 12px; text-align: left; color: var(--ink); background: var(--surface); }
+.sugg strong { color: var(--accent); white-space: nowrap; }
 .ghost { padding: 9px 14px; font: inherit; font-size: 14px; color: var(--muted); background: none; border: 1px solid var(--line); border-radius: 10px; cursor: pointer; }
 .ghost:hover { color: var(--ink); border-color: var(--muted); }
 .cta {
