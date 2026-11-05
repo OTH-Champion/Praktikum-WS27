@@ -1,26 +1,7 @@
-Naturgy|https://www.naturgy.com/en/work-with-us/|https://www.naturgy.es/trabaja-con-nosotros
-Iberdrola|https://www.iberdrola.com/talento/ofertas-empleo|https://www.iberdrola.es/talento
-Inditex|https://www.inditexcareers.com/portalweb/en/home|https://www.inditexcareers.com/portalweb/es/ofertas-de-empleo
-Mapfre|https://www.mapfre.com/en/talent/|https://www.mapfre.com/talento/
-Moeve|https://www.moeveglobal.com/es/trabaja-con-nosotros|https://www.moeveglobal.com/en/work-with-us
-Acciona|https://www.acciona.com/working-at-acciona/|https://www.acciona.com/es/trabaja-con-nosotros/
-Redeia|https://www.redeia.com/es/trabaja-con-nosotros|https://www.ree.es/es/trabaja-con-nosotros
-Rakuten|https://global.rakuten.com/corp/careers/search/|https://global.rakuten.com/corp/careers/midcareer/
-Cencosud|https://www.trabajaencencosud.cl/|https://www.cencosud.com/trabaja-con-nosotros
-Falabella|https://www.grupofalabella.com/es/trabaja-con-nosotros|https://careers.falabella.com/
-Equinor|https://www.equinor.com/careers/jobs?query=intern|https://careers.equinor.com/
-Orsted|https://orsted.com/en/careers/vacancies-list?search=intern
-Glovo|https://careers.glovoapp.com/jobs/|https://careers.glovoapp.com/open-positions/
-Sea Group|https://apply.workable.com/shopee-9/|https://www.sea.com/careers/jobs
-Booking.com|https://jobs.booking.com/booking/jobs?keywords=intern
-Globant|https://career.globant.com/jobs|https://career.globant.com/job-openings
-Enel|https://jobs.enel.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50
-Macquarie Group|https://recruitment.macquarie.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50
-Qantas|https://careers.qantas.com/jobs/?search=intern
-Atlassian|https://www.atlassian.com/company/careers/all-jobs?search=intern
-Natura|https://natura.gupy.io/|https://www.naturaeco.com/
-Ambev|https://ambev.gupy.io/
-Schneider Electric|https://www.se.com/ww/en/about-us/careers/job-search.jsp
-Nestle|https://jobdetails.nestle.com/search/?q=intern
-Telefonica|https://jobs.telefonica.com/search/?q=intern
-Petrobras|https://petrobras.com.br/en/jovem-aprendiz-e-estagio
+Acciona|https://www.acciona.com/our-purpose/work-with-us/job-offers|https://www.acciona.com/es/nuestro-proposito/trabaja-con-nosotros/ofertas-de-empleo/
+Mercado Libre|https://careers-meli.mercadolibre.com/en/jobs|https://mercadolibre.eightfold.ai/careers?query=intern
+Sea Group|https://apply.workable.com/shopee-9/|https://careers.shopee.sg/jobs
+Galp|https://jobs.galp.com/search/?q=intern|https://jobs.galp.com/search/?q=est%C3%A1gio
+Vestas|https://careers.vestas.com/search/?q=intern|https://careers.vestas.com/search/?q=student
+Glovo|https://careers.glovoapp.com/jobs-at-glovo/?search=intern|https://careers.glovoapp.com/jobs-at-glovo/
+Enel|https://jobs.enel.com/en_US/careers/SearchJobs/intern|https://jobs.enel.com/es_ES/careers/SearchJobs/?search=becario

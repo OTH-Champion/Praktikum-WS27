@@ -368,7 +368,15 @@ def harvest(page: Page, company: dict, debug: dict | None = None) -> list[dict]:
         if len(title) < 4 or len(title) > 250 or GENERIC_LINK.match(title):
             title = GENERIC_LINK.sub("", card)
             title = re.sub(r"\s+[A-ZÄÖÜ][\wäöüß .\-/]*,\s*(Deutschland|Germany)\s*$", "", title).strip()[:200]
-        jobs.setdefault(url, {"url": url, "title": title, "location": "", "posted": parse_date(card),
+        location = ""
+        if company.get("slug_title"):  # Titel/Ort aus der Adresse, wenn die Karte nichts Brauchbares liefert
+            m = re.search(company["slug_title"], url)
+            if m:
+                title = " ".join(w if w.isupper() else w.capitalize() for w in m.group("title").split("-"))
+                if "ort" in m.groupdict() and m.group("ort"):
+                    location = m.group("ort").replace("-", " ")
+                card = f"{title} {location}".strip()
+        jobs.setdefault(url, {"url": url, "title": title, "location": location, "posted": parse_date(card),
                               "card": card, "source": "link"})
     for j in jobs_from_json(payloads, company, company["list_url"]):
         if j["url"] in jobs:

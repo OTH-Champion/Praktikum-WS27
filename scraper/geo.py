@@ -33,6 +33,7 @@ FREMD = [
     "costa rica", "panama", "ecuador", "bolivia", "paraguay", "venezuela", "guatemala",
     "dominican republic", "puerto rico", "kazakhstan", "macau", "macao",
 ]
+MEHRERE = re.compile(r"\b(multiple|various|several|mehrere|verschiedene|varias|diversas|v[áa]rias)\b", re.I)
 REMOTE = re.compile(r"\b(remote|home ?office|work from home|fully remote|teletrabajo|remoto)\b", re.I)
 NOISE = re.compile(r"\b(hybrid|on-?site|office|headquarters|hq|campus|metropolitan area|area|region|"
                    r"greater|city of|stadt|provincia de|province|state|county|district)\b", re.I)
@@ -104,6 +105,33 @@ class Geo:
                 return self.iso3[fold(raw)]
         return found
 
+    def _token_fallback(self, whole: str) -> tuple[str | None, str | None]:
+        """Sucht bekannte Städte/Länder als einzelne Wörter (mind. 4 Buchstaben, Wortpaare zuerst)."""
+        toks = [t for t in re.split(r"[^a-z\u00c0-\u024f]+", whole) if t]
+        grams = [" ".join(toks[i:i + 2]) for i in range(len(toks) - 1)] + toks
+        city = code = None
+        for g in grams:
+            if len(g) < 4:
+                continue
+            if not city and g in self.city_alias and self.city_alias[g] in self.city_country:
+                city = self.city_alias[g]
+            if not code and g in self.fremd:
+                code = "XX"
+            if not code and g in self.country_alias:
+                code = self.country_alias[g]
+        if city and not code:
+            code = self.city_country[city]
+        if city and code and self.city_country.get(city) != code:
+            city = None
+        if code and code != "XX" and not city:
+            names = {fold(n) for n in (self.laender[code].get("namen") or [])} | {fold(self.name(code))}
+            rest = whole
+            for n in sorted(names, key=len, reverse=True):
+                rest = re.sub(r"(?<![a-z])" + re.escape(n) + r"(?![a-z])", " ", rest)
+            rest = clean(NOISE.sub(" ", rest)).strip(" .-,")
+            city = rest.title() if 2 <= len(rest) <= 40 and not MEHRERE.search(rest) else None
+        return code, city
+
     def _display_city(self, part: str) -> str:
         f = fold(part)
         if f in self.city_alias:
@@ -119,6 +147,7 @@ class Geo:
         remote = bool(REMOTE.search(s))
         s = re.sub(r"\b\d{4,6}(-\d{3,4})?\b", " ", s)            # PLZ
         s = REMOTE.sub(" ", s)
+        s = re.sub(r"\+\s*\d+\s*(more|weitere|más|mais)\b\W*", " ", s, flags=re.I)  # "+1 more…"
         m = re.match(r"^\s*([A-Z]{2})\s*-\s*(.+)$", s)              # "DE-Munich"
         if m:
             s = f"{m.group(2)}, {m.group(1)}"
@@ -142,10 +171,16 @@ class Geo:
                 if disp and disp in self.city_country:
                     code = self.city_country[disp]
                     break
+        forced_city = None
+        if not code and len(s) <= 80:
+            # Letzter Versuch: einzelne Wörter (z. B. "Campus Repsol-Madrid", "zagreb croatia")
+            code, forced_city = self._token_fallback(whole)
         if not code:
             return None
         if code == "XX":
             return {"land": "XX"}
+        if forced_city and (code not in self.hubs or self.city_country.get(forced_city) == code):
+            return {"stadt": forced_city, "land": code}
 
         # Stadt bestimmen
         if code in self.hubs:
@@ -164,7 +199,7 @@ class Geo:
                 continue
             cand = clean(NOISE.sub(" ", raw)).strip(" .-")
             cand = re.sub(r"\s+[A-Z]{2,3}$", "", cand)          # "Sydney NSW" -> "Sydney"
-            if len(cand) < 2 or cand.isdigit():
+            if len(cand) < 2 or cand.isdigit() or MEHRERE.search(cand):
                 continue
             city = self._display_city(cand)
             break
