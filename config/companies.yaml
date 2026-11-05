@@ -23,6 +23,7 @@
 #   browser         Karriereseite ohne passende Schnittstelle: echter Browser wie bei StudiJobs RGB,
 #                   braucht list_url und job_link (Regex für Links zu einzelnen Stellen)
 #                   optional slug_title: Regex mit (?P<title>…) und (?P<ort>…), liest Titel/Ort aus der Stellenadresse
+#   nur_land: true  Ortstext der Seite ignorieren, alle Stellen bekommen default_land (Stadt k. A.)
 #
 # Optional für alle:
 #   career_url    Link, der auf der Seite bei "Berücksichtigte Unternehmen" erscheint
@@ -958,6 +959,8 @@
   career_url: https://www.naturgy.com/en/work-with-us/
   list_url: https://career5.successfactors.eu/career?company=C0000880172P&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH
   job_link: career_job_req_id=\d+
+  default_land: ES   # Detailseite nennt keinen lesbaren Ort; Impulsa-Programm ist in Spanien
+  nur_land: true
 
 - name: Repsol
   ats: workday
@@ -1113,6 +1116,7 @@
   extra_urls:
     - https://mercadolibre.eightfold.ai/careers?query=pasant%C3%ADa
     - https://mercadolibre.eightfold.ai/careers?query=pr%C3%A1cticas
+    - https://mercadolibre.eightfold.ai/careers?query=pasante
   career_url: https://careers-meli.mercadolibre.com/en/jobs
 
 - name: Nubank

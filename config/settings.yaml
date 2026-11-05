@@ -20,6 +20,7 @@ include_title:
   - pr[aá]cticas?\b    # Prácticas / Práctica profesional
   - becari[oa]s?\b
   - pasant[ií]as?\b
+  - pasantes?\b       # Pasante (Lateinamerika)
   - stagiaire
 
 # Diese Stellen fliegen immer raus
