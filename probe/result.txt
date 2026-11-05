@@ -1,346 +1,833 @@
-## Brot für die Welt  https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
-   final: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/  title: Jobs | Brot für die Welt  error: None
-   json: 32 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/mB_HKjn9o/137.25.303/137.25.303?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
-   pattern: 10x www.brot-fuer-die-welt.de/spenden/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/spenden/einsatz-der-spendengelder/
-   pattern: 9x void(0);  e.g. javascript:void(0);
-   pattern: 6x www.brot-fuer-die-welt.de/spenden/  e.g. https://www.brot-fuer-die-welt.de/spenden/
-   pattern: 4x www.brot-fuer-die-welt.de/ueber-uns/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/
-   pattern: 3x www.brot-fuer-die-welt.de/service-kontakt/  e.g. https://www.brot-fuer-die-welt.de/service-kontakt/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/im-ausland-arbeiten/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/freiwillige/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/entwicklungspolitischer-freiwilligendienst-brot-fuer-die-welt-2027-2028-1943182/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-online-marketing-1942383/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-abteilung-politik-1942881/
-## Brot für die Welt  https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/
-   final: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/  title: Stellenangebote | Brot für die Welt  error: None
-   json: 32 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/mB_HKjn9o/137.25.303/137.25.303?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
-   pattern: 10x www.brot-fuer-die-welt.de/spenden/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/spenden/einsatz-der-spendengelder/
-   pattern: 9x void(0);  e.g. javascript:void(0);
-   pattern: 6x www.brot-fuer-die-welt.de/spenden/  e.g. https://www.brot-fuer-die-welt.de/spenden/
-   pattern: 6x www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
-   pattern: 4x www.brot-fuer-die-welt.de/ueber-uns/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/im-ausland-arbeiten/
-   link: https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/freiwillige/
-## Diakonie Katastrophenhilfe  https://www.diakonie-katastrophenhilfe.de/ueber-uns
-   final: https://www.diakonie-katastrophenhilfe.de/ueber-uns  title: Über uns - Diakonie Katastrophenhilfe  error: None
-   json: 30 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/CdZms07aS/34.17.195/34.17.195?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
-   pattern: 56x www.diakonie-katastrophenhilfe.de/ueber-uns  e.g. https://www.diakonie-katastrophenhilfe.de/ueber-uns#
-   pattern: 9x www.diakonie-katastrophenhilfe.de/projekte  e.g. https://www.diakonie-katastrophenhilfe.de/projekte
-   pattern: 5x www.diakonie-katastrophenhilfe.de/themen  e.g. https://www.diakonie-katastrophenhilfe.de/themen
-   pattern: 5x www.diakonie-katastrophenhilfe.de/spende  e.g. https://www.diakonie-katastrophenhilfe.de/spende
-   pattern: 4x www.diakonie-katastrophenhilfe.de/themen/[^/]+  e.g. https://www.diakonie-katastrophenhilfe.de/themen/krieg-und-konflikt
-   link: https://www.diakonie-katastrophenhilfe.de/material/unsere-grundsaetze-und-positionen
-   link: https://www.diakonie-katastrophenhilfe.de/ueber-uns/mitarbeit/stellenangebote.html
-## Diakonie Katastrophenhilfe  https://www.diakonie-katastrophenhilfe.de/
-   final: https://www.diakonie-katastrophenhilfe.de/  title: Diakonie Katastrophenhilfe - Diakonie Katastrophenhilfe  error: None
-   json: 30 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/CdZms07aS/34.17.195/34.17.195?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
-   pattern: 22x www.diakonie-katastrophenhilfe.de/ueber-uns  e.g. https://www.diakonie-katastrophenhilfe.de/ueber-uns
-   pattern: 12x www.diakonie-katastrophenhilfe.de/projekte  e.g. https://www.diakonie-katastrophenhilfe.de/projekte
-   pattern: 12x www.diakonie-katastrophenhilfe.de/krisenvorsorge-guide  e.g. https://www.diakonie-katastrophenhilfe.de/krisenvorsorge-guide
-   pattern: 11x www.diakonie-katastrophenhilfe.de/spende/ukraine  e.g. https://www.diakonie-katastrophenhilfe.de/spende/ukraine
-   pattern: 8x www.diakonie-katastrophenhilfe.de/projekte/kongo-ebola  e.g. https://www.diakonie-katastrophenhilfe.de/projekte/kongo-ebola
-## Plan International  https://jobs.plan.de/
-   final: https://jobs.plan.de/  title: Plan International Jobs Hamburg: Jetzt online bewerben!  error: None
-   pattern: 6x jobs.plan.de/stellenangebote.html  e.g. https://jobs.plan.de/stellenangebote.html
-   link: https://jobs.plan.de/datenschutz.html
-   link: https://jobs.plan.de/
-   link: https://jobs.plan.de/stellenangebote.html
-   link: https://jobs.plan.de/plan-als-arbeitgeber.html
-   link: https://jobs.plan.de/ihr-arbeitsplatz.html
-   link: https://jobs.plan.de/Bewerbungstipps.html
-   link: https://jobs.plan.de/faq.html
-   link: https://jobs.plan.de/stellenangebote.html?reset_search=1
-   link: https://jobs.plan.de/stellenangebote.html?order%5Bdir%5D=asc&order%5Bfield%5D=stellenbezeichnung&sid=c460160bb10be5434419a253ef1bfc0c
-   link: https://jobs.plan.de/stellenangebote.html?order%5Bdir%5D=asc&order%5Bfield%5D=aufgabengebiete&sid=c460160bb10be5434419a253ef1bfc0c
-   link: https://jobs.plan.de/stellenangebote.html?order%5Bdir%5D=asc&order%5Bfield%5D=taetigkeiten&sid=c460160bb10be5434419a253ef1bfc0c
-   link: https://jobs.plan.de/Werkstudentin-Contentmanagement-dwm-de-j1362.html?sid=c460160bb10be5434419a253ef1bfc0c
-   link: https://jobs.plan.de/Workshopleitung-dwm-in-Eisenberg-de-j1357.html?sid=c460160bb10be5434419a253ef1bfc0c
-   link: https://jobs.plan.de/jobalert.html
-## Plan International  https://jobs.plan-international.org/
-   final: https://jobs.plan-international.org/  title: Jobs at Plan International  error: None
-   successfactors: ['career5.successfactors.eu', 'career5.successfactors.eu/career?site=&amp;company=PlanInt&amp;lang=en%5FGB&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE', 'rmkcdn.successfactors.com']
-   pattern: 34x jobs.plan-international.org/go/[^/]+/\d+/  e.g. https://jobs.plan-international.org/go/Emergency-Response-%28en_GB%29/1413701/
-   pattern: 3x plan-international.org/[^/]+  e.g. https://plan-international.org/why-join-plan-international
-   link: https://jobs.plan-international.org/#content
-   link: https://jobs.plan-international.org/
-   link: https://jobs.plan-international.org/#
-   link: https://jobs.plan-international.org/search/?q=
-   link: https://jobs.plan-international.org/go/Emergency-Response-%28en_GB%29/1413701/
-   link: https://jobs.plan-international.org/go/Business-Support-&-Administration-%28en_GB%29/1412901/
-   link: https://jobs.plan-international.org/go/Monitoring%2C-Evaluation-&-Research-%28en_GB%29/1413301/
-   link: https://jobs.plan-international.org/go/Programmes-%28en_GB%29/1414901/
-   link: https://jobs.plan-international.org/go/Finance-%28en_GB%29/1414501/
-   link: https://jobs.plan-international.org/go/Global-Influencing-&-Partnerships-%28en_GB%29/1412501/
-   link: https://jobs.plan-international.org/go/Information-Technology-%28en_GB%29/1416101/
-   link: https://jobs.plan-international.org/go/Procurement-&-Logistics-%28en_GB%29/1414101/
-   link: https://jobs.plan-international.org/go/Legal-and-Governance-%28en_GB%29/1416501/
-   link: https://jobs.plan-international.org/go/Global-Assurance-%28en_GB%29/1415301/
-   link: https://jobs.plan-international.org/go/Human-Resources-&-Organisational-Development-%28en_GB%29/1415701/
-   link: https://jobs.plan-international.org/go/Ukraine-Refugee-Crisis-Response/5361201/
-   link: https://jobs.plan-international.org/go/Asia-Pacific-Region/5498501/
-   link: https://jobs.plan-international.org/go/Central-and-Eastern-Europe-Hub/9098601/
-   link: https://jobs.plan-international.org/go/Global-Hub-Location-Flexible/5498701/
-   link: https://jobs.plan-international.org/go/Global-Hub-UK/5498601/
-   link: https://jobs.plan-international.org/go/Middle-East%2C-Eastern-and-Southern-Africa/5498801/
-   link: https://jobs.plan-international.org/go/Region-of-the-Americas/5498901/
-   link: https://jobs.plan-international.org/go/West-and-Central-Africa/5499001/
-   link: https://jobs.plan-international.org/lp/FREQUENTLY%20ASKED%20QUESTIONS/da42fd1ba01cee72/?locale=en_GB&previewLink=true&referrerSave=false
-   link: https://jobs.plan-international.org/?locale=en_GB
-   link: https://jobs.plan-international.org/?locale=en_US
-   link: https://jobs.plan-international.org/?locale=es_ES
-   link: https://jobs.plan-international.org/?locale=fr_FR
-   link: https://jobs.plan-international.org/?locale=pt_PT
-   link: https://jobs.plan-international.org/viewalljobs/
-## Aktion gegen den Hunger  https://careers.actionagainsthunger.org/
-   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.actionagainsthunger.org/
+## Iberdrola  https://www.iberdrola.com/careers/job-offers
+   final: https://www.iberdrola.com/careers/job-offers  title: Access Denied  error: None
+## Iberdrola  https://careers.iberdrola.com/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.iberdrola.com/
 Call log:
-  - navigating to "https://careers.actionagainsthunger.org/", waiting until "domcontentloaded"
+  - navigating to "https://careers.iberdrola.com/", waiting until "domcontentloaded"
 
-## Aktion gegen den Hunger  https://www.aktiongegendenhunger.de/stellenangebote
-   final: https://www.aktiongegendenhunger.de/stellenangebote  title: Jobs und Stellenangebote | Aktion gegen den Hunger  error: None
-   json: 38 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/IcWw2ZiC_/185.53.601/185.53.601?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Engagement
-   json: 684 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement
-   json: 691 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/de/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement
-   pattern: 27x www.aktiongegendenhunger.de/[^/]+  e.g. https://www.aktiongegendenhunger.de/spenden-statt-schenken
-   pattern: 9x www.aktiongegendenhunger.de/spenden  e.g. https://www.aktiongegendenhunger.de/spenden?monthly=true
-   pattern: 8x www.aktiongegendenhunger.de/stellenangebote  e.g. https://www.aktiongegendenhunger.de/stellenangebote#main-content
-   pattern: 7x www.aktiongegendenhunger.de/datenschutz  e.g. https://www.aktiongegendenhunger.de/datenschutz
-   pattern: 5x www.aktiongegendenhunger.de/kampagnen  e.g. https://www.aktiongegendenhunger.de/kampagnen
-   link: https://www.aktiongegendenhunger.de/stellenangebote#main-content
-   link: https://www.aktiongegendenhunger.de/stellenangebote
-   link: https://careers.actionagainsthunger.org/?_ga=1.41833186.1754761703.1435568749
-   link: https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote
-   link: https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote
-   link: https://www.aktiongegendenhunger.de/stellenangebote#
-## FES  https://jobs.fes.de/
-   final: https://jobs.fes.de/  title: Alle Ausschreibungen  error: None
-   link: https://jobs.fes.de/
-   link: https://jobs.fes.de/jobportal/fes/viewAusschreibung/2026-111.html
-## FES  https://www.fes.de/stellenangebote/praktikum
-   final: https://www.fes.de/stellenangebote/praktikum  title: Praktikum in der FES  error: None
-   pattern: 51x www.fes.de/stellenangebote/praktikum  e.g. https://www.fes.de/stellenangebote/praktikum#
-   pattern: 30x www.fes.de/[^/]+  e.g. https://www.fes.de/abteilung-internationale-zusammenarbeit
-   pattern: 14x www.fes.de/[^/]+/[^/]+  e.g. https://www.fes.de/themenportal-die-welt-gerecht-gestalten/frieden-und-sicherheit
-   pattern: 4x www.fes.de/ueber-uns/[^/]+/[^/]+  e.g. https://www.fes.de/ueber-uns/ueber-die-friedrich-ebert-stiftung/organigramm-und-gremien
-   pattern: 4x www.fes.de/studienfoerderung  e.g. https://www.fes.de/studienfoerderung
-   link: https://www.fes.de/stellenangebote/praktikum#
-   link: https://www.fes.de/stellenangebote/praktikum#main-content
-   link: https://www.fes.de/stellenangebote/praktikum#fes-footer
-   link: https://www.fes.de/stellenangebote/praktikum
-   link: https://www.fes.de/stellenangebote
-   link: https://jobs.fes.de/
-   link: https://www.fes.de/stellenangebote/praktikum#top
-## Fairtrade  https://www.fairtrade.net/de-de.html
-   final: https://www.fairtrade.net/de-de.html  title: Für eine gerechtere Weltwirtschaft | Fairtrade Deutschland  error: None
-   pattern: 16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html
-   pattern: 13x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html
-   pattern: 9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html
-   pattern: 6x www.fairtrade.net/de-de/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick.html
-   pattern: 6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html
-   link: https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html
-## Fairtrade  https://www.fairtrade.net/de-de/ueber-uns/jobs.html
-   final: https://www.fairtrade.net/de-de/ueber-uns/jobs.html  title: 404 Not Found  error: None
-   pattern: 16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html
-   pattern: 12x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html
-   pattern: 9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html
-   pattern: 6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html
-   pattern: 5x www.fairtrade.net/de-de/mach-mit/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen.html
-   link: https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html
-## Kindernothilfe  https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt
-   final: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all  title: Online-Stellenmarkt | Kindernothilfe e. V.  error: None
-   json: 4 Treffer in https://www.kindernothilfe.de/api/sitecore/JobOffers/RetrieveOffers?lang=&translationKeys=JobOffers.SwitchTo.English&translationKeys=JobOffers.SwitchT | keys=['Content', 'Description', 'Id', 'Link', 'Title', 'Type'] | z.B. Initiativbewerbung
-   pattern: 30x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/
-   pattern: 15x www.kindernothilfe.de/[^/]+/stellenmarkt  e.g. https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#mainContent
-   pattern: 8x www.tiktok.com/legal/privacy-policy  e.g. https://www.tiktok.com/legal/privacy-policy?lang=en
-   pattern: 8x privacy.microsoft.com/en-US/privacystatement  e.g. https://privacy.microsoft.com/en-US/privacystatement
-   pattern: 7x www.haufe.de/datenschutzerklaerung_24_\d+.html  e.g. https://www.haufe.de/datenschutzerklaerung_24_360.html?_ga=2.25712510.2118662886.1516026902-1046601484.1501084227
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#mainContent
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt
-   link: https://www.kindernothilfe.de/en/career/jobmarket
-   link: https://www.kindernothilfe.de/jobs-und-karriere
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=1&filter=all
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2004089
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2004012
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2005714
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2845709
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#mainHeading
-   link: https://www.kindernothilfe.de/jobs-und-karriere/wie-wir-arbeiten
-   link: https://www.kindernothilfe.de/informieren/ueber-die-kindernothilfe/anfahrt-geschaeftsstelle
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all
-   link: https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#
-## GIZ  https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29
-   final: https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12  title: Unsere Stellenangebote | Karriereportal | Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH  error: None
+## Naturgy  https://www.naturgy.com/en/careers/
+   final: https://www.naturgy.com/en/careers/  title: Page Not Found - Naturgy  error: None
+   pattern: 19x www.naturgy.com/en/careers/  e.g. https://www.naturgy.com/en/careers/#
+   pattern: 13x www.naturgy.com/en/[^/]+/  e.g. https://www.naturgy.com/en/work-with-us/
+   pattern: 8x www.naturgy.com/en/[^/]+/corporate-governance/[^/]+/  e.g. https://www.naturgy.com/en/shareholders-and-investors/corporate-governance/francisco-reynes-massanet/
+   pattern: 8x www.naturgy.com/en/sustainability/the-environment/[^/]+/  e.g. https://www.naturgy.com/en/sustainability/the-environment/climate-change-and-energy-transition/
+   pattern: 6x www.naturgy.com/en/cookies-policy/  e.g. https://www.naturgy.com/en/cookies-policy/
+   link: https://www.naturgy.com/en/sustainability/just-transition/jobs/
+## Naturgy  https://empleo.naturgy.com/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://empleo.naturgy.com/
+Call log:
+  - navigating to "https://empleo.naturgy.com/", waiting until "domcontentloaded"
+
+## Repsol  https://www.repsol.com/en/careers/index.cshtml
+   final: https://www.repsol.com/en/careers/index.cshtml  title: Repsol careers | Work with us  error: None
+   workday: ['repsol/wd3/Repsol']
+   pattern: 11x www.repsol.com/en/[^/]+/index.cshtml  e.g. https://www.repsol.com/en/products-and-services/index.cshtml
+   pattern: 10x www.repsol.com/en/[^/]+/[^/]+/index.cshtml  e.g. https://www.repsol.com/en/products-and-services/apps-and-tools/index.cshtml
+   pattern: 9x www.repsol.com/en/[^/]+/[^/]+/[^/]+/index.cshtml  e.g. https://www.repsol.com/en/shareholders-and-investors/repsol-as-an-investment/risk-management-at-repsol/index.cshtml
+   pattern: 9x www.repsol.com/en/careers/[^/]+/index.cshtml  e.g. https://www.repsol.com/en/careers/internships-and-graduate-programs/index.cshtml
+   pattern: 9x www.repsol.com/en/careers/[^/]+/[^/]+/index.cshtml  e.g. https://www.repsol.com/en/careers/internships-and-graduate-programs/talent-energy-program/index.cshtml
+   link: https://www.repsol.com/en/shareholders-and-investors/corporate-governance/board-of-directors/composition/index.cshtml
+   link: https://repsol.wd3.myworkdayjobs.com/en-US/Repsol?utm_source=repsolcom-all&utm_medium=referral&utm_campaign=rep-empleo-all_2404_corp-buentrabajar
+## Repsol  https://careers.repsol.com/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.repsol.com/
+Call log:
+  - navigating to "https://careers.repsol.com/", waiting until "domcontentloaded"
+
+## Endesa  https://www.endesa.com/en/careers
+   final: https://www.endesa.com/en/careers  title: Error 404 | Endesa  error: None
    phenom: ['/widgets']
-   beesite: ['beesite', 'milchundzucker']
-   json: 4 Treffer in https://jobs.giz.de/assets/js/jobboard-giz.config.json | keys=['channel', 'date', 'id', 'job_id', 'location', 'title', 'uri'] | z.B. PositionTitle
-   pattern: 37x jobs.giz.de/index.php  e.g. https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-main-heading
-   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-main-heading
-   link: https://jobs.giz.de/index.php?ac=login
-   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading
-   link: https://jobs.giz.de/index.php?ac=search_result
-   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level[]=26
-   link: https://jobs.giz.de/index.php?ac=statuspage&uid=0
-   link: https://jobs.giz.de/index.php?ac=statuspage
-   link: https://jobs.giz.de/index.php?ac=applicationstate
-   link: https://jobs.giz.de/index.php?ac=messages
-   link: https://jobs.giz.de/index.php?ac=logindata
-   link: https://jobs.giz.de/index.php?ac=job_merker
-   link: https://jobs.giz.de/index.php?ac=jobabo_overview
-   link: https://jobs.giz.de/index.php?ac=event
-   link: https://jobs.giz.de/index.php?ac=profile_application
-   link: https://jobs.giz.de/index.php?ac=privacy_statements
-   link: https://jobs.giz.de/index.php?ac=jobabo
-   link: https://jobs.giz.de/(!'uid=lang');
-   link: https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=1
-   link: https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=2
-   link: https://jobs.giz.de/index.php?ac=lost_password
-   link: https://jobs.giz.de/index.php?ac=lost_username
-   link: https://jobs.giz.de/index.php?ac=register
-   link: https://jobs.giz.de/index.php?ac=privacy_policy
-   link: https://jobs.giz.de/index.php?ac=imprint
-   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#
-   link: https://jobs.giz.de/index.php
-   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-search-result-heading
-   link: https://www.linkedin.com/shareArticle?mini=true&url=ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ&title=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ
-   link: https://wa.me/?text=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ%20ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ
-   link: https://jobs.giz.de/index.php?ac=accessibility
-## GIZ  https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword=praktikum
-   final: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12  title: Unsere Stellenangebote | Karriereportal | Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH  error: None
+   pattern: 21x www.endesa.com/en/careers  e.g. https://www.endesa.com/en/careers#main
+   pattern: 16x www.endesa.com/en/[^/]+  e.g. https://www.endesa.com/en/the-e-face
+   pattern: 16x www.endesa.com/en/companies/electricity/[^/]+  e.g. https://www.endesa.com/en/companies/electricity/tariff-comparator-electricity
+   pattern: 6x www.endesa.com/en/electric-mobility/[^/]+  e.g. https://www.endesa.com/en/electric-mobility/electric-car-charger-tariff-offer
+   pattern: 4x www.endesa.com/en/blogs/[^/]+  e.g. https://www.endesa.com/en/blogs/endesa-s-blog
+   link: https://www.endesa.com/en/talent/job-vacancies
+## Enel  https://jobs.enel.com/en_US/careers
+   final: https://jobs.enel.com/en_US/careers  title: Home  error: None
+   json: 3 Treffer in https://jobs.enel.com/14/_portalCookieUserConsent?method=getAll | keys=['canBeDisabled', 'description', 'id', 'isBuiltin', 'isEnabled', 'languageId', 'name', 'sortOrder', 'variableName'] | z.B. Essential
+   pattern: 42x jobs.enel.com/en_US/careers/JobDetail/\d+  e.g. https://jobs.enel.com/en_US/careers/JobDetail/24630?team=GridsandInnovation
+   pattern: 12x jobs.enel.com/en_US/careers  e.g. https://jobs.enel.com/en_US/careers#
+   pattern: 4x www.enel.com/careers/teams  e.g. https://www.enel.com/careers/teams
+   pattern: 3x www.enel.com/company/about-us  e.g. https://www.enel.com/company/about-us
+   pattern: 3x www.enel.com/investors/overview  e.g. https://www.enel.com/investors/overview
+   link: https://jobs.enel.com/en_US/careers#
+   link: https://jobs.enel.com/en_US/careers#main
+   link: https://jobs.enel.com/en_US/careers
+   link: https://jobs.enel.com/en_US/careers/Home
+   link: https://jobs.enel.com/en_US/careers/Students
+   link: https://jobs.enel.com/en_US/careers/JobOpenings
+   link: https://jobs.enel.com/en_US/SpontaneousApplication
+   link: https://jobs.enel.com/en_US/careers/Login
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24630?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24625?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24586?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24585?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24584?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24620?team=Commercial
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24619?team=Commercial
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24618?team=Commercial
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24615?team=Commercial
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24614?team=Commercial
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24613?team=Commercial
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24612?team=Commercial
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24609?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24607?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24606?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24603?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24583?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24581?team=RenewableEnergies
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24579?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24577?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobDetail/24575?team=GridsandInnovation
+   link: https://jobs.enel.com/en_US/careers/JobOpeningsRenewable
+## Telefónica  https://jobs.telefonica.com/
+   final: https://jobs.telefonica.com/?locale=de_DE  title: Jobs at Telefónica Global  error: None
+   successfactors: ['career5.successfactors.eu', 'career5.successfactors.eu/career?site=&amp;company=Telefonica&amp;lang=de%5FDE&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE', 'career5.successfactors.eu/careers?company=Telefonica&amp;site=&amp;lang=de_DE&amp;requestParams=&amp;navBarLevel=MY_PROFILE&amp;_s.crb=4ex0I8385panbgevxe73ssdDj7A%3d&amp;_ga=2.10528948.1605791153.1636534564-832949460.1636036227', 'career5.successfactors.eu/careers?company=Telefonica&site=&lang=de_DE&requestParams=&navBarLevel=MY_PROFILE&_s.crb=4ex0I8385panbgevxe73ssdDj7A%3d&_ga=2.10528948.1605791153.1636534564-832949460.1636036227', 'jobs2web', 'rmkcdn.successfactors.com']
+   link: https://jobs.telefonica.com/?locale=de_DE#content
+   link: https://jobs.telefonica.com/?locale=de_DE#
+   link: https://jobs.telefonica.com/?locale=de_DE
+   link: https://jobs.telefonica.com/?locale=en_GB
+   link: https://jobs.telefonica.com/?locale=es_ES
+   link: https://jobs.telefonica.com/?locale=pt_BR
+   link: https://jobs.telefonica.com/
+   link: https://jobs.telefonica.com/content/What-we-offer-you-/?locale=de_DE
+   link: https://jobs.telefonica.com/content/Culture/?locale=de_DE
+   link: https://jobs.telefonica.com/content/Where-we-are-present/?locale=de_DE
+   link: https://jobs.telefonica.com/search/
+   link: https://career5.successfactors.eu/careers?company=Telefonica&site=&lang=de_DE&requestParams=&navBarLevel=MY_PROFILE&_s.crb=4ex0I8385panbgevxe73ssdDj7A%3d&_ga=2.10528948.1605791153.1636534564-832949460.1636036227
+## Telefónica  https://www.telefonica.com/en/careers/
+   final: https://www.telefonica.com/en/careers/  title: Page not found - Telefónica  error: None
+   pattern: 12x www.telefonica.com/en/communication-room/blog/[^/]+/  e.g. https://www.telefonica.com/en/communication-room/blog/at-telefonica-we-reinforce-our-commitment-to-gender-equality-and-diversity-on-international-womens-day/
+   pattern: 6x www.telefonica.com/en/communication-room/press-room/[^/]+/  e.g. https://www.telefonica.com/en/communication-room/press-room/telefonica-and-minsait-to-develop-secure-communications-for-the-european-central-banks-digital-euro/
+   pattern: 5x www.telefonica.com/en/shareholders-investors/financial-reports/[^/]+/  e.g. https://www.telefonica.com/en/shareholders-investors/financial-reports/20-f-sec-filing/
+   pattern: 4x www.telefonica.com/en/sustainability-innovation/[^/]+/sustainability-strategy/  e.g. https://www.telefonica.com/en/sustainability-innovation/how-we-work/sustainability-strategy/
+   pattern: 4x www.telefonica.com/en/sustainability-innovation/society/[^/]+/  e.g. https://www.telefonica.com/en/sustainability-innovation/society/minors-and-responsible-use/
+   link: https://www.telefonica.com/en/about-us/public-policy-and-regulation/public-positioning/
+## Santander  https://www.santander.com/en/careers
+   final: https://www.santander.com/en/careers  title: Careers | Santander Bank  error: None
+   workday: ['santander/wd3/SantanderCareers']
+   pattern: 13x www.santander.com/en/careers  e.g. https://www.santander.com/en/careers
+   pattern: 9x www.santander.com/en/[^/]+/santander-share  e.g. https://www.santander.com/en/shareholders-and-investors/santander-share
+   pattern: 9x www.santander.com/en/[^/]+/[^/]+  e.g. https://www.santander.com/en/shareholders-and-investors/financial-and-economic-information
+   pattern: 9x www.santander.com/en/[^/]+/corporate-governance/[^/]+  e.g. https://www.santander.com/en/shareholders-and-investors/corporate-governance/corporate-governance-presentation
+   pattern: 7x www.santander.com/en/[^/]+/general-information/[^/]+  e.g. https://www.santander.com/en/shareholders-and-investors/general-information/presentacion-de-sostenibilidad
+## Santander  https://www.santanderbank.com/careers
+   final: https://www.santandercareers.com/  title: Working at Santander Holdings USA Inc  error: None
+   radancy: ['radancy', 'tbcdn.talentbrew.com']
+   json: 11 Treffer in https://sidebar.bugherd.com/sidebar/resources?apikey=6s2zlv7p2pobf8jhfbvs6g | keys=['active', 'active_count', 'archived_at', 'created_at', 'deleted_at', 'id', 'inactive_count', 'name', 'project_id', 'task_count', 'updated_at'] | z.B. Ametr
+   pattern: 10x www.santandercareers.com/[^/]+  e.g. https://www.santandercareers.com/who-we-are
+   pattern: 4x www.santandercareers.com/search-jobs  e.g. https://www.santandercareers.com/search-jobs
+   link: https://www.santandercareers.com/saved-jobs
+   link: https://internal.santanderjobsus.com/
+   link: https://www.santandercareers.com/#job-alert-form
+   link: https://www.santandercareers.com/search-jobs
+   link: https://www.santandercareers.com/Technology-jobs
+   link: https://www.santandercareers.com/Retail-jobs
+   link: https://www.santandercareers.com/Ops-Business-Jobs
+   link: https://www.santandercareers.com/Commercial-jobs
+   link: https://www.santandercareers.com/Corp-Investment-Jobs
+   link: https://www.santandercareers.com/risk-and-governance-jobs
+   link: https://www.santandercareers.com/Finance-Mgmt-Control-Jobs
+   link: https://www.santandercareers.com/Wealth-Mgmt-Insurance-Jobs
+   link: https://www.santandercareers.com/hsa-bank-jobs
+   link: https://www.santandercareers.com/ametros-jobs
+   link: https://www.santandercareers.com/#tab-featured-jobs
+   link: https://www.santandercareers.com/#tab-recent-jobs
+   link: https://www.santandercareers.com/#tab-saved-jobs
+   link: https://www.santandercareers.com/job/new-york/investment-banking-associate-industrials/1771/102884029696
+   link: https://www.santandercareers.com/job/miami/pre-and-post-trade-middle-office-operations-analyst/1771/102872319792
+   link: https://www.santandercareers.com/job/town-of-new-britain/banking-center-relationship-banker-2-new-britain-ct/1771/102872319472
+   link: https://www.santandercareers.com/job/new-haven/sr-associate-business-banking-relationship-manager-new-haven-ct/1771/102872319184
+   link: https://www.santandercareers.com/sys/tc/sign-in?status=greeting&id=5202d481-81fb-477b-b99b-9b1ca740d1e2&lang=en
+## Glovo  https://jobs.glovoapp.com/
+   final: https://careers.glovoapp.com/  title: About Us - Glovo  error: None
+   json: 35 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/3l-LWoLH2QhZhI/66.19.89/66.19.89?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
+   pattern: 4x careers.glovoapp.com/[^/]+/  e.g. https://careers.glovoapp.com/life-at-glovo/
+   pattern: 3x careers.glovoapp.com/our-teams/  e.g. https://careers.glovoapp.com/our-teams/
+   link: https://careers.glovoapp.com/saved-jobs/
+   link: https://careers.glovoapp.com/jobs-at-glovo/
+## Ørsted  https://orsted.com/en/careers/vacancies-list
+   final: https://orsted.com/en/careers/vacancies-list  title: Vacancies: See All Available Jobs | Ørsted Careers  error: None
+   pattern: 8x policies.google.com/technologies/partner-sites  e.g. https://policies.google.com/technologies/partner-sites?hl=en
+   pattern: 7x piwik.pro/privacy-policy  e.g. https://piwik.pro/privacy-policy
+   pattern: 7x orsted.com/en/careers/[^/]+/[^/]+  e.g. https://orsted.com/en/careers/areas-of-work/engineering-and-construction
+   pattern: 6x orsted.com/en/careers/vacancies-list  e.g. https://orsted.com/en/careers/vacancies-list
+   pattern: 5x www.salesforce.com/company/privacy  e.g. https://www.salesforce.com/company/privacy
+   link: https://orsted.com/en/careers/vacancies-list
+   link: https://orsted.com/en/careers/vacancies-list#
+   link: https://orsted.com/en/careers/hiring-process/job-alert
+   link: https://orsted.com/en/careers/vacancies-list/2026/04/31843-experienced-servicenow-grc-product-owner
+   link: https://orsted.com/en/careers/vacancies-list/2026/11/32954-operations-and-maintenance-team-lead
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32874-senior-ot-incident-engineer
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32887-plant-manager--andrews-county-tx
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32879-senior-pipeline-engineer
+   link: https://orsted.com/en/careers/vacancies-list/2026/09/32532-senior-operational-technology-ot-security-officer
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32928-senior-sourcing-manager-temporary
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32849-senior-cyber-security-incident-responder
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32870-project-engineer
+   link: https://orsted.com/en/careers/vacancies-list/2026/09/32819-senior-energy-storage-engineer
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32868-senior-control-systems-specialist-til-avedoerevaerket
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32927-account-manager-barselsvikariat
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32885-administrative-coordinator-for-post-fixture-assistance-in-bioenergy
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32829-purchasing-and-warehouse-coordinator-til-asnaesvaerket
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32846-purchasing-and-warehouse-coordinator-til-herningvaerket
+   link: https://orsted.com/en/careers/vacancies-list/2026/09/32756-wind-farm-technician
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32888-accounts-payable-analyst-12-months-fixed-term
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32842-ap-analyst-reconciliation-12-months-fixed-term
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32891-permitting-manager-fixed-term-contract
+   link: https://orsted.com/en/careers/vacancies-list/2026/11/32945-fishery-relations-manager-fixed-term-contract
+   link: https://orsted.com/en/careers/vacancies-list/2026/05/32273-verantwortliche-elektrofachkraft-offshorewindkraftanlagen-m-f-d
+   link: https://orsted.com/en/careers/vacancies-list/2026/11/32941-community-engagement-and-competency-specialist
+   link: https://orsted.com/en/careers/vacancies-list/2026/11/32905-offshore-qhse-advisor-fixed-term-contract
+   link: https://orsted.com/en/careers/vacancies-list/2026/10/32835-senior-wind-technician
+   link: https://orsted.com/en/careers/vacancies-list/2026/06/32565-transmission-specialist
+   link: https://orsted.com/en/careers/vacancies-list?page=1
+## Vestas  https://careers.vestas.com/
+   final: https://careers.vestas.com/  title: Jobs at Vestas  error: None
+   successfactors: ['career5.successfactors.eu', 'jobs2web', 'rmkcdn.successfactors.com']
+   pattern: 28x policies.google.com/technologies/partner-sites  e.g. https://policies.google.com/technologies/partner-sites?hl=en
+   pattern: 21x www.adobe.com/privacy/policy.html  e.g. https://www.adobe.com/privacy/policy.html
+   pattern: 12x cookieinformation.com/[^/]+/  e.g. https://cookieinformation.com/cookie-and-privacy-policy/
+   pattern: 12x www.hotjar.com/legal/policies/privacy/  e.g. https://www.hotjar.com/legal/policies/privacy/
+   pattern: 10x www.leadfeeder.com/privacy/  e.g. https://www.leadfeeder.com/privacy/
+## Schneider Electric  https://careers.se.com/jobs
+   final: https://careers.se.com/jobs  title: Access Denied  error: None
+## Adyen  https://careers.adyen.com/vacancies
+   final: https://careers.adyen.com/vacancies  title: Job openings at Adyen - Adyen  error: None
+   greenhouse: ['adyen']
+   json: 5 Treffer in https://careers.adyen.com/api/v3/careers_data/careers/en?targetSite=careers | keys=['nuxt', 'sys', 'title', 'url'] | z.B. See all jobs
+   json: 293 Treffer in https://boards-api.greenhouse.io/v1/boards/adyen/departments | keys=['child_ids', 'id', 'jobs', 'name', 'parent_id'] | z.B. Account Management
+   json: 2011 Treffer in https://boards-api.greenhouse.io/v1/boards/adyen/offices | keys=['child_ids', 'departments', 'id', 'location', 'name', 'parent_id'] | z.B. Amsterdam
+   json: 754 Treffer in https://boards-api.greenhouse.io/v1/boards/adyen/jobs?content=true | keys=['absolute_url', 'ai_disclaimer', 'ai_opt_out_request_url', 'application_deadline', 'company_name', 'content', 'data_compliance', 'departments', 'first_published', 'id', 'include_ai_disclaimer', 'internal_job_id', 'language', 'location'] | z.B.  Account Manager
+   pattern: 18x careers.adyen.com/vacancies/\d+-account-manager  e.g. https://careers.adyen.com/vacancies/7586281-account-manager?locale=en
+   pattern: 14x careers.adyen.com/vacancies/\d+-enterprise-account-manager  e.g. https://careers.adyen.com/vacancies/6918826-enterprise-account-manager?locale=en
+   pattern: 12x careers.adyen.com/vacancies/\d+-implementation-engineer  e.g. https://careers.adyen.com/vacancies/7714607-implementation-engineer?locale=en
+   pattern: 8x careers.adyen.com/vacancies/\d+-enterprise-business-development-representative  e.g. https://careers.adyen.com/vacancies/7540718-enterprise-business-development-representative?locale=en
+   pattern: 8x careers.adyen.com/vacancies/\d+-enterprise-sales-manager  e.g. https://careers.adyen.com/vacancies/8188049-enterprise-sales-manager?locale=en
+   link: https://careers.adyen.com/vacancies
+   link: https://careers.adyen.com/vacancies/7586281-account-manager?locale=en
+   link: https://careers.adyen.com/vacancies/7340050-account-manager?locale=en
+   link: https://careers.adyen.com/vacancies/7436701-account-manager?locale=en
+   link: https://careers.adyen.com/vacancies/8243147-account-manager?locale=en
+   link: https://careers.adyen.com/vacancies/8156029-account-manager?locale=en
+   link: https://careers.adyen.com/vacancies/8185712-account-manager?locale=en
+   link: https://careers.adyen.com/vacancies/7340032-account-manager?locale=en
+   link: https://careers.adyen.com/vacancies/5359280-account-manager?locale=en
+   link: https://careers.adyen.com/vacancies/8145128-account-manager?locale=en
+   link: https://careers.adyen.com/vacancies/8190518-accounts-payable-specialist?locale=en
+   link: https://careers.adyen.com/vacancies/8201459-aml-compliance-officer-financial-products?locale=en
+   link: https://careers.adyen.com/vacancies/8009789-apac-aml-cft-compliance-lead?locale=en
+   link: https://careers.adyen.com/vacancies/8274392-associate-compliance-officer-oversight?locale=en
+   link: https://careers.adyen.com/vacancies/8207694-cdd-kyc-knowledge-training-manager?locale=en
+   link: https://careers.adyen.com/vacancies/8278827-cdd-risk-analyst-customer-onboarding?locale=en
+   link: https://careers.adyen.com/vacancies/8263309-cdd-risk-analyst-direct-customer-onboarding?locale=en
+   link: https://careers.adyen.com/vacancies/8269079-cdd-risk-analyst-event-driven-reviews?locale=en
+   link: https://careers.adyen.com/vacancies/8301681-collections-analyst?locale=en
+   link: https://careers.adyen.com/vacancies/8159597-commercial-counsel-deal-desk?locale=en
+   link: https://careers.adyen.com/vacancies/8177020-commercial-counsel-deal-desk?locale=en
+   link: https://careers.adyen.com/vacancies/8233363-commercial-counsel-deal-desk-orb?locale=en
+   link: https://careers.adyen.com/vacancies/8236185-compliance-advisory-officer?locale=en
+   link: https://careers.adyen.com/vacancies/8055561-compliance-officer-financial-data-integrity-programs?locale=en
+   link: https://careers.adyen.com/vacancies/8346356-compliance-officer-growth?locale=en
+   link: https://careers.adyen.com/vacancies/8242353-content-writer-global?locale=en
+   link: https://careers.adyen.com/vacancies/8328988-customer-onboarding-manager?locale=en
+   link: https://careers.adyen.com/vacancies/8256549-deputy-bsa-officer?locale=en
+   link: https://careers.adyen.com/vacancies/8281076-employment-counsel?locale=en
+   link: https://careers.adyen.com/vacancies/7275885-engineering-leader-payments-apac?locale=en
+## Booking.com  https://jobs.booking.com/booking/jobs
+   final: https://jobs.booking.com/booking/jobs  title: Booking.com Careers  error: None
+   icims: ['employees-holdings-workingatbooking.icims.com', 'external-workingatbooking.icims.com', 'internal-workingatbooking.icims.com', 'www.icims.com']
+   pattern: 5x careers.booking.com/[^/]+/  e.g. https://careers.booking.com/start-your-journey/
+   pattern: 4x jobs.booking.com/booking  e.g. https://jobs.booking.com/booking#
+   pattern: 3x careers.booking.com/blog/  e.g. https://careers.booking.com/blog/?page=1
+   pattern: 3x careers.booking.com/our-impact/  e.g. https://careers.booking.com/our-impact/
+   pattern: 3x careers.booking.com/our-diversity/  e.g. https://careers.booking.com/our-diversity/
+   link: https://jobs.booking.com/booking#
+   link: https://jobs.booking.com/booking/jobs
+   link: https://internal-workingatbooking.icims.com/jobs/login?loginOnly=1
+   link: https://external-workingatbooking.icims.com/jobs/login?loginOnly=1
+   link: https://jobs.booking.com/booking/talentcommunity/form
+## Booking.com  https://careers.booking.com/
+   final: https://careers.booking.com/  title: Booking.com Careers site  error: None
+   icims: ['internal-workingatbooking.icims.com']
+   pattern: 9x careers.booking.com/[^/]+/  e.g. https://careers.booking.com/start-your-journey/
+   pattern: 7x careers.booking.com/our-impact/  e.g. https://careers.booking.com/our-impact/
+   pattern: 6x careers.booking.com/benefits/  e.g. https://careers.booking.com/benefits/
+   pattern: 5x careers.booking.com/early-careers/  e.g. https://careers.booking.com/early-careers/
+   pattern: 4x careers.booking.com/our-diversity/  e.g. https://careers.booking.com/our-diversity/
+   link: https://jobs.booking.com/booking/jobs
+   link: https://jobs.booking.com/
+   link: https://jobs.booking.com/booking/jobs/30449?lang=en-us
+   link: https://jobs.booking.com/booking/jobs/30613?lang=en-us
+   link: https://jobs.booking.com/booking/jobs/30490?lang=en-us
+   link: https://jobs.booking.com/booking/talentcommunity/form
+## Nestlé  https://www.nestle.com/jobs/search-jobs
+   final: https://www.nestle.com/jobs/search-jobs  title: Nur einen Moment…  error: None
+## Nestlé  https://jobdetails.nestle.com/
+   final: https://www.nestle.com/jobs/en/search  title: Nur einen Moment…  error: None
+   successfactors: ['rmkcdn.successfactors.com']
+## Mercado Libre  https://careers-meli.mercadolibre.com/en/jobs
+   final: https://careers-meli.mercadolibre.com/en/jobs  title: Mercado Libre Careers  error: None
+   eightfold: ['mercadolibre.eightfold.ai']
+   link: https://careers-meli.mercadolibre.com/en/positions
+   link: https://careers-meli-staging.cdn.prismic.io/careers-meli-staging/vpTqeu8H9tTf8DZd_declaracion_de_privacidad_para_candidatos_version_7ta-10.9.2026.pdf
+## Nubank  https://international.nubank.com.br/careers/
+   final: https://nu.com/en/careers  title: Nu Careers: Join the Team  error: None
+   ashby: ['nubank']
+   pattern: 4x nu.com/en/investors  e.g. https://nu.com/en/investors
+   pattern: 3x nu.com/us/en  e.g. https://nu.com/us/en
+   pattern: 3x nu.com/global/en  e.g. https://nu.com/global/en
+   link: https://jobs.ashbyhq.com/nubank
+## Ambev  https://www.ambev.com.br/carreiras
+   final: https://www.ambev.com.br/carreiras  title:   error: None
+## Falabella  https://www.falabella.com/falabella-cl/page/trabaja-con-nosotros
+   final: https://www.falabella.com/falabella-cl/not-found  title: Falabella - Página no encontrada  error: None
+   json: 28 Treffer in https://www.falabella.com/s/commerce-config/v1/FACL/commerce-config/merged?namespace=web | keys=['allowedEmailSha256', 'allowedHosts', 'audience', 'isEnabled', 'title', 'url'] | z.B. Chat de ayuda
+   pattern: 12x www.falabella.com/falabella-cl/page/[^/]+  e.g. https://www.falabella.com/falabella-cl/page/Vende-en-Falabella.com?sid=HO_HO_SEL_1924
+## Falabella  https://empleos.falabella.com/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://empleos.falabella.com/
+Call log:
+  - navigating to "https://empleos.falabella.com/", waiting until "domcontentloaded"
+
+## Atlassian  https://www.atlassian.com/company/careers/all-jobs
+   final: https://www.atlassian.com/company/careers/all-jobs  title: Atlassian Jobs: View Listings for Open Positions | Atlassian  error: None
+   icims: ['campus-americas.icims.com', 'campus-globalcareers-atlassian.icims.com', 'careers-americas.icims.com', 'careers-apac-atlassian.icims.com', 'globalcareers-atlassian.icims.com', 'globalmobility-careers-atlassian.icims.com']
+   pattern: 345x www.atlassian.com/company/careers/details/\d+  e.g. https://www.atlassian.com/company/careers/details/27575
+   pattern: 16x www.atlassian.com/software/rovo  e.g. https://www.atlassian.com/software/rovo
+   pattern: 10x www.atlassian.com/company/careers/all-jobs  e.g. https://www.atlassian.com/company/careers/all-jobs#
+   pattern: 10x www.atlassian.com/software/jira/dev  e.g. https://www.atlassian.com/software/jira/dev
+   pattern: 8x www.atlassian.com/collections/teamwork  e.g. https://www.atlassian.com/collections/teamwork
+   link: https://www.atlassian.com/company/careers/all-jobs#
+   link: https://www.atlassian.com/company/careers/all-jobs#content
+   link: https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.com%2Fgateway%2Fapi%2Fstart%2Fauthredirect%3Fcontinue%3Dhttps%3A%2F%2Fwww.atlassian.com%2Fcompany%2Fcareers%2Fall-jobs&application=wac--ic
+   link: https://www.atlassian.com/company/careers/all-jobs
+   link: https://www.atlassian.com/company/careers/details/27575
+   link: https://www.atlassian.com/company/careers/details/26573
+   link: https://www.atlassian.com/company/careers/details/26572
+   link: https://www.atlassian.com/company/careers/details/27443
+   link: https://www.atlassian.com/company/careers/details/26571
+   link: https://www.atlassian.com/company/careers/details/27694
+   link: https://www.atlassian.com/company/careers/details/27555
+   link: https://www.atlassian.com/company/careers/details/27227
+   link: https://www.atlassian.com/company/careers/details/27191
+   link: https://www.atlassian.com/company/careers/details/26696
+   link: https://www.atlassian.com/company/careers/details/26575
+   link: https://www.atlassian.com/company/careers/details/27616
+   link: https://www.atlassian.com/company/careers/details/26966
+   link: https://www.atlassian.com/company/careers/details/26569
+   link: https://www.atlassian.com/company/careers/details/26576
+   link: https://www.atlassian.com/company/careers/details/26833
+   link: https://www.atlassian.com/company/careers/details/27697
+   link: https://www.atlassian.com/company/careers/details/27069
+   link: https://www.atlassian.com/company/careers/details/27204
+   link: https://www.atlassian.com/company/careers/details/24872
+   link: https://www.atlassian.com/company/careers/details/27282
+   link: https://www.atlassian.com/company/careers/details/27323
+   link: https://www.atlassian.com/company/careers/details/27321
+   link: https://www.atlassian.com/company/careers/details/27324
+   link: https://www.atlassian.com/company/careers/details/27322
+   link: https://www.atlassian.com/company/careers/details/27320
+## Canva  https://www.lifeatcanva.com/en/jobs/
+   final: https://www.lifeatcanva.com/en/jobs/  title: Find your dream job | Canva Careers  error: None
+   pattern: 20x www.lifeatcanva.com/en/jobs/\d+/[^/]+/  e.g. https://www.lifeatcanva.com/en/jobs/6000000001551586/enterprise-security-manager/
+   pattern: 9x www.lifeatcanva.com/en/jobs/  e.g. https://www.lifeatcanva.com/en/jobs/#content
+   pattern: 5x www.lifeatcanva.com/en/our-culture/[^/]+/  e.g. https://www.lifeatcanva.com/en/our-culture/benefits-ways-of-working/
+   pattern: 3x www.lifeatcanva.com/en/[^/]+/  e.g. https://www.lifeatcanva.com/en/careers-and-growth/
+   link: https://www.lifeatcanva.com/en/jobs/#content
+   link: https://www.lifeatcanva.com/en/jobs/saved-jobs/
+   link: https://www.lifeatcanva.com/en/jobs/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001551586/enterprise-security-manager/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001542169/account-executive-government-healthcare-dach/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001542144/account-executive-government-healthcare-dach/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001541552/account-executive-flourish/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001535579/senior-account-executive-smb/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001534768/business-development-representative/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001522401/account-executive-mid-market/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001518828/strategic-customer-success-manager/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001514536/account-executive-leonardoai-mwd-munich-german-speaking/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001511525/content-strategy-lead/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001510205/strategic-account-executive-dach-german-speaking/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001510200/enterprise-account-executive-dach-german-speaking/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001510195/strategic-account-executive-dach-german-speaking/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001508808/k12-education-account-manager-south-korea-12-months-contract/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001489280/global-benefits-manager-12-months-ftc/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001488854/senior-operations-expert-trust-safety/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001488851/senior-social-media-operations-team-lead/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001488524/strategic-account-executive/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001486384/enterprise-account-executive/
+   link: https://www.lifeatcanva.com/en/jobs/6000000001484757/mid-market-account-executive/
+   link: https://www.lifeatcanva.com/en/jobs/#results
+   link: https://www.lifeatcanva.com/en/jobs/?page=2#results
+   link: https://www.lifeatcanva.com/en/jobs/#footer-links-1
+   link: https://www.lifeatcanva.com/en/jobs/#footer-links-2
+   link: https://www.lifeatcanva.com/en/jobs/#footer-links-3
+   link: https://www.lifeatcanva.com/en/jobs/#footer-links-4
+## Xero  https://www.xero.com/au/about/careers/
+   final: https://careers.xero.com/  title: Careers @ Xero | Help Build the Future of Small Business | Xero  error: None
+   ashby: ['xero']
+   pattern: 6x careers.xero.com/[^/]+/  e.g. https://careers.xero.com/xero-around-the-world/
+   pattern: 4x careers.xero.com/inside-xero/  e.g. https://careers.xero.com/inside-xero/
+   pattern: 4x careers.xero.com/our-teams/  e.g. https://careers.xero.com/our-teams/
+   pattern: 3x careers.xero.com/jobs/  e.g. https://careers.xero.com/jobs/?origin=global
+   pattern: 3x careers.xero.com/[^/]+/blogs/[^/]+/  e.g. https://careers.xero.com/humans-of-xero-blog/blogs/rethinking-financial-reporting-for-millions-meet-mark-zontak-gm-of-engineering-insights-data-in/
+   link: https://careers.xero.com/jobs/saved-jobs/
+   link: https://careers.xero.com/jobs/?origin=global
+   link: https://careers.xero.com/jobs/
+   link: https://careers.xero.com/jobs/0bba8773-8cd2-46e3-a3e2-007838b10162/senior-partner-marketing-manager-fixed-contract/
+   link: https://careers.xero.com/jobs/d261dc89-d8e4-46bb-89eb-2f1ede8c8829/solutions-consultant/
+   link: https://careers.xero.com/jobs/5ea1f637-f83a-4b00-afdb-4f406d601cad/accounting-professional-discover-a-new-career-in-saas-sales-with-xero/
+   link: https://careers.xero.com/jobs/06ca4e58-0d9f-4118-8173-404f8fbeba08/financial-accountant/
+   link: https://jobs.ashbyhq.com/xero/form/xero-talent-community
+## Xero  https://jobs.xero.com/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.xero.com/
+Call log:
+  - navigating to "https://jobs.xero.com/", waiting until "domcontentloaded"
+
+## Grab  https://www.grab.careers/en/jobs/
+   final: https://www.grab.careers/en/jobs/  title: Grab your dream role | Grab Careers  error: None
+   pattern: 19x www.grab.careers/en/jobs/\d+/[^/]+/  e.g. https://www.grab.careers/en/jobs/744000159844364/associate-key-account-management-grabmart/
+   pattern: 13x www.grab.careers/en/jobs/  e.g. https://www.grab.careers/en/jobs/#content
+   pattern: 4x www.grab.careers/en/[^/]+/  e.g. https://www.grab.careers/en/life-at-grab/
+   link: https://www.grab.careers/en/jobs/#content
+   link: https://www.grab.careers/en/jobs/
+   link: https://www.grab.careers/en/jobs/saved-jobs/
+   link: https://www.grab.careers/en/jobs/744000159844364/associate-key-account-management-grabmart/
+   link: https://www.grab.careers/en/jobs/744000159845219/it-executive/
+   link: https://www.grab.careers/en/jobs/744000159814734/productivity-engagement-associate/
+   link: https://www.grab.careers/en/jobs/744000159814909/assistant-manager-lending-commercial/
+   link: https://www.grab.careers/en/jobs/744000159798419/intern-talent-acquisition/
+   link: https://www.grab.careers/en/jobs/744000159792660/partner-engagement-business-partner-assistant-manager/
+   link: https://www.grab.careers/en/jobs/744000159786899/assistant-marketing-manager-b2b/
+   link: https://www.grab.careers/en/jobs/744000159786849/intern-people-experience/
+   link: https://www.grab.careers/en/jobs/744000159786619/senior-backend-reliability-engineer/
+   link: https://www.grab.careers/en/jobs/744000159786569/senior-backend-reliability-engineer/
+   link: https://www.grab.careers/en/jobs/744000159780229/fleet-assessor-associate/
+   link: https://www.grab.careers/en/jobs/744000159621709/senior-software-engineer-mobile-android-consumer-experience/
+   link: https://www.grab.careers/en/jobs/744000159601623/people-research-scientist-people-analytics/
+   link: https://www.grab.careers/en/jobs/744000159598119/senior-software-engineer-mobile-ios/
+   link: https://www.grab.careers/en/jobs/744000159596270/lead-data-scientist/
+   link: https://www.grab.careers/en/jobs/744000159593589/software-engineering-manager-ii-transaction-platform/
+   link: https://www.grab.careers/en/jobs/744000159593429/identity-management-engineer/
+   link: https://www.grab.careers/en/jobs/744000159593308/identity-management-engineer/
+   link: https://www.grab.careers/en/jobs/744000159578119/manager-ii-country-it-vn/
+   link: https://www.grab.careers/en/jobs/744000159559359/senior-software-engineer-fullstack-insurance-operations/
+   link: https://www.grab.careers/en/jobs/#results
+   link: https://www.grab.careers/en/jobs/?page=2#results
+   link: https://www.grab.careers/en/jobs/?page=3#results
+   link: https://www.grab.careers/en/jobs/?page=4#results
+   link: https://www.grab.careers/en/jobs/?page=5#results
+   link: https://www.grab.careers/en/jobs/?page=6#results
+   link: https://www.grab.careers/en/jobs/?page=7#results
+## Sea Group  https://www.sea.com/careers
+   final: https://www.sea.com/careers  title: Sea | Careers  error: None
+   pattern: 4x www.sea.com/careers  e.g. https://www.sea.com/careers
+   pattern: 3x www.sea.com/products/garena  e.g. https://www.sea.com/products/garena
+   pattern: 3x www.sea.com/products/shopee  e.g. https://www.sea.com/products/shopee
+   pattern: 3x www.sea.com/products/monee  e.g. https://www.sea.com/products/monee
+   pattern: 3x www.sea.com/aboutus/ourvalues  e.g. https://www.sea.com/aboutus/ourvalues
+## DBS  https://www.dbs.com/careers/jobs.page
+   final: https://www.dbs.com/careers/default.page  title: Careers at DBS | DBS Bank  error: None
+   workday: ['dbs/wd3/DBS_Careers']
+   taleo: ['dbs.taleo.net']
+   pattern: 12x www.dbs.com/careers/teams/[^/]+  e.g. https://www.dbs.com/careers/teams/group-marketing-communications.page
+   pattern: 10x www.dbs.com/searchresults.page  e.g. https://www.dbs.com/searchresults.page?q=sustainability
+   pattern: 6x www.dbs.com/careers/default.page  e.g. https://www.dbs.com/careers/default.page
+   pattern: 3x www.dbs.com/about-us/default.page  e.g. https://www.dbs.com/about-us/default.page
+   pattern: 3x www.dbs.com/investors/default.page  e.g. https://www.dbs.com/investors/default.page
+   link: https://dbs.wd3.myworkdayjobs.com/DBS_Careers
+   link: https://www.dbs.com/careers/fraudulent-recruitment-offers?pid=sg-group-pweb-careers-notice-fraudulent
+## Rakuten  https://rakuten.careers/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rakuten.careers/
+Call log:
+  - navigating to "https://rakuten.careers/", waiting until "domcontentloaded"
+
+## Rakuten  https://global.rakuten.com/corp/careers/
+   final: https://global.rakuten.com/corp/careers/  title: Recruiting | Rakuten Group, Inc.  error: None
+   pattern: 11x global.rakuten.com/corp/careers/  e.g. https://global.rakuten.com/corp/careers/
+   pattern: 10x void(0);  e.g. javascript:void(0);
+   pattern: 7x rakuten.today/blog/[^/]+  e.g. https://rakuten.today/blog/mickey-mikitani-the-age-of-agentic-ai-has-arrived.html
+   pattern: 6x void(0)  e.g. javascript:void(0)
+   pattern: 6x global.rakuten.com/corp/careers/graduates/  e.g. https://global.rakuten.com/corp/careers/graduates/
+   link: https://global.rakuten.com/corp/careers/graduates/projects/project_minijob.html
+## BBVA  https://careers.bbva.com/
+   final: https://www.bbva.com/es/empleo/  title: Empleo | BBVA  error: None
+   workday: ['bbva/wd3/es']
+   pattern: 20x www.bbva.com/es/[^/]+/  e.g. https://www.bbva.com/es/economia-y-finanzas/
+   pattern: 19x www.bbva.com/es/informacion-corporativa/  e.g. https://www.bbva.com/es/informacion-corporativa/#bbva-en-el-mundo
+   pattern: 18x www.bbva.com/es/especiales/[^/]+/  e.g. https://www.bbva.com/es/especiales/premios-mejores-productores-sostenibles/
+   pattern: 13x accionistaseinversores.bbva.com/[^/]+/[^/]+/  e.g. https://accionistaseinversores.bbva.com/sostenibilidad-y-banca-responsable/principios-y-politicas-2/
+   pattern: 9x www.bbva.com/es/empleo/  e.g. https://www.bbva.com/es/empleo/#panelNave_n2_483732
+   link: https://bbva.wd3.myworkdayjobs.com/es/BBVA?AreaBBVA=52abfccf8e8b1000f33129aaf4e50000
+   link: https://bbva.wd3.myworkdayjobs.com/es/BBVA?AreaBBVA=bb337b5615591001a42b6a15d08a0000&AreaBBVA=4e7e381f49d210181652f32dfea00002&locationCountry=bd34c524a6a04ae6915f5d96fa086199
+## CaixaBank  https://www.caixabank.com/en/working-at-caixabank.html
+   final: https://www.caixabank.com/en/working-at-caixabank.html  title: Página no encontrada | CaixaBank  error: None
+   pattern: 32x www.caixabank.com/en/[^/]+  e.g. https://www.caixabank.com/en/working-at-caixabank.html#first_content
+   pattern: 5x www.caixabank.com/es/accionistas-inversores/[^/]+/[^/]+  e.g. https://www.caixabank.com/es/accionistas-inversores/informacion-economico-financiera/informacion-financiera-trimestral.html
+   pattern: 5x www.caixabank.com/es/accionistas-inversores/gobierno-corporativo/[^/]+  e.g. https://www.caixabank.com/es/accionistas-inversores/gobierno-corporativo/junta-general-accionistas.html
+   pattern: 4x www.caixabank.com/es/sostenibilidad/banca-sostenible/[^/]+  e.g. https://www.caixabank.com/es/sostenibilidad/banca-sostenible/asociaciones-adhesiones-alianzas.html
+   pattern: 3x www.caixabank.com/es/cookies_es.html  e.g. https://www.caixabank.com/es/cookies_es.html
+## Inditex  https://careers.inditex.com/
+   final: None  title: None  error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.inditex.com/
+Call log:
+  - navigating to "https://careers.inditex.com/", waiting until "domcontentloaded"
+
+## Acciona  https://www.acciona.com/careers/
+   final: https://www.acciona.com/careers  title: 404  error: None
    phenom: ['/widgets']
-   beesite: ['beesite', 'milchundzucker']
-   json: 4 Treffer in https://jobs.giz.de/assets/js/jobboard-giz.config.json | keys=['channel', 'date', 'id', 'job_id', 'location', 'title', 'uri'] | z.B. PositionTitle
-   pattern: 47x jobs.giz.de/index.php  e.g. https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading
-   pattern: 34x void(0);  e.g. javascript:void(0);
-   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading
-   link: https://jobs.giz.de/index.php?ac=login
-   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading
-   link: https://jobs.giz.de/index.php?ac=search_result
-   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level[]=26
-   link: https://jobs.giz.de/index.php?ac=statuspage&uid=0
-   link: https://jobs.giz.de/index.php?ac=statuspage
-   link: https://jobs.giz.de/index.php?ac=applicationstate
-   link: https://jobs.giz.de/index.php?ac=messages
-   link: https://jobs.giz.de/index.php?ac=logindata
-   link: https://jobs.giz.de/index.php?ac=job_merker
-   link: https://jobs.giz.de/index.php?ac=jobabo_overview
-   link: https://jobs.giz.de/index.php?ac=event
-   link: https://jobs.giz.de/index.php?ac=profile_application
-   link: https://jobs.giz.de/index.php?ac=privacy_statements
-   link: https://jobs.giz.de/index.php?ac=jobabo
-   link: https://jobs.giz.de/(!'uid=lang');
-   link: https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=1
-   link: https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=2
-   link: https://jobs.giz.de/index.php?ac=lost_password
-   link: https://jobs.giz.de/index.php?ac=lost_username
-   link: https://jobs.giz.de/index.php?ac=register
-   link: https://jobs.giz.de/index.php?ac=privacy_policy
-   link: https://jobs.giz.de/index.php?ac=imprint
-   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#
-   link: https://jobs.giz.de/index.php
-   link: https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-search-result-heading
-   link: https://jobs.giz.de/index.php?ac=jobad&id=79536
-   link: https://jobs.giz.de/index.php?ac=jobad&id=79540
-   link: https://jobs.giz.de/index.php?ac=jobad&id=79522
-## KfW  https://jobs.kfw.de/index.php?ac=search_result
-   final: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12  title: Unsere Stellenangebote | Karriereportal | KfW Bankengruppe - Karriereportal  error: None
+   pattern: 21x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/
+   pattern: 7x legal.hubspot.com/privacy-policy  e.g. https://legal.hubspot.com/privacy-policy?__hstc=177103482.c3fa6f095bf0ae7a005e6dba12ec94a9.1793889854633.1793889854633.1793889854633.1&__hssc=177103482.1.1793889854633&__hsfp=5780c6cccd4cc35ab2e2f239492d5612
+   pattern: 7x twitter.com/en/privacy  e.g. https://twitter.com/en/privacy
+   pattern: 7x www.tiktok.com/legal/privacy-policy  e.g. https://www.tiktok.com/legal/privacy-policy?lang=en
+   pattern: 6x privacy.microsoft.com/en-us/privacystatement  e.g. https://privacy.microsoft.com/en-us/privacystatement
+   link: https://www.acciona.com/our-purpose/work-with-us/job-offers
+## Redeia  https://www.redeia.com/en/working-with-us
+   final: https://www.redeia.com/en/working-with-us  title: Page not found | Redeia  error: None
+   pattern: 38x www.redeia.com/en/[^/]+  e.g. https://www.redeia.com/en/working-with-us#
+   pattern: 35x www.redeia.com/en/corporate-governance/[^/]+/[^/]+  e.g. https://www.redeia.com/en/corporate-governance/ethics-and-compliance/whistle-blowing-and-compliance-channel
+   pattern: 11x www.redeia.com/en/corporate-governance/[^/]+  e.g. https://www.redeia.com/en/corporate-governance/ethics-and-compliance
+   pattern: 10x www.redeia.com/en/sustainability/nature/[^/]+  e.g. https://www.redeia.com/en/sustainability/nature/committed-to-biodiversity
+   pattern: 9x www.redeia.com/en/about-us/suppliers/[^/]+  e.g. https://www.redeia.com/en/about-us/suppliers/responsible-supply-chain-management
+## Amadeus  https://jobs.amadeus.com/
+   final: https://amadeus.com/en/careers/overview  title: Amadeus Careers | Bring the world closer.  error: None
+   workday: ['amadeus/wd502/jobs']
+   pattern: 5x amadeus.com/en/blog/articles/[^/]+  e.g. https://amadeus.com/en/blog/articles/how-build-environment-top-technology
+   pattern: 4x amadeus.com/en/resources/white-paper/[^/]+  e.g. https://amadeus.com/en/resources/white-paper/agentic-ai-airlines
+   pattern: 4x amadeus.com/en/careers/[^/]+  e.g. https://amadeus.com/en/careers/life-at-amadeus
+   pattern: 3x amadeus.com/en/cytric/capabilities/[^/]+  e.g. https://amadeus.com/en/cytric/capabilities/data-and-reporting
+   pattern: 3x amadeus.com/en/travel-sellers/products/[^/]+  e.g. https://amadeus.com/en/travel-sellers/products/selling-platform-connect
+   link: https://amadeus.wd502.myworkdayjobs.com/jobs
+## Mapfre  https://www.mapfre.com/en/work-at-mapfre/
+   final: https://www.mapfre.com/en/work-at-mapfre/  title: Page not found - Mapfre  error: None
+   pattern: 6x www.mapfre.com/en/[^/]+/  e.g. https://www.mapfre.com/en/work-at-mapfre/#wp--skip-link--target
+   pattern: 3x www.mapfre.com/en/corporate-governance/[^/]+/  e.g. https://www.mapfre.com/en/corporate-governance/board-of-directors/
+   pattern: 3x www.mapfre.com/en/talent/  e.g. https://www.mapfre.com/en/talent/
+   pattern: 3x www.mapfre.com/en/cookies-policy/  e.g. https://www.mapfre.com/en/cookies-policy/
+## Equinor  https://www.equinor.com/careers/jobs
+   final: https://www.equinor.com/careers/jobs  title: Equinor  error: None
+   pattern: 22x www.equinor.com/careers/jobs  e.g. https://www.equinor.com/careers/jobs#
+   pattern: 3x vimeo.com/privacy  e.g. https://vimeo.com/privacy
+   link: https://www.equinor.com/careers/jobs#
+   link: https://www.equinor.com/careers/jobs#mainTitle
+## Vattenfall  https://group.vattenfall.com/careers/jobs
+   final: https://group.vattenfall.com/careers/jobs  title: Page not found - Vattenfall  error: None
+   pattern: 10x group.vattenfall.com/careers/jobs  e.g. https://group.vattenfall.com/careers/jobs#primarycontent
+   pattern: 3x group.vattenfall.com/about-us/  e.g. https://group.vattenfall.com/about-us/
+   pattern: 3x group.vattenfall.com/our-operations/  e.g. https://group.vattenfall.com/our-operations/
+   pattern: 3x group.vattenfall.com/investors/  e.g. https://group.vattenfall.com/investors/
+   pattern: 3x group.vattenfall.com/sustainability/social-responsibility/[^/]+/  e.g. https://group.vattenfall.com/sustainability/social-responsibility/supply-chain-responsibility/
+   link: https://group.vattenfall.com/careers/jobs#primarycontent
+   link: https://group.vattenfall.com/careers/jobs#mainnav
+   link: https://group.vattenfall.com/careers/jobs#pagefooter-focus
+   link: https://group.vattenfall.com/about-us/public-affairs/position-papers/
+   link: https://group.vattenfall.com/careers/jobs#
+## Engie  https://jobs.engie.com/
+   final: https://jobs.engie.com/?utm_campaign=auto__src%3Ana%7Cmed%3Ana%7Cref%3Adirect  title: ENGIE Jobs | Discover our Career & job opportunities, join us!  error: None
+   successfactors: ['jobs2web', 'rmkcdn.successfactors.com']
+   pattern: 27x jobs.engie.com/go/[^/]+/\d+/  e.g. https://jobs.engie.com/go/young-professionals-us/9421555/
+   pattern: 7x jobs.engie.com/go/students-us/\d+/  e.g. https://jobs.engie.com/go/students-us/9419755/
+   pattern: 7x jobs.engie.com/go/experts-us/\d+/  e.g. https://jobs.engie.com/go/experts-us/9414455/
+   pattern: 5x jobs.engie.com/search/  e.g. https://jobs.engie.com/search/?createNewAlert=false&q=&locationsearch=&locale=en_US
+   pattern: 5x jobs.engie.com/go/technicians-us/\d+/  e.g. https://jobs.engie.com/go/technicians-us/9420455/
+   link: https://jobs.engie.com/search/?createNewAlert=false&q=&locationsearch=&locale=en_US
+   link: https://jobs.engie.com/?utm_campaign=auto__src%3Ana%7Cmed%3Ana%7Cref%3Adirect#
+   link: https://jobs.engie.com/content/DE_Custom-Policy/?locale=de_DE
+   link: https://jobs.engie.com/
+   link: https://jobs.engie.com/?utm_campaign=auto__src%3Ana%7Cmed%3Ana%7Cref%3Adirect#content
+   link: https://jobs.engie.com/?locale=de_DE
+   link: https://jobs.engie.com/?locale=en_US
+   link: https://jobs.engie.com/?locale=es_ES
+   link: https://jobs.engie.com/?locale=es_MX
+   link: https://jobs.engie.com/?locale=fr_FR
+   link: https://jobs.engie.com/?locale=it_IT
+   link: https://jobs.engie.com/?locale=nl_NL
+   link: https://jobs.engie.com/?locale=pl_PL
+   link: https://jobs.engie.com/?locale=pt_BR
+   link: https://jobs.engie.com/?locale=ro_RO
+   link: https://jobs.engie.com/?locale=sk_SK
+   link: https://jobs.engie.com/search/?createNewAlert=false&q=&locationsearch=
+   link: https://jobs.engie.com/go/students-us/9419755/
+   link: https://jobs.engie.com/go/young-professionals-us/9421555/
+   link: https://jobs.engie.com/go/experts-us/9414455/
+   link: https://jobs.engie.com/go/technicians-us/9420455/
+   link: https://jobs.engie.com/go/engineers-us/9413255/
+   link: https://jobs.engie.com/go/data-digital-&-it-us/9412455/
+   link: https://jobs.engie.com/go/support-functions-us/9420055/
+   link: https://jobs.engie.com/go/r&d-innovation-us/9418855/
+   link: https://jobs.engie.com/go/management-&-consulting-us/9417655/
+   link: https://jobs.engie.com/lp/Data%20Capture%20Economist/e166a269a52500d0/?locale=en_US
+   link: https://jobs.engie.com/content/Job-Alerts/?locale=en_US
+   link: https://www.grtgaz.com/en/you-are/job-applicant/offers
+   link: https://jobs.engie.com/content/Privacy-Policy/?locale=en_US
+## EDP  https://jobs.edp.com/
+   final: https://jobs.edp.com/  title: Jobs at EDP  error: None
+   successfactors: ['career5.successfactors.eu', 'career5.successfactors.eu/career?site=&amp;company=EDP&amp;lang=en%5FUS&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE', 'rmkcdn.successfactors.com']
+   pattern: 4x jobs.edp.com/content/[^/]+/  e.g. https://jobs.edp.com/content/Join-Our-Talent-Community/?locale=en_US
+   pattern: 3x jobs.edp.com/content/Cookies_Policy/  e.g. https://jobs.edp.com/content/Cookies_Policy/?locale=en_US
+   link: https://jobs.edp.com/content/Cookies_Policy/?locale=en_US
+   link: https://jobs.edp.com/#content
+   link: https://jobs.edp.com/
+   link: https://jobs.edp.com/content/Join-Our-Talent-Community/?locale=en_US
+   link: https://jobs.edp.com/#
+   link: https://jobs.edp.com/?locale=en_US
+   link: https://jobs.edp.com/?locale=es_ES
+   link: https://jobs.edp.com/?locale=pt_BR
+   link: https://jobs.edp.com/?locale=pt_PT
+   link: https://jobs.edp.com/search/?q=&locationsearch=&locale=en_US
+   link: https://edp.com/en/careers/job-opportunities/recruitment-process
+   link: https://jobs.edp.com/content/Privacy_Policy/?locale=en_US
+   link: https://jobs.edp.com/content/Contacts/?locale=en_US
+## Galp  https://www.galp.com/corp/en/careers
+   final: https://www.galp.com/corp/en/people  title: People  error: None
    phenom: ['/widgets']
-   beesite: ['beesite']
-   pattern: 39x jobs.kfw.de/index.php  e.g. https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-main-heading
-   pattern: 18x void(0);  e.g. javascript:void(0);
-   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-main-heading
-   link: https://jobs.kfw.de/index.php?ac=login
-   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading
-   link: https://jobs.kfw.de/index.php
-   link: https://jobs.kfw.de/index.php?ac=search_result
-   link: https://jobs.kfw.de/index.php?ac=statuspage&uid=0
-   link: https://jobs.kfw.de/index.php?ac=statuspage
-   link: https://jobs.kfw.de/index.php?ac=applicationstate
-   link: https://jobs.kfw.de/index.php?ac=messages
-   link: https://jobs.kfw.de/index.php?ac=logindata
-   link: https://jobs.kfw.de/index.php?ac=job_merker
-   link: https://jobs.kfw.de/index.php?ac=jobabo_overview
-   link: https://jobs.kfw.de/index.php?ac=event
-   link: https://jobs.kfw.de/index.php?ac=profile_application
-   link: https://jobs.kfw.de/index.php?ac=jobabo
-   link: https://jobs.kfw.de/(!'uid=lang');
-   link: https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=1
-   link: https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=2
-   link: https://jobs.kfw.de/index.php?ac=lost_username
-   link: https://jobs.kfw.de/index.php?ac=lost_password
-   link: https://jobs.kfw.de/index.php?ac=register
-   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-search-result-heading
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13740
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13741
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13744
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13746
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13747
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13664
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13736
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13737
-## KfW  https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword=praktikum
-   final: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12  title: Unsere Stellenangebote | Karriereportal | KfW Bankengruppe - Karriereportal  error: None
+   pattern: 7x www.galp.com/corp/en/corporate-governance/[^/]+  e.g. https://www.galp.com/corp/en/corporate-governance/governing-model-bodies
+   pattern: 5x www.galp.com/corp/en/people  e.g. https://www.galp.com/corp/en/people
+   pattern: 5x www.galp.com/corp/search  e.g. https://www.galp.com/corp/search?type=page&text=&channel=
+   pattern: 4x www.galp.com/corp/en/investors/[^/]+  e.g. https://www.galp.com/corp/en/investors/publications-and-announcements
+   pattern: 3x www.galp.com/corp/en/about-us/[^/]+/[^/]+  e.g. https://www.galp.com/corp/en/about-us/what-we-do/industrial-and-midstream
+   link: https://www.galp.com/corp/en/investors/value-proposition
+   link: https://jobs.galp.com/go/Opportunities/1335201/
+   link: https://jobs.galp.com/go/Galpgeste-EN/1345201/
+   link: https://www.galp.com/corp/en/careers/youth-galp/generation-galp-2023
+   link: https://jobs.galp.com/
+   link: https://jobs.galp.com/go/Galpgeste/1345001/
+## Statkraft  https://www.statkraft.com/careers/vacancies/
+   final: https://www.statkraft.com/careers/vacancies/  title: Error 404  error: None
+   pattern: 8x www.statkraft.com/sustainability/governance/[^/]+/  e.g. https://www.statkraft.com/sustainability/governance/code-of-conduct/
+   pattern: 5x policies.google.com/technologies/partner-sites  e.g. https://policies.google.com/technologies/partner-sites?hl=en
+   pattern: 5x www.statkraft.com/IR/[^/]+/  e.g. https://www.statkraft.com/IR/financial-key-figures/
+   pattern: 4x www.microsoft.com/en-us/privacy/privacystatement  e.g. https://www.microsoft.com/en-us/privacy/privacystatement
+   pattern: 4x www.statkraft.com/[^/]+/[^/]+/  e.g. https://www.statkraft.com/solutions-for-industry/power-purchase-agreements/
+   link: https://www.statkraft.com/careers/vacancies/#main_container
+   link: https://www.statkraft.com/careers/vacancies/#navigation
+   link: https://www.statkraft.com/careers/vacancies/#search-block
+   link: https://www.statkraft.com/careers/job-opportunities/
+   link: https://www.statkraft.com/about-statkraft/ownership-positions/
+## Airbus  https://www.airbus.com/en/careers
+   final: https://www.airbus.com/en/careers  title: Careers | Airbus  error: None
+   workday: ['ag/wd3/Airbus']
+   pattern: 47x www.airbus.com/en/careers  e.g. https://www.airbus.com/en/careers#content
+   pattern: 8x www.airbus.com/en/about-us/[^/]+/[^/]+  e.g. https://www.airbus.com/en/about-us/what-we-do/connecting-people-goods-and-services
+   pattern: 8x www.airbus.com/en/safety/[^/]+/[^/]+  e.g. https://www.airbus.com/en/safety/safety-of-our-products/product-safety-for-commercial-aircraft
+   pattern: 5x www.airbus.com/en/search  e.g. https://www.airbus.com/en/search?search=%22Eurofighter%20Typhoon%22
+   pattern: 4x www.airbus.com/en/about-us/our-governance/[^/]+  e.g. https://www.airbus.com/en/about-us/our-governance/governance-framework-and-documents
+   link: https://www.airbus.com/en/careers#drawer1132089565-state
+   link: https://www.airbus.com/en/careers#menu-642722134-state
+   link: https://www.airbus.com/en/careers#menu-1421456627-state
+   link: https://www.airbus.com/en/careers#menu-1429484935-state
+   link: https://www.airbus.com/en/careers#menu-1703898192-state
+   link: https://www.airbus.com/en/careers#menu-1776193845-state
+   link: https://www.airbus.com/en/careers#menu-1763912981-state
+   link: https://www.airbus.com/en/careers#menu-1892698518-state
+   link: https://www.airbus.com/en/careers#menu-1224430567-state
+   link: https://www.airbus.com/en/careers#menu-743822411-state
+   link: https://www.airbus.com/en/careers#menu-1079122318-state
+   link: https://www.airbus.com/en/careers#menu-1647901282-state
+   link: https://www.airbus.com/en/careers#menu-1703454481-state
+   link: https://www.airbus.com/en/careers#menu-1392719221-state
+   link: https://www.airbus.com/en/careers#menu-1596057428-state
+   link: https://www.airbus.com/en/careers#menu-150749654-state
+   link: https://www.airbus.com/en/careers#menu-855113790-state
+   link: https://www.airbus.com/en/careers#menu-2140415218-state
+   link: https://www.airbus.com/en/careers#menu-1406926882-state
+   link: https://www.airbus.com/en/careers#menu-950221214-state
+   link: https://www.airbus.com/en/careers#menu-71525182-state
+   link: https://www.airbus.com/en/careers#menu-494792104-state
+   link: https://www.airbus.com/en/careers#menu-1063770668-state
+   link: https://www.airbus.com/en/careers#menu-1151028186-state
+   link: https://www.airbus.com/en/careers#menu-1321151364-state
+   link: https://www.airbus.com/en/careers#menu-1394681676-state
+   link: https://ag.wd3.myworkdayjobs.com/Airbus
+   link: https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bristol-Area/Safety---Reliability-Engineer_JR10451843?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=29247e57dbaf46fb855b224e03170bc7
+   link: https://ag.wd3.myworkdayjobs.com/en-US/Airbus/jobs?q=certifying+staff
+   link: https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Wichita-KS/Principal-Stress-Engineer_JR10447399-1?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=bc33aa3152ec42d4995f4791a106ed09
+## Airbus  https://ag.wd3.myworkdayjobs.com/Airbus
+   final: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus  title: Stellen suchen  error: None
+   workday: ['ag/wd3/Airbus', 'ag/wd3/videoplayerlabels']
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Gyula/CNC-opertor_JR10430400-1
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Saint-Nazaire-Area/STAGE-2027---Gestion-de-Projet-IA---Innovation-Qualit----Structure-A350--H-F-_JR10438192
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Gyula/Felletkezel-opertor_JR10454429-1
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Saint-Nazaire-Area/STAGE-2027---Assistant-Chef-de-Projet-IA---Innovation-Qualit----ALL-GENDER-_JR10432177
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Engineer--d-m-w-_JR10216124
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Mobile-Area-AL/Process-Performance-Engineer_JR10452533-1
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Marseille-Area/XMLNAME--ET19R-System-Engineer-for-Helicopter-Maintenance-Design--F-M-_JR10406824
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Getafe-Area/Executive-Assistant_JR10455776
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Marseille-Area/Stage-2027-en-Oprations-IT--h-f-_JR10443318
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Nantes-Area/SNR-2027---Modlisation-Prototypage-3-dimensions--ALL-GENDER-_JR10454094
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Saint-Nazaire-Area/Airbus-Atlantic---Team-Leader--All-Gender-_JR10315717
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Toulouse-Area/Process-Leader---WPL-for-On-Board-functions-H-F_JR10442588-1
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Maulte-Area/STAGE-2027---Ingnieur-en-logistique-industrielle-et-optimisation-des-flux--ALL-GENDER-_JR10450070
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Belfast/Aircraft-Fitter_JR10410224
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Marseille-Area/XMLNAME--ET22R-Innovation-Work-Package-Manager--f-h-_JR10433099
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Maulte-Area/STAGE-2027----Stage-en-Assurance-Qualit-et-Mtrologie--ALL-GENDER-_JR10445444
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Marseille-Area/XMLNAME--ET22R-Innovation-product-manager--f-h-_JR10433885
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Immenstaad-am-Bodensee/Trainer---d-m-w--Satellitenkommunikation_JR10400761-1
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Marseille-Area/XMLNAME--ET22R-Industrial-Work-Package-Responsible--f-h-_JR10433089
+   link: https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Nantes-Area/STAGE-2027---Stage-en-Assurance-Qualit-et-Analyse-de-donnes--ALL-GENDER-_JR10441523
+## Moeve  https://www.moeveglobal.com/en/careers
+   final: https://www.moeveglobal.com/en/careers  title: Error 404  error: None
+## Itaú Unibanco  https://carreiras.itau.com.br/
+   final: https://carreiras.itau.com.br/  title: Itaú Carreiras  error: None
+   radancy: ['radancy', 'tbcdn.talentbrew.com']
+   gupy: ['vemproitau.gupy.io']
+   pattern: 5x vemproitau.gupy.io/jobs/\d+  e.g. https://vemproitau.gupy.io/jobs/5088700
+   pattern: 4x carreiras.itau.com.br/[^/]+  e.g. https://carreiras.itau.com.br/mais-black-mais-oportunidades
+   pattern: 3x carreiras.itau.com.br/tecnologia  e.g. https://carreiras.itau.com.br/tecnologia
+   pattern: 3x carreiras.itau.com.br/varejo  e.g. https://carreiras.itau.com.br/varejo
+   pattern: 3x carreiras.itau.com.br/atacado  e.g. https://carreiras.itau.com.br/atacado
+   link: https://carreiras.itau.com.br/saved-jobs
+   link: https://vemproitau.gupy.io/jobs/5088700
+   link: https://vemproitau.gupy.io/jobs/8762706
+   link: https://vemproitau.gupy.io/jobs/2589711
+   link: https://vemproitau.gupy.io/jobs/2693014
+   link: https://vemproitau.gupy.io/jobs/2614883
+## Petrobras  https://petrobras.com.br/en/careers
+   final: https://petrobras.com.br/en/careers  title: Brazilian Energy | Petrobras  error: None
+   json: 10 Treffer in https://petrobras.com.br/o/c/destaquesubmenus/scopes/2677942 | keys=['additionalName', 'contentType', 'externalReferenceCode', 'familyName', 'givenName', 'id', 'image', 'name'] | z.B. William Natividade
+   pattern: 79x petrobras.com.br/en/quem-somos/[^/]+  e.g. https://petrobras.com.br/en/quem-somos/exploracao-e-producao
+   pattern: 34x petrobras.com.br/en/[^/]+  e.g. https://petrobras.com.br/en/inovacao-e-tecnologia
+   pattern: 27x petrobras.com.br/en/careers  e.g. https://petrobras.com.br/en/careers#main-content
+   pattern: 18x petrobras.com.br/en/sustentabilidade/[^/]+  e.g. https://petrobras.com.br/en/sustentabilidade/iniciativas-de-reflorestamento
+   pattern: 16x petrobras.com.br/en/[^/]+/[^/]+  e.g. https://petrobras.com.br/en/inovacao-e-tecnologia/centro-de-pesquisa
+   link: https://petrobras.com.br/en/careers#fragment_85835
+   link: https://petrobras.com.br/en/careers#fragment_86435
+## Natura &Co  https://www.naturaeco.com/careers/
+   final: None  title: None  error: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.naturaeco.com/careers/
+Call log:
+  - navigating to "https://www.naturaeco.com/careers/", waiting until "domcontentloaded"
+
+## Globant  https://career.globant.com/
+   final: https://career.globant.com/  title: Join our team | Globant Careers  error: None
+   successfactors: ['rmkcdn.successfactors.com']
+   json: 10 Treffer in https://career.globant.com/api/sap/job-requisition-v1 | keys=['area', 'country', 'createdDateTime', 'externalCode', 'jobDescription', 'jobReqId', 'jobTitle', 'location', 'questions', 'status'] | z.B. Cloud CyberTech Engineer - Cybersecurity
+   json: 16 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/IUOihXdI1/59.3.133/59.3.133?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing
+   pattern: 3x more.globant.com/[^/]+  e.g. https://more.globant.com/globant-experience-guide?utm_source=cweb&utm_medium=non&utm_campaign=a-rem-c-mul-p-mul-n-talentexp-s-cweb-d-non-o-wpd-b-nap-f-lnk-y-2025-m-1-i-500037-z-ao
+   link: https://career.globant.com/recent-job-searches
+## Cencosud  https://www.cencosud.com/en/careers
+   final: https://www.cencosud.com/en/careers  title: Cencosud  error: None
+   pattern: 33x www.cencosud.com/en/careers  e.g. https://www.cencosud.com/en/careers#
+   pattern: 27x www.cencosud.com/[^/]+  e.g. https://www.cencosud.com/unidades-de-negocios
+   pattern: 24x www.cencosud.com/cencosud/site/edic/base/port/sostenibilidad.html  e.g. https://www.cencosud.com/cencosud/site/edic/base/port/sostenibilidad.html#section-08
+   pattern: 6x www.cencosud.com/inversionistas  e.g. https://www.cencosud.com/inversionistas
+   pattern: 6x www.cencosud.com/equipo_cencosud  e.g. https://www.cencosud.com/equipo_cencosud
+## Telstra  https://careers.telstra.com/
+   final: https://www.telstra.com.au/careers  title: Careers at Telstra - Telstra  error: None
+   workday: ['telstra/wd3/Telstra_Careers']
+   json: 14 Treffer in https://accdn.lpsnmedia.net/api/account/21991129/configuration/le-campaigns/zones?fields=id&fields=zoneValue&__d=26260 | keys=['capping', 'createdDate', 'deleted', 'id', 'isDeleted', 'mainZone', 'mapping', 'modifiedDate', 'name', 'zoneType'] | z.B. Proactive Overlay
+   pattern: 11x www.telstra.com.au/careers  e.g. https://www.telstra.com.au/careers#main-content
+   pattern: 5x www.telstra.com.au/careers/[^/]+  e.g. https://www.telstra.com.au/careers/how-we-hire
+   pattern: 4x www.telstra.com.au/[^/]+  e.g. https://www.telstra.com.au/partners-and-causes
+   pattern: 3x www.telstra.com.au/careers/why-telstra  e.g. https://www.telstra.com.au/careers/why-telstra
+   pattern: 3x www.telstra.com.au/careers/our-teams  e.g. https://www.telstra.com.au/careers/our-teams
+   link: https://telstra.wd3.myworkdayjobs.com/Telstra_Careers
+## Macquarie Group  https://www.macquarie.com/careers/job-search.html
+   final: https://www.macquarie.com/us/en/careers/job-search.html  title: Page Not Found | Macquarie Group  error: None
+   pattern: 4x www.macquarie.com/au/en/about/company/[^/]+  e.g. https://www.macquarie.com/au/en/about/company/board-of-directors.html
+   pattern: 3x www.macquarie.com/au/en/insights/[^/]+  e.g. https://www.macquarie.com/au/en/insights/energy-and-climate-solutions.html
+   pattern: 3x www.macquarie.com/au/en/careers/[^/]+  e.g. https://www.macquarie.com/au/en/careers/operating-and-central-service-groups.html
+   link: https://www.macquarie.com/us/en/careers/job-search.html#
+## Qantas  https://careers.qantas.com/
+   final: https://careers.qantas.com/  title: Qantas Group Careers  error: None
+   json: 20 Treffer in https://api.afp.ap.applyflow.com/seeker/v1/job-filters | keys=['id', 'name', 'title'] | z.B. corporate-support-functions-sales-and-marketing
+   json: 59 Treffer in https://api.afp.ap.applyflow.com/seeker/v1/form/job-search | keys=['action', 'conditions', 'data', 'extras', 'fields', 'footer', 'id', 'intro', 'labels', 'name', 'next_step', 'outro', 'settings', 'step_behavior'] | z.B. Job Search
+   pattern: 50x careers.qantas.com/jobs/[^/]+/  e.g. https://careers.qantas.com/jobs/in-new-zealand/?per_page=10/
+   pattern: 12x careers.qantas.com/stories/[^/]+/  e.g. https://careers.qantas.com/stories/innovation-in-action-patricks-journey-to-the-product-innovation-centre/
+   pattern: 12x careers.qantas.com/jobs/job-details/\d+/[^/]+/  e.g. https://careers.qantas.com/jobs/job-details/55680/senior-quality-engineer/
+   pattern: 7x careers.qantas.com/[^/]+/  e.g. https://careers.qantas.com/life-at-qantas/
+   pattern: 6x careers.qantas.com/stories/  e.g. https://careers.qantas.com/stories/
+   link: https://careers.qantas.com/job-alert/
+   link: https://careers.qantas.com/jobs/
+   link: https://careers.qantas.com/jobs/job-details/55683/production-planner/
+   link: https://careers.qantas.com/jobs/job-details/55680/senior-quality-engineer/
+   link: https://careers.qantas.com/jobs/job-details/55674/freight-compliance-lead/
+   link: https://careers.qantas.com/jobs/job-details/55643/senior-commercial-specialist-ground-experience/
+   link: https://careers.qantas.com/jobs/job-details/55615/instructor-aviation-safety-training-jetconnect/
+   link: https://careers.qantas.com/jobs/job-details/55605/senior-manager-freight-safety/
+   link: https://careers.qantas.com/jobs/job-details/55447/ramp-services-officer/
+   link: https://careers.qantas.com/jobs/in-australia/?per_page=10/
+   link: https://careers.qantas.com/jobs/in-new-zealand/?per_page=10/
+   link: https://careers.qantas.com/jobs/in-all-perth,-western-australia/
+   link: https://careers.qantas.com/jobs/in-all-darwin,-northern-territory/
+   link: https://careers.qantas.com/jobs/in-all-alice-springs,-northern-territory/
+   link: https://careers.qantas.com/jobs/in-all-adelaide,-south-australia/
+   link: https://careers.qantas.com/jobs/in-all-melbourne,-victoria/
+   link: https://careers.qantas.com/jobs/in-all-hobart,-tasmania/
+   link: https://careers.qantas.com/jobs/in-all-cairns,-queensland/
+   link: https://careers.qantas.com/jobs/in-all-townsville,-queensland/
+   link: https://careers.qantas.com/jobs/in-all-brisbane,-queensland/
+   link: https://careers.qantas.com/jobs/in-all-gold-coast,-queensland/
+   link: https://careers.qantas.com/jobs/in-all-sydney,-new-south-wales/
+   link: https://careers.qantas.com/jobs/in-all-canberra,-australian-capital-territory/
+   link: https://careers.qantas.com/jobs/in-all-auckland/
+   link: https://careers.qantas.com/jobs/in-all-wellington/
+   link: https://careers.qantas.com/jobs/in-all-christchurch,-canterbury/?per_page=10/
+   link: https://careers.qantas.com/jobs/in-all-queenstown,-otago/?per_page=10/
+## Singtel  https://www.singtel.com/about-us/careers
+   final: https://groupcareers.singtel.com/  title: Jobs at Singtel Group  error: None
+   successfactors: ['career10.successfactors.com', 'career10.successfactors.com/career?career_company=C0001088737P&amp;lang=en_GB&amp;company=C0001088737P&amp;site=&amp;loginFlowRequired=true&amp;_s.crb=gMKn9x2UdPAXmRHM81GHRfcyxgQ%3d', 'career10.successfactors.com/career?career_company=C0001088737P&lang=en_GB&company=C0001088737P&site=&loginFlowRequired=true&_s.crb=gMKn9x2UdPAXmRHM81GHRfcyxgQ%3d', 'jobs2web', 'rmkcdn.successfactors.com']
+   jobvite: ['trustwave']
+   json: 5 Treffer in https://olivia.paradox.ai/api/widget/lvsobsnfovemzgyevfde/rules?referrer=&widget_page_url=https:%2F%2Fgroupcareers.singtel.com%2F | keys=['default_value', 'id', 'matching', 'name', 'type'] | z.B. Page URL
+   json: 3 Treffer in https://olivia.paradox.ai/api/widget/lvsobsnfovemzgyevfde?request_language_code=&source=2&catch_all_on=true&conversation_id=0&job_req_id=&is_mapping_j | keys=['alt_text', 'cms_id', 'description', 'intent_id', 'intent_name', 'is_allow_iframe', 'is_help_intent', 'media', 'media_meta_data', 'media_thumb', 'title', 'type', 'url'] | z.B. 
+   pattern: 9x www.telkomsel.com/en/about-us/careers  e.g. https://www.telkomsel.com/en/about-us/careers
+   pattern: 9x groupcareers.singtel.com/go/[^/]+/\d+/  e.g. https://groupcareers.singtel.com/go/Retail-and-Customer-Service/4559200/
+   pattern: 8x www.ais.co.th/applyjob/  e.g. https://www.ais.co.th/applyjob/?intcid=getpage-th-header_menu-aboutais_menu-applyjob_submenu1
+   pattern: 8x www.airtel.in/careers/  e.g. https://www.airtel.in/careers/
+   pattern: 8x www.globe.com.ph/about-us/careers.html  e.g. https://www.globe.com.ph/about-us/careers.html#gref
+   link: https://career10.successfactors.com/career?career_company=C0001088737P&lang=en_GB&company=C0001088737P&site=&loginFlowRequired=true&_s.crb=gMKn9x2UdPAXmRHM81GHRfcyxgQ%3d
+   link: https://jobs.jobvite.com/trustwave
+   link: https://www.ais.co.th/applyjob/?intcid=getpage-th-header_menu-aboutais_menu-applyjob_submenu1
+   link: https://groupcareers.singtel.com/viewalljobs/
+   link: https://groupcareers.singtel.com/go/Retail-and-Customer-Service/4559200/
+   link: https://groupcareers.singtel.com/go/Technology/4559400/
+   link: https://groupcareers.singtel.com/go/Jobs-at-Singtel/4567910/
+   link: https://groupcareers.singtel.com/go/Business-Strategy-&-Planning/4702610/
+   link: https://groupcareers.singtel.com/go/Communications-Engineering/4702710/
+   link: https://groupcareers.singtel.com/go/Consulting-&-Client-Services/4702810/
+   link: https://groupcareers.singtel.com/go/Corporate/4702910/
+   link: https://groupcareers.singtel.com/go/Data-&-Digital/4703010/
+   link: https://groupcareers.singtel.com/go/Infrastructure-&-Managed-Services/4703110/
+   link: https://groupcareers.singtel.com/go/IT-Business-Applications/4703210/
+   link: https://groupcareers.singtel.com/go/Sales-&-Marketing/4703410/
+   link: https://groupcareers.singtel.com/topjobs/
+## Standard Chartered  https://jobs.standardchartered.com/
+   final: https://jobs.standardchartered.com/  title: Home Page  error: None
+   successfactors: ['career2.successfactors.eu', 'jobs2web', 'rmkcdn.successfactors.com']
    phenom: ['/widgets']
-   beesite: ['beesite']
-   json: 17 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/_ytECDtkj/54.30.192/54.30.192?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Essenziell
-   pattern: 39x jobs.kfw.de/index.php  e.g. https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading
-   pattern: 14x void(0);  e.g. javascript:void(0);
-   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading
-   link: https://jobs.kfw.de/index.php?ac=login
-   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading
-   link: https://jobs.kfw.de/index.php
-   link: https://jobs.kfw.de/index.php?ac=search_result
-   link: https://jobs.kfw.de/index.php?ac=statuspage&uid=0
-   link: https://jobs.kfw.de/index.php?ac=statuspage
-   link: https://jobs.kfw.de/index.php?ac=applicationstate
-   link: https://jobs.kfw.de/index.php?ac=messages
-   link: https://jobs.kfw.de/index.php?ac=logindata
-   link: https://jobs.kfw.de/index.php?ac=job_merker
-   link: https://jobs.kfw.de/index.php?ac=jobabo_overview
-   link: https://jobs.kfw.de/index.php?ac=event
-   link: https://jobs.kfw.de/index.php?ac=profile_application
-   link: https://jobs.kfw.de/index.php?ac=jobabo
-   link: https://jobs.kfw.de/(!'uid=lang');
-   link: https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=1
-   link: https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=2
-   link: https://jobs.kfw.de/index.php?ac=lost_username
-   link: https://jobs.kfw.de/index.php?ac=lost_password
-   link: https://jobs.kfw.de/index.php?ac=register
-   link: https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-search-result-heading
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13741
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13744
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13664
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13736
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13737
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13732
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13733
-   link: https://jobs.kfw.de/index.php?ac=jobad&id=13729
-## Welthungerhilfe  https://career5.successfactors.eu/career?company=WelthungerP&lang=de_DE
-   final: https://career5.successfactors.eu/career?company=WelthungerP&lang=de_DE  title: Karrierechancen  error: None
-   successfactors: ['career012.successfactors.eu/career?company=WelthungerP&amp;career%5fns=job%5flisting%5fsummary&amp;navBarLevel=JOB%5fSEARCH&amp;_s.crb=G070TCxBHe9slDnfVb1vXaN8cuo%3d', 'career012.successfactors.eu/career?company=WelthungerP&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=G070TCxBHe9slDnfVb1vXaN8cuo%3d', 'career5.successfactors.eu/career?career_company=WelthungerP&lang=de_DE&company=WelthungerP&site=&loginFlowRequired=true&_s.crb=VTZaBuq3WyLF4F5EdfESSRhS%2bP3sDhtn5BLdH%2b7YTPc%3d', 'career5.successfactors.eu/career?company=WelthungerP&lang=de_DE', 'career5.successfactors.eu/career?company=WelthungerP&lang=de_DE#skipContent', 'career5.successfactors.eu/companyLogoServlet/?companyId=WelthungerP&amp;mod=1675759327593']
-   link: https://career012.successfactors.eu/career?company=WelthungerP&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=G070TCxBHe9slDnfVb1vXaN8cuo%3d
-## Amnesty  https://careers.amnesty.org/vacancy/find/results/
-   final: https://careers.amnesty.org/jobs/vacancy/find/results/  title: Careers | Amnesty International  error: None
-   pattern: 22x careers.amnesty.org/jobs/vacancy/find/results/  e.g. https://careers.amnesty.org/jobs/vacancy/find/results/#maincontent
-   link: https://careers.amnesty.org/jobs/vacancy/find/results/#maincontent
-   link: https://careers.amnesty.org/jobs/vacancy/find/results/
-   link: https://careers.amnesty.org/jobs/alertregister/
-   link: https://careers.amnesty.org/jobs/login/
-   link: https://careers.amnesty.org/jobs/vacancy/find/results/map/
-   link: https://careers.amnesty.org/jobs/vacancy/find/results/#
-   link: https://careers.amnesty.org/jobs/vacancy/find/results/ajaxaction/posbrowser_gridhandler/?sortasc_codelist5value=1&pagestamp=d1a0a73e-4f6b-4c7b-80b9-f57afe0d117c
-   link: https://careers.amnesty.org/jobs/vacancy/find/results/ajaxaction/posbrowser_gridhandler/?sortasc__rowlabel=1&pagestamp=d1a0a73e-4f6b-4c7b-80b9-f57afe0d117c
-   link: https://careers.amnesty.org/jobs/vacancy/ai-indonesia---campaigner-4300/4328/description/
-   link: https://careers.amnesty.org/jobs/vacancy/ai-indonesia---supporter-engagement-4301/4329/description/
-   link: https://careers.amnesty.org/jobs/vacancy/crisis-researcher-4284/4312/description/
-   link: https://careers.amnesty.org/jobs/vacancy/regional-researcher-saro-4290/4318/description/
-   link: https://careers.amnesty.org/jobs/vacancy/researcher--adviser-escr-4287/4315/description/
-   link: https://careers.amnesty.org/jobs/vacancy/technologist-4288/4316/description/
-## KAS  https://www.kas.de/de/web/karriere/stellenangebote
-   final: https://www.kas.de/de/web/karriere/stellenangebote  title: Web Application Firewall  error: None
+   pattern: 7x jobs.standardchartered.com/go/[^/]+/\d+/  e.g. https://jobs.standardchartered.com/go/Experienced-Professional-jobs/9783657/
+   pattern: 4x talent.sc.com/flows/[^/]+  e.g. https://talent.sc.com/flows/tn-lateral-registration
+   pattern: 3x policies.google.com/privacy  e.g. https://policies.google.com/privacy
+   pattern: 3x policies.google.com/terms  e.g. https://policies.google.com/terms
+   link: https://jobs.standardchartered.com/content/Cookie-Policy/?locale=en_GB
+   link: https://jobs.standardchartered.com/#content
+   link: https://jobs.standardchartered.com/Home
+   link: https://jobs.standardchartered.com/#
+   link: https://jobs.standardchartered.com/?locale=en_GB
+   link: https://jobs.standardchartered.com/?locale=ko_KR
+   link: https://jobs.standardchartered.com/go/Experienced-Professional-jobs/9783657/
+   link: https://jobs.standardchartered.com/go/Early-careers-Jobs/9783557/
+   link: https://jobs.standardchartered.com/go/Create-Job-Alerts/9783857/
+   link: https://jobs.standardchartered.com/search/?jobAlerts=true&rcmLoggedIn=true&micrositeid=
+   link: https://www.sc.com/en/global-careers/?utm_source=myRecruiting&utm_campaign=jobsearch&utm_term=careers
+## Standard Chartered  https://www.sc.com/en/careers/
+   final: https://www.sc.com/en/global-careers/experienced-hire/  title: Careers for experienced professionals | Standard Chartered  error: None
+   pattern: 19x www.sc.com/en/country-popup/online/  e.g. https://www.sc.com/en/country-popup/online/
+   pattern: 18x www.sc.com/en/global-careers/experienced-hire/  e.g. https://www.sc.com/en/global-careers/experienced-hire/#content
+   pattern: 14x www.sc.com/en/about/[^/]+/  e.g. https://www.sc.com/en/about/who-we-are/
+   pattern: 9x www.sc.com/en/[^/]+/  e.g. https://www.sc.com/en/corporate-investment-banking/
+   pattern: 8x www.sc.com/en/contact-us/  e.g. https://www.sc.com/en/contact-us/
+   link: https://www.sc.com/en/about/sustainability/position-statements/
+   link: https://jobs.standardchartered.com/content/Search-Result-Page/?employment_type=early_careers&utm_source=careersite
+   link: https://jobs.standardchartered.com/content/Search-Result-Page/?employment_type=professional_hires&utm_source=careersite
+   link: https://jobs.standardchartered.com/?utm_source=careersite&utm_source=careersite
+   link: https://jobs.standardchartered.com/search/?q=61764&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false
+   link: https://jobs.standardchartered.com/search/?q=62549&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false
+   link: https://jobs.standardchartered.com/search/?q=63761&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false
+   link: https://jobs.standardchartered.com/search/?q=61372&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false
+   link: https://jobs.standardchartered.com/search/?q=61857&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false
+   link: https://jobs.standardchartered.com/search/?q=61856&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false
+   link: https://jobs.standardchartered.com/?utm_source=careersite
+   link: https://www.sc.com/en/global-careers/our-employee-stories/265955/
+   link: https://www.sc.com/en/global-careers/our-employee-stories/282380/
 ## _API  
    final: None  title: None  error: None
-   api: ['slugs Brot fuer die Welt: []', 'slugs brotfuerdiewelt: []', 'slugs ewde: []', 'slugs Diakonie Katastrophenhilfe: []', 'slugs Plan: []', 'slugs plande: []', 'slugs plan-deutschland: []', 'slugs Aktion gegen den Hunger: []', 'slugs actionagainsthunger: []', 'slugs FES: []', 'slugs fes: []', 'slugs Fairtrade: []', 'slugs fairtradedeutschland: []', 'slugs Fairtrade Deutschland: []', 'slugs transfair: []', 'slugs giz: []', 'slugs kfw: []', 'slugs welthungerhilfe: []', 'slugs kas: []']
+   api: ['workday ag/wd3/Airbus: 200 total=2000', 'workday santander/wd3/SantanderCareers: 200 total=464', 'workday scb/wd3/Careers: 422 total=', 'slugs Iberdrola: []', 'slugs Naturgy: []', 'slugs Repsol: []', 'slugs Endesa: []', 'slugs Enel: []', 'slugs Telefónica: []', 'slugs Santander: []', 'slugs Glovo: []', 'slugs Ørsted: []', 'slugs Vestas: []', 'slugs Schneider Electric: []', "slugs Adyen: ['greenhouse:adyen (249 Stellen)']", 'slugs Booking.com: []', 'slugs Nestlé: []', 'slugs Mercado Libre: []', "slugs Nubank: ['ashby:nubank (105 Stellen)']", 'slugs Ambev: []', 'slugs Falabella: []', 'slugs Atlassian: []', "slugs Canva: ['smartrecruiters:canva (30 Stellen)']", "slugs Xero: ['ashby:xero (106 Stellen)']", "slugs Grab: ['smartrecruiters:grab (449 Stellen)']", 'slugs Sea Group: []', "slugs DBS: ['personio:dbs (11 Stellen)']", 'slugs Rakuten: []', 'slugs BBVA: []', 'slugs CaixaBank: []', 'slugs Inditex: []', 'slugs Acciona: []', 'slugs Redeia: []', 'slugs Amadeus: []', 'slugs Mapfre: []', 'slugs Equinor: []', "slugs Vattenfall: ['smartrecruiters:vattenfall (240 Stellen)']", 'slugs Engie: []', 'slugs EDP: []', 'slugs Galp: []', 'slugs Statkraft: []', 'slugs Airbus: []', 'slugs Moeve: []', 'slugs Itaú Unibanco: []', 'slugs Petrobras: []', 'slugs Natura &Co: []', 'slugs Globant: []', 'slugs Cencosud: []', 'slugs Telstra: []', 'slugs Macquarie Group: []', 'slugs Qantas: []', 'slugs Singtel: []', "slugs Standard Chartered: ['recruitee:standard (2 Stellen)']", "slugs adyen: ['greenhouse:adyen (249 Stellen)']", "slugs nubank: ['ashby:nubank (105 Stellen)']", 'slugs glovo: []', 'slugs glovoapp: []', "slugs xero: ['ashby:xero (106 Stellen)']", "slugs canva: ['smartrecruiters:canva (30 Stellen)']", 'slugs atlassian: []', "slugs grab: ['smartrecruiters:grab (449 Stellen)']", 'slugs globant: []', 'slugs booking: []', 'slugs bookingcom: []', 'slugs sea: []', 'slugs seagroup: []', 'slugs mercadolibre: []', 'slugs meli: []', 'slugs falabella: []', 'slugs rakuten: []', 'slugs naturgy: []', 'slugs caixabank: []', 'slugs amadeus: []', 'slugs statkraft: []']

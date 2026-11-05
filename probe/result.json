@@ -1,574 +1,200 @@
 [
  {
-  "name": "Brot für die Welt",
-  "url": "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/",
-  "final": "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/",
-  "title": "Jobs | Brot für die Welt",
-  "sigs": {},
-  "links": [
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/",
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/",
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/im-ausland-arbeiten/",
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/freiwillige/",
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/entwicklungspolitischer-freiwilligendienst-brot-fuer-die-welt-2027-2028-1943182/",
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-online-marketing-1942383/",
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/details/praktikantin-abteilung-politik-1942881/"
-  ],
-  "error": null,
-  "patterns": [
-   "10x www.brot-fuer-die-welt.de/spenden/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/spenden/einsatz-der-spendengelder/",
-   "9x void(0);  e.g. javascript:void(0);",
-   "6x www.brot-fuer-die-welt.de/spenden/  e.g. https://www.brot-fuer-die-welt.de/spenden/",
-   "4x www.brot-fuer-die-welt.de/ueber-uns/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/",
-   "3x www.brot-fuer-die-welt.de/service-kontakt/  e.g. https://www.brot-fuer-die-welt.de/service-kontakt/"
-  ],
-  "jsons": [
-   "32 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/mB_HKjn9o/137.25.303/137.25.303?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
-  ],
-  "api": []
- },
- {
-  "name": "Brot für die Welt",
-  "url": "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/",
-  "final": "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/",
-  "title": "Stellenangebote | Brot für die Welt",
-  "sigs": {},
-  "links": [
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/",
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/",
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/im-ausland-arbeiten/",
-   "https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/freiwillige/"
-  ],
-  "error": null,
-  "patterns": [
-   "10x www.brot-fuer-die-welt.de/spenden/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/spenden/einsatz-der-spendengelder/",
-   "9x void(0);  e.g. javascript:void(0);",
-   "6x www.brot-fuer-die-welt.de/spenden/  e.g. https://www.brot-fuer-die-welt.de/spenden/",
-   "6x www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/[^/]+/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/stellenangebote/bei-uns-arbeiten/",
-   "4x www.brot-fuer-die-welt.de/ueber-uns/  e.g. https://www.brot-fuer-die-welt.de/ueber-uns/"
-  ],
-  "jsons": [
-   "32 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/mB_HKjn9o/137.25.303/137.25.303?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
-  ],
-  "api": []
- },
- {
-  "name": "Diakonie Katastrophenhilfe",
-  "url": "https://www.diakonie-katastrophenhilfe.de/ueber-uns",
-  "final": "https://www.diakonie-katastrophenhilfe.de/ueber-uns",
-  "title": "Über uns - Diakonie Katastrophenhilfe",
-  "sigs": {},
-  "links": [
-   "https://www.diakonie-katastrophenhilfe.de/material/unsere-grundsaetze-und-positionen",
-   "https://www.diakonie-katastrophenhilfe.de/ueber-uns/mitarbeit/stellenangebote.html"
-  ],
-  "error": null,
-  "patterns": [
-   "56x www.diakonie-katastrophenhilfe.de/ueber-uns  e.g. https://www.diakonie-katastrophenhilfe.de/ueber-uns#",
-   "9x www.diakonie-katastrophenhilfe.de/projekte  e.g. https://www.diakonie-katastrophenhilfe.de/projekte",
-   "5x www.diakonie-katastrophenhilfe.de/themen  e.g. https://www.diakonie-katastrophenhilfe.de/themen",
-   "5x www.diakonie-katastrophenhilfe.de/spende  e.g. https://www.diakonie-katastrophenhilfe.de/spende",
-   "4x www.diakonie-katastrophenhilfe.de/themen/[^/]+  e.g. https://www.diakonie-katastrophenhilfe.de/themen/krieg-und-konflikt"
-  ],
-  "jsons": [
-   "30 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/CdZms07aS/34.17.195/34.17.195?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
-  ],
-  "api": []
- },
- {
-  "name": "Diakonie Katastrophenhilfe",
-  "url": "https://www.diakonie-katastrophenhilfe.de/",
-  "final": "https://www.diakonie-katastrophenhilfe.de/",
-  "title": "Diakonie Katastrophenhilfe - Diakonie Katastrophenhilfe",
+  "name": "Iberdrola",
+  "url": "https://www.iberdrola.com/careers/job-offers",
+  "final": "https://www.iberdrola.com/careers/job-offers",
+  "title": "Access Denied",
   "sigs": {},
   "links": [],
   "error": null,
-  "patterns": [
-   "22x www.diakonie-katastrophenhilfe.de/ueber-uns  e.g. https://www.diakonie-katastrophenhilfe.de/ueber-uns",
-   "12x www.diakonie-katastrophenhilfe.de/projekte  e.g. https://www.diakonie-katastrophenhilfe.de/projekte",
-   "12x www.diakonie-katastrophenhilfe.de/krisenvorsorge-guide  e.g. https://www.diakonie-katastrophenhilfe.de/krisenvorsorge-guide",
-   "11x www.diakonie-katastrophenhilfe.de/spende/ukraine  e.g. https://www.diakonie-katastrophenhilfe.de/spende/ukraine",
-   "8x www.diakonie-katastrophenhilfe.de/projekte/kongo-ebola  e.g. https://www.diakonie-katastrophenhilfe.de/projekte/kongo-ebola"
-  ],
-  "jsons": [
-   "30 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/CdZms07aS/34.17.195/34.17.195?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
-  ],
-  "api": []
- },
- {
-  "name": "Plan International",
-  "url": "https://jobs.plan.de/",
-  "final": "https://jobs.plan.de/",
-  "title": "Plan International Jobs Hamburg: Jetzt online bewerben!",
-  "sigs": {},
-  "links": [
-   "https://jobs.plan.de/datenschutz.html",
-   "https://jobs.plan.de/",
-   "https://jobs.plan.de/stellenangebote.html",
-   "https://jobs.plan.de/plan-als-arbeitgeber.html",
-   "https://jobs.plan.de/ihr-arbeitsplatz.html",
-   "https://jobs.plan.de/Bewerbungstipps.html",
-   "https://jobs.plan.de/faq.html",
-   "https://jobs.plan.de/stellenangebote.html?reset_search=1",
-   "https://jobs.plan.de/stellenangebote.html?order%5Bdir%5D=asc&order%5Bfield%5D=stellenbezeichnung&sid=c460160bb10be5434419a253ef1bfc0c",
-   "https://jobs.plan.de/stellenangebote.html?order%5Bdir%5D=asc&order%5Bfield%5D=aufgabengebiete&sid=c460160bb10be5434419a253ef1bfc0c",
-   "https://jobs.plan.de/stellenangebote.html?order%5Bdir%5D=asc&order%5Bfield%5D=taetigkeiten&sid=c460160bb10be5434419a253ef1bfc0c",
-   "https://jobs.plan.de/Werkstudentin-Contentmanagement-dwm-de-j1362.html?sid=c460160bb10be5434419a253ef1bfc0c",
-   "https://jobs.plan.de/Workshopleitung-dwm-in-Eisenberg-de-j1357.html?sid=c460160bb10be5434419a253ef1bfc0c",
-   "https://jobs.plan.de/jobalert.html"
-  ],
-  "error": null,
-  "patterns": [
-   "6x jobs.plan.de/stellenangebote.html  e.g. https://jobs.plan.de/stellenangebote.html"
-  ],
+  "patterns": [],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Plan International",
-  "url": "https://jobs.plan-international.org/",
-  "final": "https://jobs.plan-international.org/",
-  "title": "Jobs at Plan International",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu",
-    "career5.successfactors.eu/career?site=&amp;company=PlanInt&amp;lang=en%5FGB&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE",
-    "rmkcdn.successfactors.com"
-   ]
-  },
-  "links": [
-   "https://jobs.plan-international.org/#content",
-   "https://jobs.plan-international.org/",
-   "https://jobs.plan-international.org/#",
-   "https://jobs.plan-international.org/search/?q=",
-   "https://jobs.plan-international.org/go/Emergency-Response-%28en_GB%29/1413701/",
-   "https://jobs.plan-international.org/go/Business-Support-&-Administration-%28en_GB%29/1412901/",
-   "https://jobs.plan-international.org/go/Monitoring%2C-Evaluation-&-Research-%28en_GB%29/1413301/",
-   "https://jobs.plan-international.org/go/Programmes-%28en_GB%29/1414901/",
-   "https://jobs.plan-international.org/go/Finance-%28en_GB%29/1414501/",
-   "https://jobs.plan-international.org/go/Global-Influencing-&-Partnerships-%28en_GB%29/1412501/",
-   "https://jobs.plan-international.org/go/Information-Technology-%28en_GB%29/1416101/",
-   "https://jobs.plan-international.org/go/Procurement-&-Logistics-%28en_GB%29/1414101/",
-   "https://jobs.plan-international.org/go/Legal-and-Governance-%28en_GB%29/1416501/",
-   "https://jobs.plan-international.org/go/Global-Assurance-%28en_GB%29/1415301/",
-   "https://jobs.plan-international.org/go/Human-Resources-&-Organisational-Development-%28en_GB%29/1415701/",
-   "https://jobs.plan-international.org/go/Ukraine-Refugee-Crisis-Response/5361201/",
-   "https://jobs.plan-international.org/go/Asia-Pacific-Region/5498501/",
-   "https://jobs.plan-international.org/go/Central-and-Eastern-Europe-Hub/9098601/",
-   "https://jobs.plan-international.org/go/Global-Hub-Location-Flexible/5498701/",
-   "https://jobs.plan-international.org/go/Global-Hub-UK/5498601/",
-   "https://jobs.plan-international.org/go/Middle-East%2C-Eastern-and-Southern-Africa/5498801/",
-   "https://jobs.plan-international.org/go/Region-of-the-Americas/5498901/",
-   "https://jobs.plan-international.org/go/West-and-Central-Africa/5499001/",
-   "https://jobs.plan-international.org/lp/FREQUENTLY%20ASKED%20QUESTIONS/da42fd1ba01cee72/?locale=en_GB&previewLink=true&referrerSave=false",
-   "https://jobs.plan-international.org/?locale=en_GB",
-   "https://jobs.plan-international.org/?locale=en_US",
-   "https://jobs.plan-international.org/?locale=es_ES",
-   "https://jobs.plan-international.org/?locale=fr_FR",
-   "https://jobs.plan-international.org/?locale=pt_PT",
-   "https://jobs.plan-international.org/viewalljobs/"
-  ],
-  "error": null,
-  "patterns": [
-   "34x jobs.plan-international.org/go/[^/]+/\\d+/  e.g. https://jobs.plan-international.org/go/Emergency-Response-%28en_GB%29/1413701/",
-   "3x plan-international.org/[^/]+  e.g. https://plan-international.org/why-join-plan-international"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Aktion gegen den Hunger",
-  "url": "https://careers.actionagainsthunger.org/",
+  "name": "Iberdrola",
+  "url": "https://careers.iberdrola.com/",
   "final": null,
   "title": null,
   "sigs": {},
   "links": [],
-  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.actionagainsthunger.org/\nCall log:\n  - navigating to \"https://careers.actionagainsthunger.org/\", waiting until \"domcontentloaded\"\n",
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.iberdrola.com/\nCall log:\n  - navigating to \"https://careers.iberdrola.com/\", waiting until \"domcontentloaded\"\n",
   "patterns": [],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Aktion gegen den Hunger",
-  "url": "https://www.aktiongegendenhunger.de/stellenangebote",
-  "final": "https://www.aktiongegendenhunger.de/stellenangebote",
-  "title": "Jobs und Stellenangebote | Aktion gegen den Hunger",
+  "name": "Naturgy",
+  "url": "https://www.naturgy.com/en/careers/",
+  "final": "https://www.naturgy.com/en/careers/",
+  "title": "Page Not Found - Naturgy",
   "sigs": {},
   "links": [
-   "https://www.aktiongegendenhunger.de/stellenangebote#main-content",
-   "https://www.aktiongegendenhunger.de/stellenangebote",
-   "https://careers.actionagainsthunger.org/?_ga=1.41833186.1754761703.1435568749",
-   "https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote",
-   "https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote",
-   "https://www.aktiongegendenhunger.de/stellenangebote#"
+   "https://www.naturgy.com/en/sustainability/just-transition/jobs/"
   ],
   "error": null,
   "patterns": [
-   "27x www.aktiongegendenhunger.de/[^/]+  e.g. https://www.aktiongegendenhunger.de/spenden-statt-schenken",
-   "9x www.aktiongegendenhunger.de/spenden  e.g. https://www.aktiongegendenhunger.de/spenden?monthly=true",
-   "8x www.aktiongegendenhunger.de/stellenangebote  e.g. https://www.aktiongegendenhunger.de/stellenangebote#main-content",
-   "7x www.aktiongegendenhunger.de/datenschutz  e.g. https://www.aktiongegendenhunger.de/datenschutz",
-   "5x www.aktiongegendenhunger.de/kampagnen  e.g. https://www.aktiongegendenhunger.de/kampagnen"
+   "19x www.naturgy.com/en/careers/  e.g. https://www.naturgy.com/en/careers/#",
+   "13x www.naturgy.com/en/[^/]+/  e.g. https://www.naturgy.com/en/work-with-us/",
+   "8x www.naturgy.com/en/[^/]+/corporate-governance/[^/]+/  e.g. https://www.naturgy.com/en/shareholders-and-investors/corporate-governance/francisco-reynes-massanet/",
+   "8x www.naturgy.com/en/sustainability/the-environment/[^/]+/  e.g. https://www.naturgy.com/en/sustainability/the-environment/climate-change-and-energy-transition/",
+   "6x www.naturgy.com/en/cookies-policy/  e.g. https://www.naturgy.com/en/cookies-policy/"
   ],
-  "jsons": [
-   "38 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/IcWw2ZiC_/185.53.601/185.53.601?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Engagement",
-   "684 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement",
-   "691 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/de/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement"
-  ],
+  "jsons": [],
   "api": []
  },
  {
-  "name": "FES",
-  "url": "https://jobs.fes.de/",
-  "final": "https://jobs.fes.de/",
-  "title": "Alle Ausschreibungen",
+  "name": "Naturgy",
+  "url": "https://empleo.naturgy.com/",
+  "final": null,
+  "title": null,
   "sigs": {},
-  "links": [
-   "https://jobs.fes.de/",
-   "https://jobs.fes.de/jobportal/fes/viewAusschreibung/2026-111.html"
-  ],
-  "error": null,
+  "links": [],
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://empleo.naturgy.com/\nCall log:\n  - navigating to \"https://empleo.naturgy.com/\", waiting until \"domcontentloaded\"\n",
   "patterns": [],
   "jsons": [],
   "api": []
  },
  {
-  "name": "FES",
-  "url": "https://www.fes.de/stellenangebote/praktikum",
-  "final": "https://www.fes.de/stellenangebote/praktikum",
-  "title": "Praktikum in der FES",
-  "sigs": {},
+  "name": "Repsol",
+  "url": "https://www.repsol.com/en/careers/index.cshtml",
+  "final": "https://www.repsol.com/en/careers/index.cshtml",
+  "title": "Repsol careers | Work with us",
+  "sigs": {
+   "workday": [
+    "repsol/wd3/Repsol"
+   ]
+  },
   "links": [
-   "https://www.fes.de/stellenangebote/praktikum#",
-   "https://www.fes.de/stellenangebote/praktikum#main-content",
-   "https://www.fes.de/stellenangebote/praktikum#fes-footer",
-   "https://www.fes.de/stellenangebote/praktikum",
-   "https://www.fes.de/stellenangebote",
-   "https://jobs.fes.de/",
-   "https://www.fes.de/stellenangebote/praktikum#top"
+   "https://www.repsol.com/en/shareholders-and-investors/corporate-governance/board-of-directors/composition/index.cshtml",
+   "https://repsol.wd3.myworkdayjobs.com/en-US/Repsol?utm_source=repsolcom-all&utm_medium=referral&utm_campaign=rep-empleo-all_2404_corp-buentrabajar"
   ],
   "error": null,
   "patterns": [
-   "51x www.fes.de/stellenangebote/praktikum  e.g. https://www.fes.de/stellenangebote/praktikum#",
-   "30x www.fes.de/[^/]+  e.g. https://www.fes.de/abteilung-internationale-zusammenarbeit",
-   "14x www.fes.de/[^/]+/[^/]+  e.g. https://www.fes.de/themenportal-die-welt-gerecht-gestalten/frieden-und-sicherheit",
-   "4x www.fes.de/ueber-uns/[^/]+/[^/]+  e.g. https://www.fes.de/ueber-uns/ueber-die-friedrich-ebert-stiftung/organigramm-und-gremien",
-   "4x www.fes.de/studienfoerderung  e.g. https://www.fes.de/studienfoerderung"
+   "11x www.repsol.com/en/[^/]+/index.cshtml  e.g. https://www.repsol.com/en/products-and-services/index.cshtml",
+   "10x www.repsol.com/en/[^/]+/[^/]+/index.cshtml  e.g. https://www.repsol.com/en/products-and-services/apps-and-tools/index.cshtml",
+   "9x www.repsol.com/en/[^/]+/[^/]+/[^/]+/index.cshtml  e.g. https://www.repsol.com/en/shareholders-and-investors/repsol-as-an-investment/risk-management-at-repsol/index.cshtml",
+   "9x www.repsol.com/en/careers/[^/]+/index.cshtml  e.g. https://www.repsol.com/en/careers/internships-and-graduate-programs/index.cshtml",
+   "9x www.repsol.com/en/careers/[^/]+/[^/]+/index.cshtml  e.g. https://www.repsol.com/en/careers/internships-and-graduate-programs/talent-energy-program/index.cshtml"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Fairtrade",
-  "url": "https://www.fairtrade.net/de-de.html",
-  "final": "https://www.fairtrade.net/de-de.html",
-  "title": "Für eine gerechtere Weltwirtschaft | Fairtrade Deutschland",
+  "name": "Repsol",
+  "url": "https://careers.repsol.com/",
+  "final": null,
+  "title": null,
   "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.repsol.com/\nCall log:\n  - navigating to \"https://careers.repsol.com/\", waiting until \"domcontentloaded\"\n",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Endesa",
+  "url": "https://www.endesa.com/en/careers",
+  "final": "https://www.endesa.com/en/careers",
+  "title": "Error 404 | Endesa",
+  "sigs": {
+   "phenom": [
+    "/widgets"
+   ]
+  },
   "links": [
-   "https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html"
+   "https://www.endesa.com/en/talent/job-vacancies"
   ],
   "error": null,
   "patterns": [
-   "16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html",
-   "13x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html",
-   "9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html",
-   "6x www.fairtrade.net/de-de/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick.html",
-   "6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html"
+   "21x www.endesa.com/en/careers  e.g. https://www.endesa.com/en/careers#main",
+   "16x www.endesa.com/en/[^/]+  e.g. https://www.endesa.com/en/the-e-face",
+   "16x www.endesa.com/en/companies/electricity/[^/]+  e.g. https://www.endesa.com/en/companies/electricity/tariff-comparator-electricity",
+   "6x www.endesa.com/en/electric-mobility/[^/]+  e.g. https://www.endesa.com/en/electric-mobility/electric-car-charger-tariff-offer",
+   "4x www.endesa.com/en/blogs/[^/]+  e.g. https://www.endesa.com/en/blogs/endesa-s-blog"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Fairtrade",
-  "url": "https://www.fairtrade.net/de-de/ueber-uns/jobs.html",
-  "final": "https://www.fairtrade.net/de-de/ueber-uns/jobs.html",
-  "title": "404 Not Found",
+  "name": "Enel",
+  "url": "https://jobs.enel.com/en_US/careers",
+  "final": "https://jobs.enel.com/en_US/careers",
+  "title": "Home",
   "sigs": {},
   "links": [
-   "https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html"
+   "https://jobs.enel.com/en_US/careers#",
+   "https://jobs.enel.com/en_US/careers#main",
+   "https://jobs.enel.com/en_US/careers",
+   "https://jobs.enel.com/en_US/careers/Home",
+   "https://jobs.enel.com/en_US/careers/Students",
+   "https://jobs.enel.com/en_US/careers/JobOpenings",
+   "https://jobs.enel.com/en_US/SpontaneousApplication",
+   "https://jobs.enel.com/en_US/careers/Login",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24630?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24625?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24586?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24585?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24584?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24620?team=Commercial",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24619?team=Commercial",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24618?team=Commercial",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24615?team=Commercial",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24614?team=Commercial",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24613?team=Commercial",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24612?team=Commercial",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24609?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24607?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24606?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24603?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24583?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24581?team=RenewableEnergies",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24579?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24577?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobDetail/24575?team=GridsandInnovation",
+   "https://jobs.enel.com/en_US/careers/JobOpeningsRenewable"
   ],
   "error": null,
   "patterns": [
-   "16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html",
-   "12x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html",
-   "9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html",
-   "6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html",
-   "5x www.fairtrade.net/de-de/mach-mit/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen.html"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Kindernothilfe",
-  "url": "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt",
-  "final": "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all",
-  "title": "Online-Stellenmarkt | Kindernothilfe e. V.",
-  "sigs": {},
-  "links": [
-   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#mainContent",
-   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt",
-   "https://www.kindernothilfe.de/en/career/jobmarket",
-   "https://www.kindernothilfe.de/jobs-und-karriere",
-   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=1&filter=all",
-   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2004089",
-   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2004012",
-   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2005714",
-   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all&offer=2845709",
-   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#mainHeading",
-   "https://www.kindernothilfe.de/jobs-und-karriere/wie-wir-arbeiten",
-   "https://www.kindernothilfe.de/informieren/ueber-die-kindernothilfe/anfahrt-geschaeftsstelle",
-   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all",
-   "https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#"
-  ],
-  "error": null,
-  "patterns": [
-   "30x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/",
-   "15x www.kindernothilfe.de/[^/]+/stellenmarkt  e.g. https://www.kindernothilfe.de/jobs-und-karriere/stellenmarkt?lang=0&filter=all#mainContent",
-   "8x www.tiktok.com/legal/privacy-policy  e.g. https://www.tiktok.com/legal/privacy-policy?lang=en",
-   "8x privacy.microsoft.com/en-US/privacystatement  e.g. https://privacy.microsoft.com/en-US/privacystatement",
-   "7x www.haufe.de/datenschutzerklaerung_24_\\d+.html  e.g. https://www.haufe.de/datenschutzerklaerung_24_360.html?_ga=2.25712510.2118662886.1516026902-1046601484.1501084227"
+   "42x jobs.enel.com/en_US/careers/JobDetail/\\d+  e.g. https://jobs.enel.com/en_US/careers/JobDetail/24630?team=GridsandInnovation",
+   "12x jobs.enel.com/en_US/careers  e.g. https://jobs.enel.com/en_US/careers#",
+   "4x www.enel.com/careers/teams  e.g. https://www.enel.com/careers/teams",
+   "3x www.enel.com/company/about-us  e.g. https://www.enel.com/company/about-us",
+   "3x www.enel.com/investors/overview  e.g. https://www.enel.com/investors/overview"
   ],
   "jsons": [
-   "4 Treffer in https://www.kindernothilfe.de/api/sitecore/JobOffers/RetrieveOffers?lang=&translationKeys=JobOffers.SwitchTo.English&translationKeys=JobOffers.SwitchT | keys=['Content', 'Description', 'Id', 'Link', 'Title', 'Type'] | z.B. Initiativbewerbung"
+   "3 Treffer in https://jobs.enel.com/14/_portalCookieUserConsent?method=getAll | keys=['canBeDisabled', 'description', 'id', 'isBuiltin', 'isEnabled', 'languageId', 'name', 'sortOrder', 'variableName'] | z.B. Essential"
   ],
   "api": []
  },
  {
-  "name": "GIZ",
-  "url": "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29",
-  "final": "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12",
-  "title": "Unsere Stellenangebote | Karriereportal | Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
-  "sigs": {
-   "phenom": [
-    "/widgets"
-   ],
-   "beesite": [
-    "beesite",
-    "milchundzucker"
-   ]
-  },
-  "links": [
-   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-main-heading",
-   "https://jobs.giz.de/index.php?ac=login",
-   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading",
-   "https://jobs.giz.de/index.php?ac=search_result",
-   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level[]=26",
-   "https://jobs.giz.de/index.php?ac=statuspage&uid=0",
-   "https://jobs.giz.de/index.php?ac=statuspage",
-   "https://jobs.giz.de/index.php?ac=applicationstate",
-   "https://jobs.giz.de/index.php?ac=messages",
-   "https://jobs.giz.de/index.php?ac=logindata",
-   "https://jobs.giz.de/index.php?ac=job_merker",
-   "https://jobs.giz.de/index.php?ac=jobabo_overview",
-   "https://jobs.giz.de/index.php?ac=event",
-   "https://jobs.giz.de/index.php?ac=profile_application",
-   "https://jobs.giz.de/index.php?ac=privacy_statements",
-   "https://jobs.giz.de/index.php?ac=jobabo",
-   "https://jobs.giz.de/(!'uid=lang');",
-   "https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=1",
-   "https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=2",
-   "https://jobs.giz.de/index.php?ac=lost_password",
-   "https://jobs.giz.de/index.php?ac=lost_username",
-   "https://jobs.giz.de/index.php?ac=register",
-   "https://jobs.giz.de/index.php?ac=privacy_policy",
-   "https://jobs.giz.de/index.php?ac=imprint",
-   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#",
-   "https://jobs.giz.de/index.php",
-   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-search-result-heading",
-   "https://www.linkedin.com/shareArticle?mini=true&url=ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ&title=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ",
-   "https://wa.me/?text=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ%20ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ",
-   "https://jobs.giz.de/index.php?ac=accessibility"
-  ],
-  "error": null,
-  "patterns": [
-   "37x jobs.giz.de/index.php  e.g. https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level%5B%5D=29&search_criterion_channel%5B%5D=12#skip-to-main-heading"
-  ],
-  "jsons": [
-   "4 Treffer in https://jobs.giz.de/assets/js/jobboard-giz.config.json | keys=['channel', 'date', 'id', 'job_id', 'location', 'title', 'uri'] | z.B. PositionTitle"
-  ],
-  "api": []
- },
- {
-  "name": "GIZ",
-  "url": "https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword=praktikum",
-  "final": "https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12",
-  "title": "Unsere Stellenangebote | Karriereportal | Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
-  "sigs": {
-   "phenom": [
-    "/widgets"
-   ],
-   "beesite": [
-    "beesite",
-    "milchundzucker"
-   ]
-  },
-  "links": [
-   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading",
-   "https://jobs.giz.de/index.php?ac=login",
-   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading",
-   "https://jobs.giz.de/index.php?ac=search_result",
-   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_entry_level[]=26",
-   "https://jobs.giz.de/index.php?ac=statuspage&uid=0",
-   "https://jobs.giz.de/index.php?ac=statuspage",
-   "https://jobs.giz.de/index.php?ac=applicationstate",
-   "https://jobs.giz.de/index.php?ac=messages",
-   "https://jobs.giz.de/index.php?ac=logindata",
-   "https://jobs.giz.de/index.php?ac=job_merker",
-   "https://jobs.giz.de/index.php?ac=jobabo_overview",
-   "https://jobs.giz.de/index.php?ac=event",
-   "https://jobs.giz.de/index.php?ac=profile_application",
-   "https://jobs.giz.de/index.php?ac=privacy_statements",
-   "https://jobs.giz.de/index.php?ac=jobabo",
-   "https://jobs.giz.de/(!'uid=lang');",
-   "https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=1",
-   "https://jobs.giz.de/index.php?ac=search_result&restoreLastSearch=1&language=2",
-   "https://jobs.giz.de/index.php?ac=lost_password",
-   "https://jobs.giz.de/index.php?ac=lost_username",
-   "https://jobs.giz.de/index.php?ac=register",
-   "https://jobs.giz.de/index.php?ac=privacy_policy",
-   "https://jobs.giz.de/index.php?ac=imprint",
-   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#",
-   "https://jobs.giz.de/index.php",
-   "https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-search-result-heading",
-   "https://jobs.giz.de/index.php?ac=jobad&id=79536",
-   "https://jobs.giz.de/index.php?ac=jobad&id=79540",
-   "https://jobs.giz.de/index.php?ac=jobad&id=79522"
-  ],
-  "error": null,
-  "patterns": [
-   "47x jobs.giz.de/index.php  e.g. https://jobs.giz.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading",
-   "34x void(0);  e.g. javascript:void(0);"
-  ],
-  "jsons": [
-   "4 Treffer in https://jobs.giz.de/assets/js/jobboard-giz.config.json | keys=['channel', 'date', 'id', 'job_id', 'location', 'title', 'uri'] | z.B. PositionTitle"
-  ],
-  "api": []
- },
- {
-  "name": "KfW",
-  "url": "https://jobs.kfw.de/index.php?ac=search_result",
-  "final": "https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12",
-  "title": "Unsere Stellenangebote | Karriereportal | KfW Bankengruppe - Karriereportal",
-  "sigs": {
-   "phenom": [
-    "/widgets"
-   ],
-   "beesite": [
-    "beesite"
-   ]
-  },
-  "links": [
-   "https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-main-heading",
-   "https://jobs.kfw.de/index.php?ac=login",
-   "https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading",
-   "https://jobs.kfw.de/index.php",
-   "https://jobs.kfw.de/index.php?ac=search_result",
-   "https://jobs.kfw.de/index.php?ac=statuspage&uid=0",
-   "https://jobs.kfw.de/index.php?ac=statuspage",
-   "https://jobs.kfw.de/index.php?ac=applicationstate",
-   "https://jobs.kfw.de/index.php?ac=messages",
-   "https://jobs.kfw.de/index.php?ac=logindata",
-   "https://jobs.kfw.de/index.php?ac=job_merker",
-   "https://jobs.kfw.de/index.php?ac=jobabo_overview",
-   "https://jobs.kfw.de/index.php?ac=event",
-   "https://jobs.kfw.de/index.php?ac=profile_application",
-   "https://jobs.kfw.de/index.php?ac=jobabo",
-   "https://jobs.kfw.de/(!'uid=lang');",
-   "https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=1",
-   "https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=2",
-   "https://jobs.kfw.de/index.php?ac=lost_username",
-   "https://jobs.kfw.de/index.php?ac=lost_password",
-   "https://jobs.kfw.de/index.php?ac=register",
-   "https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-search-result-heading",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13740",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13741",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13744",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13746",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13747",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13664",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13736",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13737"
-  ],
-  "error": null,
-  "patterns": [
-   "39x jobs.kfw.de/index.php  e.g. https://jobs.kfw.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12#skip-to-main-heading",
-   "18x void(0);  e.g. javascript:void(0);"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "KfW",
-  "url": "https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword=praktikum",
-  "final": "https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12",
-  "title": "Unsere Stellenangebote | Karriereportal | KfW Bankengruppe - Karriereportal",
-  "sigs": {
-   "phenom": [
-    "/widgets"
-   ],
-   "beesite": [
-    "beesite"
-   ]
-  },
-  "links": [
-   "https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading",
-   "https://jobs.kfw.de/index.php?ac=login",
-   "https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-mainnav-heading",
-   "https://jobs.kfw.de/index.php",
-   "https://jobs.kfw.de/index.php?ac=search_result",
-   "https://jobs.kfw.de/index.php?ac=statuspage&uid=0",
-   "https://jobs.kfw.de/index.php?ac=statuspage",
-   "https://jobs.kfw.de/index.php?ac=applicationstate",
-   "https://jobs.kfw.de/index.php?ac=messages",
-   "https://jobs.kfw.de/index.php?ac=logindata",
-   "https://jobs.kfw.de/index.php?ac=job_merker",
-   "https://jobs.kfw.de/index.php?ac=jobabo_overview",
-   "https://jobs.kfw.de/index.php?ac=event",
-   "https://jobs.kfw.de/index.php?ac=profile_application",
-   "https://jobs.kfw.de/index.php?ac=jobabo",
-   "https://jobs.kfw.de/(!'uid=lang');",
-   "https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=1",
-   "https://jobs.kfw.de/index.php?ac=search_result&restoreLastSearch=1&language=2",
-   "https://jobs.kfw.de/index.php?ac=lost_username",
-   "https://jobs.kfw.de/index.php?ac=lost_password",
-   "https://jobs.kfw.de/index.php?ac=register",
-   "https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-search-result-heading",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13741",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13744",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13664",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13736",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13737",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13732",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13733",
-   "https://jobs.kfw.de/index.php?ac=jobad&id=13729"
-  ],
-  "error": null,
-  "patterns": [
-   "39x jobs.kfw.de/index.php  e.g. https://jobs.kfw.de/index.php?ac=search_result&search_criterion_keyword%5B%5D=praktikum&search_criterion_channel%5B%5D=12#skip-to-main-heading",
-   "14x void(0);  e.g. javascript:void(0);"
-  ],
-  "jsons": [
-   "17 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/_ytECDtkj/54.30.192/54.30.192?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Essenziell"
-  ],
-  "api": []
- },
- {
-  "name": "Welthungerhilfe",
-  "url": "https://career5.successfactors.eu/career?company=WelthungerP&lang=de_DE",
-  "final": "https://career5.successfactors.eu/career?company=WelthungerP&lang=de_DE",
-  "title": "Karrierechancen",
+  "name": "Telefónica",
+  "url": "https://jobs.telefonica.com/",
+  "final": "https://jobs.telefonica.com/?locale=de_DE",
+  "title": "Jobs at Telefónica Global",
   "sigs": {
    "successfactors": [
-    "career012.successfactors.eu/career?company=WelthungerP&amp;career%5fns=job%5flisting%5fsummary&amp;navBarLevel=JOB%5fSEARCH&amp;_s.crb=G070TCxBHe9slDnfVb1vXaN8cuo%3d",
-    "career012.successfactors.eu/career?company=WelthungerP&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=G070TCxBHe9slDnfVb1vXaN8cuo%3d",
-    "career5.successfactors.eu/career?career_company=WelthungerP&lang=de_DE&company=WelthungerP&site=&loginFlowRequired=true&_s.crb=VTZaBuq3WyLF4F5EdfESSRhS%2bP3sDhtn5BLdH%2b7YTPc%3d",
-    "career5.successfactors.eu/career?company=WelthungerP&lang=de_DE",
-    "career5.successfactors.eu/career?company=WelthungerP&lang=de_DE#skipContent",
-    "career5.successfactors.eu/companyLogoServlet/?companyId=WelthungerP&amp;mod=1675759327593"
+    "career5.successfactors.eu",
+    "career5.successfactors.eu/career?site=&amp;company=Telefonica&amp;lang=de%5FDE&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE",
+    "career5.successfactors.eu/careers?company=Telefonica&amp;site=&amp;lang=de_DE&amp;requestParams=&amp;navBarLevel=MY_PROFILE&amp;_s.crb=4ex0I8385panbgevxe73ssdDj7A%3d&amp;_ga=2.10528948.1605791153.1636534564-832949460.1636036227",
+    "career5.successfactors.eu/careers?company=Telefonica&site=&lang=de_DE&requestParams=&navBarLevel=MY_PROFILE&_s.crb=4ex0I8385panbgevxe73ssdDj7A%3d&_ga=2.10528948.1605791153.1636534564-832949460.1636036227",
+    "jobs2web",
+    "rmkcdn.successfactors.com"
    ]
   },
   "links": [
-   "https://career012.successfactors.eu/career?company=WelthungerP&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=G070TCxBHe9slDnfVb1vXaN8cuo%3d"
+   "https://jobs.telefonica.com/?locale=de_DE#content",
+   "https://jobs.telefonica.com/?locale=de_DE#",
+   "https://jobs.telefonica.com/?locale=de_DE",
+   "https://jobs.telefonica.com/?locale=en_GB",
+   "https://jobs.telefonica.com/?locale=es_ES",
+   "https://jobs.telefonica.com/?locale=pt_BR",
+   "https://jobs.telefonica.com/",
+   "https://jobs.telefonica.com/content/What-we-offer-you-/?locale=de_DE",
+   "https://jobs.telefonica.com/content/Culture/?locale=de_DE",
+   "https://jobs.telefonica.com/content/Where-we-are-present/?locale=de_DE",
+   "https://jobs.telefonica.com/search/",
+   "https://career5.successfactors.eu/careers?company=Telefonica&site=&lang=de_DE&requestParams=&navBarLevel=MY_PROFILE&_s.crb=4ex0I8385panbgevxe73ssdDj7A%3d&_ga=2.10528948.1605791153.1636534564-832949460.1636036227"
   ],
   "error": null,
   "patterns": [],
@@ -576,43 +202,1440 @@
   "api": []
  },
  {
-  "name": "Amnesty",
-  "url": "https://careers.amnesty.org/vacancy/find/results/",
-  "final": "https://careers.amnesty.org/jobs/vacancy/find/results/",
-  "title": "Careers | Amnesty International",
+  "name": "Telefónica",
+  "url": "https://www.telefonica.com/en/careers/",
+  "final": "https://www.telefonica.com/en/careers/",
+  "title": "Page not found - Telefónica",
   "sigs": {},
   "links": [
-   "https://careers.amnesty.org/jobs/vacancy/find/results/#maincontent",
-   "https://careers.amnesty.org/jobs/vacancy/find/results/",
-   "https://careers.amnesty.org/jobs/alertregister/",
-   "https://careers.amnesty.org/jobs/login/",
-   "https://careers.amnesty.org/jobs/vacancy/find/results/map/",
-   "https://careers.amnesty.org/jobs/vacancy/find/results/#",
-   "https://careers.amnesty.org/jobs/vacancy/find/results/ajaxaction/posbrowser_gridhandler/?sortasc_codelist5value=1&pagestamp=d1a0a73e-4f6b-4c7b-80b9-f57afe0d117c",
-   "https://careers.amnesty.org/jobs/vacancy/find/results/ajaxaction/posbrowser_gridhandler/?sortasc__rowlabel=1&pagestamp=d1a0a73e-4f6b-4c7b-80b9-f57afe0d117c",
-   "https://careers.amnesty.org/jobs/vacancy/ai-indonesia---campaigner-4300/4328/description/",
-   "https://careers.amnesty.org/jobs/vacancy/ai-indonesia---supporter-engagement-4301/4329/description/",
-   "https://careers.amnesty.org/jobs/vacancy/crisis-researcher-4284/4312/description/",
-   "https://careers.amnesty.org/jobs/vacancy/regional-researcher-saro-4290/4318/description/",
-   "https://careers.amnesty.org/jobs/vacancy/researcher--adviser-escr-4287/4315/description/",
-   "https://careers.amnesty.org/jobs/vacancy/technologist-4288/4316/description/"
+   "https://www.telefonica.com/en/about-us/public-policy-and-regulation/public-positioning/"
   ],
   "error": null,
   "patterns": [
-   "22x careers.amnesty.org/jobs/vacancy/find/results/  e.g. https://careers.amnesty.org/jobs/vacancy/find/results/#maincontent"
+   "12x www.telefonica.com/en/communication-room/blog/[^/]+/  e.g. https://www.telefonica.com/en/communication-room/blog/at-telefonica-we-reinforce-our-commitment-to-gender-equality-and-diversity-on-international-womens-day/",
+   "6x www.telefonica.com/en/communication-room/press-room/[^/]+/  e.g. https://www.telefonica.com/en/communication-room/press-room/telefonica-and-minsait-to-develop-secure-communications-for-the-european-central-banks-digital-euro/",
+   "5x www.telefonica.com/en/shareholders-investors/financial-reports/[^/]+/  e.g. https://www.telefonica.com/en/shareholders-investors/financial-reports/20-f-sec-filing/",
+   "4x www.telefonica.com/en/sustainability-innovation/[^/]+/sustainability-strategy/  e.g. https://www.telefonica.com/en/sustainability-innovation/how-we-work/sustainability-strategy/",
+   "4x www.telefonica.com/en/sustainability-innovation/society/[^/]+/  e.g. https://www.telefonica.com/en/sustainability-innovation/society/minors-and-responsible-use/"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "KAS",
-  "url": "https://www.kas.de/de/web/karriere/stellenangebote",
-  "final": "https://www.kas.de/de/web/karriere/stellenangebote",
-  "title": "Web Application Firewall",
+  "name": "Santander",
+  "url": "https://www.santander.com/en/careers",
+  "final": "https://www.santander.com/en/careers",
+  "title": "Careers | Santander Bank",
+  "sigs": {
+   "workday": [
+    "santander/wd3/SantanderCareers"
+   ]
+  },
+  "links": [],
+  "error": null,
+  "patterns": [
+   "13x www.santander.com/en/careers  e.g. https://www.santander.com/en/careers",
+   "9x www.santander.com/en/[^/]+/santander-share  e.g. https://www.santander.com/en/shareholders-and-investors/santander-share",
+   "9x www.santander.com/en/[^/]+/[^/]+  e.g. https://www.santander.com/en/shareholders-and-investors/financial-and-economic-information",
+   "9x www.santander.com/en/[^/]+/corporate-governance/[^/]+  e.g. https://www.santander.com/en/shareholders-and-investors/corporate-governance/corporate-governance-presentation",
+   "7x www.santander.com/en/[^/]+/general-information/[^/]+  e.g. https://www.santander.com/en/shareholders-and-investors/general-information/presentacion-de-sostenibilidad"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Santander",
+  "url": "https://www.santanderbank.com/careers",
+  "final": "https://www.santandercareers.com/",
+  "title": "Working at Santander Holdings USA Inc",
+  "sigs": {
+   "radancy": [
+    "radancy",
+    "tbcdn.talentbrew.com"
+   ]
+  },
+  "links": [
+   "https://www.santandercareers.com/saved-jobs",
+   "https://internal.santanderjobsus.com/",
+   "https://www.santandercareers.com/#job-alert-form",
+   "https://www.santandercareers.com/search-jobs",
+   "https://www.santandercareers.com/Technology-jobs",
+   "https://www.santandercareers.com/Retail-jobs",
+   "https://www.santandercareers.com/Ops-Business-Jobs",
+   "https://www.santandercareers.com/Commercial-jobs",
+   "https://www.santandercareers.com/Corp-Investment-Jobs",
+   "https://www.santandercareers.com/risk-and-governance-jobs",
+   "https://www.santandercareers.com/Finance-Mgmt-Control-Jobs",
+   "https://www.santandercareers.com/Wealth-Mgmt-Insurance-Jobs",
+   "https://www.santandercareers.com/hsa-bank-jobs",
+   "https://www.santandercareers.com/ametros-jobs",
+   "https://www.santandercareers.com/#tab-featured-jobs",
+   "https://www.santandercareers.com/#tab-recent-jobs",
+   "https://www.santandercareers.com/#tab-saved-jobs",
+   "https://www.santandercareers.com/job/new-york/investment-banking-associate-industrials/1771/102884029696",
+   "https://www.santandercareers.com/job/miami/pre-and-post-trade-middle-office-operations-analyst/1771/102872319792",
+   "https://www.santandercareers.com/job/town-of-new-britain/banking-center-relationship-banker-2-new-britain-ct/1771/102872319472",
+   "https://www.santandercareers.com/job/new-haven/sr-associate-business-banking-relationship-manager-new-haven-ct/1771/102872319184",
+   "https://www.santandercareers.com/sys/tc/sign-in?status=greeting&id=5202d481-81fb-477b-b99b-9b1ca740d1e2&lang=en"
+  ],
+  "error": null,
+  "patterns": [
+   "10x www.santandercareers.com/[^/]+  e.g. https://www.santandercareers.com/who-we-are",
+   "4x www.santandercareers.com/search-jobs  e.g. https://www.santandercareers.com/search-jobs"
+  ],
+  "jsons": [
+   "11 Treffer in https://sidebar.bugherd.com/sidebar/resources?apikey=6s2zlv7p2pobf8jhfbvs6g | keys=['active', 'active_count', 'archived_at', 'created_at', 'deleted_at', 'id', 'inactive_count', 'name', 'project_id', 'task_count', 'updated_at'] | z.B. Ametr"
+  ],
+  "api": []
+ },
+ {
+  "name": "Glovo",
+  "url": "https://jobs.glovoapp.com/",
+  "final": "https://careers.glovoapp.com/",
+  "title": "About Us - Glovo",
+  "sigs": {},
+  "links": [
+   "https://careers.glovoapp.com/saved-jobs/",
+   "https://careers.glovoapp.com/jobs-at-glovo/"
+  ],
+  "error": null,
+  "patterns": [
+   "4x careers.glovoapp.com/[^/]+/  e.g. https://careers.glovoapp.com/life-at-glovo/",
+   "3x careers.glovoapp.com/our-teams/  e.g. https://careers.glovoapp.com/our-teams/"
+  ],
+  "jsons": [
+   "35 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/3l-LWoLH2QhZhI/66.19.89/66.19.89?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
+  ],
+  "api": []
+ },
+ {
+  "name": "Ørsted",
+  "url": "https://orsted.com/en/careers/vacancies-list",
+  "final": "https://orsted.com/en/careers/vacancies-list",
+  "title": "Vacancies: See All Available Jobs | Ørsted Careers",
+  "sigs": {},
+  "links": [
+   "https://orsted.com/en/careers/vacancies-list",
+   "https://orsted.com/en/careers/vacancies-list#",
+   "https://orsted.com/en/careers/hiring-process/job-alert",
+   "https://orsted.com/en/careers/vacancies-list/2026/04/31843-experienced-servicenow-grc-product-owner",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32954-operations-and-maintenance-team-lead",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32874-senior-ot-incident-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32887-plant-manager--andrews-county-tx",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32879-senior-pipeline-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/09/32532-senior-operational-technology-ot-security-officer",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32928-senior-sourcing-manager-temporary",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32849-senior-cyber-security-incident-responder",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32870-project-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/09/32819-senior-energy-storage-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32868-senior-control-systems-specialist-til-avedoerevaerket",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32927-account-manager-barselsvikariat",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32885-administrative-coordinator-for-post-fixture-assistance-in-bioenergy",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32829-purchasing-and-warehouse-coordinator-til-asnaesvaerket",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32846-purchasing-and-warehouse-coordinator-til-herningvaerket",
+   "https://orsted.com/en/careers/vacancies-list/2026/09/32756-wind-farm-technician",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32888-accounts-payable-analyst-12-months-fixed-term",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32842-ap-analyst-reconciliation-12-months-fixed-term",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32891-permitting-manager-fixed-term-contract",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32945-fishery-relations-manager-fixed-term-contract",
+   "https://orsted.com/en/careers/vacancies-list/2026/05/32273-verantwortliche-elektrofachkraft-offshorewindkraftanlagen-m-f-d",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32941-community-engagement-and-competency-specialist",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32905-offshore-qhse-advisor-fixed-term-contract",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32835-senior-wind-technician",
+   "https://orsted.com/en/careers/vacancies-list/2026/06/32565-transmission-specialist",
+   "https://orsted.com/en/careers/vacancies-list?page=1"
+  ],
+  "error": null,
+  "patterns": [
+   "8x policies.google.com/technologies/partner-sites  e.g. https://policies.google.com/technologies/partner-sites?hl=en",
+   "7x piwik.pro/privacy-policy  e.g. https://piwik.pro/privacy-policy",
+   "7x orsted.com/en/careers/[^/]+/[^/]+  e.g. https://orsted.com/en/careers/areas-of-work/engineering-and-construction",
+   "6x orsted.com/en/careers/vacancies-list  e.g. https://orsted.com/en/careers/vacancies-list",
+   "5x www.salesforce.com/company/privacy  e.g. https://www.salesforce.com/company/privacy"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Vestas",
+  "url": "https://careers.vestas.com/",
+  "final": "https://careers.vestas.com/",
+  "title": "Jobs at Vestas",
+  "sigs": {
+   "successfactors": [
+    "career5.successfactors.eu",
+    "jobs2web",
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [],
+  "error": null,
+  "patterns": [
+   "28x policies.google.com/technologies/partner-sites  e.g. https://policies.google.com/technologies/partner-sites?hl=en",
+   "21x www.adobe.com/privacy/policy.html  e.g. https://www.adobe.com/privacy/policy.html",
+   "12x cookieinformation.com/[^/]+/  e.g. https://cookieinformation.com/cookie-and-privacy-policy/",
+   "12x www.hotjar.com/legal/policies/privacy/  e.g. https://www.hotjar.com/legal/policies/privacy/",
+   "10x www.leadfeeder.com/privacy/  e.g. https://www.leadfeeder.com/privacy/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Schneider Electric",
+  "url": "https://careers.se.com/jobs",
+  "final": "https://careers.se.com/jobs",
+  "title": "Access Denied",
   "sigs": {},
   "links": [],
   "error": null,
   "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Adyen",
+  "url": "https://careers.adyen.com/vacancies",
+  "final": "https://careers.adyen.com/vacancies",
+  "title": "Job openings at Adyen - Adyen",
+  "sigs": {
+   "greenhouse": [
+    "adyen"
+   ]
+  },
+  "links": [
+   "https://careers.adyen.com/vacancies",
+   "https://careers.adyen.com/vacancies/7586281-account-manager?locale=en",
+   "https://careers.adyen.com/vacancies/7340050-account-manager?locale=en",
+   "https://careers.adyen.com/vacancies/7436701-account-manager?locale=en",
+   "https://careers.adyen.com/vacancies/8243147-account-manager?locale=en",
+   "https://careers.adyen.com/vacancies/8156029-account-manager?locale=en",
+   "https://careers.adyen.com/vacancies/8185712-account-manager?locale=en",
+   "https://careers.adyen.com/vacancies/7340032-account-manager?locale=en",
+   "https://careers.adyen.com/vacancies/5359280-account-manager?locale=en",
+   "https://careers.adyen.com/vacancies/8145128-account-manager?locale=en",
+   "https://careers.adyen.com/vacancies/8190518-accounts-payable-specialist?locale=en",
+   "https://careers.adyen.com/vacancies/8201459-aml-compliance-officer-financial-products?locale=en",
+   "https://careers.adyen.com/vacancies/8009789-apac-aml-cft-compliance-lead?locale=en",
+   "https://careers.adyen.com/vacancies/8274392-associate-compliance-officer-oversight?locale=en",
+   "https://careers.adyen.com/vacancies/8207694-cdd-kyc-knowledge-training-manager?locale=en",
+   "https://careers.adyen.com/vacancies/8278827-cdd-risk-analyst-customer-onboarding?locale=en",
+   "https://careers.adyen.com/vacancies/8263309-cdd-risk-analyst-direct-customer-onboarding?locale=en",
+   "https://careers.adyen.com/vacancies/8269079-cdd-risk-analyst-event-driven-reviews?locale=en",
+   "https://careers.adyen.com/vacancies/8301681-collections-analyst?locale=en",
+   "https://careers.adyen.com/vacancies/8159597-commercial-counsel-deal-desk?locale=en",
+   "https://careers.adyen.com/vacancies/8177020-commercial-counsel-deal-desk?locale=en",
+   "https://careers.adyen.com/vacancies/8233363-commercial-counsel-deal-desk-orb?locale=en",
+   "https://careers.adyen.com/vacancies/8236185-compliance-advisory-officer?locale=en",
+   "https://careers.adyen.com/vacancies/8055561-compliance-officer-financial-data-integrity-programs?locale=en",
+   "https://careers.adyen.com/vacancies/8346356-compliance-officer-growth?locale=en",
+   "https://careers.adyen.com/vacancies/8242353-content-writer-global?locale=en",
+   "https://careers.adyen.com/vacancies/8328988-customer-onboarding-manager?locale=en",
+   "https://careers.adyen.com/vacancies/8256549-deputy-bsa-officer?locale=en",
+   "https://careers.adyen.com/vacancies/8281076-employment-counsel?locale=en",
+   "https://careers.adyen.com/vacancies/7275885-engineering-leader-payments-apac?locale=en"
+  ],
+  "error": null,
+  "patterns": [
+   "18x careers.adyen.com/vacancies/\\d+-account-manager  e.g. https://careers.adyen.com/vacancies/7586281-account-manager?locale=en",
+   "14x careers.adyen.com/vacancies/\\d+-enterprise-account-manager  e.g. https://careers.adyen.com/vacancies/6918826-enterprise-account-manager?locale=en",
+   "12x careers.adyen.com/vacancies/\\d+-implementation-engineer  e.g. https://careers.adyen.com/vacancies/7714607-implementation-engineer?locale=en",
+   "8x careers.adyen.com/vacancies/\\d+-enterprise-business-development-representative  e.g. https://careers.adyen.com/vacancies/7540718-enterprise-business-development-representative?locale=en",
+   "8x careers.adyen.com/vacancies/\\d+-enterprise-sales-manager  e.g. https://careers.adyen.com/vacancies/8188049-enterprise-sales-manager?locale=en"
+  ],
+  "jsons": [
+   "5 Treffer in https://careers.adyen.com/api/v3/careers_data/careers/en?targetSite=careers | keys=['nuxt', 'sys', 'title', 'url'] | z.B. See all jobs",
+   "293 Treffer in https://boards-api.greenhouse.io/v1/boards/adyen/departments | keys=['child_ids', 'id', 'jobs', 'name', 'parent_id'] | z.B. Account Management",
+   "2011 Treffer in https://boards-api.greenhouse.io/v1/boards/adyen/offices | keys=['child_ids', 'departments', 'id', 'location', 'name', 'parent_id'] | z.B. Amsterdam",
+   "754 Treffer in https://boards-api.greenhouse.io/v1/boards/adyen/jobs?content=true | keys=['absolute_url', 'ai_disclaimer', 'ai_opt_out_request_url', 'application_deadline', 'company_name', 'content', 'data_compliance', 'departments', 'first_published', 'id', 'include_ai_disclaimer', 'internal_job_id', 'language', 'location'] | z.B.  Account Manager"
+  ],
+  "api": []
+ },
+ {
+  "name": "Booking.com",
+  "url": "https://jobs.booking.com/booking/jobs",
+  "final": "https://jobs.booking.com/booking/jobs",
+  "title": "Booking.com Careers",
+  "sigs": {
+   "icims": [
+    "employees-holdings-workingatbooking.icims.com",
+    "external-workingatbooking.icims.com",
+    "internal-workingatbooking.icims.com",
+    "www.icims.com"
+   ]
+  },
+  "links": [
+   "https://jobs.booking.com/booking#",
+   "https://jobs.booking.com/booking/jobs",
+   "https://internal-workingatbooking.icims.com/jobs/login?loginOnly=1",
+   "https://external-workingatbooking.icims.com/jobs/login?loginOnly=1",
+   "https://jobs.booking.com/booking/talentcommunity/form"
+  ],
+  "error": null,
+  "patterns": [
+   "5x careers.booking.com/[^/]+/  e.g. https://careers.booking.com/start-your-journey/",
+   "4x jobs.booking.com/booking  e.g. https://jobs.booking.com/booking#",
+   "3x careers.booking.com/blog/  e.g. https://careers.booking.com/blog/?page=1",
+   "3x careers.booking.com/our-impact/  e.g. https://careers.booking.com/our-impact/",
+   "3x careers.booking.com/our-diversity/  e.g. https://careers.booking.com/our-diversity/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Booking.com",
+  "url": "https://careers.booking.com/",
+  "final": "https://careers.booking.com/",
+  "title": "Booking.com Careers site",
+  "sigs": {
+   "icims": [
+    "internal-workingatbooking.icims.com"
+   ]
+  },
+  "links": [
+   "https://jobs.booking.com/booking/jobs",
+   "https://jobs.booking.com/",
+   "https://jobs.booking.com/booking/jobs/30449?lang=en-us",
+   "https://jobs.booking.com/booking/jobs/30613?lang=en-us",
+   "https://jobs.booking.com/booking/jobs/30490?lang=en-us",
+   "https://jobs.booking.com/booking/talentcommunity/form"
+  ],
+  "error": null,
+  "patterns": [
+   "9x careers.booking.com/[^/]+/  e.g. https://careers.booking.com/start-your-journey/",
+   "7x careers.booking.com/our-impact/  e.g. https://careers.booking.com/our-impact/",
+   "6x careers.booking.com/benefits/  e.g. https://careers.booking.com/benefits/",
+   "5x careers.booking.com/early-careers/  e.g. https://careers.booking.com/early-careers/",
+   "4x careers.booking.com/our-diversity/  e.g. https://careers.booking.com/our-diversity/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Nestlé",
+  "url": "https://www.nestle.com/jobs/search-jobs",
+  "final": "https://www.nestle.com/jobs/search-jobs",
+  "title": "Nur einen Moment…",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Nestlé",
+  "url": "https://jobdetails.nestle.com/",
+  "final": "https://www.nestle.com/jobs/en/search",
+  "title": "Nur einen Moment…",
+  "sigs": {
+   "successfactors": [
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Mercado Libre",
+  "url": "https://careers-meli.mercadolibre.com/en/jobs",
+  "final": "https://careers-meli.mercadolibre.com/en/jobs",
+  "title": "Mercado Libre Careers",
+  "sigs": {
+   "eightfold": [
+    "mercadolibre.eightfold.ai"
+   ]
+  },
+  "links": [
+   "https://careers-meli.mercadolibre.com/en/positions",
+   "https://careers-meli-staging.cdn.prismic.io/careers-meli-staging/vpTqeu8H9tTf8DZd_declaracion_de_privacidad_para_candidatos_version_7ta-10.9.2026.pdf"
+  ],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Nubank",
+  "url": "https://international.nubank.com.br/careers/",
+  "final": "https://nu.com/en/careers",
+  "title": "Nu Careers: Join the Team",
+  "sigs": {
+   "ashby": [
+    "nubank"
+   ]
+  },
+  "links": [
+   "https://jobs.ashbyhq.com/nubank"
+  ],
+  "error": null,
+  "patterns": [
+   "4x nu.com/en/investors  e.g. https://nu.com/en/investors",
+   "3x nu.com/us/en  e.g. https://nu.com/us/en",
+   "3x nu.com/global/en  e.g. https://nu.com/global/en"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Ambev",
+  "url": "https://www.ambev.com.br/carreiras",
+  "final": "https://www.ambev.com.br/carreiras",
+  "title": "",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Falabella",
+  "url": "https://www.falabella.com/falabella-cl/page/trabaja-con-nosotros",
+  "final": "https://www.falabella.com/falabella-cl/not-found",
+  "title": "Falabella - Página no encontrada",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [
+   "12x www.falabella.com/falabella-cl/page/[^/]+  e.g. https://www.falabella.com/falabella-cl/page/Vende-en-Falabella.com?sid=HO_HO_SEL_1924"
+  ],
+  "jsons": [
+   "28 Treffer in https://www.falabella.com/s/commerce-config/v1/FACL/commerce-config/merged?namespace=web | keys=['allowedEmailSha256', 'allowedHosts', 'audience', 'isEnabled', 'title', 'url'] | z.B. Chat de ayuda"
+  ],
+  "api": []
+ },
+ {
+  "name": "Falabella",
+  "url": "https://empleos.falabella.com/",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://empleos.falabella.com/\nCall log:\n  - navigating to \"https://empleos.falabella.com/\", waiting until \"domcontentloaded\"\n",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Atlassian",
+  "url": "https://www.atlassian.com/company/careers/all-jobs",
+  "final": "https://www.atlassian.com/company/careers/all-jobs",
+  "title": "Atlassian Jobs: View Listings for Open Positions | Atlassian",
+  "sigs": {
+   "icims": [
+    "campus-americas.icims.com",
+    "campus-globalcareers-atlassian.icims.com",
+    "careers-americas.icims.com",
+    "careers-apac-atlassian.icims.com",
+    "globalcareers-atlassian.icims.com",
+    "globalmobility-careers-atlassian.icims.com"
+   ]
+  },
+  "links": [
+   "https://www.atlassian.com/company/careers/all-jobs#",
+   "https://www.atlassian.com/company/careers/all-jobs#content",
+   "https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.com%2Fgateway%2Fapi%2Fstart%2Fauthredirect%3Fcontinue%3Dhttps%3A%2F%2Fwww.atlassian.com%2Fcompany%2Fcareers%2Fall-jobs&application=wac--ic",
+   "https://www.atlassian.com/company/careers/all-jobs",
+   "https://www.atlassian.com/company/careers/details/27575",
+   "https://www.atlassian.com/company/careers/details/26573",
+   "https://www.atlassian.com/company/careers/details/26572",
+   "https://www.atlassian.com/company/careers/details/27443",
+   "https://www.atlassian.com/company/careers/details/26571",
+   "https://www.atlassian.com/company/careers/details/27694",
+   "https://www.atlassian.com/company/careers/details/27555",
+   "https://www.atlassian.com/company/careers/details/27227",
+   "https://www.atlassian.com/company/careers/details/27191",
+   "https://www.atlassian.com/company/careers/details/26696",
+   "https://www.atlassian.com/company/careers/details/26575",
+   "https://www.atlassian.com/company/careers/details/27616",
+   "https://www.atlassian.com/company/careers/details/26966",
+   "https://www.atlassian.com/company/careers/details/26569",
+   "https://www.atlassian.com/company/careers/details/26576",
+   "https://www.atlassian.com/company/careers/details/26833",
+   "https://www.atlassian.com/company/careers/details/27697",
+   "https://www.atlassian.com/company/careers/details/27069",
+   "https://www.atlassian.com/company/careers/details/27204",
+   "https://www.atlassian.com/company/careers/details/24872",
+   "https://www.atlassian.com/company/careers/details/27282",
+   "https://www.atlassian.com/company/careers/details/27323",
+   "https://www.atlassian.com/company/careers/details/27321",
+   "https://www.atlassian.com/company/careers/details/27324",
+   "https://www.atlassian.com/company/careers/details/27322",
+   "https://www.atlassian.com/company/careers/details/27320"
+  ],
+  "error": null,
+  "patterns": [
+   "345x www.atlassian.com/company/careers/details/\\d+  e.g. https://www.atlassian.com/company/careers/details/27575",
+   "16x www.atlassian.com/software/rovo  e.g. https://www.atlassian.com/software/rovo",
+   "10x www.atlassian.com/company/careers/all-jobs  e.g. https://www.atlassian.com/company/careers/all-jobs#",
+   "10x www.atlassian.com/software/jira/dev  e.g. https://www.atlassian.com/software/jira/dev",
+   "8x www.atlassian.com/collections/teamwork  e.g. https://www.atlassian.com/collections/teamwork"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Canva",
+  "url": "https://www.lifeatcanva.com/en/jobs/",
+  "final": "https://www.lifeatcanva.com/en/jobs/",
+  "title": "Find your dream job | Canva Careers",
+  "sigs": {},
+  "links": [
+   "https://www.lifeatcanva.com/en/jobs/#content",
+   "https://www.lifeatcanva.com/en/jobs/saved-jobs/",
+   "https://www.lifeatcanva.com/en/jobs/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001551586/enterprise-security-manager/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001542169/account-executive-government-healthcare-dach/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001542144/account-executive-government-healthcare-dach/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001541552/account-executive-flourish/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001535579/senior-account-executive-smb/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001534768/business-development-representative/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001522401/account-executive-mid-market/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001518828/strategic-customer-success-manager/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001514536/account-executive-leonardoai-mwd-munich-german-speaking/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001511525/content-strategy-lead/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001510205/strategic-account-executive-dach-german-speaking/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001510200/enterprise-account-executive-dach-german-speaking/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001510195/strategic-account-executive-dach-german-speaking/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001508808/k12-education-account-manager-south-korea-12-months-contract/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001489280/global-benefits-manager-12-months-ftc/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001488854/senior-operations-expert-trust-safety/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001488851/senior-social-media-operations-team-lead/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001488524/strategic-account-executive/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001486384/enterprise-account-executive/",
+   "https://www.lifeatcanva.com/en/jobs/6000000001484757/mid-market-account-executive/",
+   "https://www.lifeatcanva.com/en/jobs/#results",
+   "https://www.lifeatcanva.com/en/jobs/?page=2#results",
+   "https://www.lifeatcanva.com/en/jobs/#footer-links-1",
+   "https://www.lifeatcanva.com/en/jobs/#footer-links-2",
+   "https://www.lifeatcanva.com/en/jobs/#footer-links-3",
+   "https://www.lifeatcanva.com/en/jobs/#footer-links-4"
+  ],
+  "error": null,
+  "patterns": [
+   "20x www.lifeatcanva.com/en/jobs/\\d+/[^/]+/  e.g. https://www.lifeatcanva.com/en/jobs/6000000001551586/enterprise-security-manager/",
+   "9x www.lifeatcanva.com/en/jobs/  e.g. https://www.lifeatcanva.com/en/jobs/#content",
+   "5x www.lifeatcanva.com/en/our-culture/[^/]+/  e.g. https://www.lifeatcanva.com/en/our-culture/benefits-ways-of-working/",
+   "3x www.lifeatcanva.com/en/[^/]+/  e.g. https://www.lifeatcanva.com/en/careers-and-growth/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Xero",
+  "url": "https://www.xero.com/au/about/careers/",
+  "final": "https://careers.xero.com/",
+  "title": "Careers @ Xero | Help Build the Future of Small Business | Xero",
+  "sigs": {
+   "ashby": [
+    "xero"
+   ]
+  },
+  "links": [
+   "https://careers.xero.com/jobs/saved-jobs/",
+   "https://careers.xero.com/jobs/?origin=global",
+   "https://careers.xero.com/jobs/",
+   "https://careers.xero.com/jobs/0bba8773-8cd2-46e3-a3e2-007838b10162/senior-partner-marketing-manager-fixed-contract/",
+   "https://careers.xero.com/jobs/d261dc89-d8e4-46bb-89eb-2f1ede8c8829/solutions-consultant/",
+   "https://careers.xero.com/jobs/5ea1f637-f83a-4b00-afdb-4f406d601cad/accounting-professional-discover-a-new-career-in-saas-sales-with-xero/",
+   "https://careers.xero.com/jobs/06ca4e58-0d9f-4118-8173-404f8fbeba08/financial-accountant/",
+   "https://jobs.ashbyhq.com/xero/form/xero-talent-community"
+  ],
+  "error": null,
+  "patterns": [
+   "6x careers.xero.com/[^/]+/  e.g. https://careers.xero.com/xero-around-the-world/",
+   "4x careers.xero.com/inside-xero/  e.g. https://careers.xero.com/inside-xero/",
+   "4x careers.xero.com/our-teams/  e.g. https://careers.xero.com/our-teams/",
+   "3x careers.xero.com/jobs/  e.g. https://careers.xero.com/jobs/?origin=global",
+   "3x careers.xero.com/[^/]+/blogs/[^/]+/  e.g. https://careers.xero.com/humans-of-xero-blog/blogs/rethinking-financial-reporting-for-millions-meet-mark-zontak-gm-of-engineering-insights-data-in/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Xero",
+  "url": "https://jobs.xero.com/",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobs.xero.com/\nCall log:\n  - navigating to \"https://jobs.xero.com/\", waiting until \"domcontentloaded\"\n",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Grab",
+  "url": "https://www.grab.careers/en/jobs/",
+  "final": "https://www.grab.careers/en/jobs/",
+  "title": "Grab your dream role | Grab Careers",
+  "sigs": {},
+  "links": [
+   "https://www.grab.careers/en/jobs/#content",
+   "https://www.grab.careers/en/jobs/",
+   "https://www.grab.careers/en/jobs/saved-jobs/",
+   "https://www.grab.careers/en/jobs/744000159844364/associate-key-account-management-grabmart/",
+   "https://www.grab.careers/en/jobs/744000159845219/it-executive/",
+   "https://www.grab.careers/en/jobs/744000159814734/productivity-engagement-associate/",
+   "https://www.grab.careers/en/jobs/744000159814909/assistant-manager-lending-commercial/",
+   "https://www.grab.careers/en/jobs/744000159798419/intern-talent-acquisition/",
+   "https://www.grab.careers/en/jobs/744000159792660/partner-engagement-business-partner-assistant-manager/",
+   "https://www.grab.careers/en/jobs/744000159786899/assistant-marketing-manager-b2b/",
+   "https://www.grab.careers/en/jobs/744000159786849/intern-people-experience/",
+   "https://www.grab.careers/en/jobs/744000159786619/senior-backend-reliability-engineer/",
+   "https://www.grab.careers/en/jobs/744000159786569/senior-backend-reliability-engineer/",
+   "https://www.grab.careers/en/jobs/744000159780229/fleet-assessor-associate/",
+   "https://www.grab.careers/en/jobs/744000159621709/senior-software-engineer-mobile-android-consumer-experience/",
+   "https://www.grab.careers/en/jobs/744000159601623/people-research-scientist-people-analytics/",
+   "https://www.grab.careers/en/jobs/744000159598119/senior-software-engineer-mobile-ios/",
+   "https://www.grab.careers/en/jobs/744000159596270/lead-data-scientist/",
+   "https://www.grab.careers/en/jobs/744000159593589/software-engineering-manager-ii-transaction-platform/",
+   "https://www.grab.careers/en/jobs/744000159593429/identity-management-engineer/",
+   "https://www.grab.careers/en/jobs/744000159593308/identity-management-engineer/",
+   "https://www.grab.careers/en/jobs/744000159578119/manager-ii-country-it-vn/",
+   "https://www.grab.careers/en/jobs/744000159559359/senior-software-engineer-fullstack-insurance-operations/",
+   "https://www.grab.careers/en/jobs/#results",
+   "https://www.grab.careers/en/jobs/?page=2#results",
+   "https://www.grab.careers/en/jobs/?page=3#results",
+   "https://www.grab.careers/en/jobs/?page=4#results",
+   "https://www.grab.careers/en/jobs/?page=5#results",
+   "https://www.grab.careers/en/jobs/?page=6#results",
+   "https://www.grab.careers/en/jobs/?page=7#results"
+  ],
+  "error": null,
+  "patterns": [
+   "19x www.grab.careers/en/jobs/\\d+/[^/]+/  e.g. https://www.grab.careers/en/jobs/744000159844364/associate-key-account-management-grabmart/",
+   "13x www.grab.careers/en/jobs/  e.g. https://www.grab.careers/en/jobs/#content",
+   "4x www.grab.careers/en/[^/]+/  e.g. https://www.grab.careers/en/life-at-grab/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Sea Group",
+  "url": "https://www.sea.com/careers",
+  "final": "https://www.sea.com/careers",
+  "title": "Sea | Careers",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [
+   "4x www.sea.com/careers  e.g. https://www.sea.com/careers",
+   "3x www.sea.com/products/garena  e.g. https://www.sea.com/products/garena",
+   "3x www.sea.com/products/shopee  e.g. https://www.sea.com/products/shopee",
+   "3x www.sea.com/products/monee  e.g. https://www.sea.com/products/monee",
+   "3x www.sea.com/aboutus/ourvalues  e.g. https://www.sea.com/aboutus/ourvalues"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "DBS",
+  "url": "https://www.dbs.com/careers/jobs.page",
+  "final": "https://www.dbs.com/careers/default.page",
+  "title": "Careers at DBS | DBS Bank",
+  "sigs": {
+   "workday": [
+    "dbs/wd3/DBS_Careers"
+   ],
+   "taleo": [
+    "dbs.taleo.net"
+   ]
+  },
+  "links": [
+   "https://dbs.wd3.myworkdayjobs.com/DBS_Careers",
+   "https://www.dbs.com/careers/fraudulent-recruitment-offers?pid=sg-group-pweb-careers-notice-fraudulent"
+  ],
+  "error": null,
+  "patterns": [
+   "12x www.dbs.com/careers/teams/[^/]+  e.g. https://www.dbs.com/careers/teams/group-marketing-communications.page",
+   "10x www.dbs.com/searchresults.page  e.g. https://www.dbs.com/searchresults.page?q=sustainability",
+   "6x www.dbs.com/careers/default.page  e.g. https://www.dbs.com/careers/default.page",
+   "3x www.dbs.com/about-us/default.page  e.g. https://www.dbs.com/about-us/default.page",
+   "3x www.dbs.com/investors/default.page  e.g. https://www.dbs.com/investors/default.page"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Rakuten",
+  "url": "https://rakuten.careers/",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rakuten.careers/\nCall log:\n  - navigating to \"https://rakuten.careers/\", waiting until \"domcontentloaded\"\n",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Rakuten",
+  "url": "https://global.rakuten.com/corp/careers/",
+  "final": "https://global.rakuten.com/corp/careers/",
+  "title": "Recruiting | Rakuten Group, Inc.",
+  "sigs": {},
+  "links": [
+   "https://global.rakuten.com/corp/careers/graduates/projects/project_minijob.html"
+  ],
+  "error": null,
+  "patterns": [
+   "11x global.rakuten.com/corp/careers/  e.g. https://global.rakuten.com/corp/careers/",
+   "10x void(0);  e.g. javascript:void(0);",
+   "7x rakuten.today/blog/[^/]+  e.g. https://rakuten.today/blog/mickey-mikitani-the-age-of-agentic-ai-has-arrived.html",
+   "6x void(0)  e.g. javascript:void(0)",
+   "6x global.rakuten.com/corp/careers/graduates/  e.g. https://global.rakuten.com/corp/careers/graduates/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "BBVA",
+  "url": "https://careers.bbva.com/",
+  "final": "https://www.bbva.com/es/empleo/",
+  "title": "Empleo | BBVA",
+  "sigs": {
+   "workday": [
+    "bbva/wd3/es"
+   ]
+  },
+  "links": [
+   "https://bbva.wd3.myworkdayjobs.com/es/BBVA?AreaBBVA=52abfccf8e8b1000f33129aaf4e50000",
+   "https://bbva.wd3.myworkdayjobs.com/es/BBVA?AreaBBVA=bb337b5615591001a42b6a15d08a0000&AreaBBVA=4e7e381f49d210181652f32dfea00002&locationCountry=bd34c524a6a04ae6915f5d96fa086199"
+  ],
+  "error": null,
+  "patterns": [
+   "20x www.bbva.com/es/[^/]+/  e.g. https://www.bbva.com/es/economia-y-finanzas/",
+   "19x www.bbva.com/es/informacion-corporativa/  e.g. https://www.bbva.com/es/informacion-corporativa/#bbva-en-el-mundo",
+   "18x www.bbva.com/es/especiales/[^/]+/  e.g. https://www.bbva.com/es/especiales/premios-mejores-productores-sostenibles/",
+   "13x accionistaseinversores.bbva.com/[^/]+/[^/]+/  e.g. https://accionistaseinversores.bbva.com/sostenibilidad-y-banca-responsable/principios-y-politicas-2/",
+   "9x www.bbva.com/es/empleo/  e.g. https://www.bbva.com/es/empleo/#panelNave_n2_483732"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "CaixaBank",
+  "url": "https://www.caixabank.com/en/working-at-caixabank.html",
+  "final": "https://www.caixabank.com/en/working-at-caixabank.html",
+  "title": "Página no encontrada | CaixaBank",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [
+   "32x www.caixabank.com/en/[^/]+  e.g. https://www.caixabank.com/en/working-at-caixabank.html#first_content",
+   "5x www.caixabank.com/es/accionistas-inversores/[^/]+/[^/]+  e.g. https://www.caixabank.com/es/accionistas-inversores/informacion-economico-financiera/informacion-financiera-trimestral.html",
+   "5x www.caixabank.com/es/accionistas-inversores/gobierno-corporativo/[^/]+  e.g. https://www.caixabank.com/es/accionistas-inversores/gobierno-corporativo/junta-general-accionistas.html",
+   "4x www.caixabank.com/es/sostenibilidad/banca-sostenible/[^/]+  e.g. https://www.caixabank.com/es/sostenibilidad/banca-sostenible/asociaciones-adhesiones-alianzas.html",
+   "3x www.caixabank.com/es/cookies_es.html  e.g. https://www.caixabank.com/es/cookies_es.html"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Inditex",
+  "url": "https://careers.inditex.com/",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.inditex.com/\nCall log:\n  - navigating to \"https://careers.inditex.com/\", waiting until \"domcontentloaded\"\n",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Acciona",
+  "url": "https://www.acciona.com/careers/",
+  "final": "https://www.acciona.com/careers",
+  "title": "404",
+  "sigs": {
+   "phenom": [
+    "/widgets"
+   ]
+  },
+  "links": [
+   "https://www.acciona.com/our-purpose/work-with-us/job-offers"
+  ],
+  "error": null,
+  "patterns": [
+   "21x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/",
+   "7x legal.hubspot.com/privacy-policy  e.g. https://legal.hubspot.com/privacy-policy?__hstc=177103482.c3fa6f095bf0ae7a005e6dba12ec94a9.1793889854633.1793889854633.1793889854633.1&__hssc=177103482.1.1793889854633&__hsfp=5780c6cccd4cc35ab2e2f239492d5612",
+   "7x twitter.com/en/privacy  e.g. https://twitter.com/en/privacy",
+   "7x www.tiktok.com/legal/privacy-policy  e.g. https://www.tiktok.com/legal/privacy-policy?lang=en",
+   "6x privacy.microsoft.com/en-us/privacystatement  e.g. https://privacy.microsoft.com/en-us/privacystatement"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Redeia",
+  "url": "https://www.redeia.com/en/working-with-us",
+  "final": "https://www.redeia.com/en/working-with-us",
+  "title": "Page not found | Redeia",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [
+   "38x www.redeia.com/en/[^/]+  e.g. https://www.redeia.com/en/working-with-us#",
+   "35x www.redeia.com/en/corporate-governance/[^/]+/[^/]+  e.g. https://www.redeia.com/en/corporate-governance/ethics-and-compliance/whistle-blowing-and-compliance-channel",
+   "11x www.redeia.com/en/corporate-governance/[^/]+  e.g. https://www.redeia.com/en/corporate-governance/ethics-and-compliance",
+   "10x www.redeia.com/en/sustainability/nature/[^/]+  e.g. https://www.redeia.com/en/sustainability/nature/committed-to-biodiversity",
+   "9x www.redeia.com/en/about-us/suppliers/[^/]+  e.g. https://www.redeia.com/en/about-us/suppliers/responsible-supply-chain-management"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Amadeus",
+  "url": "https://jobs.amadeus.com/",
+  "final": "https://amadeus.com/en/careers/overview",
+  "title": "Amadeus Careers | Bring the world closer.",
+  "sigs": {
+   "workday": [
+    "amadeus/wd502/jobs"
+   ]
+  },
+  "links": [
+   "https://amadeus.wd502.myworkdayjobs.com/jobs"
+  ],
+  "error": null,
+  "patterns": [
+   "5x amadeus.com/en/blog/articles/[^/]+  e.g. https://amadeus.com/en/blog/articles/how-build-environment-top-technology",
+   "4x amadeus.com/en/resources/white-paper/[^/]+  e.g. https://amadeus.com/en/resources/white-paper/agentic-ai-airlines",
+   "4x amadeus.com/en/careers/[^/]+  e.g. https://amadeus.com/en/careers/life-at-amadeus",
+   "3x amadeus.com/en/cytric/capabilities/[^/]+  e.g. https://amadeus.com/en/cytric/capabilities/data-and-reporting",
+   "3x amadeus.com/en/travel-sellers/products/[^/]+  e.g. https://amadeus.com/en/travel-sellers/products/selling-platform-connect"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Mapfre",
+  "url": "https://www.mapfre.com/en/work-at-mapfre/",
+  "final": "https://www.mapfre.com/en/work-at-mapfre/",
+  "title": "Page not found - Mapfre",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [
+   "6x www.mapfre.com/en/[^/]+/  e.g. https://www.mapfre.com/en/work-at-mapfre/#wp--skip-link--target",
+   "3x www.mapfre.com/en/corporate-governance/[^/]+/  e.g. https://www.mapfre.com/en/corporate-governance/board-of-directors/",
+   "3x www.mapfre.com/en/talent/  e.g. https://www.mapfre.com/en/talent/",
+   "3x www.mapfre.com/en/cookies-policy/  e.g. https://www.mapfre.com/en/cookies-policy/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Equinor",
+  "url": "https://www.equinor.com/careers/jobs",
+  "final": "https://www.equinor.com/careers/jobs",
+  "title": "Equinor",
+  "sigs": {},
+  "links": [
+   "https://www.equinor.com/careers/jobs#",
+   "https://www.equinor.com/careers/jobs#mainTitle"
+  ],
+  "error": null,
+  "patterns": [
+   "22x www.equinor.com/careers/jobs  e.g. https://www.equinor.com/careers/jobs#",
+   "3x vimeo.com/privacy  e.g. https://vimeo.com/privacy"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Vattenfall",
+  "url": "https://group.vattenfall.com/careers/jobs",
+  "final": "https://group.vattenfall.com/careers/jobs",
+  "title": "Page not found - Vattenfall",
+  "sigs": {},
+  "links": [
+   "https://group.vattenfall.com/careers/jobs#primarycontent",
+   "https://group.vattenfall.com/careers/jobs#mainnav",
+   "https://group.vattenfall.com/careers/jobs#pagefooter-focus",
+   "https://group.vattenfall.com/about-us/public-affairs/position-papers/",
+   "https://group.vattenfall.com/careers/jobs#"
+  ],
+  "error": null,
+  "patterns": [
+   "10x group.vattenfall.com/careers/jobs  e.g. https://group.vattenfall.com/careers/jobs#primarycontent",
+   "3x group.vattenfall.com/about-us/  e.g. https://group.vattenfall.com/about-us/",
+   "3x group.vattenfall.com/our-operations/  e.g. https://group.vattenfall.com/our-operations/",
+   "3x group.vattenfall.com/investors/  e.g. https://group.vattenfall.com/investors/",
+   "3x group.vattenfall.com/sustainability/social-responsibility/[^/]+/  e.g. https://group.vattenfall.com/sustainability/social-responsibility/supply-chain-responsibility/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Engie",
+  "url": "https://jobs.engie.com/",
+  "final": "https://jobs.engie.com/?utm_campaign=auto__src%3Ana%7Cmed%3Ana%7Cref%3Adirect",
+  "title": "ENGIE Jobs | Discover our Career & job opportunities, join us!",
+  "sigs": {
+   "successfactors": [
+    "jobs2web",
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://jobs.engie.com/search/?createNewAlert=false&q=&locationsearch=&locale=en_US",
+   "https://jobs.engie.com/?utm_campaign=auto__src%3Ana%7Cmed%3Ana%7Cref%3Adirect#",
+   "https://jobs.engie.com/content/DE_Custom-Policy/?locale=de_DE",
+   "https://jobs.engie.com/",
+   "https://jobs.engie.com/?utm_campaign=auto__src%3Ana%7Cmed%3Ana%7Cref%3Adirect#content",
+   "https://jobs.engie.com/?locale=de_DE",
+   "https://jobs.engie.com/?locale=en_US",
+   "https://jobs.engie.com/?locale=es_ES",
+   "https://jobs.engie.com/?locale=es_MX",
+   "https://jobs.engie.com/?locale=fr_FR",
+   "https://jobs.engie.com/?locale=it_IT",
+   "https://jobs.engie.com/?locale=nl_NL",
+   "https://jobs.engie.com/?locale=pl_PL",
+   "https://jobs.engie.com/?locale=pt_BR",
+   "https://jobs.engie.com/?locale=ro_RO",
+   "https://jobs.engie.com/?locale=sk_SK",
+   "https://jobs.engie.com/search/?createNewAlert=false&q=&locationsearch=",
+   "https://jobs.engie.com/go/students-us/9419755/",
+   "https://jobs.engie.com/go/young-professionals-us/9421555/",
+   "https://jobs.engie.com/go/experts-us/9414455/",
+   "https://jobs.engie.com/go/technicians-us/9420455/",
+   "https://jobs.engie.com/go/engineers-us/9413255/",
+   "https://jobs.engie.com/go/data-digital-&-it-us/9412455/",
+   "https://jobs.engie.com/go/support-functions-us/9420055/",
+   "https://jobs.engie.com/go/r&d-innovation-us/9418855/",
+   "https://jobs.engie.com/go/management-&-consulting-us/9417655/",
+   "https://jobs.engie.com/lp/Data%20Capture%20Economist/e166a269a52500d0/?locale=en_US",
+   "https://jobs.engie.com/content/Job-Alerts/?locale=en_US",
+   "https://www.grtgaz.com/en/you-are/job-applicant/offers",
+   "https://jobs.engie.com/content/Privacy-Policy/?locale=en_US"
+  ],
+  "error": null,
+  "patterns": [
+   "27x jobs.engie.com/go/[^/]+/\\d+/  e.g. https://jobs.engie.com/go/young-professionals-us/9421555/",
+   "7x jobs.engie.com/go/students-us/\\d+/  e.g. https://jobs.engie.com/go/students-us/9419755/",
+   "7x jobs.engie.com/go/experts-us/\\d+/  e.g. https://jobs.engie.com/go/experts-us/9414455/",
+   "5x jobs.engie.com/search/  e.g. https://jobs.engie.com/search/?createNewAlert=false&q=&locationsearch=&locale=en_US",
+   "5x jobs.engie.com/go/technicians-us/\\d+/  e.g. https://jobs.engie.com/go/technicians-us/9420455/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "EDP",
+  "url": "https://jobs.edp.com/",
+  "final": "https://jobs.edp.com/",
+  "title": "Jobs at EDP",
+  "sigs": {
+   "successfactors": [
+    "career5.successfactors.eu",
+    "career5.successfactors.eu/career?site=&amp;company=EDP&amp;lang=en%5FUS&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE",
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://jobs.edp.com/content/Cookies_Policy/?locale=en_US",
+   "https://jobs.edp.com/#content",
+   "https://jobs.edp.com/",
+   "https://jobs.edp.com/content/Join-Our-Talent-Community/?locale=en_US",
+   "https://jobs.edp.com/#",
+   "https://jobs.edp.com/?locale=en_US",
+   "https://jobs.edp.com/?locale=es_ES",
+   "https://jobs.edp.com/?locale=pt_BR",
+   "https://jobs.edp.com/?locale=pt_PT",
+   "https://jobs.edp.com/search/?q=&locationsearch=&locale=en_US",
+   "https://edp.com/en/careers/job-opportunities/recruitment-process",
+   "https://jobs.edp.com/content/Privacy_Policy/?locale=en_US",
+   "https://jobs.edp.com/content/Contacts/?locale=en_US"
+  ],
+  "error": null,
+  "patterns": [
+   "4x jobs.edp.com/content/[^/]+/  e.g. https://jobs.edp.com/content/Join-Our-Talent-Community/?locale=en_US",
+   "3x jobs.edp.com/content/Cookies_Policy/  e.g. https://jobs.edp.com/content/Cookies_Policy/?locale=en_US"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Galp",
+  "url": "https://www.galp.com/corp/en/careers",
+  "final": "https://www.galp.com/corp/en/people",
+  "title": "People",
+  "sigs": {
+   "phenom": [
+    "/widgets"
+   ]
+  },
+  "links": [
+   "https://www.galp.com/corp/en/investors/value-proposition",
+   "https://jobs.galp.com/go/Opportunities/1335201/",
+   "https://jobs.galp.com/go/Galpgeste-EN/1345201/",
+   "https://www.galp.com/corp/en/careers/youth-galp/generation-galp-2023",
+   "https://jobs.galp.com/",
+   "https://jobs.galp.com/go/Galpgeste/1345001/"
+  ],
+  "error": null,
+  "patterns": [
+   "7x www.galp.com/corp/en/corporate-governance/[^/]+  e.g. https://www.galp.com/corp/en/corporate-governance/governing-model-bodies",
+   "5x www.galp.com/corp/en/people  e.g. https://www.galp.com/corp/en/people",
+   "5x www.galp.com/corp/search  e.g. https://www.galp.com/corp/search?type=page&text=&channel=",
+   "4x www.galp.com/corp/en/investors/[^/]+  e.g. https://www.galp.com/corp/en/investors/publications-and-announcements",
+   "3x www.galp.com/corp/en/about-us/[^/]+/[^/]+  e.g. https://www.galp.com/corp/en/about-us/what-we-do/industrial-and-midstream"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Statkraft",
+  "url": "https://www.statkraft.com/careers/vacancies/",
+  "final": "https://www.statkraft.com/careers/vacancies/",
+  "title": "Error 404",
+  "sigs": {},
+  "links": [
+   "https://www.statkraft.com/careers/vacancies/#main_container",
+   "https://www.statkraft.com/careers/vacancies/#navigation",
+   "https://www.statkraft.com/careers/vacancies/#search-block",
+   "https://www.statkraft.com/careers/job-opportunities/",
+   "https://www.statkraft.com/about-statkraft/ownership-positions/"
+  ],
+  "error": null,
+  "patterns": [
+   "8x www.statkraft.com/sustainability/governance/[^/]+/  e.g. https://www.statkraft.com/sustainability/governance/code-of-conduct/",
+   "5x policies.google.com/technologies/partner-sites  e.g. https://policies.google.com/technologies/partner-sites?hl=en",
+   "5x www.statkraft.com/IR/[^/]+/  e.g. https://www.statkraft.com/IR/financial-key-figures/",
+   "4x www.microsoft.com/en-us/privacy/privacystatement  e.g. https://www.microsoft.com/en-us/privacy/privacystatement",
+   "4x www.statkraft.com/[^/]+/[^/]+/  e.g. https://www.statkraft.com/solutions-for-industry/power-purchase-agreements/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Airbus",
+  "url": "https://www.airbus.com/en/careers",
+  "final": "https://www.airbus.com/en/careers",
+  "title": "Careers | Airbus",
+  "sigs": {
+   "workday": [
+    "ag/wd3/Airbus"
+   ]
+  },
+  "links": [
+   "https://www.airbus.com/en/careers#drawer1132089565-state",
+   "https://www.airbus.com/en/careers#menu-642722134-state",
+   "https://www.airbus.com/en/careers#menu-1421456627-state",
+   "https://www.airbus.com/en/careers#menu-1429484935-state",
+   "https://www.airbus.com/en/careers#menu-1703898192-state",
+   "https://www.airbus.com/en/careers#menu-1776193845-state",
+   "https://www.airbus.com/en/careers#menu-1763912981-state",
+   "https://www.airbus.com/en/careers#menu-1892698518-state",
+   "https://www.airbus.com/en/careers#menu-1224430567-state",
+   "https://www.airbus.com/en/careers#menu-743822411-state",
+   "https://www.airbus.com/en/careers#menu-1079122318-state",
+   "https://www.airbus.com/en/careers#menu-1647901282-state",
+   "https://www.airbus.com/en/careers#menu-1703454481-state",
+   "https://www.airbus.com/en/careers#menu-1392719221-state",
+   "https://www.airbus.com/en/careers#menu-1596057428-state",
+   "https://www.airbus.com/en/careers#menu-150749654-state",
+   "https://www.airbus.com/en/careers#menu-855113790-state",
+   "https://www.airbus.com/en/careers#menu-2140415218-state",
+   "https://www.airbus.com/en/careers#menu-1406926882-state",
+   "https://www.airbus.com/en/careers#menu-950221214-state",
+   "https://www.airbus.com/en/careers#menu-71525182-state",
+   "https://www.airbus.com/en/careers#menu-494792104-state",
+   "https://www.airbus.com/en/careers#menu-1063770668-state",
+   "https://www.airbus.com/en/careers#menu-1151028186-state",
+   "https://www.airbus.com/en/careers#menu-1321151364-state",
+   "https://www.airbus.com/en/careers#menu-1394681676-state",
+   "https://ag.wd3.myworkdayjobs.com/Airbus",
+   "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bristol-Area/Safety---Reliability-Engineer_JR10451843?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=29247e57dbaf46fb855b224e03170bc7",
+   "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/jobs?q=certifying+staff",
+   "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Wichita-KS/Principal-Stress-Engineer_JR10447399-1?workerSubType=f5811cef9cb501a69768a71d470a6d15&locationCountry=bc33aa3152ec42d4995f4791a106ed09"
+  ],
+  "error": null,
+  "patterns": [
+   "47x www.airbus.com/en/careers  e.g. https://www.airbus.com/en/careers#content",
+   "8x www.airbus.com/en/about-us/[^/]+/[^/]+  e.g. https://www.airbus.com/en/about-us/what-we-do/connecting-people-goods-and-services",
+   "8x www.airbus.com/en/safety/[^/]+/[^/]+  e.g. https://www.airbus.com/en/safety/safety-of-our-products/product-safety-for-commercial-aircraft",
+   "5x www.airbus.com/en/search  e.g. https://www.airbus.com/en/search?search=%22Eurofighter%20Typhoon%22",
+   "4x www.airbus.com/en/about-us/our-governance/[^/]+  e.g. https://www.airbus.com/en/about-us/our-governance/governance-framework-and-documents"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Airbus",
+  "url": "https://ag.wd3.myworkdayjobs.com/Airbus",
+  "final": "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus",
+  "title": "Stellen suchen",
+  "sigs": {
+   "workday": [
+    "ag/wd3/Airbus",
+    "ag/wd3/videoplayerlabels"
+   ]
+  },
+  "links": [
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Gyula/CNC-opertor_JR10430400-1",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Saint-Nazaire-Area/STAGE-2027---Gestion-de-Projet-IA---Innovation-Qualit----Structure-A350--H-F-_JR10438192",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Gyula/Felletkezel-opertor_JR10454429-1",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Saint-Nazaire-Area/STAGE-2027---Assistant-Chef-de-Projet-IA---Innovation-Qualit----ALL-GENDER-_JR10432177",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Immenstaad-am-Bodensee/Cyber-Security-Engineer--d-m-w-_JR10216124",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Mobile-Area-AL/Process-Performance-Engineer_JR10452533-1",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Marseille-Area/XMLNAME--ET19R-System-Engineer-for-Helicopter-Maintenance-Design--F-M-_JR10406824",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Getafe-Area/Executive-Assistant_JR10455776",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Marseille-Area/Stage-2027-en-Oprations-IT--h-f-_JR10443318",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Nantes-Area/SNR-2027---Modlisation-Prototypage-3-dimensions--ALL-GENDER-_JR10454094",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Saint-Nazaire-Area/Airbus-Atlantic---Team-Leader--All-Gender-_JR10315717",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Toulouse-Area/Process-Leader---WPL-for-On-Board-functions-H-F_JR10442588-1",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Maulte-Area/STAGE-2027---Ingnieur-en-logistique-industrielle-et-optimisation-des-flux--ALL-GENDER-_JR10450070",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Belfast/Aircraft-Fitter_JR10410224",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Marseille-Area/XMLNAME--ET22R-Innovation-Work-Package-Manager--f-h-_JR10433099",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Maulte-Area/STAGE-2027----Stage-en-Assurance-Qualit-et-Mtrologie--ALL-GENDER-_JR10445444",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Marseille-Area/XMLNAME--ET22R-Innovation-product-manager--f-h-_JR10433885",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Immenstaad-am-Bodensee/Trainer---d-m-w--Satellitenkommunikation_JR10400761-1",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Marseille-Area/XMLNAME--ET22R-Industrial-Work-Package-Responsible--f-h-_JR10433089",
+   "https://ag.wd3.myworkdayjobs.com/de-DE/Airbus/job/Nantes-Area/STAGE-2027---Stage-en-Assurance-Qualit-et-Analyse-de-donnes--ALL-GENDER-_JR10441523"
+  ],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Moeve",
+  "url": "https://www.moeveglobal.com/en/careers",
+  "final": "https://www.moeveglobal.com/en/careers",
+  "title": "Error 404",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Itaú Unibanco",
+  "url": "https://carreiras.itau.com.br/",
+  "final": "https://carreiras.itau.com.br/",
+  "title": "Itaú Carreiras",
+  "sigs": {
+   "radancy": [
+    "radancy",
+    "tbcdn.talentbrew.com"
+   ],
+   "gupy": [
+    "vemproitau.gupy.io"
+   ]
+  },
+  "links": [
+   "https://carreiras.itau.com.br/saved-jobs",
+   "https://vemproitau.gupy.io/jobs/5088700",
+   "https://vemproitau.gupy.io/jobs/8762706",
+   "https://vemproitau.gupy.io/jobs/2589711",
+   "https://vemproitau.gupy.io/jobs/2693014",
+   "https://vemproitau.gupy.io/jobs/2614883"
+  ],
+  "error": null,
+  "patterns": [
+   "5x vemproitau.gupy.io/jobs/\\d+  e.g. https://vemproitau.gupy.io/jobs/5088700",
+   "4x carreiras.itau.com.br/[^/]+  e.g. https://carreiras.itau.com.br/mais-black-mais-oportunidades",
+   "3x carreiras.itau.com.br/tecnologia  e.g. https://carreiras.itau.com.br/tecnologia",
+   "3x carreiras.itau.com.br/varejo  e.g. https://carreiras.itau.com.br/varejo",
+   "3x carreiras.itau.com.br/atacado  e.g. https://carreiras.itau.com.br/atacado"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Petrobras",
+  "url": "https://petrobras.com.br/en/careers",
+  "final": "https://petrobras.com.br/en/careers",
+  "title": "Brazilian Energy | Petrobras",
+  "sigs": {},
+  "links": [
+   "https://petrobras.com.br/en/careers#fragment_85835",
+   "https://petrobras.com.br/en/careers#fragment_86435"
+  ],
+  "error": null,
+  "patterns": [
+   "79x petrobras.com.br/en/quem-somos/[^/]+  e.g. https://petrobras.com.br/en/quem-somos/exploracao-e-producao",
+   "34x petrobras.com.br/en/[^/]+  e.g. https://petrobras.com.br/en/inovacao-e-tecnologia",
+   "27x petrobras.com.br/en/careers  e.g. https://petrobras.com.br/en/careers#main-content",
+   "18x petrobras.com.br/en/sustentabilidade/[^/]+  e.g. https://petrobras.com.br/en/sustentabilidade/iniciativas-de-reflorestamento",
+   "16x petrobras.com.br/en/[^/]+/[^/]+  e.g. https://petrobras.com.br/en/inovacao-e-tecnologia/centro-de-pesquisa"
+  ],
+  "jsons": [
+   "10 Treffer in https://petrobras.com.br/o/c/destaquesubmenus/scopes/2677942 | keys=['additionalName', 'contentType', 'externalReferenceCode', 'familyName', 'givenName', 'id', 'image', 'name'] | z.B. William Natividade"
+  ],
+  "api": []
+ },
+ {
+  "name": "Natura &Co",
+  "url": "https://www.naturaeco.com/careers/",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_CERT_DATE_INVALID at https://www.naturaeco.com/careers/\nCall log:\n  - navigating to \"https://www.naturaeco.com/careers/\", waiting until \"domcontentloaded\"\n",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Globant",
+  "url": "https://career.globant.com/",
+  "final": "https://career.globant.com/",
+  "title": "Join our team | Globant Careers",
+  "sigs": {
+   "successfactors": [
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://career.globant.com/recent-job-searches"
+  ],
+  "error": null,
+  "patterns": [
+   "3x more.globant.com/[^/]+  e.g. https://more.globant.com/globant-experience-guide?utm_source=cweb&utm_medium=non&utm_campaign=a-rem-c-mul-p-mul-n-talentexp-s-cweb-d-non-o-wpd-b-nap-f-lnk-y-2025-m-1-i-500037-z-ao"
+  ],
+  "jsons": [
+   "10 Treffer in https://career.globant.com/api/sap/job-requisition-v1 | keys=['area', 'country', 'createdDateTime', 'externalCode', 'jobDescription', 'jobReqId', 'jobTitle', 'location', 'questions', 'status'] | z.B. Cloud CyberTech Engineer - Cybersecurity",
+   "16 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/IUOihXdI1/59.3.133/59.3.133?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
+  ],
+  "api": []
+ },
+ {
+  "name": "Cencosud",
+  "url": "https://www.cencosud.com/en/careers",
+  "final": "https://www.cencosud.com/en/careers",
+  "title": "Cencosud",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "patterns": [
+   "33x www.cencosud.com/en/careers  e.g. https://www.cencosud.com/en/careers#",
+   "27x www.cencosud.com/[^/]+  e.g. https://www.cencosud.com/unidades-de-negocios",
+   "24x www.cencosud.com/cencosud/site/edic/base/port/sostenibilidad.html  e.g. https://www.cencosud.com/cencosud/site/edic/base/port/sostenibilidad.html#section-08",
+   "6x www.cencosud.com/inversionistas  e.g. https://www.cencosud.com/inversionistas",
+   "6x www.cencosud.com/equipo_cencosud  e.g. https://www.cencosud.com/equipo_cencosud"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Telstra",
+  "url": "https://careers.telstra.com/",
+  "final": "https://www.telstra.com.au/careers",
+  "title": "Careers at Telstra - Telstra",
+  "sigs": {
+   "workday": [
+    "telstra/wd3/Telstra_Careers"
+   ]
+  },
+  "links": [
+   "https://telstra.wd3.myworkdayjobs.com/Telstra_Careers"
+  ],
+  "error": null,
+  "patterns": [
+   "11x www.telstra.com.au/careers  e.g. https://www.telstra.com.au/careers#main-content",
+   "5x www.telstra.com.au/careers/[^/]+  e.g. https://www.telstra.com.au/careers/how-we-hire",
+   "4x www.telstra.com.au/[^/]+  e.g. https://www.telstra.com.au/partners-and-causes",
+   "3x www.telstra.com.au/careers/why-telstra  e.g. https://www.telstra.com.au/careers/why-telstra",
+   "3x www.telstra.com.au/careers/our-teams  e.g. https://www.telstra.com.au/careers/our-teams"
+  ],
+  "jsons": [
+   "14 Treffer in https://accdn.lpsnmedia.net/api/account/21991129/configuration/le-campaigns/zones?fields=id&fields=zoneValue&__d=26260 | keys=['capping', 'createdDate', 'deleted', 'id', 'isDeleted', 'mainZone', 'mapping', 'modifiedDate', 'name', 'zoneType'] | z.B. Proactive Overlay"
+  ],
+  "api": []
+ },
+ {
+  "name": "Macquarie Group",
+  "url": "https://www.macquarie.com/careers/job-search.html",
+  "final": "https://www.macquarie.com/us/en/careers/job-search.html",
+  "title": "Page Not Found | Macquarie Group",
+  "sigs": {},
+  "links": [
+   "https://www.macquarie.com/us/en/careers/job-search.html#"
+  ],
+  "error": null,
+  "patterns": [
+   "4x www.macquarie.com/au/en/about/company/[^/]+  e.g. https://www.macquarie.com/au/en/about/company/board-of-directors.html",
+   "3x www.macquarie.com/au/en/insights/[^/]+  e.g. https://www.macquarie.com/au/en/insights/energy-and-climate-solutions.html",
+   "3x www.macquarie.com/au/en/careers/[^/]+  e.g. https://www.macquarie.com/au/en/careers/operating-and-central-service-groups.html"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Qantas",
+  "url": "https://careers.qantas.com/",
+  "final": "https://careers.qantas.com/",
+  "title": "Qantas Group Careers",
+  "sigs": {},
+  "links": [
+   "https://careers.qantas.com/job-alert/",
+   "https://careers.qantas.com/jobs/",
+   "https://careers.qantas.com/jobs/job-details/55683/production-planner/",
+   "https://careers.qantas.com/jobs/job-details/55680/senior-quality-engineer/",
+   "https://careers.qantas.com/jobs/job-details/55674/freight-compliance-lead/",
+   "https://careers.qantas.com/jobs/job-details/55643/senior-commercial-specialist-ground-experience/",
+   "https://careers.qantas.com/jobs/job-details/55615/instructor-aviation-safety-training-jetconnect/",
+   "https://careers.qantas.com/jobs/job-details/55605/senior-manager-freight-safety/",
+   "https://careers.qantas.com/jobs/job-details/55447/ramp-services-officer/",
+   "https://careers.qantas.com/jobs/in-australia/?per_page=10/",
+   "https://careers.qantas.com/jobs/in-new-zealand/?per_page=10/",
+   "https://careers.qantas.com/jobs/in-all-perth,-western-australia/",
+   "https://careers.qantas.com/jobs/in-all-darwin,-northern-territory/",
+   "https://careers.qantas.com/jobs/in-all-alice-springs,-northern-territory/",
+   "https://careers.qantas.com/jobs/in-all-adelaide,-south-australia/",
+   "https://careers.qantas.com/jobs/in-all-melbourne,-victoria/",
+   "https://careers.qantas.com/jobs/in-all-hobart,-tasmania/",
+   "https://careers.qantas.com/jobs/in-all-cairns,-queensland/",
+   "https://careers.qantas.com/jobs/in-all-townsville,-queensland/",
+   "https://careers.qantas.com/jobs/in-all-brisbane,-queensland/",
+   "https://careers.qantas.com/jobs/in-all-gold-coast,-queensland/",
+   "https://careers.qantas.com/jobs/in-all-sydney,-new-south-wales/",
+   "https://careers.qantas.com/jobs/in-all-canberra,-australian-capital-territory/",
+   "https://careers.qantas.com/jobs/in-all-auckland/",
+   "https://careers.qantas.com/jobs/in-all-wellington/",
+   "https://careers.qantas.com/jobs/in-all-christchurch,-canterbury/?per_page=10/",
+   "https://careers.qantas.com/jobs/in-all-queenstown,-otago/?per_page=10/"
+  ],
+  "error": null,
+  "patterns": [
+   "50x careers.qantas.com/jobs/[^/]+/  e.g. https://careers.qantas.com/jobs/in-new-zealand/?per_page=10/",
+   "12x careers.qantas.com/stories/[^/]+/  e.g. https://careers.qantas.com/stories/innovation-in-action-patricks-journey-to-the-product-innovation-centre/",
+   "12x careers.qantas.com/jobs/job-details/\\d+/[^/]+/  e.g. https://careers.qantas.com/jobs/job-details/55680/senior-quality-engineer/",
+   "7x careers.qantas.com/[^/]+/  e.g. https://careers.qantas.com/life-at-qantas/",
+   "6x careers.qantas.com/stories/  e.g. https://careers.qantas.com/stories/"
+  ],
+  "jsons": [
+   "20 Treffer in https://api.afp.ap.applyflow.com/seeker/v1/job-filters | keys=['id', 'name', 'title'] | z.B. corporate-support-functions-sales-and-marketing",
+   "59 Treffer in https://api.afp.ap.applyflow.com/seeker/v1/form/job-search | keys=['action', 'conditions', 'data', 'extras', 'fields', 'footer', 'id', 'intro', 'labels', 'name', 'next_step', 'outro', 'settings', 'step_behavior'] | z.B. Job Search"
+  ],
+  "api": []
+ },
+ {
+  "name": "Singtel",
+  "url": "https://www.singtel.com/about-us/careers",
+  "final": "https://groupcareers.singtel.com/",
+  "title": "Jobs at Singtel Group",
+  "sigs": {
+   "successfactors": [
+    "career10.successfactors.com",
+    "career10.successfactors.com/career?career_company=C0001088737P&amp;lang=en_GB&amp;company=C0001088737P&amp;site=&amp;loginFlowRequired=true&amp;_s.crb=gMKn9x2UdPAXmRHM81GHRfcyxgQ%3d",
+    "career10.successfactors.com/career?career_company=C0001088737P&lang=en_GB&company=C0001088737P&site=&loginFlowRequired=true&_s.crb=gMKn9x2UdPAXmRHM81GHRfcyxgQ%3d",
+    "jobs2web",
+    "rmkcdn.successfactors.com"
+   ],
+   "jobvite": [
+    "trustwave"
+   ]
+  },
+  "links": [
+   "https://career10.successfactors.com/career?career_company=C0001088737P&lang=en_GB&company=C0001088737P&site=&loginFlowRequired=true&_s.crb=gMKn9x2UdPAXmRHM81GHRfcyxgQ%3d",
+   "https://jobs.jobvite.com/trustwave",
+   "https://www.ais.co.th/applyjob/?intcid=getpage-th-header_menu-aboutais_menu-applyjob_submenu1",
+   "https://groupcareers.singtel.com/viewalljobs/",
+   "https://groupcareers.singtel.com/go/Retail-and-Customer-Service/4559200/",
+   "https://groupcareers.singtel.com/go/Technology/4559400/",
+   "https://groupcareers.singtel.com/go/Jobs-at-Singtel/4567910/",
+   "https://groupcareers.singtel.com/go/Business-Strategy-&-Planning/4702610/",
+   "https://groupcareers.singtel.com/go/Communications-Engineering/4702710/",
+   "https://groupcareers.singtel.com/go/Consulting-&-Client-Services/4702810/",
+   "https://groupcareers.singtel.com/go/Corporate/4702910/",
+   "https://groupcareers.singtel.com/go/Data-&-Digital/4703010/",
+   "https://groupcareers.singtel.com/go/Infrastructure-&-Managed-Services/4703110/",
+   "https://groupcareers.singtel.com/go/IT-Business-Applications/4703210/",
+   "https://groupcareers.singtel.com/go/Sales-&-Marketing/4703410/",
+   "https://groupcareers.singtel.com/topjobs/"
+  ],
+  "error": null,
+  "patterns": [
+   "9x www.telkomsel.com/en/about-us/careers  e.g. https://www.telkomsel.com/en/about-us/careers",
+   "9x groupcareers.singtel.com/go/[^/]+/\\d+/  e.g. https://groupcareers.singtel.com/go/Retail-and-Customer-Service/4559200/",
+   "8x www.ais.co.th/applyjob/  e.g. https://www.ais.co.th/applyjob/?intcid=getpage-th-header_menu-aboutais_menu-applyjob_submenu1",
+   "8x www.airtel.in/careers/  e.g. https://www.airtel.in/careers/",
+   "8x www.globe.com.ph/about-us/careers.html  e.g. https://www.globe.com.ph/about-us/careers.html#gref"
+  ],
+  "jsons": [
+   "5 Treffer in https://olivia.paradox.ai/api/widget/lvsobsnfovemzgyevfde/rules?referrer=&widget_page_url=https:%2F%2Fgroupcareers.singtel.com%2F | keys=['default_value', 'id', 'matching', 'name', 'type'] | z.B. Page URL",
+   "3 Treffer in https://olivia.paradox.ai/api/widget/lvsobsnfovemzgyevfde?request_language_code=&source=2&catch_all_on=true&conversation_id=0&job_req_id=&is_mapping_j | keys=['alt_text', 'cms_id', 'description', 'intent_id', 'intent_name', 'is_allow_iframe', 'is_help_intent', 'media', 'media_meta_data', 'media_thumb', 'title', 'type', 'url'] | z.B. "
+  ],
+  "api": []
+ },
+ {
+  "name": "Standard Chartered",
+  "url": "https://jobs.standardchartered.com/",
+  "final": "https://jobs.standardchartered.com/",
+  "title": "Home Page",
+  "sigs": {
+   "successfactors": [
+    "career2.successfactors.eu",
+    "jobs2web",
+    "rmkcdn.successfactors.com"
+   ],
+   "phenom": [
+    "/widgets"
+   ]
+  },
+  "links": [
+   "https://jobs.standardchartered.com/content/Cookie-Policy/?locale=en_GB",
+   "https://jobs.standardchartered.com/#content",
+   "https://jobs.standardchartered.com/Home",
+   "https://jobs.standardchartered.com/#",
+   "https://jobs.standardchartered.com/?locale=en_GB",
+   "https://jobs.standardchartered.com/?locale=ko_KR",
+   "https://jobs.standardchartered.com/go/Experienced-Professional-jobs/9783657/",
+   "https://jobs.standardchartered.com/go/Early-careers-Jobs/9783557/",
+   "https://jobs.standardchartered.com/go/Create-Job-Alerts/9783857/",
+   "https://jobs.standardchartered.com/search/?jobAlerts=true&rcmLoggedIn=true&micrositeid=",
+   "https://www.sc.com/en/global-careers/?utm_source=myRecruiting&utm_campaign=jobsearch&utm_term=careers"
+  ],
+  "error": null,
+  "patterns": [
+   "7x jobs.standardchartered.com/go/[^/]+/\\d+/  e.g. https://jobs.standardchartered.com/go/Experienced-Professional-jobs/9783657/",
+   "4x talent.sc.com/flows/[^/]+  e.g. https://talent.sc.com/flows/tn-lateral-registration",
+   "3x policies.google.com/privacy  e.g. https://policies.google.com/privacy",
+   "3x policies.google.com/terms  e.g. https://policies.google.com/terms"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Standard Chartered",
+  "url": "https://www.sc.com/en/careers/",
+  "final": "https://www.sc.com/en/global-careers/experienced-hire/",
+  "title": "Careers for experienced professionals | Standard Chartered",
+  "sigs": {},
+  "links": [
+   "https://www.sc.com/en/about/sustainability/position-statements/",
+   "https://jobs.standardchartered.com/content/Search-Result-Page/?employment_type=early_careers&utm_source=careersite",
+   "https://jobs.standardchartered.com/content/Search-Result-Page/?employment_type=professional_hires&utm_source=careersite",
+   "https://jobs.standardchartered.com/?utm_source=careersite&utm_source=careersite",
+   "https://jobs.standardchartered.com/search/?q=61764&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false",
+   "https://jobs.standardchartered.com/search/?q=62549&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false",
+   "https://jobs.standardchartered.com/search/?q=63761&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false",
+   "https://jobs.standardchartered.com/search/?q=61372&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false",
+   "https://jobs.standardchartered.com/search/?q=61857&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false",
+   "https://jobs.standardchartered.com/search/?q=61856&utm_source=careerssite&utm_campaign=cx-ex-hotjobs&skillsSearch=false",
+   "https://jobs.standardchartered.com/?utm_source=careersite",
+   "https://www.sc.com/en/global-careers/our-employee-stories/265955/",
+   "https://www.sc.com/en/global-careers/our-employee-stories/282380/"
+  ],
+  "error": null,
+  "patterns": [
+   "19x www.sc.com/en/country-popup/online/  e.g. https://www.sc.com/en/country-popup/online/",
+   "18x www.sc.com/en/global-careers/experienced-hire/  e.g. https://www.sc.com/en/global-careers/experienced-hire/#content",
+   "14x www.sc.com/en/about/[^/]+/  e.g. https://www.sc.com/en/about/who-we-are/",
+   "9x www.sc.com/en/[^/]+/  e.g. https://www.sc.com/en/corporate-investment-banking/",
+   "8x www.sc.com/en/contact-us/  e.g. https://www.sc.com/en/contact-us/"
+  ],
   "jsons": [],
   "api": []
  },
@@ -626,25 +1649,80 @@
   "error": null,
   "patterns": [],
   "api": [
-   "slugs Brot fuer die Welt: []",
-   "slugs brotfuerdiewelt: []",
-   "slugs ewde: []",
-   "slugs Diakonie Katastrophenhilfe: []",
-   "slugs Plan: []",
-   "slugs plande: []",
-   "slugs plan-deutschland: []",
-   "slugs Aktion gegen den Hunger: []",
-   "slugs actionagainsthunger: []",
-   "slugs FES: []",
-   "slugs fes: []",
-   "slugs Fairtrade: []",
-   "slugs fairtradedeutschland: []",
-   "slugs Fairtrade Deutschland: []",
-   "slugs transfair: []",
-   "slugs giz: []",
-   "slugs kfw: []",
-   "slugs welthungerhilfe: []",
-   "slugs kas: []"
+   "workday ag/wd3/Airbus: 200 total=2000",
+   "workday santander/wd3/SantanderCareers: 200 total=464",
+   "workday scb/wd3/Careers: 422 total=",
+   "slugs Iberdrola: []",
+   "slugs Naturgy: []",
+   "slugs Repsol: []",
+   "slugs Endesa: []",
+   "slugs Enel: []",
+   "slugs Telefónica: []",
+   "slugs Santander: []",
+   "slugs Glovo: []",
+   "slugs Ørsted: []",
+   "slugs Vestas: []",
+   "slugs Schneider Electric: []",
+   "slugs Adyen: ['greenhouse:adyen (249 Stellen)']",
+   "slugs Booking.com: []",
+   "slugs Nestlé: []",
+   "slugs Mercado Libre: []",
+   "slugs Nubank: ['ashby:nubank (105 Stellen)']",
+   "slugs Ambev: []",
+   "slugs Falabella: []",
+   "slugs Atlassian: []",
+   "slugs Canva: ['smartrecruiters:canva (30 Stellen)']",
+   "slugs Xero: ['ashby:xero (106 Stellen)']",
+   "slugs Grab: ['smartrecruiters:grab (449 Stellen)']",
+   "slugs Sea Group: []",
+   "slugs DBS: ['personio:dbs (11 Stellen)']",
+   "slugs Rakuten: []",
+   "slugs BBVA: []",
+   "slugs CaixaBank: []",
+   "slugs Inditex: []",
+   "slugs Acciona: []",
+   "slugs Redeia: []",
+   "slugs Amadeus: []",
+   "slugs Mapfre: []",
+   "slugs Equinor: []",
+   "slugs Vattenfall: ['smartrecruiters:vattenfall (240 Stellen)']",
+   "slugs Engie: []",
+   "slugs EDP: []",
+   "slugs Galp: []",
+   "slugs Statkraft: []",
+   "slugs Airbus: []",
+   "slugs Moeve: []",
+   "slugs Itaú Unibanco: []",
+   "slugs Petrobras: []",
+   "slugs Natura &Co: []",
+   "slugs Globant: []",
+   "slugs Cencosud: []",
+   "slugs Telstra: []",
+   "slugs Macquarie Group: []",
+   "slugs Qantas: []",
+   "slugs Singtel: []",
+   "slugs Standard Chartered: ['recruitee:standard (2 Stellen)']",
+   "slugs adyen: ['greenhouse:adyen (249 Stellen)']",
+   "slugs nubank: ['ashby:nubank (105 Stellen)']",
+   "slugs glovo: []",
+   "slugs glovoapp: []",
+   "slugs xero: ['ashby:xero (106 Stellen)']",
+   "slugs canva: ['smartrecruiters:canva (30 Stellen)']",
+   "slugs atlassian: []",
+   "slugs grab: ['smartrecruiters:grab (449 Stellen)']",
+   "slugs globant: []",
+   "slugs booking: []",
+   "slugs bookingcom: []",
+   "slugs sea: []",
+   "slugs seagroup: []",
+   "slugs mercadolibre: []",
+   "slugs meli: []",
+   "slugs falabella: []",
+   "slugs rakuten: []",
+   "slugs naturgy: []",
+   "slugs caixabank: []",
+   "slugs amadeus: []",
+   "slugs statkraft: []"
   ]
  }
 ]
