@@ -1,3 +1,7 @@
-ag/wd3/Airbus
+repsol/wd3/Repsol
+dbs/wd3/DBS_Careers
+amadeus/wd502/jobs
+telstra/wd3/Telstra_Careers
+bbva/wd3/BBVA
 santander/wd3/SantanderCareers
-scb/wd3/Careers
+ag/wd3/Airbus

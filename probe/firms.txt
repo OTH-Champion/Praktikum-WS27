@@ -1,50 +1,26 @@
-Iberdrola|https://www.iberdrola.com/careers/job-offers|https://careers.iberdrola.com/
-Naturgy|https://www.naturgy.com/en/careers/|https://empleo.naturgy.com/
-Repsol|https://www.repsol.com/en/careers/index.cshtml|https://careers.repsol.com/
-Endesa|https://www.endesa.com/en/careers
-Enel|https://jobs.enel.com/en_US/careers
-Telefónica|https://jobs.telefonica.com/|https://www.telefonica.com/en/careers/
-Santander|https://www.santander.com/en/careers|https://www.santanderbank.com/careers
-Glovo|https://jobs.glovoapp.com/
-Ørsted|https://orsted.com/en/careers/vacancies-list
-Vestas|https://careers.vestas.com/
-Schneider Electric|https://careers.se.com/jobs
-Adyen|https://careers.adyen.com/vacancies
-Booking.com|https://jobs.booking.com/booking/jobs|https://careers.booking.com/
-Nestlé|https://www.nestle.com/jobs/search-jobs|https://jobdetails.nestle.com/
-Mercado Libre|https://careers-meli.mercadolibre.com/en/jobs
-Nubank|https://international.nubank.com.br/careers/
-Ambev|https://www.ambev.com.br/carreiras
-Falabella|https://www.falabella.com/falabella-cl/page/trabaja-con-nosotros|https://empleos.falabella.com/
-Atlassian|https://www.atlassian.com/company/careers/all-jobs
-Canva|https://www.lifeatcanva.com/en/jobs/
-Xero|https://www.xero.com/au/about/careers/|https://jobs.xero.com/
-Grab|https://www.grab.careers/en/jobs/
-Sea Group|https://www.sea.com/careers
-DBS|https://www.dbs.com/careers/jobs.page
-Rakuten|https://rakuten.careers/|https://global.rakuten.com/corp/careers/
-BBVA|https://careers.bbva.com/
-CaixaBank|https://www.caixabank.com/en/working-at-caixabank.html
-Inditex|https://careers.inditex.com/
-Acciona|https://www.acciona.com/careers/
-Redeia|https://www.redeia.com/en/working-with-us
-Amadeus|https://jobs.amadeus.com/
-Mapfre|https://www.mapfre.com/en/work-at-mapfre/
-Equinor|https://www.equinor.com/careers/jobs
-Vattenfall|https://group.vattenfall.com/careers/jobs
-Engie|https://jobs.engie.com/
-EDP|https://jobs.edp.com/
-Galp|https://www.galp.com/corp/en/careers
-Statkraft|https://www.statkraft.com/careers/vacancies/
-Airbus|https://www.airbus.com/en/careers|https://ag.wd3.myworkdayjobs.com/Airbus
-Moeve|https://www.moeveglobal.com/en/careers
-Itaú Unibanco|https://carreiras.itau.com.br/
-Petrobras|https://petrobras.com.br/en/careers
-Natura &Co|https://www.naturaeco.com/careers/
-Globant|https://career.globant.com/
-Cencosud|https://www.cencosud.com/en/careers
-Telstra|https://careers.telstra.com/
-Macquarie Group|https://www.macquarie.com/careers/job-search.html
-Qantas|https://careers.qantas.com/
-Singtel|https://www.singtel.com/about-us/careers
-Standard Chartered|https://jobs.standardchartered.com/|https://www.sc.com/en/careers/
+Naturgy|https://www.naturgy.com/en/work-with-us/|https://www.naturgy.es/trabaja-con-nosotros
+Iberdrola|https://www.iberdrola.com/talento/ofertas-empleo|https://www.iberdrola.es/talento
+Inditex|https://www.inditexcareers.com/portalweb/en/home|https://www.inditexcareers.com/portalweb/es/ofertas-de-empleo
+Mapfre|https://www.mapfre.com/en/talent/|https://www.mapfre.com/talento/
+Moeve|https://www.moeveglobal.com/es/trabaja-con-nosotros|https://www.moeveglobal.com/en/work-with-us
+Acciona|https://www.acciona.com/working-at-acciona/|https://www.acciona.com/es/trabaja-con-nosotros/
+Redeia|https://www.redeia.com/es/trabaja-con-nosotros|https://www.ree.es/es/trabaja-con-nosotros
+Rakuten|https://global.rakuten.com/corp/careers/search/|https://global.rakuten.com/corp/careers/midcareer/
+Cencosud|https://www.trabajaencencosud.cl/|https://www.cencosud.com/trabaja-con-nosotros
+Falabella|https://www.grupofalabella.com/es/trabaja-con-nosotros|https://careers.falabella.com/
+Equinor|https://www.equinor.com/careers/jobs?query=intern|https://careers.equinor.com/
+Orsted|https://orsted.com/en/careers/vacancies-list?search=intern
+Glovo|https://careers.glovoapp.com/jobs/|https://careers.glovoapp.com/open-positions/
+Sea Group|https://apply.workable.com/shopee-9/|https://www.sea.com/careers/jobs
+Booking.com|https://jobs.booking.com/booking/jobs?keywords=intern
+Globant|https://career.globant.com/jobs|https://career.globant.com/job-openings
+Enel|https://jobs.enel.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50
+Macquarie Group|https://recruitment.macquarie.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50
+Qantas|https://careers.qantas.com/jobs/?search=intern
+Atlassian|https://www.atlassian.com/company/careers/all-jobs?search=intern
+Natura|https://natura.gupy.io/|https://www.naturaeco.com/
+Ambev|https://ambev.gupy.io/
+Schneider Electric|https://www.se.com/ww/en/about-us/careers/job-search.jsp
+Nestle|https://jobdetails.nestle.com/search/?q=intern
+Telefonica|https://jobs.telefonica.com/search/?q=intern
+Petrobras|https://petrobras.com.br/en/jovem-aprendiz-e-estagio

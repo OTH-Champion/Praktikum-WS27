@@ -220,6 +220,14 @@ def extra_api():
             out.append(f"workday {line}: ERR {e}")
     names = [l.split("|", 1)[0].strip() for l in (HERE / "firms.txt").read_text().splitlines() if "|" in l]
     names += (HERE / "slugs.txt").read_text().split() if (HERE / "slugs.txt").exists() else []
+    for slug in ((HERE / "sr.txt").read_text().split() if (HERE / "sr.txt").exists() else []):
+        try:
+            r = s.get(f"https://api.smartrecruiters.com/v1/companies/{slug}/postings?q=intern&limit=5", timeout=15)
+            j = r.json() if r.ok else {}
+            ex = [p["name"] + " @ " + p.get("location", {}).get("city", "") + " / " + p.get("company", {}).get("name", "") for p in j.get("content", [])[:3]]
+            out.append(f"sr {slug}: {j.get('totalFound', r.status_code)} {ex}")
+        except Exception as e:
+            out.append(f"sr {slug}: ERR {e}")
     for nm in names:
         try:
             out.append(f"slugs {nm}: {api_probe(nm)}")
