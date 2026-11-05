@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-05T17:19+00:00",
+ "aktualisiert": "2026-11-05T18:16+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -23,7 +23,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 1
+   "stellen": 6
   },
   {
    "name": "Bosch",
@@ -687,7 +687,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 26
+   "stellen": 27
   },
   {
    "name": "UBS",
@@ -1271,7 +1271,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 1
   },
   {
    "name": "Repsol",
@@ -1279,7 +1279,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 2
   },
   {
    "name": "Enel",
@@ -1319,7 +1319,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 4
+   "stellen": 5
   },
   {
    "name": "CaixaBank",
@@ -1383,7 +1383,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 29
+   "stellen": 31
   },
   {
    "name": "EDP",
@@ -1391,7 +1391,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 4
+   "stellen": 6
   },
   {
    "name": "Galp",
@@ -1447,7 +1447,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 14
+   "stellen": 17
   },
   {
    "name": "Schneider Electric",
@@ -1723,6 +1723,48 @@
    "link": "https://caixabankcareers.com/job/Barcelona-PROGRAMA-PR%C3%81CTICAS-UNIVERSITARIAS-2027-RED-COMERCIAL-CONNECTA-%28BARCELONA%29/1453885233/"
   },
   {
+   "titel": "Internship - Flood Nat Cat Analyst - March 2027",
+   "firma": "AXA",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "Paris"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://careers.axa.com/careers-home/jobs/30274?lang=en-us&previousLocale=en-US"
+  },
+  {
+   "titel": "Intern People Operations",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000159832379"
+  },
+  {
    "titel": "Internship ING Financial Markets | eFX Sales",
    "firma": "ING",
    "orte": [
@@ -1784,6 +1826,27 @@
    "veroeffentlicht": "2026-11-05",
    "datum_geschaetzt": false,
    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37931"
+  },
+  {
+   "titel": "Praktikum Cross Border E-Commerce (m/w/d)",
+   "firma": "Nestlé",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Cross-Border-E-Commerce-%28mwd%29-60329/1454864333/"
   },
   {
    "titel": "Communication Intern",
@@ -2269,6 +2332,27 @@
    "link": "https://jobs.sap.com/en/jobs/744000159864772/concur-customer-marketing-intern"
   },
   {
+   "titel": "Business Development Internship -12 Months",
+   "firma": "Siemens",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Business Development Internship -12 Months London"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503105"
+  },
+  {
    "titel": "Internship: People & Culture - The Hoxton, Lloyd",
    "firma": "Accor",
    "orte": [
@@ -2542,6 +2626,27 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159854909"
   },
   {
+   "titel": "Praktikum im internationalen Vertrieb (EU) von Lenksystemen und Komponenten für LKW, Busse und Sonderfahrzeuge",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Schwäbisch Gmünd"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159903304"
+  },
+  {
    "titel": "Intern, People Experience",
    "firma": "Grab",
    "orte": [
@@ -2668,6 +2773,48 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-Treasury-IHB-Operations---Resilience--Basel--12-months-_202611-128224"
   },
   {
+   "titel": "INTERNSHIP Junior People Business Partner Global Marketing (starting from March) People & Organization Job ID: 78471 Luxembourg, LU (On-Site) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-junior-people-business-partner-global-marketing-starting-march"
+  },
+  {
+   "titel": "INTERNSHIP Travel Market Customer Service Supply Chain (starting from March) End to End Supply Chain Job ID: 78349 Senningerberg, L, LU (Hybrid) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "Senningerberg"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-travel-market-customer-service-supply-chain-starting-march"
+  },
+  {
    "titel": "Learn more about Financial Analyst BS/MS Intern, 2027",
    "firma": "Google",
    "orte": [
@@ -2689,15 +2836,78 @@
    "link": "https://www.google.com/about/careers/applications/jobs/results/100315940037501638-financial-analyst-bsms-intern-2027?q=intern&page=3"
   },
   {
-   "titel": "Business Development Internship -12 Months",
+   "titel": "Marketing Intern",
    "firma": "Siemens",
    "orte": [
     {
-     "stadt": "Business Development Internship -12 Months London",
+     "stadt": "Taipeh",
+     "land": "TW"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/528576"
+  },
+  {
+   "titel": "Marketing Intern (12 Months)",
+   "firma": "Siemens",
+   "orte": [
+    {
+     "stadt": "Maidenhead",
      "land": "GB"
     }
    ],
-   "fachbereich": "Business Development & Strategie",
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/525780"
+  },
+  {
+   "titel": "Communications Internship (12 months)",
+   "firma": "Siemens",
+   "orte": [
+    {
+     "stadt": "Communications Internship",
+     "land": "GB"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503103"
+  },
+  {
+   "titel": "HR Internship - 12 Months",
+   "firma": "Siemens",
+   "orte": [
+    {
+     "stadt": "HR Internship",
+     "land": "GB"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
    "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
@@ -2707,103 +2917,86 @@
    "stunden_num": null,
    "veroeffentlicht": "2026-11-05",
    "datum_geschaetzt": true,
-   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503105"
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504448"
   },
   {
-   "titel": "Praktikum im internationalen Vertrieb (EU) von Lenksystemen und Komponenten für LKW, Busse und Sonderfahrzeuge",
+   "titel": "HR and Diversity, Equity and Inclusion Internship (12 Months)",
+   "firma": "Siemens",
+   "orte": [
+    {
+     "stadt": "k. A.",
+     "land": "HR"
+    },
+    {
+     "stadt": "Inclusion Internship",
+     "land": "GB"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "ab sofort",
+   "start_monat": "2026-11",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/506095"
+  },
+  {
+   "titel": "Praktikum im Bereich Brandschutz und Gefahrenabwehr",
    "firma": "Bosch",
    "orte": [
     {
-     "stadt": "Schwäbisch Gmünd",
+     "stadt": "Dresden",
      "land": "DE"
     }
    ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
+   "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
+   "start": "März 2027",
+   "start_monat": "2027-03",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-05",
    "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159903304"
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000159925795"
   },
   {
-   "titel": "Internship - Flood Nat Cat Analyst - March 2027",
-   "firma": "AXA",
-   "orte": [
-    {
-     "stadt": "Paris",
-     "land": "FR"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://careers.axa.com/careers-home/jobs/30274?lang=en-us&previousLocale=en-US"
-  },
-  {
-   "titel": "INTERNSHIP Junior People Business Partner Global Marketing (starting from March) People & Organization Job ID: 78471 Luxembourg, LU (On-Site) Internship Details",
-   "firma": "Ferrero",
+   "titel": "Impulsa 2027 | Programa de Prácticas Naturgy",
+   "firma": "Naturgy",
    "orte": [
     {
      "stadt": "k. A.",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-junior-people-business-partner-global-marketing-starting-march"
-  },
-  {
-   "titel": "INTERNSHIP Travel Market Customer Service Supply Chain (starting from March) End to End Supply Chain Job ID: 78349 Senningerberg, L, LU (Hybrid) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "Senningerberg",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-travel-market-customer-service-supply-chain-starting-march"
-  },
-  {
-   "titel": "Intern People Operations",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Barcelona",
      "land": "ES"
     }
    ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": true,
+   "link": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=LmvxRzyn5IrSI5SU0XMZPgnr4678Dzl%2bNBFD5%2bApbdM%3d"
+  },
+  {
+   "titel": "EHS Intern",
+   "firma": "Engie",
+   "orte": [
+    {
+     "stadt": "Singapur",
+     "land": "SG"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "k. A.",
@@ -2811,11 +3004,53 @@
    "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000159832379"
+   "datum_geschaetzt": true,
+   "link": "https://jobs.engie.com/job/EHS-Intern/73218-en_US/"
   },
   {
-   "titel": "Praktikum Cross Border E-Commerce (m/w/d)",
+   "titel": "IT Intern",
+   "firma": "Engie",
+   "orte": [
+    {
+     "stadt": "Singapur",
+     "land": "SG"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.engie.com/job/IT-Intern/73297-en_US/"
+  },
+  {
+   "titel": "Quality Intern",
+   "firma": "Engie",
+   "orte": [
+    {
+     "stadt": "Singapur",
+     "land": "SG"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.engie.com/job/Quality-Intern/73215-en_US/"
+  },
+  {
+   "titel": "Praktikum Sales (m/w/d)",
    "firma": "Nestlé",
    "orte": [
     {
@@ -2824,16 +3059,16 @@
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
+   "arbeitsmodell": "Präsenz",
    "start": "Februar 2027",
    "start_monat": "2027-02",
-   "dauer": "5–6 Monate",
+   "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "40 Std.",
    "stunden_num": 40.0,
    "veroeffentlicht": "2026-11-05",
    "datum_geschaetzt": false,
-   "link": "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Cross-Border-E-Commerce-%28mwd%29-60329/1454864333/"
+   "link": "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Sales-%28mwd%29-60329/1454879733/"
   },
   {
    "titel": "Internship (d/m/f): Innovative Cleanliness Tools, Contamination Monitoring & Digital Reporting",
@@ -4060,6 +4295,48 @@
    "veroeffentlicht": "2026-11-04",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/123907061523063494-associate-product-marketing-manager-bsms-intern-2027?q=intern"
+  },
+  {
+   "titel": "Práctica Profesional Supply Chain",
+   "firma": "Acciona",
+   "orte": [
+    {
+     "land": "CL",
+     "stadt": "Santiago de Chile"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-Supply-Chain_20103566"
+  },
+  {
+   "titel": "Práctica Profesional Área Comercial",
+   "firma": "Acciona",
+   "orte": [
+    {
+     "land": "CL",
+     "stadt": "Santiago de Chile"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-rea-Comercial_20103562"
   },
   {
    "titel": "Praktikant (d/m/w) HR mit Schwerpunkt Recruiting und Temp Management",
@@ -6204,6 +6481,27 @@
    "link": "https://careers.ey.com/ey/job/Zurich-Quant-&amp;-Analytics-Intern-Financial-Services-Risk-Consulting-8005/1417103933/"
   },
   {
+   "titel": "Intern People Generalist",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-people-generalist-in-madrid-spain-jid-744000159376449"
+  },
+  {
    "titel": "Intern, Financial Markets Client Solutions Group (CSG)",
    "firma": "ING",
    "orte": [
@@ -7199,69 +7497,6 @@
    "link": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027?q=intern"
   },
   {
-   "titel": "Práctica Profesional Supply Chain",
-   "firma": "Acciona",
-   "orte": [
-    {
-     "stadt": "Santiago de Chile",
-     "land": "CL"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-Supply-Chain_20103566"
-  },
-  {
-   "titel": "Práctica Profesional Área Comercial",
-   "firma": "Acciona",
-   "orte": [
-    {
-     "stadt": "Santiago de Chile",
-     "land": "CL"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel/job/Region-Metropolitana-de-Santiago/Prctica-Profesional-rea-Comercial_20103562"
-  },
-  {
-   "titel": "Intern People Generalist",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Madrid",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-people-generalist-in-madrid-spain-jid-744000159376449"
-  },
-  {
    "titel": "Sustainable Finance Summer Internship Programme 2027 London",
    "firma": "Barclays",
    "orte": [
@@ -7617,6 +7852,27 @@
    "veroeffentlicht": "2026-11-02",
    "datum_geschaetzt": false,
    "link": "https://careers.dhl.com/global/en/job/AV-389723/PRAKTIKANT-M-W-D-STRATEGISCHES-BETRIEBS-IT-INVESTITIONSCONTROLLING"
+  },
+  {
+   "titel": "Operations Analyst Intern",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-02",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/operations-analyst-intern-in-milano-italy-jid-744000159186209"
   },
   {
    "titel": "Finance Intern (unpaid)",
@@ -8312,16 +8568,16 @@
    "link": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Sustainable-Business-and-Communications_R-1189141"
   },
   {
-   "titel": "Operations Analyst Intern",
-   "firma": "Glovo",
+   "titel": "Programa de Práctica 2027 - I",
+   "firma": "BBVA",
    "orte": [
     {
-     "stadt": "Mailand",
-     "land": "IT"
+     "stadt": "Lima",
+     "land": "PE"
     }
    ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "Präsenz",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "k. A.",
@@ -8330,7 +8586,7 @@
    "stunden_num": null,
    "veroeffentlicht": "2026-11-02",
    "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/operations-analyst-intern-in-milano-italy-jid-744000159186209"
+   "link": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/Programa-de-Prctica-2027---I_JR00119033"
   },
   {
    "titel": "Cambridge Internship Program Azure Research, Security and Privacy",
@@ -8879,27 +9135,6 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158730840"
   },
   {
-   "titel": "Praktikum im Bereich Brandschutz und Gefahrenabwehr",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Dresden"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-30",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000158735069"
-  },
-  {
    "titel": "Pflichtpraktikum in der Produktkommunikation",
    "firma": "Bosch",
    "orte": [
@@ -9087,6 +9322,27 @@
    "veroeffentlicht": "2026-10-29",
    "datum_geschaetzt": false,
    "link": "https://careers.dhl.com/global/en/job/AV-389074/Intern-ESG-Reporting-and-Controlling"
+  },
+  {
+   "titel": "Finance Intern",
+   "firma": "Vestas",
+   "orte": [
+    {
+     "land": "DK",
+     "stadt": "Finance Intern Finance Intern Aarhus N"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "August 2027",
+   "start_monat": "2027-08",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-29",
+   "datum_geschaetzt": false,
+   "link": "https://careers.vestas.com/job/Aarhus-N-Finance-Intern-Regi-8200/1452600533"
   },
   {
    "titel": "Praktikant*in (m/w/d) im Sektorvorhaben (SV) Nachhaltige Agrarlieferketten – Schwerpunkt Entwaldungsfreie Lieferketten",
@@ -9577,27 +9833,6 @@
    "veroeffentlicht": "2026-10-29",
    "datum_geschaetzt": false,
    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Marketing-Intern--Hair-Care_593929-1"
-  },
-  {
-   "titel": "Finance Intern",
-   "firma": "Vestas",
-   "orte": [
-    {
-     "stadt": "Finance Intern Finance Intern Aarhus N",
-     "land": "DK"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "August 2027",
-   "start_monat": "2027-08",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-29",
-   "datum_geschaetzt": false,
-   "link": "https://careers.vestas.com/job/Aarhus-N-Finance-Intern-Regi-8200/1452600533"
   },
   {
    "titel": "Internship within Commodity Management for IT & Ground (d/f/m)",
@@ -10312,6 +10547,27 @@
    "veroeffentlicht": "2026-10-28",
    "datum_geschaetzt": false,
    "link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Sao-Paulo/Business-Development-Associate_JR249467-1"
+  },
+  {
+   "titel": "Stage - Chargé de développement énergies renouvelables junior/ Origination internship",
+   "firma": "EDP",
+   "orte": [
+    {
+     "stadt": "Rodez",
+     "land": "FR"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-28",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.edp.com/job/Rodez-Stage-Charg%C3%A9-de-d%C3%A9veloppement-%C3%A9nergies-renouvelables-junior-Origination-internship/1376050133/"
   },
   {
    "titel": "[Internship] Market Analysis & Forecasting (F/M)",
@@ -11263,6 +11519,27 @@
    "link": "https://careers.allianz.com/global/en/job/108535/Intern-Allianz-Consulting-Right-shoring-Business-Transition-and-Support-m-f-d"
   },
   {
+   "titel": "Procurement Intern",
+   "firma": "Vestas",
+   "orte": [
+    {
+     "land": "DK",
+     "stadt": "Procurement Intern Procurement Intern Aarhus N"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "September 2027",
+   "start_monat": "2027-09",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-26",
+   "datum_geschaetzt": false,
+   "link": "https://careers.vestas.com/job/Aarhus-N-Procurement-Intern-Regi-8200/1451142333"
+  },
+  {
    "titel": "Praktikum Marketing & Communications (m/w/d)",
    "firma": "Nestlé",
    "orte": [
@@ -11662,27 +11939,6 @@
    "link": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Field-Sales---Trade-Marketing_R-1189154"
   },
   {
-   "titel": "Procurement Intern",
-   "firma": "Vestas",
-   "orte": [
-    {
-     "stadt": "Procurement Intern Procurement Intern Aarhus N",
-     "land": "DK"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "September 2027",
-   "start_monat": "2027-09",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-26",
-   "datum_geschaetzt": false,
-   "link": "https://careers.vestas.com/job/Aarhus-N-Procurement-Intern-Regi-8200/1451142333"
-  },
-  {
    "titel": "Supply Chain Demand Support Intern",
    "firma": "Philips",
    "orte": [
@@ -11809,6 +12065,48 @@
    "link": "https://careers.allianz.com/global/en/job/108690/Intern-Strategy-Executive-Support-CTO-Office-m-f-d"
   },
   {
+   "titel": "Account Manager Intern Groceries Spain",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-23",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000157402989"
+  },
+  {
+   "titel": "Intern People Operations",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-23",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000157400459"
+  },
+  {
    "titel": "Employer Branding & AI Community Intern (Jan 2027 intake) - #GeneralInternship",
    "firma": "Singtel",
    "orte": [
@@ -11828,27 +12126,6 @@
    "veroeffentlicht": "2026-10-23",
    "datum_geschaetzt": false,
    "link": "https://groupcareers.singtel.com/job/Employer-Branding-&amp;-AI-Community-Intern-%28Jan-2027-intake%29-GeneralInternship-Sing/1363526366/"
-  },
-  {
-   "titel": "Praktikum Digital & Media Relations (m/w/d)",
-   "firma": "Nestlé",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Frankfurt am Main"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-10-23",
-   "datum_geschaetzt": false,
-   "link": "https://jobdetails.nestle.com/job/Frankfurt-am-Main-Praktikum-Digital-&amp;-Media-Relations-%28mwd%29-60329/1450651933/"
   },
   {
    "titel": "Praktikant (w/m/d) im Bereich Human Resources - Change Management",
@@ -12248,48 +12525,6 @@
    "veroeffentlicht": "2026-10-23",
    "datum_geschaetzt": false,
    "link": "https://wfp.wd3.myworkdayjobs.com/job_openings/job/London-United-Kingdom/Internship---Media-and-Communications--Partnership-Team---WFP-London-Office--UK_JR127797"
-  },
-  {
-   "titel": "Account Manager Intern Groceries Spain",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Madrid",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-23",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000157402989"
-  },
-  {
-   "titel": "Intern People Operations",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-23",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000157400459"
   },
   {
    "titel": "Business Development Support Intern, Broker",
@@ -13598,6 +13833,48 @@
    "link": "https://careers.allianz.com/global/en/job/108478/Intern-Infrastructure-Private-Equity-Funds-Co-Investments-and-Secondaries-m-f-d"
   },
   {
+   "titel": "Intern Brands Ads Global Hq",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-brands-ads-global-hq-in-barcelona-spain-jid-744000156554419"
+  },
+  {
+   "titel": "Specialties Intern",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-20",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/specialties-intern-in-milano-italy-jid-744000156490889"
+  },
+  {
    "titel": "Intern, HR Operations",
    "firma": "ING",
    "orte": [
@@ -14151,48 +14428,6 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship--Digital---OE-Support-for-Performance-Excellence-Delivery--6-Months-_202610-126546"
   },
   {
-   "titel": "Specialties Intern",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Mailand",
-     "land": "IT"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/specialties-intern-in-milano-italy-jid-744000156490889"
-  },
-  {
-   "titel": "Intern Brands Ads Global Hq",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-20",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-brands-ads-global-hq-in-barcelona-spain-jid-744000156554419"
-  },
-  {
    "titel": "Becario/a de Gestión de Proyectos de Automoción e Industrialización",
    "firma": "Renault",
    "orte": [
@@ -14611,6 +14846,27 @@
    "veroeffentlicht": "2026-10-19",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/RedBull/744000156253469"
+  },
+  {
+   "titel": "EDP Professional Internship 2026 | Portugal",
+   "firma": "EDP",
+   "orte": [
+    {
+     "stadt": "k. A.",
+     "land": "PT"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "9 Monate",
+   "dauer_wochen": 39.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-19",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.edp.com/job/Multiple-cities-EDP-Professional-Internship-2026-Portugal/1280209301/"
   },
   {
    "titel": "Praktikant im Bereich Corporate M&A (m/w/d)",
@@ -15161,6 +15417,27 @@
    "veroeffentlicht": "2026-10-16",
    "datum_geschaetzt": false,
    "link": "https://careers.dhl.com/global/en/job/AV-386343/Praktikum-Globale-Zugeh-rigkeit-m-f-d-Kommunikationsdesign-Analytik"
+  },
+  {
+   "titel": "Intern Retail Global Hq",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-16",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-retail-global-hq-in-barcelona-spain-jid-744000155970319"
   },
   {
    "titel": "Praktikant Client Coverage im Bereich Corporate Banking (w/m/d)",
@@ -15804,27 +16081,6 @@
    "veroeffentlicht": "2026-10-16",
    "datum_geschaetzt": false,
    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Regional-Marketing-Intern-CEE-Mother---Child-Care--all-genders-_592714"
-  },
-  {
-   "titel": "Intern Retail Global Hq",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-16",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-retail-global-hq-in-barcelona-spain-jid-744000155970319"
   },
   {
    "titel": "Internship in Business & Service Operations (m/f/d)",
@@ -17108,6 +17364,27 @@
    "link": "https://careers.axa.com/careers-home/jobs/29059?lang=en-us&previousLocale=en-US"
   },
   {
+   "titel": "Account Manager Intern Q Commerce Catman",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-10-13",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-catman-in-madrid-spain-jid-744000155211801"
+  },
+  {
    "titel": "Finance Intern",
    "firma": "Marriott International",
    "orte": [
@@ -17673,27 +17950,6 @@
    "veroeffentlicht": "2026-10-13",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000155311419"
-  },
-  {
-   "titel": "Account Manager Intern Q Commerce Catman",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Madrid",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-10-13",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-catman-in-madrid-spain-jid-744000155211801"
   },
   {
    "titel": "Finance Intern, Singapore (Jan 2027)",
@@ -18334,6 +18590,27 @@
    "link": "https://careers.dhl.com/global/en/job/AV-384582/Contrato-en-pr-cticas-en-Bilbao-Transporte-Mar-timo-1-a-o-m-f-n"
   },
   {
+   "titel": "Data Analyst Intern",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-09",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/data-analyst-intern-in-barcelona-spain-jid-744000154651959"
+  },
+  {
    "titel": "Intern, Working Capital Solutions",
    "firma": "ING",
    "orte": [
@@ -18584,27 +18861,6 @@
    "veroeffentlicht": "2026-10-09",
    "datum_geschaetzt": false,
    "link": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Barcelona/Marketing-Analyst-Intern_JR-119730-1"
-  },
-  {
-   "titel": "Data Analyst Intern",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-09",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/data-analyst-intern-in-barcelona-spain-jid-744000154651959"
   },
   {
    "titel": "Strategic Operations Intern",
@@ -19140,6 +19396,27 @@
    "link": "https://careers.axa.com/careers-home/jobs/22122?lang=en-us&previousLocale=en-US"
   },
   {
+   "titel": "Intern Talent Development Global Hq",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-07",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-talent-development-global-hq-in-barcelona-spain-jid-744000154066964"
+  },
+  {
    "titel": "Sales & Event Intern - Renaissance Brussels Hotel",
    "firma": "Marriott International",
    "orte": [
@@ -19434,27 +19711,6 @@
    "link": "https://traderepublic.com/en-de/about?jobId=8015727003&gh_jid=8015727003"
   },
   {
-   "titel": "Intern Talent Development Global Hq",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-07",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-talent-development-global-hq-in-barcelona-spain-jid-744000154066964"
-  },
-  {
    "titel": "#Discover I 2027-2028 Internship",
    "firma": "Airbus",
    "orte": [
@@ -19600,6 +19856,48 @@
    "veroeffentlicht": "2026-10-06",
    "datum_geschaetzt": false,
    "link": "https://careers.dhl.com/global/en/job/AV-383380/PRAKTIKANT-M-W-X-IM-INNOVATION-ENGAGEMENT-MANAGEMENT"
+  },
+  {
+   "titel": "Intern Account Manager Top Accounts Spain",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-06",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-account-manager-top-accounts-spain-in-madrid-spain-jid-744000153719071"
+  },
+  {
+   "titel": "Intern Regions Spain",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-06",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-regions-spain-in-barcelona-spain-jid-744000153815878"
   },
   {
    "titel": "Intern, Financial Markets Business Management",
@@ -19812,46 +20110,92 @@
    "link": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Singapore/Content-Creator-Intern_0000038778"
   },
   {
-   "titel": "Intern Account Manager Top Accounts Spain",
-   "firma": "Glovo",
+   "titel": "Pasante de Corporate Affairs & Communications",
+   "firma": "Roche",
+   "orte": [
+    {
+     "stadt": "Santiago de Chile",
+     "land": "CL"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-06",
+   "datum_geschaetzt": false,
+   "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/RM--Region-Metropolitana-de-Santiago/Pasante-de-Corporate-Affairs---Communications_202606-115499-1"
+  },
+  {
+   "titel": "Programa de Practicas 2027",
+   "firma": "Repsol",
+   "orte": [
+    {
+     "stadt": "Lima",
+     "land": "PE"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-10-06",
+   "datum_geschaetzt": false,
+   "link": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Lima/Programa-de-Practicas-2027_83312-1"
+  },
+  {
+   "titel": "Prácticas Talent Energy 2027 - Primer Semestre",
+   "firma": "Repsol",
    "orte": [
     {
      "stadt": "Madrid",
      "land": "ES"
     }
    ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
    "stunden_num": null,
    "veroeffentlicht": "2026-10-06",
    "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-account-manager-top-accounts-spain-in-madrid-spain-jid-744000153719071"
+   "link": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Campus-Repsol-Madrid/Prcticas-Talent-Energy-2027---Primer-Semestre_84151-1"
   },
   {
-   "titel": "Intern Regions Spain",
+   "titel": "Account Management Intern",
    "firma": "Glovo",
    "orte": [
     {
-     "stadt": "Barcelona",
-     "land": "ES"
+     "stadt": "Zagreb",
+     "land": "HR"
+    },
+    {
+     "stadt": "Account Management Intern Zagreb",
+     "land": "HR"
     }
    ],
-   "fachbereich": "Personal (HR)",
+   "fachbereich": "Vertrieb & Kundenmanagement",
    "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "stunden": "k. A.",
+   "stunden": "Vollzeit",
    "stunden_num": null,
    "veroeffentlicht": "2026-10-06",
    "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-regions-spain-in-barcelona-spain-jid-744000153815878"
+   "link": "https://careers.glovoapp.com/job/account-management-intern-in-zagreb-croatia-jid-744000153754369"
   },
   {
    "titel": "Intern, FM Front Office Support",
@@ -21490,6 +21834,27 @@
    "link": "https://apply.careers.microsoft.com/careers/job/1970393557008286"
   },
   {
+   "titel": "Intern Data Analyst I People Strategy Global Hq",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-29",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-data-analyst-i-people-strategy-global-hq-in-barcelona-spain-jid-744000152474589"
+  },
+  {
    "titel": "Praktikum HR Systems & Processes (w/m/d)",
    "firma": "PwC",
    "orte": [
@@ -21572,27 +21937,6 @@
    "veroeffentlicht": "2026-09-29",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000152427823"
-  },
-  {
-   "titel": "Intern Data Analyst I People Strategy Global Hq",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-29",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-data-analyst-i-people-strategy-global-hq-in-barcelona-spain-jid-744000152474589"
   },
   {
    "titel": "INTERNSHIP - DATA ANALYST (W/M)",
@@ -21952,6 +22296,27 @@
    "link": "https://careers.axa.com/careers-home/jobs/27857?lang=en-us&previousLocale=en-US"
   },
   {
+   "titel": "Category Management Internship",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-25",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/category-management-internship-in-milano-italy-jid-744000151793969"
+  },
+  {
    "titel": "Intern, Corporates Sales",
    "firma": "ING",
    "orte": [
@@ -22076,27 +22441,6 @@
    "veroeffentlicht": "2026-09-25",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151816009"
-  },
-  {
-   "titel": "Category Management Internship",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Mailand",
-     "land": "IT"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-25",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/category-management-internship-in-milano-italy-jid-744000151793969"
   },
   {
    "titel": "Human Resources Intern / Pflichtpraktikum (m/w/d)",
@@ -22250,6 +22594,27 @@
    "link": "https://careers.allianz.com/global/en/job/106532/Intern-Strategy-Executive-Support-AI-Factory-m-f-d"
   },
   {
+   "titel": "Intern Sales Development Representative Portugal",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "PT",
+     "stadt": "Lissabon"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-23",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-sales-development-representative-portugal-in-lisbon-portugal-jid-744000151357159"
+  },
+  {
    "titel": "Accounting Intern (m/w/d)",
    "firma": "Marriott International",
    "orte": [
@@ -22374,27 +22739,6 @@
    "veroeffentlicht": "2026-09-23",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000151329379"
-  },
-  {
-   "titel": "Intern Sales Development Representative Portugal",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Lissabon",
-     "land": "PT"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-23",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-sales-development-representative-portugal-in-lisbon-portugal-jid-744000151357159"
   },
   {
    "titel": "Human Resources Intern (6-12 months)",
@@ -23551,6 +23895,48 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000149613311"
   },
   {
+   "titel": "Intern Demand Planning Global Hq",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "stadt": "Barcelona",
+     "land": "ES"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-15",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-demand-planning-global-hq-in-barcelona-spain-jid-744000149604315"
+  },
+  {
+   "titel": "Intern Marketing And Growth",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-14",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-marketing-and-growth-in-barcelona-spain-jid-744000149286679"
+  },
+  {
    "titel": "INTERNSHIP - Sales & Community Coordinator",
    "firma": "Accor",
    "orte": [
@@ -23570,27 +23956,6 @@
    "veroeffentlicht": "2026-09-14",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/AccorHotel/744000149293899"
-  },
-  {
-   "titel": "Intern Marketing And Growth",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-14",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-marketing-and-growth-in-barcelona-spain-jid-744000149286679"
   },
   {
    "titel": "Praktikum HR Headhunter Management (w/m/d)",
@@ -23719,6 +24084,27 @@
    "link": "https://careers.allianz.com/global/en/job/105817/Management-Consulting-Intern-Allianz-Consulting-6-Months-Contract"
   },
   {
+   "titel": "Account Manager Intern Specialties Spain",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Madrid"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-09-10",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/account-manager-intern-specialties-spain-in-madrid-spain-jid-744000148807773"
+  },
+  {
    "titel": "Intern Social Media",
    "firma": "ING",
    "orte": [
@@ -23809,27 +24195,6 @@
    "veroeffentlicht": "2026-09-10",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000148761995"
-  },
-  {
-   "titel": "Account Manager Intern Specialties Spain",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Madrid",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-09-10",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/account-manager-intern-specialties-spain-in-madrid-spain-jid-744000148807773"
   },
   {
    "titel": "Intern - Digital Sales",
@@ -24447,6 +24812,27 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000146653500"
   },
   {
+   "titel": "Intern Account Manager Groceries Specialties Portugal",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "PT",
+     "stadt": "Lissabon"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-08-28",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/intern-account-manager-groceries-specialties-portugal-in-lisbon-portugal-jid-744000146156149"
+  },
+  {
    "titel": "Internship Global Area Sales and Distribution Management",
    "firma": "Bosch",
    "orte": [
@@ -24487,27 +24873,6 @@
    "veroeffentlicht": "2026-08-28",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000146186329"
-  },
-  {
-   "titel": "Intern Account Manager Groceries Specialties Portugal",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Lissabon",
-     "land": "PT"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-08-28",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/intern-account-manager-groceries-specialties-portugal-in-lisbon-portugal-jid-744000146156149"
   },
   {
    "titel": "Praktikant Produktstrategie Wertpapiere (w/m/d) in Frankfurt / Nürnberg",
@@ -25277,8 +25642,8 @@
    "firma": "Glovo",
    "orte": [
     {
-     "stadt": "Mailand",
-     "land": "IT"
+     "land": "IT",
+     "stadt": "Mailand"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -25298,8 +25663,8 @@
    "firma": "Glovo",
    "orte": [
     {
-     "stadt": "Mailand",
-     "land": "IT"
+     "land": "IT",
+     "stadt": "Mailand"
     }
    ],
    "fachbereich": "Vertrieb & Kundenmanagement",
@@ -25313,6 +25678,48 @@
    "veroeffentlicht": "2026-07-31",
    "datum_geschaetzt": false,
    "link": "https://careers.glovoapp.com/job/intern-key-accounts-italy-in-milano-italy-jid-744000140854105"
+  },
+  {
+   "titel": "Category Management Intern Q Commerce",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-07-30",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/category-management-intern-q-commerce-in-milano-italy-jid-744000140708549"
+  },
+  {
+   "titel": "Commercial Analyst Intern They She He",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-30",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/commercial-analyst-intern-they-she-he-in-milano-italy-jid-744000140633819"
   },
   {
    "titel": "Praktikum - KI Marketing & Enablement (w/m/d)",
@@ -25363,48 +25770,6 @@
    "veroeffentlicht": "2026-07-30",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/Aumovio/744000140683569"
-  },
-  {
-   "titel": "Category Management Intern Q Commerce",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Mailand",
-     "land": "IT"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-07-30",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/category-management-intern-q-commerce-in-milano-italy-jid-744000140708549"
-  },
-  {
-   "titel": "Commercial Analyst Intern They She He",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Mailand",
-     "land": "IT"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-30",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/commercial-analyst-intern-they-she-he-in-milano-italy-jid-744000140633819"
   },
   {
    "titel": "Intern (m/f/d) in the Human Resources Group Functions Data & Systems department",
@@ -26078,6 +26443,27 @@
    "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26093046"
   },
   {
+   "titel": "Specialities Intern",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Mailand"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-24",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/specialities-intern-in-milano-italy-jid-744000139587689"
+  },
+  {
    "titel": "Praktikant Mobile Banking und Web (w/m/d)",
    "firma": "ING",
    "orte": [
@@ -26151,27 +26537,6 @@
    "veroeffentlicht": "2026-07-24",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000139583169"
-  },
-  {
-   "titel": "Specialities Intern",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Mailand",
-     "land": "IT"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-24",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/specialities-intern-in-milano-italy-jid-744000139587689"
   },
   {
    "titel": "Praktikant (w/m/d) im Bereich Risikocontrolling",
@@ -26574,6 +26939,27 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000136791019"
   },
   {
+   "titel": "3pl Commercial Intern Spain",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-07-08",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/3pl-commercial-intern-spain-in-barcelona-spain-jid-744000136526272"
+  },
+  {
    "titel": "Internship - Logistics Analyst",
    "firma": "Infineon",
    "orte": [
@@ -26614,27 +27000,6 @@
    "veroeffentlicht": "2026-07-08",
    "datum_geschaetzt": false,
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000136455353"
-  },
-  {
-   "titel": "3pl Commercial Intern Spain",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-07-08",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/3pl-commercial-intern-spain-in-barcelona-spain-jid-744000136526272"
   },
   {
    "titel": "Marketing and Communications Intern",
@@ -27030,6 +27395,27 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000134403613"
   },
   {
+   "titel": "Data Analyst Intern",
+   "firma": "Glovo",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-06-23",
+   "datum_geschaetzt": false,
+   "link": "https://careers.glovoapp.com/job/data-analyst-intern-in-barcelona-spain-jid-744000133574326"
+  },
+  {
    "titel": "Praktikum in der Film- und Videokommunikation",
    "firma": "Bosch",
    "orte": [
@@ -27051,25 +27437,25 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000133504109"
   },
   {
-   "titel": "Data Analyst Intern",
+   "titel": "Account Manager Intern Groceries Spain",
    "firma": "Glovo",
    "orte": [
     {
-     "stadt": "Barcelona",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Madrid"
     }
    ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
    "stunden_num": null,
-   "veroeffentlicht": "2026-06-23",
+   "veroeffentlicht": "2026-06-15",
    "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/data-analyst-intern-in-barcelona-spain-jid-744000133574326"
+   "link": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000132160454"
   },
   {
    "titel": "Praktikum Strategisches Alliance Management (w/m/d)",
@@ -27095,27 +27481,6 @@
    "veroeffentlicht": "2026-06-15",
    "datum_geschaetzt": false,
    "link": "https://jobs.kpmg.de/job-invite/502/?locale=de_DE"
-  },
-  {
-   "titel": "Account Manager Intern Groceries Spain",
-   "firma": "Glovo",
-   "orte": [
-    {
-     "stadt": "Madrid",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-06-15",
-   "datum_geschaetzt": false,
-   "link": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000132160454"
   },
   {
    "titel": "【MA】Sales Marketing Service within Mobility Aftermarket Division Internship",
@@ -27277,8 +27642,8 @@
    "firma": "Glovo",
    "orte": [
     {
-     "stadt": "Barcelona",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Barcelona"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -27298,8 +27663,8 @@
    "firma": "Glovo",
    "orte": [
     {
-     "stadt": "Barcelona",
-     "land": "ES"
+     "land": "ES",
+     "stadt": "Barcelona"
     }
    ],
    "fachbereich": "Finanzen & Controlling",
