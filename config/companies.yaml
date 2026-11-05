@@ -22,6 +22,7 @@
 #   pinpoint        https://careers.firma.com
 #   browser         Karriereseite ohne passende Schnittstelle: echter Browser wie bei StudiJobs RGB,
 #                   braucht list_url und job_link (Regex für Links zu einzelnen Stellen)
+#                   optional slug_title: Regex mit (?P<title>…) und (?P<ort>…), liest Titel/Ort aus der Stellenadresse
 #
 # Optional für alle:
 #   career_url    Link, der auf der Seite bei "Berücksichtigte Unternehmen" erscheint
@@ -966,12 +967,11 @@
 - name: Enel
   ats: browser   # gemeinsame Stellenbörse von Enel und Endesa
   career_url: https://jobs.enel.com/en_US/careers
-  list_url: https://jobs.enel.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50
+  # Suchseiten bleiben im Abruf leer, nur die Startseite mit den neuesten Stellen ist lesbar
+  list_url: https://jobs.enel.com/en_US/careers
   job_link: /careers/JobDetail/\d+
   extra_urls:
-    - https://jobs.enel.com/en_US/careers/SearchJobs/?search=pr%C3%A1cticas&jobRecordsPerPage=50
-    - https://jobs.enel.com/en_US/careers/SearchJobs/?search=becario&jobRecordsPerPage=50
-    - https://jobs.enel.com/en_US/careers
+    - https://jobs.enel.com/es_ES/careers
   unterfirmen:
     Endesa: \bEndesa\b
 
@@ -1005,10 +1005,9 @@
   career_url: https://www.inditexcareers.com/
 
 - name: Acciona
-  ats: browser
+  ats: workday
+  url: https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel
   career_url: https://www.acciona.com/our-purpose/work-with-us/job-offers
-  list_url: https://www.acciona.com/our-purpose/work-with-us/job-offers
-  job_link: /job-offers/[^/?#]+
 
 - name: Redeia (Red Eléctrica)
   enabled: false   # keine öffentliche Stellenliste gefunden
@@ -1028,6 +1027,10 @@
   career_url: https://careers.glovoapp.com/jobs-at-glovo/
   list_url: https://careers.glovoapp.com/jobs-at-glovo/
   job_link: /job/[^/]+-jid-\d+
+  slug_title: /job/(?P<title>.+)-in-(?P<ort>[a-z]+(?:-[a-z]+){0,3})-jid-\d+
+  pages:
+    template: https://careers.glovoapp.com/jobs-at-glovo/?job_page={page}
+    max_pages: 25
 
 - name: EDP
   ats: successfactors
@@ -1035,8 +1038,11 @@
   career_url: https://jobs.edp.com/
 
 - name: Galp
-  ats: successfactors
-  url: https://jobs.galp.com
+  ats: browser   # Suchergebnisse werden erst im Browser aufgebaut
+  list_url: https://jobs.galp.com/go/Oportunidades/1335501/
+  job_link: /job/[^/]+/\d+/
+  extra_urls:
+    - https://jobs.galp.com/search/?q=intern&locale=es_ES
   career_url: https://www.galp.com/corp/en/people
 
 # ============================================================ Ergänzt November 2026: übriges Europa
@@ -1045,8 +1051,13 @@
   career_url: https://orsted.com/en/careers/vacancies-list
 
 - name: Vestas
-  ats: successfactors
-  url: https://careers.vestas.com
+  ats: browser   # Suchergebnisse werden erst im Browser aufgebaut
+  list_url: https://careers.vestas.com/search/?q=intern
+  job_link: /job/[^/]+/\d+/
+  extra_urls:
+    - https://careers.vestas.com/search/?q=student
+    - https://careers.vestas.com/search/?q=praktikant
+    - https://careers.vestas.com/search/?q=internship
   career_url: https://careers.vestas.com/
 
 - name: Equinor
@@ -1096,9 +1107,12 @@
 
 # ============================================================ Ergänzt November 2026: Südamerika
 - name: Mercado Libre
-  ats: eightfold
-  url: https://mercadolibre.eightfold.ai/careers
-  domain: mercadolibre.com
+  ats: browser   # Schnittstelle lehnt direkte Abrufe ab (403), Browser funktioniert
+  list_url: https://mercadolibre.eightfold.ai/careers?query=intern
+  job_link: /careers/job/\d+
+  extra_urls:
+    - https://mercadolibre.eightfold.ai/careers?query=pasant%C3%ADa
+    - https://mercadolibre.eightfold.ai/careers?query=pr%C3%A1cticas
   career_url: https://careers-meli.mercadolibre.com/en/jobs
 
 - name: Nubank
@@ -1178,6 +1192,7 @@
   career_url: https://www.grab.careers/en/jobs/
 
 - name: Sea Group (Shopee)
+  enabled: false   # Stellenliste (Workable, careers.shopee.sg) lädt ohne lesbare Links
   ats: browser
   career_url: https://www.sea.com/careers
   list_url: https://apply.workable.com/shopee-9/
