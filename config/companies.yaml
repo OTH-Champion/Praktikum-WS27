@@ -186,7 +186,8 @@
   career_url: https://careers.ey.com/
 
 - name: Deloitte
-  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  ats: successfactors   # Stellen Deutschland; job.deloitte.com ist nur die JavaScript-Oberfläche davor
+  url: https://jobs.deloitte.de
   career_url: https://job.deloitte.com/
 
 - name: Knorr-Bremse
@@ -218,8 +219,9 @@
   career_url: https://www.sixt.jobs/
 
 - name: ams OSRAM
-  enabled: false   # Karriereseite beim Test nicht gefunden
-  career_url: https://ams-osram.com/
+  ats: successfactors
+  url: https://jobboard.osram.com
+  career_url: https://jobboard.osram.com/
 
 - name: MTU Aero Engines
   enabled: false   # Stellenbörse beim Test nicht gefunden
@@ -323,10 +325,6 @@
     step: 50
     max_pages: 6
 
-- name: Huawei
-  enabled: false   # Stellenportal nur auf Chinesisch
-  career_url: https://career.huawei.com/
-
 - name: Tencent
   ats: browser
   career_url: https://careers.tencent.com/en-us/
@@ -340,10 +338,6 @@
   ats: greenhouse   # nur die Stellenbörse von BYD Nordamerika ist öffentlich abrufbar
   url: https://boards.greenhouse.io/byd
   career_url: https://www.bydeurope.com/careers
-
-- name: Xiaomi
-  enabled: false   # Stellenportal nur auf Chinesisch
-  career_url: https://xiaomi.jobs.feishu.cn/
 
 # ============================================================ Europa
 - name: OMV
@@ -387,11 +381,12 @@
   career_url: https://jobs.volkswagen-group.com/Skoda
 
 - name: Novo Nordisk
-  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
-  career_url: https://www.novonordisk.com/careers/find-a-job.html
+  ats: successfactors
+  url: https://careers.novonordisk.com
+  career_url: https://careers.novonordisk.com/
 
 - name: Maersk
-  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
+  enabled: false   # läuft im Hintergrund über Workday (Stellen-IDs R…), Workday-Adresse noch nicht ermittelt
   career_url: https://www.maersk.com/careers/vacancies
 
 - name: LEGO
@@ -473,8 +468,9 @@
   job_link: ferrerocareers\.com/int/en/jobs/[a-z0-9-]{6,}
 
 - name: Ferrari
-  enabled: false   # Karriereseite blockiert automatische Abrufe
-  career_url: https://www.ferrari.com/en-EN/corporate/careers
+  ats: successfactors   # Stellen liegen auf jobs.ferrari.com, nicht auf der Konzernseite
+  url: https://jobs.ferrari.com
+  career_url: https://jobs.ferrari.com/
 
 - name: airBaltic
   ats: browser
@@ -483,10 +479,9 @@
   job_link: careers\.airbaltic\.com/en/vacancies/[a-z-]+/[a-z0-9-]+
 
 - name: HSBC
-  ats: browser
-  career_url: https://mycareer.hsbc.com/
-  list_url: https://mycareer.hsbc.com/en_GB/external/SearchJobs?keyword=intern
-  job_link: /JobDetail/
+  ats: successfactors   # Praktika laufen über das Emerging-Talent-Portal, mycareer.hsbc.com ist nur für Berufserfahrene
+  url: https://apply.careers.hsbc.com/emergingtalent
+  career_url: https://apply.careers.hsbc.com/emergingtalent/
 
 - name: Stellantis
   ats: browser
@@ -530,7 +525,8 @@
   career_url: https://jobs.volvocars.com/
 
 - name: H&M
-  enabled: false   # Karriereseite blockiert automatische Abrufe
+  ats: smartrecruiters
+  url: https://jobs.smartrecruiters.com/HMGroup
   career_url: https://career.hm.com/
 
 - name: Spotify
@@ -581,11 +577,6 @@
   ats: pinpoint
   url: https://careers.dazn.com
   career_url: https://careers.dazn.com/
-
-# ============================================================ USA (nur US-Stellen)
-- name: Walmart
-  enabled: false   # schreibt fast nur Stellen in den USA aus, die die Seite ohnehin aussortiert
-  career_url: https://careers.walmart.com/
 
 # ============================================================ Australien & Neuseeland
 - name: BHP
@@ -1041,12 +1032,10 @@
   career_url: https://jobs.edp.com/
 
 - name: Galp
-  ats: browser   # Suchergebnisse werden erst im Browser aufgebaut
-  list_url: https://jobs.galp.com/go/Oportunidades/1335501/
-  job_link: /job/[^/]+/\d+/
-  extra_urls:
-    - https://jobs.galp.com/search/?q=intern&locale=es_ES
-  career_url: https://www.galp.com/corp/en/people
+  ats: successfactors   # neue Oberfläche, Stellen kommen über die SuccessFactors-Schnittstelle
+  url: https://jobs.galp.com
+  suchbegriffe: [intern, internship, estágio, estagiário, prácticas, becario]
+  career_url: https://jobs.galp.com/
 
 # ============================================================ Ergänzt November 2026: übriges Europa
 - name: Ørsted
