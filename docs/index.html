@@ -7,7 +7,7 @@
 <title>Praktikum WS27</title>
 <meta name="description" content="Praktika für BWLer weltweit, mit Visa- und Förder-Infos. Wöchentlich aktualisiert.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230c3b4f'/><circle cx='16' cy='16' r='9' fill='none' stroke='%23f08a24' stroke-width='2.5'/><path d='M7 16h18M16 7c3 3 3 15 0 18M16 7c-3 3-3 15 0 18' fill='none' stroke='%23f08a24' stroke-width='1.6'/></svg>">
-<link rel="stylesheet" href="style.css?v=20261109c">
+<link rel="stylesheet" href="style.css?v=20261109e">
 </head>
 <body>
 <header class="hero">
@@ -90,6 +90,7 @@
 
   <div class="statusbar" id="statusbar" hidden role="group" aria-label="Nach Bewerbungsstatus filtern"></div>
 
+  <aside class="watch-banner" id="watch-banner" hidden aria-label="Neue Stellenhinweise"></aside>
   <p class="count" id="count" aria-live="polite"></p>
 
   <div class="table-wrap">
@@ -119,11 +120,15 @@
   <form method="dialog"><button class="ghost dlg-close" aria-label="Schließen">Schließen</button></form>
 </dialog>
 
+<button type="button" class="to-top" id="to-top" hidden aria-label="Nach oben zu den Filtern">
+  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5.5 11.5 12 5l6.5 6.5"/></svg><span>Nach oben</span>
+</button>
+
 <footer class="wrap foot">
   <p>Alle Angaben ohne Gewähr. Maßgeblich ist immer die Originalanzeige auf der Karriereseite des Unternehmens. „k. A.“ heißt: steht nicht in der Anzeige. Ein Datum mit ≈ ist das Datum, an dem die Stelle hier zuerst erfasst wurde. Visa- und Förderinfos gelten für deutsche Staatsangehörige (Stand <span id="stand">2026</span>) und ersetzen keine Beratung durch Botschaft oder International Office.</p>
   <p><a href="datenschutz.html">Hinweise &amp; Datenschutz</a></p>
 </footer>
 
-<script src="app.js?v=20261109b"></script>
+<script src="app.js?v=20261109d"></script>
 </body>
 </html>

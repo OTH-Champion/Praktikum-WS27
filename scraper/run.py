@@ -70,6 +70,9 @@ def all_companies(company_status: list[dict], jobs_out: list[dict], prev: dict) 
         if name in status:
             s = status[name]
             e = {"name": name, "career_url": career, "ok": s["ok"], "note": s["note"], "aktiv": True}
+            if s.get("beobachtet"):
+                e["beobachtet"] = True
+                e["hinweise"] = s.get("hinweise") or []
         elif c.get("enabled", True) and name in prev_f:
             e = dict(prev_f[name])
         else:
@@ -198,6 +201,12 @@ def main() -> int:
         dbg: dict = {"decisions": []} if args.debug else {}
         t0 = time.time()
         print(f"\n== {name} ==")
+        if comp.get("ats") == "beobachten":  # Firma ohne Stellenliste: Karriereseite auf neue Stellenlinks prüfen
+            from .watch import watch_company
+            st = watch_company(comp, http, state)
+            st["seconds"] = round(time.time() - t0)
+            company_status.append(st)
+            continue
         try:
             ats = comp.get("ats") or detect_ats(comp.get("url", "")) or "browser"
             if ats == "browser":

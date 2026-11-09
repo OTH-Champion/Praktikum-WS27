@@ -291,6 +291,7 @@
     ["alle", "fav", "info"].forEach((t) => $("tab-" + t).setAttribute("aria-selected", String(state.tab === t)));
     $("fav-n").textContent = entries.length;
     $("filters").hidden = state.tab !== "alle";
+    $("watch-banner").hidden = state.tab !== "alle" || !$("watch-banner").innerHTML;
     $("mailbox").hidden = state.tab !== "fav" || !entries.length;
     $("info").hidden = state.tab !== "info";
     $("sources").hidden = state.tab === "info";
@@ -455,10 +456,19 @@
   }
 
   // ---------------------------------------------------------------- Quellen
+  // Firmen ohne Stellenliste: Karriereseite wird beobachtet, neue Stellenlinks erscheinen als Hinweis
+  function watchNote(f) {
+    const h = f.hinweise || [];
+    if (!f.ok) return ` <span class="warn" title="${esc(f.note)}">· Beobachtung fehlgeschlagen</span>`;
+    if (!h.length) return ` <span class="ka" title="Keine Stellenliste vorhanden. Die Karriereseite wird bei jedem Update auf neue Stellenlinks geprüft.">· wird beobachtet</span>`;
+    return ` <span class="watch-hit">· neu auf der Karriereseite: ${h.slice(0, 3).map((x) =>
+      `<a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.text.slice(0, 60))}</a> (seit ${esc(fmtDate(x.seit))})`).join(", ")}</span>`;
+  }
   function renderSources(data) {
     const items = data.firmen.map((f) =>
       `<li><a href="${esc(f.career_url)}" target="_blank" rel="noopener noreferrer">${esc(f.name)}</a> (${f.stellen})` +
       (f.aktiv === false ? ` <span class="ka">· ${esc(f.note || "nicht abrufbar")}</span>`
+        : f.beobachtet ? watchNote(f)
         : f.ok ? "" : ` <span class="warn" title="${esc(f.note)}">· Abruf fehlgeschlagen</span>`) + "</li>").join("");
     $("sources").innerHTML = data.firmen.length ? `<h2>Berücksichtigte Unternehmen</h2><ul>${items}</ul>` : "";
   }
@@ -514,6 +524,12 @@
         + (neuSet.size ? ` · ${neuSet.size} neu seit deinem letzten Besuch` : "")
       : "Noch keine Daten: Der erste automatische Abruf läuft nach dem Eintragen der Firmen.";
     renderSources(data);
+    // Hinweis oben: beobachtete Firmen (ohne Stellenliste) haben neue Links auf ihrer Karriereseite
+    const hits = data.firmen.filter((f) => f.beobachtet && f.ok && (f.hinweise || []).length);
+    $("watch-banner").hidden = !hits.length;
+    $("watch-banner").innerHTML = hits.length ? `<strong>Neu auf beobachteten Karriereseiten</strong> ` +
+      hits.map((f) => `<a href="${esc(f.hinweise[0].url)}" target="_blank" rel="noopener noreferrer">${esc(f.name)}: ${esc(f.hinweise[0].text.slice(0, 50))}</a>`).join(" · ") +
+      `<span class="hint">Diese Firmen haben keine Stellenliste. Bitte die Seite selbst prüfen.</span>` : "";
     const named = data.firmen.filter((f) => f.aktiv !== false && f.stellen > 0).slice(0, 3).map((f) => f.name).join(", ");
     const aktiv = data.firmen.filter((f) => f.aktiv !== false).length;
     $("n-firmen").textContent = aktiv ? `${aktiv} Arbeitgeber${named ? ", z. B. " + named : ""}` : "folgt";
@@ -588,6 +604,27 @@
     if (sentinel && "IntersectionObserver" in window) {
       new IntersectionObserver(([en]) => tabsBar.classList.toggle("is-stuck", !en.isIntersecting && en.boundingClientRect.top < 0))
         .observe(sentinel);
+    }
+    // Nach oben: sichtbar, sobald die Filter aus dem Bild gescrollt sind
+    const toTop = $("to-top");
+    if (toTop) {
+      toTop.hidden = false;
+      const topY = () => (sentinel ? sentinel.getBoundingClientRect().top + window.scrollY : 0);
+      let ticking = false;
+      const update = () => {
+        ticking = false;
+        toTop.classList.toggle("is-visible", window.scrollY > topY() + Math.max(500, window.innerHeight * 0.8));
+      };
+      window.addEventListener("scroll", () => { if (!ticking) { ticking = true; requestAnimationFrame(update); } }, { passive: true });
+      window.addEventListener("resize", update);
+      update();
+      toTop.addEventListener("click", () => {
+        const smooth = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        window.scrollTo({ top: topY(), behavior: smooth ? "smooth" : "auto" });
+        // Fokus nicht auf dem verschwindenden Button lassen (Tastatur), ohne Bildschirmtastatur zu öffnen
+        const sel = tabsBar.querySelector('.tab[aria-selected="true"]');
+        if (sel) sel.focus({ preventScroll: true });
+      });
     }
     tabsBar.addEventListener("click", (e) => {
       const t = e.target.closest(".tab");

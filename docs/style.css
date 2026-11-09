@@ -320,3 +320,33 @@ dialog::backdrop { background: rgba(8, 25, 33, .55); }
   .tabs { gap: 0; }
   .tab { flex: 1 1 0; min-width: 0; padding: 10px 4px; font-size: 14px; white-space: normal; text-align: center; line-height: 1.25; }
 }
+
+/* Nach oben: erscheint erst nach dem Scrollen, führt zurück zu Reitern und Filtern */
+.to-top {
+  position: fixed; z-index: 40; right: max(16px, env(safe-area-inset-right)); bottom: max(18px, env(safe-area-inset-bottom));
+  display: inline-flex; align-items: center; gap: 8px; height: 46px; padding: 0 18px 0 14px;
+  font: inherit; font-size: 14px; font-weight: 700; color: var(--hero-ink); background: var(--hero);
+  border: 1px solid rgba(255, 255, 255, .14); border-radius: 999px; cursor: pointer;
+  box-shadow: 0 10px 24px -8px rgba(8, 25, 33, .55), 0 0 0 3px var(--bg);
+  opacity: 0; transform: translateY(14px) scale(.96); pointer-events: none;
+  transition: opacity .2s ease, transform .2s ease, background-color .15s ease;
+}
+.to-top.is-visible { opacity: 1; transform: none; pointer-events: auto; }
+.to-top svg { width: 18px; height: 18px; fill: none; stroke: var(--warm); stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+.to-top:hover { background: var(--hero-2); }
+.to-top:hover svg { transform: translateY(-1px); }
+.to-top:focus-visible { outline: 2px solid var(--warm); outline-offset: 3px; }
+@media (max-width: 560px) {
+  .to-top { width: 48px; height: 48px; padding: 0; justify-content: center; }
+  .to-top span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .to-top svg { width: 22px; height: 22px; }
+}
+@media (prefers-reduced-motion: reduce) { .to-top { transition: none; } }
+
+/* Beobachtete Karriereseiten */
+.watch-hit { color: var(--visa); }
+.watch-hit a { color: inherit; font-weight: 600; }
+.watch-banner { margin: 16px 0 0; padding: 12px 14px; border: 1px solid var(--line); border-left: 4px solid var(--warm); border-radius: 10px; background: var(--warm-soft); font-size: 14px; line-height: 1.5; }
+.watch-banner strong { display: block; margin-bottom: 2px; }
+.watch-banner a { color: var(--ink); font-weight: 600; }
+.watch-banner .hint { display: block; margin-top: 4px; font-size: 12.5px; color: var(--muted); }

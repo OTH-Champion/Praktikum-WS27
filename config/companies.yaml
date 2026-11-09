@@ -2,6 +2,8 @@
 # --------------------------------
 # Neue Firma: Block kopieren, Name und Adresse der Karriereseite eintragen, "Commit changes".
 # enabled: false  -> Firma wird (vorübergehend) nicht abgefragt, erscheint aber in der Firmenliste.
+# ats: beobachten -> Firma ohne Stellenliste: watch_url wird bei jedem Lauf auf neue Stellenlinks geprüft
+#                    (optional watch_link: eigener Regex). Neue Links erscheinen 30 Tage als Hinweis auf der Seite.
 #
 # Das Feld "ats" sagt, welches Bewerbermanagement-System die Firma nutzt. Bei diesen Systemen
 # reicht die Adresse, alles Weitere passiert automatisch (genaue Daten, kein Browser nötig):
@@ -144,8 +146,11 @@
     max_pages: 30
 
 - name: Lufthansa
-  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript, Anbindung in Arbeit
-  career_url: https://www.lufthansagroup.careers/de/jobsuche
+  ats: browser   # Stellenbörse apply.lufthansagroup.careers (beesite), feste Links je Anzeige
+  career_url: https://www.lufthansagroup.careers/de
+  list_url: https://apply.lufthansagroup.careers/index.php?ac=search_result&language=2
+  job_link: apply\.lufthansagroup\.careers/index\.php\?ac=jobad&id=\d+
+  next_click: 20
 
 - name: Bayer
   enabled: false   # Karriereseite war beim Test im Wartungsmodus
@@ -210,8 +215,10 @@
   career_url: https://jobs.schaeffler.com/
 
 - name: KraussMaffei
-  enabled: false   # Stellen werden nur per JavaScript geladen, Anbindung in Arbeit
-  career_url: https://www.kraussmaffei.com/de/karriere/stellenangebote
+  ats: successfactors
+  url: https://jobs.kraussmaffei.com
+  locale: de_DE
+  career_url: https://jobs.kraussmaffei.com/
 
 - name: Sixt
   ats: smartrecruiters
@@ -224,8 +231,10 @@
   career_url: https://jobboard.osram.com/
 
 - name: MTU Aero Engines
-  enabled: false   # Stellenbörse beim Test nicht gefunden
-  career_url: https://www.mtu.de/de/karriere/
+  ats: browser
+  career_url: https://www.mtu.de/de/karriere/jobboerse/
+  list_url: https://www.mtu.de/de/karriere/jobboerse/
+  job_link: mtu\.de/de/karriere/jobboerse/stellenanzeige/[^/?#]+/?$
 
 - name: Continental
   ats: smartrecruiters
@@ -358,8 +367,9 @@
   job_link: jobs\.verbund\.com/de/jobportal/[^?#]+/[^/?#]{8,}
 
 - name: Bulgarian Energy Holding
-  enabled: false   # keine Online-Stellenbörse
-  career_url: https://bgenh.com/en
+  ats: beobachten   # keine Stellenliste; Karriereseite wird auf neue Stellenlinks geprüft
+  watch_url: https://bgenh.com/en/page/59/Careers.html
+  career_url: https://bgenh.com/en/page/59/Careers.html
 
 - name: UniCredit
   ats: browser
@@ -372,8 +382,9 @@
   career_url: https://www.ina.hr/
 
 - name: HEP
-  enabled: false   # keine Online-Stellenbörse gefunden
-  career_url: https://www.hep.hr/
+  ats: beobachten   # keine Stellenliste; Karriereseite wird auf neue Stellenlinks geprüft
+  watch_url: https://www.hep.hr/ljudski-potencijali/karijera/107
+  career_url: https://www.hep.hr/ljudski-potencijali/karijera/107
 
 - name: Škoda
   ats: successfactors
@@ -452,14 +463,15 @@
   job_link: careers\.ryanair\.com/jobs/[a-z0-9-]+/?$
 
 - name: Eni
-  enabled: false   # jobs.eni.com lässt Verbindungen vom Aktualisierungs-Server nicht zu (Timeout)
-  ats: oracle
-  url: https://jobs.eni.com/en-US/sites/CX_1001
-  career_url: https://www.eni.com/en-IT/careers.html
+  ats: oracle   # aktive Site ist CX_1004; Schnittstelle direkt beim Oracle-Server
+  url: https://jobs.eni.com/en/sites/CX_1004
+  api_host: https://fa-evkm-saasfaprod1.fa.ocs.oraclecloud.com
+  career_url: https://jobs.eni.com/en/sites/CX_1004
 
 - name: Generali
-  enabled: false   # Stellenbörse beim Test nicht gefunden
-  career_url: https://www.generali.com/careers
+  ats: beobachten   # Konzernseite ohne Stellenliste; wird auf neue Stellenlinks geprüft
+  watch_url: https://www.generali.com/people-and-careers/work-with-us
+  career_url: https://www.generali.com/people-and-careers/work-with-us
 
 - name: Ferrero
   ats: browser
@@ -585,8 +597,9 @@
   career_url: https://careers.bhp.com/
 
 - name: Wesfarmers
-  enabled: false   # keine zentrale Stellenbörse (Stellen laufen über die Tochterfirmen)
-  career_url: https://www.wesfarmers.com.au/careers
+  ats: beobachten   # Tochterfirmen rekrutieren selbst; Übersichtsseite wird auf neue Links geprüft
+  watch_url: https://www.wesfarmers.com.au/util/careers/current-opportunities
+  career_url: https://www.wesfarmers.com.au/util/careers/current-opportunities
 
 - name: Coles Group
   ats: phenom
@@ -636,12 +649,17 @@
 
 # ============================================================ Japan & Korea
 - name: Honda
-  enabled: false   # Stellenbörse beim Test nicht gefunden
-  career_url: https://www.honda.de/karriere.html
+  ats: browser
+  career_url: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html
+  list_url: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html
+  job_link: /arbeiten-bei-honda/offene-stellen/[^?#]+
 
 - name: Mitsubishi Electric
-  enabled: false   # Stellenbörse beim Test nicht gefunden
-  career_url: https://www.mitsubishielectric.com/en/careers/
+  ats: successfactors   # nur Spanien: empleo.mitsubishielectric.es (andere Länder haben eigene Portale)
+  url: https://empleo.mitsubishielectric.es
+  locale: es_ES
+  may_be_empty: true
+  career_url: https://empleo.mitsubishielectric.es/
 
 - name: Sony
   ats: workday
@@ -661,8 +679,10 @@
   career_url: https://jobs.hyundai-europe.com/
 
 - name: Kia
-  enabled: false   # Karriereseite beim Test nicht erreichbar
-  career_url: https://www.kia.com/eu/about-kia/careers.html
+  ats: browser   # Stellenliste von HireHive, im Prüflauf einmal 49 und einmal 0 Stellen geladen
+  career_url: https://www.kia.com/eu/about-kia/career/job-opportunities/
+  list_url: https://www.kia.com/eu/about-kia/career/job-opportunities/
+  job_link: kia-europe\.hirehive\.com/[^/?#]+
 
 # ---------------------------------------------------------------- Hotellerie & Gastronomie
 - name: Marriott International
@@ -685,8 +705,10 @@
   career_url: https://careers.ihg.com/
 
 - name: Hyatt
-  enabled: false   # Stellenbörse lädt Stellen nur per JavaScript ohne erkennbare Schnittstelle
-  career_url: https://careers.hyatt.com/
+  ats: browser
+  career_url: https://careers.hyatt.com/en-US/careers/
+  list_url: https://careers.hyatt.com/en-US/careers/search?keyword=intern
+  job_link: careers\.hyatt\.com/[a-z]{2}-[A-Z]{2}/careers/jobdetails/\d+/[A-Z0-9]+
 
 - name: Vapiano
   ats: personio
@@ -717,12 +739,14 @@
   career_url: https://fcbayern.com/de/club/jobs
 
 - name: FC Barcelona
-  enabled: false   # Jobseite beim Test fehlerhaft ("Sorry, an error has occurred")
-  career_url: https://www.fcbarcelona.com/en/club/jobs
+  ats: beobachten   # keine Stellenseite; Clubseite wird auf einen neuen Link zu Stellen geprüft
+  watch_url: https://www.fcbarcelona.com/en/club
+  career_url: https://www.fcbarcelona.com/en/club
 
 - name: Real Madrid
-  enabled: false   # keine öffentliche Stellenbörse gefunden
-  career_url: https://www.realmadrid.com/es-ES/el-club/empleo
+  ats: beobachten   # keine Stellenseite; Startseite wird auf einen neuen Link zu Stellen geprüft
+  watch_url: https://www.realmadrid.com/es-ES
+  career_url: https://www.realmadrid.com/es-ES
 
 - name: Manchester United
   ats: pinpoint
@@ -916,6 +940,7 @@
 - name: Friedrich-Ebert-Stiftung
   ngo: true   # gelockerter BWL-Filter
   ats: browser
+  may_be_empty: true   # Stellenbörse zeigt zeitweise "Keine aktuellen Jobangebote"
   career_url: https://www.fes.de/stellenangebote
   list_url: https://jobs.fes.de/
   job_link: jobs\.fes\.de/jobportal/fes/viewAusschreibung/
@@ -931,8 +956,9 @@
   career_url: https://www.ashoka.org/
 
 - name: Fairtrade Deutschland
-  enabled: false   # keine öffentliche Stellenliste gefunden (Seite leitet auf fairtrade.net um)
-  career_url: https://www.fairtrade.net/de-de.html
+  ats: beobachten   # Karriereseite ohne Stellen; wird auf neue Stellenlinks geprüft
+  watch_url: https://www.fairtrade.net/de-de/meta/Karriere.html
+  career_url: https://www.fairtrade.net/de-de/meta/Karriere.html
 
 - name: Greenpeace Deutschland
   ngo: true   # gelockerter BWL-Filter
@@ -1004,8 +1030,11 @@
   career_url: https://www.acciona.com/our-purpose/work-with-us/job-offers
 
 - name: Redeia (Red Eléctrica)
-  enabled: false   # keine öffentliche Stellenliste gefunden
-  career_url: https://www.redeia.com/
+  ats: successfactors   # Stellenbörse talento.carrerasenred.com
+  url: https://talento.carrerasenred.com
+  locale: es_ES
+  suchbegriffe: [becas, becario, prácticas, intern, internship]
+  career_url: https://talento.carrerasenred.com/
 
 - name: Amadeus
   ats: workday
@@ -1013,8 +1042,11 @@
   career_url: https://amadeus.com/en/careers/overview
 
 - name: Moeve (ehemals Cepsa)
-  enabled: false   # keine öffentliche Stellenliste gefunden
-  career_url: https://www.moeveglobal.com/
+  ats: successfactors   # Stellenbörse jobs.moeveglobal.com
+  url: https://jobs.moeveglobal.com
+  locale: es_ES
+  suchbegriffe: [prácticas, practicas, beca, becario, intern, internship]
+  career_url: https://jobs.moeveglobal.com/
 
 - name: Glovo
   ats: browser
@@ -1039,8 +1071,10 @@
 
 # ============================================================ Ergänzt November 2026: übriges Europa
 - name: Ørsted
-  enabled: false   # Stellenliste nur per Skript ohne erkennbare Schnittstelle
+  ats: browser
   career_url: https://orsted.com/en/careers/vacancies-list
+  list_url: https://orsted.com/en/careers/vacancies-list
+  job_link: orsted\.com/en/careers/vacancies-list/\d{4}/\d{2}/\d+-[^/?#]+
 
 - name: Vestas
   ats: browser   # Suchergebnisse werden erst im Browser aufgebaut
@@ -1126,7 +1160,8 @@
   job_link: gupy\.io/jobs/\d+
 
 - name: Falabella
-  enabled: false   # keine öffentliche Stellenliste gefunden
+  ats: beobachten   # keine Karriereseite gefunden; Startseite wird auf einen neuen Link zu Stellen geprüft
+  watch_url: https://www.falabella.com/falabella-cl
   career_url: https://www.falabella.com/
 
 - name: Cencosud
@@ -1134,8 +1169,10 @@
   career_url: https://www.cencosud.com/trabaja-con-nosotros
 
 - name: Petrobras
-  enabled: false   # Praktika laufen über öffentliche Auswahlverfahren, keine Stellenbörse
-  career_url: https://petrobras.com.br/en/careers
+  ats: beobachten   # Praktika per öffentlicher Ausschreibung (PDF); neue Dokumente werden gemeldet
+  watch_url: https://petrobras.com.br/quem-somos/estagios
+  watch_link: /documents/|\.pdf|edital|sele[cç]|estagi
+  career_url: https://petrobras.com.br/quem-somos/estagios
 
 - name: Natura &Co
   enabled: false   # Stellenbörse beim Test nicht erreichbar
@@ -1185,11 +1222,10 @@
   career_url: https://www.grab.careers/en/jobs/
 
 - name: Sea Group (Shopee)
-  enabled: false   # Stellenliste (Workable, careers.shopee.sg) lädt ohne lesbare Links
-  ats: browser
-  career_url: https://www.sea.com/careers
-  list_url: https://apply.workable.com/shopee-9/
-  job_link: /shopee-9/j/[A-Z0-9]+
+  ats: browser   # Stellenportal career.sea.com (das frühere Workable-Konto hat keine Stellen)
+  career_url: https://career.sea.com/
+  list_url: https://career.sea.com/jobs?keyword=intern
+  job_link: career\.sea\.com/position/J\d+
 
 - name: DBS
   ats: workday
