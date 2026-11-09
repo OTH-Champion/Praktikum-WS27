@@ -49,6 +49,29 @@ TK = {"name", "title", "jobTitle", "job_title", "positionTitle", "postingTitle",
 IK = {"id", "jobId", "job_id", "jobReqId", "reqId", "requisitionId", "displayJobId", "Id", "PostId", "JobId", "slug", "reference"}
 UK = {"url", "jobUrl", "applyUrl", "externalUrl", "link", "href", "PostURL", "canonicalPositionUrl", "positionUrl"}
 JOBLINK = re.compile(r"(job|stelle|position|vacanc|career|karriere|opening)", re.I)
+# Merkmale von Bot-Schutz/Sperrseiten (Text oder Header)
+BLOCK = re.compile(r"(Access Denied|You don't have permission to access|Request unsuccessful\. Incapsula|"
+                   r"Pardon Our Interruption|Just a moment\.\.\.|cf-chl|challenge-platform|captcha|"
+                   r"Attention Required! \| Cloudflare|Sorry, you have been blocked|bot detection|"
+                   r"Reference #\d+\.[0-9a-f]+|errors\.edgesuite\.net|The requested URL was rejected)", re.I)
+# Links, denen der Prüflauf eine Ebene tiefer folgt (Stellenbörse hinter der Karriereseite)
+HOP = re.compile(r"(stellenangebot|stellenbörse|jobsuche|job search|search jobs|find (a )?job|offene stellen|"
+                 r"open positions|vacanc|current openings|job offers|ofertas|empleo|vagas|oportunidades|"
+                 r"all jobs|alle jobs|jobbörse|career opportunities|see jobs|view jobs|explore jobs|search for jobs)", re.I)
+SHOTS = HERE / "shots"
+
+
+def plain_get(url: str) -> dict:
+    """Abruf ohne Browser, wie ihn die Stellen-Adapter machen."""
+    try:
+        r = requests.get(url, timeout=25, allow_redirects=True, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml", "Accept-Language": "de-DE,de;q=0.9,en;q=0.8"})
+        m = BLOCK.search(r.text[:200000])
+        return {"status": r.status_code, "final": r.url, "server": r.headers.get("server", ""),
+                "len": len(r.text), "block": m.group(0) if m else ""}
+    except Exception as e:
+        return {"status": None, "error": f"{e.__class__.__name__}: {str(e)[:120]}"}
 
 
 def slugs(name: str) -> list[str]:
@@ -73,7 +96,7 @@ def api_probe(name: str) -> list[str]:
         }
         for ats, url in tests.items():
             try:
-                r = s.get(url, timeout=10)
+                r = s.get(url, timeout=6)
             except Exception:
                 continue
             if r.status_code != 200:
@@ -119,15 +142,25 @@ def patterns(links):
 
 
 async def visit_multi(browser, name, urls, sem):
-    out = []
-    for u in urls:
-        out.append(await visit(browser, name, u, sem))
+    out, done = [], set()
+    for i, u in enumerate(urls):
+        if u in done:
+            continue
+        done.add(u)
+        r = await visit(browser, name, u, sem, tag=f"{i}")
+        out.append(r)
+        if i == 0:  # der Karriereseite eine Ebene tiefer folgen
+            for j, h in enumerate(r.get("hops", [])[:2]):
+                if h not in done and h not in urls:
+                    done.add(h)
+                    out.append(await visit(browser, name + " (verlinkt)", h, sem, tag=f"h{j}"))
     return out
 
 
-async def visit(browser, name, url, sem):
+async def visit(browser, name, url, sem, tag="0"):
     async with sem:
-        res = {"name": name, "url": url, "final": None, "title": None, "sigs": {}, "links": [], "error": None}
+        res = {"name": name, "url": url, "final": None, "title": None, "sigs": {}, "links": [], "error": None,
+               "status": None, "block": "", "text": "", "plain": await asyncio.to_thread(plain_get, url), "hops": []}
         ctx = await browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
             locale="de-DE",
@@ -165,7 +198,8 @@ async def visit(browser, name, url, sem):
                 jsons.append(f"{len(hits)} Treffer in {resp.url[:150]} | keys={sorted(h)[:14]} | z.B. {str(t)[:60]}")
         page.on("response", on_resp)
         try:
-            await page.goto(url, timeout=90000, wait_until="domcontentloaded")
+            resp = await page.goto(url, timeout=90000, wait_until="domcontentloaded")
+            res["status"] = resp.status if resp else None
             await page.wait_for_timeout(6000)
             for sel in ("#onetrust-reject-all-handler", "#onetrust-accept-btn-handler", "button#CybotCookiebotDialogBodyButtonDecline",
                         "[data-testid='uc-deny-all-button']", "button:has-text('Alle ablehnen')", "button:has-text('Reject all')",
@@ -183,8 +217,23 @@ async def visit(browser, name, url, sem):
             res["final"] = page.url
             res["title"] = await page.title()
             html = await page.content()
-            links = await page.eval_on_selector_all("a[href]", "els => els.map(e => e.href)")
+            pairs = await page.eval_on_selector_all("a[href]", "els => els.map(e => [e.href, (e.innerText || e.getAttribute('aria-label') || '').trim().slice(0, 80)])")
+            links = [h for h, _ in pairs]
             frames = [f.url for f in page.frames]
+            body = await page.evaluate("document.body ? document.body.innerText : ''")
+            res["text"] = re.sub(r"\s+", " ", body)[:600]
+            m = BLOCK.search(html[:300000]) or BLOCK.search(res["title"] or "")
+            res["block"] = m.group(0) if m else ""
+            res["hops"] = [h for h, t in pairs if HOP.search(t + " " + h) and h.startswith("http") and h.split("#")[0] != url
+                           and not h.startswith("mailto")]
+            res["hops"] = list(dict.fromkeys(res["hops"]))[:4]
+            try:
+                SHOTS.mkdir(exist_ok=True)
+                fn = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-") + f"-{tag}.jpg"
+                await page.screenshot(path=str(SHOTS / fn), type="jpeg", quality=45)
+                res["shot"] = f"probe/shots/{fn}"
+            except Exception:
+                pass
         except Exception as e:
             res["error"] = str(e)[:200]
             html, links, frames = "", [], []
@@ -246,7 +295,7 @@ async def main():
         firms = [f for f in firms if f[0] in sys.argv[1:]]
     sem = asyncio.Semaphore(6)
     async with async_playwright() as p:
-        browser = await p.chromium.launch()
+        browser = await p.chromium.launch()  # headless, wie der Stellen-Abruf
         nested = await asyncio.gather(*(visit_multi(browser, n, u, sem) for n, u in firms))
         await browser.close()
     results = [r for grp in nested for r in grp]
@@ -256,7 +305,13 @@ async def main():
     lines = []
     for r in results:
         lines.append(f"## {r['name']}  {r['url']}")
-        lines.append(f"   final: {r['final']}  title: {r['title']}  error: {r['error']}")
+        lines.append(f"   final: {r['final']}  status: {r.get('status')}  title: {r['title']}  error: {r['error']}")
+        lines.append(f"   ohne Browser: {r.get('plain')}")
+        if r.get("block"):
+            lines.append(f"   SPERRE: {r['block']}")
+        lines.append(f"   text: {r.get('text', '')[:400]}")
+        for h in r.get("hops", []):
+            lines.append(f"   folgt: {h}")
         for k, v in r["sigs"].items():
             lines.append(f"   {k}: {v}")
         if r["api"]:

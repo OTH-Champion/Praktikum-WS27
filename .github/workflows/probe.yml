@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898248+github-actions[bot]@users.noreply.github.com"
-          git add probe/result.json probe/result.txt
+          git add probe/result.json probe/result.txt probe/shots
           git commit -m "ATS-Probe Ergebnis" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

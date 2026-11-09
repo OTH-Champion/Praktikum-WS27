@@ -1,7 +1,47 @@
-Acciona|https://www.acciona.com/our-purpose/work-with-us/job-offers|https://www.acciona.com/es/nuestro-proposito/trabaja-con-nosotros/ofertas-de-empleo/
-Mercado Libre|https://careers-meli.mercadolibre.com/en/jobs|https://mercadolibre.eightfold.ai/careers?query=intern
-Sea Group|https://apply.workable.com/shopee-9/|https://careers.shopee.sg/jobs
-Galp|https://jobs.galp.com/search/?q=intern|https://jobs.galp.com/search/?q=est%C3%A1gio
-Vestas|https://careers.vestas.com/search/?q=intern|https://careers.vestas.com/search/?q=student
-Glovo|https://careers.glovoapp.com/jobs-at-glovo/?search=intern|https://careers.glovoapp.com/jobs-at-glovo/
-Enel|https://jobs.enel.com/en_US/careers/SearchJobs/intern|https://jobs.enel.com/es_ES/careers/SearchJobs/?search=becario
+Lufthansa|https://www.lufthansagroup.careers/de/jobsuche
+Bayer|https://career.bayer.com/en/jobs-search
+Linde|https://www.linde.com/careers
+KraussMaffei|https://www.kraussmaffei.com/de/karriere/stellenangebote
+MTU Aero Engines|https://www.mtu.de/de/karriere/
+OMV|https://www.omv.com/en/careers|https://jobs.omv.com
+Bulgarian Energy Holding|https://bgenh.com/en
+INA|https://www.ina.hr/
+HEP|https://www.hep.hr/
+Maersk|https://www.maersk.com/careers/vacancies
+LVMH|https://www.lvmh.com/en/join-us
+BNP Paribas|https://group.bnpparibas/en/careers/all-job-offers
+Eni|https://www.eni.com/en-IT/careers.html|https://jobs.eni.com/en-US/sites/CX_1001
+Generali|https://www.generali.com/careers
+Wesfarmers|https://www.wesfarmers.com.au/careers
+Coles Group|https://colescareers.com.au/|https://colescareers.com.au/au/en/search-results
+Foodstuffs|https://www.foodstuffs.co.nz/
+ASB Bank|https://www.asb.co.nz/about-us/careers.html
+Honda|https://www.honda.de/karriere.html
+Mitsubishi Electric|https://www.mitsubishielectric.com/en/careers/
+Panasonic|https://www.panasonic.com/global/corporate/careers.html
+Kia|https://www.kia.com/eu/about-kia/careers.html
+IHG Hotels & Resorts|https://careers.ihg.com/
+Hyatt|https://careers.hyatt.com/
+FC Bayern München|https://fcbayern.com/de/club/jobs
+FC Barcelona|https://www.fcbarcelona.com/en/club/jobs
+Real Madrid|https://www.realmadrid.com/es-ES/el-club/empleo
+WWF International|https://wwf.panda.org/get_involved/jobs/
+IFAW|https://www.ifaw.org/careers|https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/
+Aktion gegen den Hunger|https://www.aktiongegendenhunger.de/stellenangebote
+Friedrich-Ebert-Stiftung|https://www.fes.de/stellenangebote|https://jobs.fes.de/
+Konrad-Adenauer-Stiftung|https://www.kas.de/de/web/karriere/stellenangebote
+Fairtrade Deutschland|https://www.fairtrade.net/de-de.html
+Iberdrola|https://www.iberdrola.com/talento/ofertas-empleo
+Inditex|https://www.inditexcareers.com/
+Redeia (Red Eléctrica)|https://www.redeia.com/
+Moeve (ehemals Cepsa)|https://www.moeveglobal.com/
+Galp|https://jobs.galp.com/|https://jobs.galp.com
+Ørsted|https://orsted.com/en/careers/vacancies-list
+Schneider Electric|https://www.se.com/ww/en/about-us/careers/job-search/
+Booking.com|https://careers.booking.com/|https://jobs.booking.com/booking/jobs?keywords=intern
+Falabella|https://www.falabella.com/
+Cencosud|https://www.cencosud.com/trabaja-con-nosotros
+Petrobras|https://petrobras.com.br/en/careers
+Natura &Co|https://www.naturaeco.com/
+Globant|https://career.globant.com/
+Sea Group (Shopee)|https://www.sea.com/careers|https://apply.workable.com/shopee-9/
