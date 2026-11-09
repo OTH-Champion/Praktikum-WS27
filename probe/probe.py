@@ -57,7 +57,10 @@ BLOCK = re.compile(r"(Access Denied|You don't have permission to access|Request 
 # Links, denen der Prüflauf eine Ebene tiefer folgt (Stellenbörse hinter der Karriereseite)
 HOP = re.compile(r"(stellenangebot|stellenbörse|jobsuche|job search|search jobs|find (a )?job|offene stellen|"
                  r"open positions|vacanc|current openings|job offers|ofertas|empleo|vagas|oportunidades|"
-                 r"all jobs|alle jobs|jobbörse|career opportunities|see jobs|view jobs|explore jobs|search for jobs)", re.I)
+                 r"all jobs|alle jobs|jobbörse|career opportunities|see jobs|view jobs|explore jobs|search for jobs|"
+                 r"^careers?$|^karriere$|^jobs$|work with us|join us|join our team|trabaja con nosotros|trabaje con nosotros|"
+                 r"trabalhe conosco|carreiras?|karijer|zapošljavanje|posao|ljudski potencijali|apply now|working at|"
+                 r"job opportunities|stellenangebote|empleos?|portal laboral)", re.I)
 SHOTS = HERE / "shots"
 
 
@@ -168,9 +171,13 @@ async def visit(browser, name, url, sem, tag="0"):
         page = await ctx.new_page()
         reqs = []
         jsons = []
+        bad = []
         page.on("request", lambda r: reqs.append(r.url))
+        page.on("requestfailed", lambda r: bad.append(f"FEHLER {r.failure} {r.url[:140]}"))
 
         async def on_resp(resp):
+            if resp.status >= 400:
+                bad.append(f"{resp.status} {resp.url[:140]}")
             try:
                 if "json" not in (resp.headers.get("content-type") or ""):
                     return
@@ -224,7 +231,8 @@ async def visit(browser, name, url, sem, tag="0"):
             res["text"] = re.sub(r"\s+", " ", body)[:600]
             m = BLOCK.search(html[:300000]) or BLOCK.search(res["title"] or "")
             res["block"] = m.group(0) if m else ""
-            res["hops"] = [h for h, t in pairs if HOP.search(t + " " + h) and h.startswith("http") and h.split("#")[0] != url
+            res["alllinks"] = list(dict.fromkeys(f"{t[:50]} -> {h}" for h, t in pairs if h.startswith("http")))[:120]
+            res["hops"] = [h for h, t in pairs if (HOP.search(t.strip()) or HOP.search(h)) and h.startswith("http") and h.split("#")[0] != url
                            and not h.startswith("mailto")]
             res["hops"] = list(dict.fromkeys(res["hops"]))[:4]
             try:
@@ -249,6 +257,8 @@ async def visit(browser, name, url, sem, tag="0"):
         res["links"] = [l for l in seen if re.search(r"\d{4,}|job|stelle|vacanc|position|offer", l, re.I)][:30]
         res["patterns"] = patterns(links)
         res["jsons"] = jsons[:4]
+        res["bad"] = bad[:15]
+        res["nreq"] = len(reqs)
         res["api"] = []
         await ctx.close()
         print(f"fertig: {name} -> {list(res['sigs'])} {res['api']}", flush=True)
@@ -312,6 +322,8 @@ async def main():
         lines.append(f"   text: {r.get('text', '')[:400]}")
         for h in r.get("hops", []):
             lines.append(f"   folgt: {h}")
+        for b in r.get("bad", []):
+            lines.append(f"   antwort: {b}")
         for k, v in r["sigs"].items():
             lines.append(f"   {k}: {v}")
         if r["api"]:
