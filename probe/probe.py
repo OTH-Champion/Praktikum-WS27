@@ -71,8 +71,9 @@ def plain_get(url: str) -> dict:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
             "Accept": "text/html,application/xhtml+xml", "Accept-Language": "de-DE,de;q=0.9,en;q=0.8"})
         m = BLOCK.search(r.text[:200000])
+        hrefs = sorted(set(re.findall(r'href="([^"]*(?:job|offer|stelle|vacanc|position|vaga|oferta)[^"]*\d[^"]*)"', r.text, re.I)))
         return {"status": r.status_code, "final": r.url, "server": r.headers.get("server", ""),
-                "len": len(r.text), "block": m.group(0) if m else ""}
+                "len": len(r.text), "block": m.group(0) if m else "", "jobhrefs": len(hrefs), "beispiele": hrefs[:3]}
     except Exception as e:
         return {"status": None, "error": f"{e.__class__.__name__}: {str(e)[:120]}"}
 
@@ -231,7 +232,7 @@ async def visit(browser, name, url, sem, tag="0"):
             res["text"] = re.sub(r"\s+", " ", body)[:600]
             m = BLOCK.search(html[:300000]) or BLOCK.search(res["title"] or "")
             res["block"] = m.group(0) if m else ""
-            res["alllinks"] = list(dict.fromkeys(f"{t[:50]} -> {h}" for h, t in pairs if h.startswith("http")))[:120]
+            res["alllinks"] = list(dict.fromkeys(f"{t[:50]} -> {h}" for h, t in pairs if h.startswith("http")))[:300]
             res["hops"] = [h for h, t in pairs if (HOP.search(t.strip()) or HOP.search(h)) and h.startswith("http") and h.split("#")[0] != url
                            and not h.startswith("mailto")]
             res["hops"] = list(dict.fromkeys(res["hops"]))[:4]

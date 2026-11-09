@@ -1,34 +1,14 @@
-Lufthansa|https://www.lufthansagroup.careers/de|https://www.lufthansagroup.careers/en
-Linde|https://www.linde.com/
-KraussMaffei|https://www.kraussmaffei.com/de/karriere
-Generali|https://www.generali.com/work-with-us/join-us/job-search
-Honda|https://www.honda.de/
-Kia|https://www.kia.com/eu/about-kia/career/job-opportunities/
-Petrobras|https://petrobras.com.br/en
-Real Madrid|https://www.realmadrid.com/es-ES
-Maersk|https://www.maersk.com/careers/vacancies|https://www.maersk.com/careers
+Wesfarmers|https://www.wesfarmers.com.au/util/careers/current-opportunities
+Foodstuffs|https://foodstuffs.careers/about-us.php
+Honda|https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html
+Petrobras|https://petrobras.com.br/quem-somos/estagios
 LVMH|https://www.lvmh.com/en/join-us/our-job-offers
-Aktion gegen den Hunger|https://www.aktiongegendenhunger.de/stellenangebote|https://careers.actionagainsthunger.org/
-Bulgarian Energy Holding|https://bgenh.com/en
-INA|https://www.ina.hr/
-HEP|https://www.hep.hr/
-Fairtrade Deutschland|https://www.fairtrade.net/de-de.html
-Wesfarmers|https://www.wesfarmers.com.au/careers
-Foodstuffs|https://www.foodstuffs.co.nz/
-Falabella|https://www.falabella.com/falabella-cl
-Sea Group (Shopee)|https://www.sea.com/careers
-FC Barcelona|https://www.fcbarcelona.com/en/club
-Schneider Electric|https://www.se.com/ww/en/about-us/careers/
-ASB Bank|https://www.asb.co.nz/
-Natura &Co|https://naturaeco.com/|https://www.natura.com.br/
-OMV|https://www.omv.com/en|https://jobs.omv.com/search/?q=intern
-Eni|https://jobs.eni.com/en/sites/CX_1004/jobs|https://fa-evkm-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs;siteNumber=CX_1004,keyword=intern,limit=5
-Coles Group|https://colescareers.com.au/au/en/search-results?keywords=intern|https://colescareers.com.au/au/en/search-results?keywords=graduate
-Booking.com|https://jobs.booking.com/booking/jobs
-IFAW|https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/
-Hyatt|https://careers.hyatt.com/en-US/careers/search?keyword=intern
-Globant|https://career.globant.com/
-Cencosud|https://empleos.cencosud.com/
-Petrobras2|https://petrobras.com.br/
-Bayer|https://www.bayer.com/en/career
-Panasonic|https://www.panasonic.com/global/corporate/careers.html
+Sea Group (Shopee)|https://career.sea.com/jobs?keyword=intern|https://career.sea.com/early-careers-internships
+Aktion gegen den Hunger|https://www.aktiongegendenhunger.de/stellenangebote
+Booking.com|https://external-workingatbooking.icims.com/jobs/search?ss=1&searchKeyword=intern
+Coles Group|https://colescareers.com.au/au/en/talent-programs
+Generali|https://www.generali.com/it/people-and-careers/work-with-us
+Natura &Co|https://www.natura.com.br/trabalhe-conosco
+Linde|https://de.lindecareers.com/|https://www.lindecareers.com/en/search-jobs
+Maersk|https://www.maersk.com/careers/vacancies?search=intern
+Schneider Electric|https://www.se.com/ww/en/about-us/careers/overview.jsp|https://www.se.com/de/de/about-us/careers/
