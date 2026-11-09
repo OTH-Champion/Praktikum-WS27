@@ -33,6 +33,25 @@ FREMD = [
     "costa rica", "panama", "ecuador", "bolivia", "paraguay", "venezuela", "guatemala",
     "dominican republic", "puerto rico", "kazakhstan", "macau", "macao",
 ]
+# US-Bundesstaaten (ausgeschrieben); "Houston, Texas" ist damit eindeutig außerhalb des Suchgebiets
+US_STAATEN = [
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado", "connecticut", "delaware", "florida",
+    "hawaii", "idaho", "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana", "maine", "maryland",
+    "massachusetts", "michigan", "minnesota", "mississippi", "missouri", "montana", "nebraska", "nevada",
+    "new hampshire", "new jersey", "new mexico", "new york", "north carolina", "north dakota", "ohio", "oklahoma",
+    "oregon", "pennsylvania", "rhode island", "south carolina", "south dakota", "tennessee", "texas", "utah",
+    "vermont", "virginia", "washington", "west virginia", "wisconsin", "wyoming", "district of columbia",
+]
+US_KUERZEL = set("AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY "
+                 "NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC".split())
+# Alle ISO-3166-Ländercodes: ein Code, der nicht in laender.yaml steht, ist ein Land außerhalb des Suchgebiets
+ISO2 = set("""AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW
+BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR
+GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE
+KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV
+MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC
+SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ
+VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW""".split())
 MEHRERE = re.compile(r"\b(multiple|various|several|mehrere|verschiedene|varias|diversas|v[áa]rias)\b", re.I)
 REMOTE = re.compile(r"\b(remote|home ?office|work from home|fully remote|teletrabajo|remoto)\b", re.I)
 NOISE = re.compile(r"\b(hybrid|on-?site|office|headquarters|hq|campus|metropolitan area|area|region|"
@@ -69,7 +88,7 @@ class Geo:
         for disp, code in STADT_LAND.items():
             self.city_country.setdefault(disp, code)
             self.city_alias.setdefault(fold(disp), disp)
-        self.fremd = {fold(x) for x in FREMD}
+        self.fremd = {fold(x) for x in FREMD + US_STAATEN}
         self.multi_word.sort(key=lambda x: -len(x[0].pattern))
         self.iso3 = {fold(n): code for code, c in self.laender.items() for n in (c.get("namen") or [])
                      if len(n) == 3 and n.isupper()}
@@ -100,6 +119,8 @@ class Geo:
                     return "XX"
                 if code in self.laender and not has_us:
                     return code
+                if code in ISO2 or code in US_KUERZEL:  # bekanntes Land/US-Staat außerhalb des Suchgebiets
+                    return "XX"
                 return None if not found else found
             if len(raw) == 3 and raw.isupper() and fold(raw) in self.iso3:
                 return self.iso3[fold(raw)]
@@ -111,7 +132,7 @@ class Geo:
         grams = [" ".join(toks[i:i + 2]) for i in range(len(toks) - 1)] + toks
         city = code = None
         for g in grams:
-            if len(g) < 4:
+            if len(g) < 4 and g != "usa":
                 continue
             if not city and g in self.city_alias and self.city_alias[g] in self.city_country:
                 city = self.city_alias[g]
@@ -242,4 +263,6 @@ class Geo:
             konkret = {o["land"] for o in ok if o["stadt"] != "k. A."}
             ok = [o for o in ok if o["stadt"] != "k. A." or o["land"] not in konkret]
             return ok, "ok"
-        return [], "fremd" if fremd and not unknown else "unbekannt"
+        if fremd:  # mind. ein Ort eindeutig außerhalb der Zielregionen
+            return [], "fremd" if not unknown else "teils fremd"
+        return [], "unbekannt"

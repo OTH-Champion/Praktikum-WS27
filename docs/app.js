@@ -2,7 +2,7 @@
   const $ = (id) => document.getElementById(id);
   const KEYS = ["kont", "stadt", "firma", "von", "bis", "dauer", "datum", "q", "sf"];
   const LISTS = ["land", "fach"];
-  const FLAGS = ["ohneVisum", "erasmus", "ausland", "neu"];
+  const FLAGS = ["ohneVisum", "erasmus", "ausland", "neu", "nurOrt"];
   const state = { tab: "alle", ohneStart: true };
   KEYS.forEach((k) => (state[k] = ""));
   LISTS.forEach((k) => (state[k] = []));
@@ -57,7 +57,8 @@
   const val = (v) => (!v || v === "k. A." ? ka : esc(v));
   const land = (c) => L.laender[c] || { name: c, kontinent: "", visum: true, erasmus: false };
   const ortText = (o) => (o.stadt && o.stadt !== "k. A." && o.stadt !== land(o.land).name ? `${o.stadt}, ${land(o.land).name}` : land(o.land).name);
-  const orteText = (j) => (j.offline ? j.ortFallback || "" : j.orte.map(ortText).join(" / "));
+  const ORT_UNBEKANNT = "Ort unbekannt";
+  const orteText = (j) => (j.offline ? j.ortFallback || "" : j.orte.length ? j.orte.map(ortText).join(" / ") : ORT_UNBEKANNT);
   const erasmusOk = (c) => land(c).erasmus === true || land(c).erasmus === "2027";
   const MONATE = ["Jan", "Feb", "Mär", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"];
   const monthLabel = (ym) => { const [y, m] = ym.split("-"); return `${MONATE[+m - 1]} ${y}`; };
@@ -116,7 +117,10 @@
   let msLand, msFach;
 
   // ---------------------------------------------------------------- Filter
+  // Ortsfilter aktiv? Dann lassen sich Stellen ohne erkannten Ort nicht zuordnen und fallen heraus.
+  const geoFilter = (st) => !!(st.kont || st.land.length || st.stadt || st.ausland || st.ohneVisum || st.erasmus);
   function ortePassend(j, st = state) {
+    if (!j.orte.length) return st.nurOrt || geoFilter(st) ? [] : [{ unbekannt: true }];
     return j.orte.filter((o) =>
       (!st.kont || land(o.land).kontinent === st.kont) &&
       (!st.land.length || st.land.includes(o.land)) &&
@@ -238,6 +242,7 @@
 
   function ortCell(j) {
     if (j.offline) return `<div class="ort">${esc(j.ortFallback || "")}</div>`;
+    if (!j.orte.length) return `<div class="ort ort-unbekannt" title="Die Anzeige nennt keinen Ort, den die Seite zuordnen kann. Bitte in der Originalanzeige prüfen.">${ORT_UNBEKANNT}</div>`;
     const show = j.orte.slice(0, 3);
     const more = j.orte.length - show.length;
     return show.map((o) => `<div class="ort"><button type="button" class="land-link" data-land="${esc(o.land)}" title="Visa- und Förderinfos zu ${esc(land(o.land).name)}">${esc(ortText(o))}</button><span class="tags">${badges(o.land)}</span></div>`).join("")
@@ -289,11 +294,14 @@
     $("mailbox").hidden = state.tab !== "fav" || !entries.length;
     $("info").hidden = state.tab !== "info";
     $("sources").hidden = state.tab === "info";
-    const chipKey = { "c-ohnevisum": "ohneVisum", "c-erasmus": "erasmus", "c-ohnestart": "ohneStart", "c-ausland": "ausland", "c-neu": "neu" };
+    const chipKey = { "c-ohnevisum": "ohneVisum", "c-erasmus": "erasmus", "c-ohnestart": "ohneStart", "c-ausland": "ausland", "c-neu": "neu", "c-nurort": "nurOrt" };
     Object.entries(chipKey).forEach(([id, k]) => $(id).setAttribute("aria-pressed", String(state[k])));
     $("c-ohnestart").hidden = !(state.von || state.bis);
     $("c-neu").hidden = !neuSet.size;
     $("neu-n").textContent = neuSet.size;
+    const nUnbekannt = jobs.filter((j) => !j.orte.length).length;
+    $("c-nurort").hidden = !nUnbekannt && !state.nurOrt;
+    $("unbekannt-n").textContent = nUnbekannt;
   }
 
   // ---------------------------------------------------------------- Leere Ergebnisse erklären
@@ -311,6 +319,7 @@
     if (state.dauer) add(state.dauer === "streng" ? "Gesamtdauer mind. 20 Wochen" : "Gesamtdauer mind. 20 Wochen (inkl. k. A.)", (s) => (s.dauer = ""));
     if (state.datum) add(`Veröffentlicht: letzte ${state.datum} Tage`, (s) => (s.datum = ""));
     if (state.ausland) add("Nur Ausland", (s) => (s.ausland = false));
+    if (state.nurOrt) add("Nur Stellen mit bekanntem Ort", (s) => (s.nurOrt = false));
     if (state.neu) add("Neu seit letztem Besuch", (s) => (s.neu = false));
     if (state.ohneVisum) add("Kein Visum nötig", (s) => (s.ohneVisum = false));
     if (state.erasmus) add("Erasmus+-förderfähig", (s) => (s.erasmus = false));
@@ -574,11 +583,23 @@
       saveStatus(); saveFavs(); saveSnaps();
       render();
     });
-    document.querySelector(".tabs").addEventListener("click", (e) => {
+    const tabsBar = document.querySelector(".tabs"), sentinel = $("tabs-sentinel");
+    // Leiste klebt oben: Schatten und kleines Logo einblenden
+    if (sentinel && "IntersectionObserver" in window) {
+      new IntersectionObserver(([en]) => tabsBar.classList.toggle("is-stuck", !en.isIntersecting && en.boundingClientRect.top < 0))
+        .observe(sentinel);
+    }
+    tabsBar.addEventListener("click", (e) => {
       const t = e.target.closest(".tab");
       if (!t) return;
+      const changed = state.tab !== t.dataset.tab;
       state.tab = t.dataset.tab;
       render();
+      // weiter unten gewechselt: neue Ansicht direkt unter der Leiste beginnen lassen
+      if (changed && sentinel) {
+        const y = sentinel.getBoundingClientRect().top + window.scrollY;
+        if (window.scrollY > y) window.scrollTo({ top: y });
+      }
     });
     window.addEventListener("storage", (e) => {
       if (![FAV_KEY, STATUS_KEY, SNAP_KEY].includes(e.key)) return;
@@ -601,7 +622,7 @@
     $("q").addEventListener("input", (e) => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = e.target.value; render(); }, 150); });
     const toggle = (id, key, geo) => $(id).addEventListener("click", () => { state[key] = !state[key]; if (geo) refreshGeoSelects(); render(); });
     toggle("c-ohnevisum", "ohneVisum"); toggle("c-erasmus", "erasmus"); toggle("c-ohnestart", "ohneStart");
-    toggle("c-ausland", "ausland", true); toggle("c-neu", "neu");
+    toggle("c-ausland", "ausland", true); toggle("c-neu", "neu"); toggle("c-nurort", "nurOrt");
     $("reset").addEventListener("click", resetFilters);
 
     $("mailform").addEventListener("submit", (e) => {

@@ -82,8 +82,38 @@ h1 { margin: 0; font-size: clamp(30px, 5vw, 46px); line-height: 1.08; letter-spa
 @media (max-width: 760px) { .facts { grid-template-columns: 1fr 1fr; } }
 
 /* Reiter */
-/* fest: kein seitliches Scrollen/Wischen der Leiste, alle drei Reiter passen immer in die Breite */
-.tabs { display: flex; gap: 4px; margin: 0 0 14px; border-bottom: 1px solid var(--line); overflow: visible; touch-action: pan-y; }
+/* Die Leiste bleibt beim Scrollen oben stehen (immer Zugriff auf Favoriten),
+   lässt sich auf dem Handy nicht seitlich wischen, und alle drei Reiter passen immer in die Breite. */
+html { scroll-padding-top: 72px; }
+body { overflow-x: clip; } /* für den randlosen Hintergrund der Leiste; "clip" lässt position: sticky intakt */
+.tabs {
+  position: sticky; top: 0; z-index: 30;
+  display: flex; align-items: flex-end; gap: 4px; margin: 0 0 14px; padding-top: 6px;
+  border-bottom: 1px solid var(--line); overflow: visible; touch-action: pan-y;
+}
+/* randloser, leicht durchscheinender Hintergrund über die ganze Fensterbreite */
+.tabs::before {
+  content: ""; position: absolute; z-index: -1; top: 0; bottom: -1px; left: calc(50% - 50vw); right: calc(50% - 50vw);
+  background: var(--bg); border-bottom: 1px solid transparent;
+  transition: box-shadow .2s ease, background-color .2s ease, border-color .2s ease;
+}
+@supports ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
+  .tabs::before { background: color-mix(in srgb, var(--bg) 84%, transparent); -webkit-backdrop-filter: saturate(1.5) blur(12px); backdrop-filter: saturate(1.5) blur(12px); }
+}
+.tabs.is-stuck::before { border-bottom-color: var(--line); box-shadow: 0 10px 22px -16px rgba(12, 30, 40, .45); }
+/* kleines Logo links, erscheint erst, wenn die Leiste oben klebt (nur auf breiten Bildschirmen) */
+.tabs-brand {
+  display: none; align-items: center; gap: 8px; margin-right: 10px; padding: 0 0 12px; font-weight: 800; font-size: 15px;
+  letter-spacing: -.01em; color: var(--ink); white-space: nowrap; opacity: 0; transform: translateY(4px);
+  transition: opacity .2s ease, transform .2s ease;
+}
+.tabs-brand svg { width: 22px; height: 22px; flex: none; }
+.tabs-brand::after { content: ""; width: 1px; height: 18px; margin-left: 12px; background: var(--line); }
+@media (min-width: 761px) {
+  .tabs-brand { display: inline-flex; width: 0; margin-right: 0; overflow: hidden; }
+  .tabs.is-stuck .tabs-brand { width: auto; margin-right: 6px; opacity: 1; transform: none; }
+}
+.tabs-sentinel { height: 1px; margin-bottom: -1px; }
 .tab {
   display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 10px 14px; margin-bottom: -1px; white-space: nowrap;
   font: inherit; font-size: 15px; font-weight: 600; color: var(--muted); background: none; cursor: pointer;
@@ -204,6 +234,8 @@ table.jobs { width: 100%; border-collapse: collapse; }
 .c-title { min-width: 220px; }
 .c-ort { min-width: 190px; }
 .ort + .ort { margin-top: 8px; }
+.ort-unbekannt { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); font-style: italic; cursor: help; }
+.ort-unbekannt::before { content: "?"; display: inline-grid; place-items: center; width: 16px; height: 16px; border-radius: 50%; font-size: 11px; font-style: normal; font-weight: 700; background: var(--chip); color: var(--muted); }
 .land-link { padding: 0; font: inherit; font-size: 14px; color: var(--ink); background: none; border: 0; border-bottom: 1px dashed var(--muted); cursor: pointer; text-align: left; }
 .land-link:hover { color: var(--accent); border-bottom-color: var(--accent); }
 .tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
@@ -242,7 +274,7 @@ table.jobs { width: 100%; border-collapse: collapse; }
 .foerder > li { background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--warm); border-radius: 10px; padding: 10px 12px; }
 .foerder > li > strong { display: block; }
 .foerder > li > span { display: block; color: var(--muted); font-size: 14px; margin-top: 2px; }
-.info aside { position: sticky; top: 12px; }
+.info aside { position: sticky; top: 76px; }
 
 /* Dialog */
 dialog { width: min(640px, calc(100vw - 32px)); max-height: calc(100vh - 48px); border: 1px solid var(--line); border-radius: 16px; padding: 22px 22px 16px; background: var(--surface); color: var(--ink); box-shadow: 0 20px 60px rgba(0, 0, 0, .25); }

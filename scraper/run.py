@@ -92,8 +92,9 @@ def evaluate(job: dict, comp: dict, geo: Geo, settings: dict) -> tuple[dict | No
     orte, status = geo.resolve(locs, hints)
     if not orte and status != "fremd" and comp.get("ort_aus_titel"):  # z. B. UNICEF: Ort steht nur im Titel
         orte, status = geo.resolve([job["title"]], None)
-    if not orte:
+    if not orte and status != "unbekannt":  # nur eindeutig fremde Orte schließen aus
         return None, f"Ort {status}: {'; '.join(job.get('locations') or [])[:80]}"
+    # Ort nicht erkennbar: Stelle bleibt drin (orte = []), die Website zeigt "Ort unbekannt"
     text = job.get("text") or ""
     ok, lang = textinfo.language_ok(f"{job['title']}\n{text}", settings["sprachen"])
     if not ok:
@@ -173,6 +174,8 @@ def main() -> int:
     ap.add_argument("--only", nargs="*", help="Nur diese Firmen")
     ap.add_argument("--list-only", action="store_true", help="Nur Stellenlisten lesen (Test), nichts speichern")
     ap.add_argument("--reclassify", action="store_true", help="Bereits bewertete Stellen neu bewerten")
+    ap.add_argument("--recheck-rejected", action="store_true",
+                    help="Nur bisher aussortierte Stellen neu bewerten (z. B. nach geänderten Regeln)")
     args = ap.parse_args()
 
     settings = load_settings()
@@ -233,7 +236,7 @@ def main() -> int:
                     state["jobs"][url]["last_seen"] = today
                     active_urls.add(url)
                     continue
-                if url in state["rejected"] and not args.reclassify:
+                if url in state["rejected"] and not (args.reclassify or args.recheck_rejected):
                     state["rejected"][url] = today
                     continue
                 if n_detail >= MAX_DETAILS_PER_COMPANY:
@@ -272,7 +275,7 @@ def main() -> int:
                 state["jobs"][url] = entry
                 active_urls.add(url)
                 added += 1
-                print(f"  + {c['title'][:70]} [{', '.join(o['stadt'] + ' ' + o['land'] for o in entry['orte'])}; "
+                print(f"  + {c['title'][:70]} [{', '.join(o['stadt'] + ' ' + o['land'] for o in entry['orte']) or 'Ort unbekannt'}; "
                       f"{entry['fachbereich']}; {entry['dauer']}; {entry['stunden']}; Start {entry['start']}]")
             if st["found"] == 0 and not comp.get("may_be_empty"):
                 st["ok"] = False

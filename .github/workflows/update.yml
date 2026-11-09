@@ -24,6 +24,10 @@ on:
         description: "Test: nur Stellenlisten lesen, nichts veröffentlichen"
         type: boolean
         default: false
+      recheck_rejected:
+        description: "Bisher aussortierte Stellen neu bewerten (nach geänderten Regeln)"
+        type: boolean
+        default: false
       reclassify:
         description: "Alle Stellen neu bewerten"
         type: boolean
@@ -66,12 +70,14 @@ jobs:
         env:
           IN_DEBUG: ${{ inputs.debug }}
           IN_RECLASSIFY: ${{ inputs.reclassify }}
+          IN_RECHECK: ${{ inputs.recheck_rejected }}
           IN_LIST_ONLY: ${{ inputs.list_only }}
           IN_ONLY: ${{ inputs.only }}
         run: |
           ARGS=()
           [ "$IN_DEBUG" = "true" ] && ARGS+=(--debug)
           [ "$IN_RECLASSIFY" = "true" ] && ARGS+=(--reclassify)
+          [ "$IN_RECHECK" = "true" ] && ARGS+=(--recheck-rejected)
           [ "$IN_LIST_ONLY" = "true" ] && ARGS+=(--list-only)
           if [ -n "$IN_ONLY" ]; then read -ra ONLY <<< "$IN_ONLY"; ARGS+=(--only "${ONLY[@]}"); fi
           python -m scraper.run "${ARGS[@]}" 2>&1 | tee data/last_run.log
