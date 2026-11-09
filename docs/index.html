@@ -7,7 +7,7 @@
 <title>Praktikum WS27</title>
 <meta name="description" content="Praktika für BWLer weltweit, mit Visa- und Förder-Infos. Wöchentlich aktualisiert.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230c3b4f'/><circle cx='16' cy='16' r='9' fill='none' stroke='%23f08a24' stroke-width='2.5'/><path d='M7 16h18M16 7c3 3 3 15 0 18M16 7c-3 3-3 15 0 18' fill='none' stroke='%23f08a24' stroke-width='1.6'/></svg>">
-<link rel="stylesheet" href="style.css?v=20261109e">
+<link rel="stylesheet" href="style.css?v=20261109f">
 </head>
 <body>
 <header class="hero">
@@ -108,12 +108,22 @@
     <p class="empty-title">Keine Praktika passen zu deinen Filtern.</p>
     <div class="empty-help" id="empty-help"></div>
   </div>
-  <p class="empty" id="empty-fav" hidden>Noch keine Favoriten. Markiere Praktika mit dem Stern ☆, dann findest du sie hier gesammelt, kannst einen Bewerbungsstatus vergeben und sie dir per Mail schicken. Favoriten und Status werden nur in diesem Browser gespeichert.</p>
+  <p class="empty" id="empty-fav" hidden>Noch keine Favoriten. Markiere Praktika mit dem Stern ☆ oder vergib einen Bewerbungsstatus, dann findest du sie hier gesammelt und kannst sie dir per Mail schicken. Favoriten und Status werden nur in diesem Browser gespeichert.</p>
 
   <section class="info" id="info" hidden aria-label="Visa und Förderung"></section>
 
   <section class="sources" id="sources" aria-label="Unternehmen"></section>
 </main>
+
+<div class="st-info" id="st-info" role="note" hidden>
+  <p><strong>Nur in diesem Browser gespeichert</strong></p>
+  <ul>
+    <li>Gilt nur auf diesem Gerät und in diesem Browser</li>
+    <li>Weg nach Löschen der Browserdaten oder im privaten Modus</li>
+    <li>Safari löscht ihn nach ca. 7 Tagen ohne Besuch</li>
+    <li>Nur du siehst ihn, nichts wird übertragen</li>
+  </ul>
+</div>
 
 <dialog id="land-dialog" aria-labelledby="dlg-title">
   <div class="dlg-body" id="dlg-body"></div>
@@ -129,6 +139,6 @@
   <p><a href="datenschutz.html">Hinweise &amp; Datenschutz</a></p>
 </footer>
 
-<script src="app.js?v=20261109d"></script>
+<script src="app.js?v=20261109e"></script>
 </body>
 </html>

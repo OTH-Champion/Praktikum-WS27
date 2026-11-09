@@ -37,12 +37,21 @@
 
   const STATUS = [
     ["", "Kein Status"],
-    ["beworben", "Beworben"],
-    ["gespraech", "Im Gespräch"],
-    ["zusage", "Zusage"],
+    ["interessant", "Interessant"],
+    ["bewerben", "Bewerben!"],
+    ["warten", "Rückmeldung ausstehend"],
     ["absage", "Absage"],
   ];
   const statusName = (s) => (STATUS.find(([k]) => k === s) || ["", ""])[1];
+  // alte Statuswerte (bis 09.11.2026) auf die neuen abbilden, damit nichts verloren geht
+  const ALT_STATUS = { beworben: "warten", gespraech: "warten", zusage: "warten" };
+  (() => {
+    let changed = false;
+    Object.values(status).forEach((v) => {
+      if (v && ALT_STATUS[v.s]) { v.s = ALT_STATUS[v.s]; changed = true; }
+    });
+    if (changed) saveStatus();
+  })();
 
   // ---------------------------------------------------------------- Hilfen
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -263,6 +272,7 @@
     const opts = STATUS.map(([k, l]) => `<option value="${k}"${(cur.s || "") === k ? " selected" : ""}>${esc(l)}</option>`).join("");
     return `<div class="st-row"><label class="sr" for="st-${esc(j.link)}">Bewerbungsstatus</label>
       <select class="status${cur.s ? " st-" + cur.s : ""}" id="st-${esc(j.link)}" data-link="${esc(j.link)}">${opts}</select>
+      <button type="button" class="st-i" aria-label="Wo wird der Status gespeichert?" aria-controls="st-info" aria-expanded="false">i</button>
       ${cur.s && cur.d ? `<span class="hint">seit ${fmtDate(cur.d)}</span>` : ""}</div>`;
   }
 
@@ -275,7 +285,7 @@
       <tr${j.offline ? ' class="offline"' : ""}>
         <td class="c-title"><div class="c-row">
           <button type="button" class="fav" data-link="${esc(j.link)}" aria-pressed="${on}" aria-label="${label}: ${esc(j.titel)}" title="${label}">${on ? "★" : "☆"}</button>
-          <div class="c-text"><div class="title">${esc(j.titel)}${tags ? ` <span class="tags tags-inline">${tags}</span>` : ""}</div><div class="company">${esc(j.firma)}${j.arbeitsmodell && j.arbeitsmodell !== "k. A." ? " · " + esc(j.arbeitsmodell) : ""}</div>${on ? statusCell(j) : ""}</div>
+          <div class="c-text"><div class="title">${esc(j.titel)}${tags ? ` <span class="tags tags-inline">${tags}</span>` : ""}</div><div class="company">${esc(j.firma)}${j.arbeitsmodell && j.arbeitsmodell !== "k. A." ? " · " + esc(j.arbeitsmodell) : ""}</div>${statusCell(j)}</div>
         </div></td>
         <td class="c-ort" data-l="Ort">${ortCell(j)}</td>
         <td data-l="Fachbereich">${val(j.fachbereich)}</td>
@@ -549,7 +559,40 @@
       render();
     }
 
+    // Info zum Status: ein gemeinsames Popover für alle „i“-Buttons
+    const stInfo = $("st-info");
+    let stBtn = null;
+    function closeStInfo(focus) {
+      if (!stBtn) return;
+      stInfo.hidden = true;
+      stBtn.setAttribute("aria-expanded", "false");
+      if (focus) stBtn.focus();
+      stBtn = null;
+    }
+    function placeStInfo() {
+      if (!stBtn) return;
+      if (!stBtn.isConnected) { closeStInfo(); return; }
+      const r = stBtn.getBoundingClientRect(), w = stInfo.offsetWidth, h = stInfo.offsetHeight;
+      const left = Math.min(Math.max(16, r.left + r.width / 2 - w / 2), window.innerWidth - w - 16);
+      const below = r.bottom + 8 + h <= window.innerHeight - 8;
+      stInfo.style.left = `${left}px`;
+      stInfo.style.top = `${below ? r.bottom + 8 : Math.max(8, r.top - 8 - h)}px`;
+    }
+    function openStInfo(btn) {
+      closeStInfo();
+      stBtn = btn;
+      btn.setAttribute("aria-expanded", "true");
+      stInfo.hidden = false;
+      placeStInfo();
+    }
+    window.addEventListener("scroll", placeStInfo, { passive: true });
+    window.addEventListener("resize", placeStInfo);
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeStInfo(true); });
+
     document.body.addEventListener("click", (e) => {
+      const si = e.target.closest(".st-i");
+      if (si) { if (stBtn === si) closeStInfo(); else openStInfo(si); return; }
+      if (stBtn && !e.target.closest("#st-info")) closeStInfo();
       const fav = e.target.closest(".fav");
       if (fav) {
         const link = fav.dataset.link;
@@ -591,11 +634,15 @@
       const sel = e.target.closest("select.status");
       if (!sel) return;
       const link = sel.dataset.link;
-      if (sel.value) status[link] = { s: sel.value, d: today() };
-      else delete status[link];
-      favs.add(link);
-      const j = byLink.get(link);
-      if (j) snapshot(j);
+      if (sel.value) {
+        status[link] = { s: sel.value, d: today() };
+        favs.add(link);   // Stellen mit Status landen automatisch in den Favoriten
+        const j = byLink.get(link);
+        if (j) snapshot(j);
+      } else {
+        delete status[link];
+        if (!favs.has(link)) delete snaps[link];
+      }
       saveStatus(); saveFavs(); saveSnaps();
       render();
     });
