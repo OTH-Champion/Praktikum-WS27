@@ -1,47 +1,1061 @@
 [
  {
-  "name": "Acciona",
-  "url": "https://www.acciona.com/our-purpose/work-with-us/job-offers",
-  "final": "https://www.acciona.com/our-purpose/work-with-us/job-offers",
-  "title": "Work at ACCIONA: Job offers | ACCIONA | Business as unusual",
+  "name": "Lufthansa",
+  "url": "https://www.lufthansagroup.careers/de/jobsuche",
+  "final": "https://www.lufthansagroup.careers/de/jobsuche",
+  "title": "Lufthansa Group Careers",
   "sigs": {
-   "workday": [
-    "acciona/wd3/ACCIONA_Employment_Channel"
-   ],
-   "phenom": [
-    "/widgets"
+   "beesite": [
+    "beesite"
    ]
   },
   "links": [
-   "https://www.acciona.com/our-purpose/work-with-us/job-offers#main",
-   "https://www.acciona.com/our-purpose/work-with-us/job-offers",
-   "https://acciona.wd3.myworkdayjobs.com/en-US/ACCIONA_Employment_Channel/userHome",
-   "https://www.acciona.com/our-purpose/work-with-us/job-detail?id=20096788",
-   "https://www.acciona.com/our-purpose/work-with-us/job-detail?id=20098071",
-   "https://www.acciona.com/our-purpose/work-with-us/job-detail?id=20098357",
-   "https://www.acciona.com/our-purpose/work-with-us/job-detail?id=20098581",
-   "https://www.acciona.com/our-purpose/work-with-us/job-detail?id=20098583",
-   "https://www.acciona.com/our-purpose/work-with-us/job-detail?id=20098586",
-   "https://www.acciona.com/our-purpose/work-with-us/job-detail?id=20099743",
-   "https://www.acciona.com/our-purpose/work-with-us/job-detail?id=20100444",
-   "https://www.acciona.com/our-purpose/work-with-us/job-detail?id=20101249"
+   "https://blog.lufthansagroup.careers/?pk_vid=ab411debab509ce31785771379c6a7d0"
   ],
   "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Zum Inhalt Zum Filtermenü Zur Navigation Zum Ende der Seite Stellenmarkt Mein Account DE English Sorry - wir haben Ihre gewünschte Seite leider nicht gefunden. Eventuell handelt es sich um einen veralteten oder falschen Link, vielleicht haben wir die betroffene Seite auch verschoben oder gelöscht. Hier können Sie sich anhand verschiedener Kriterien die Inhalte zusammenstellen, die Sie interessieren: Starts Be-Lufthansa.com Social Media Facebook LinkedIn Youtube Instagram TikTok Lufthansa Blog Datenschutz Impressum Nutzungsbedingungen FAQs fly big. Zum Anfang der Seite Zum Filtermenü Zur Naviga",
+  "plain": {
+   "status": 200,
+   "final": "https://www.lufthansagroup.careers/de/jobsuche",
+   "server": "Apache",
+   "len": 29695,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/lufthansa-0.jpg",
   "patterns": [
-   "21x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/",
-   "18x www.acciona.com/our-purpose/[^/]+/job-detail  e.g. https://www.acciona.com/our-purpose/work-with-us/job-detail?id=20096788",
-   "7x legal.hubspot.com/privacy-policy  e.g. https://legal.hubspot.com/privacy-policy?__hstc=177103482.b98338418a59f88be0c7882b19117e6c.1793895175150.1793895175150.1793895175150.1&__hssc=177103482.1.1793895175150&__hsfp=5780c6cccd4cc35ab2e2f239492d5612",
-   "7x twitter.com/en/privacy  e.g. https://twitter.com/en/privacy",
-   "7x www.tiktok.com/legal/privacy-policy  e.g. https://www.tiktok.com/legal/privacy-policy?lang=en"
+   "7x www.lufthansagroup.careers/de/\\d+Page  e.g. https://www.lufthansagroup.careers/de/404Page#jump-to-main-content"
+  ],
+  "jsons": [
+   "42 Treffer in https://api.lufthansagroup.careers/rest/get-objects-from-selected-tags/staticpage?cache=1790155137235 | keys=['linktext', 'maincontent', 'title', 'url'] | z.B. Datenschutzinformationen",
+   "42 Treffer in https://api.lufthansagroup.careers/rest/get-objects-from-selected-tags/staticpage?cache=1790155137235 | keys=['linktext', 'maincontent', 'title', 'url'] | z.B. Datenschutzinformationen"
+  ],
+  "api": []
+ },
+ {
+  "name": "Bayer",
+  "url": "https://career.bayer.com/en/jobs-search",
+  "final": "https://www.bayer.com/en/career/en/jobs-search",
+  "title": "Site Maintenance",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 403,
+  "block": "",
+  "text": "Your bot have been rated as a harmful activity and will be blocked to prevent potential damage, please get in touch with support team: to start registration process of a harmless bot. Please supply bot IP address: 20.115.229.173 and error code: 0.cd0e2017.1794229799.af9a09c7.",
+  "plain": {
+   "status": 403,
+   "final": "https://www.bayer.com/en/career/en/jobs-search",
+   "server": "AkamaiGHost",
+   "len": 9671,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/bayer-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Linde",
+  "url": "https://www.linde.com/careers",
+  "final": "https://www.linde.com/careers",
+  "title": "404 Page Not Found | Linde",
+  "sigs": {},
+  "links": [
+   "https://www.linde.com/sustainability/policies-and-position-statements",
+   "https://www.linde.com/sustainability/policies-and-position-statements/sustainable-development-and-climate-change-position-statement",
+   "https://www.linde.com/sustainability/policies-and-position-statements/human-rights-policy",
+   "https://www.linde.com/sustainability/policies-and-position-statements/ecosystem-position-statement",
+   "https://www.linde.com/sustainability/policies-and-position-statements/water-position-statement",
+   "https://www.linde.com/sustainability/policies-and-position-statements/chemicals-of-concern",
+   "https://www.linde.com/sustainability/policies-and-position-statements/ghg-emissions-recalculation-policy",
+   "https://www.linde.com/sustainability/policies-and-position-statements/responsible-animal-testing-policy",
+   "https://www.linde.com/sustainability/policies-and-position-statements/linde-gmbh-general-statement",
+   "https://www.linde.com/sustainability/policies-and-position-statements/linde-gmbh-general-statement-german",
+   "https://www.linde.com/sustainability/policies-and-position-statements/supply-chain-due-diligence-questionnaire",
+   "https://www.linde.com/sustainability/policies-and-position-statements/global-artificial-intelligence-policy"
+  ],
+  "error": null,
+  "status": 404,
+  "block": "",
+  "text": "Skip to main content Corporate FAQ Contact Us Careers Global Locations About Us Clean Energy Sustainability Investors News & Media 404 Page Not Found We are sorry, the page you are looking for is no longer available. Let's get you back on track. Visit our homepage to find what you are looking for. Go to our homepage Welcome to our world We are a global company, with operations spanning more than 80 countries. Global Locations Making our world more productive Cookie Settings Privacy Notice Imprint Terms of Use © Linde PLC 2018 - 2026",
+  "plain": {
+   "status": 404,
+   "final": "https://www.linde.com/careers",
+   "server": "",
+   "len": 526023,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/linde-0.jpg",
+  "patterns": [
+   "15x www.linde.com/sustainability/[^/]+/[^/]+  e.g. https://www.linde.com/sustainability/policies-and-position-statements/sustainable-development-and-climate-change-position-statement",
+   "9x www.linde.com/sustainability/[^/]+  e.g. https://www.linde.com/sustainability/policies-and-position-statements",
+   "5x www.linde.com/about-us/[^/]+  e.g. https://www.linde.com/about-us/frequently-asked-questions",
+   "4x www.linde.com/clean-energy/[^/]+  e.g. https://www.linde.com/clean-energy/our-h2-expertise",
+   "3x www.linde.com/global-locations  e.g. https://www.linde.com/global-locations"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Acciona",
-  "url": "https://www.acciona.com/es/nuestro-proposito/trabaja-con-nosotros/ofertas-de-empleo/",
-  "final": "https://www.acciona.com/es/nuestro-proposito/trabaja-con-nosotros/ofertas-de-empleo",
-  "title": "404",
+  "name": "KraussMaffei",
+  "url": "https://www.kraussmaffei.com/de/karriere/stellenangebote",
+  "final": "https://www.kraussmaffei.com/de/karriere/stellenangebote",
+  "title": "KraussMaffei Group - Industrial Manufacturing Solutions",
+  "sigs": {},
+  "links": [
+   "https://www.kraussmaffei.com/de/karriere/stellenangebote#",
+   "https://www.kraussmaffei.com/de/karriere/stellenangebote#content",
+   "https://www.kraussmaffei.com/de/karriere#open-positions",
+   "https://www.kraussmaffei.com/de/karriere/stellenangebote"
+  ],
+  "error": null,
+  "status": 404,
+  "block": "",
+  "text": "Skip to main content KraussMaffei Unternehmen Karriere Presse Kundenportal AHEAD-Blog Digitale Lösungen Branchen Vertrieb Service Ansprechpartner Spritzgießtechnik Reaktionstechnik Extrusionstechnik Automation Seite nicht gefunden Die von Ihnen aufgerufene Seite scheint nicht zu existieren. Versuchen Sie es später noch einmal oder kontaktieren Sie den Support. Unternehmen Karriere Presse Kundenportal Suche Branchen Service Hinweisgebersystem Kontakt Impressum Datenschutz Cyberschutz (CRA) Weitere KraussMaffei-Unternehmen Burgsmüller Pultrex ©2026 KraussMaffei Group GmbH. Alle Rechte vorbehalte",
+  "plain": {
+   "status": 404,
+   "final": "https://www.kraussmaffei.com/de/karriere/stellenangebote",
+   "server": "nginx",
+   "len": 866605,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/kraussmaffei-0.jpg",
+  "patterns": [
+   "62x www.kraussmaffei.com/de/karriere/stellenangebote  e.g. https://www.kraussmaffei.com/de/karriere/stellenangebote#",
+   "20x www.kraussmaffei.com/de/spritzgiesstechnik/spritzgie%C3%9Fverfahren  e.g. https://www.kraussmaffei.com/de/spritzgiesstechnik/spritzgie%C3%9Fverfahren",
+   "19x www.kraussmaffei.com/de/unsere-verfahren/[^/]+  e.g. https://www.kraussmaffei.com/de/unsere-verfahren/inmold-labeling-iml",
+   "15x www.kraussmaffei.com/de/produkte/[^/]+  e.g. https://www.kraussmaffei.com/de/produkte/lrxplus-twin-linear-robot",
+   "10x www.kraussmaffei.com/de/service/Vertrieb20und20Service20weltweit  e.g. https://www.kraussmaffei.com/de/service/Vertrieb20und20Service20weltweit"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "MTU Aero Engines",
+  "url": "https://www.mtu.de/de/karriere/",
+  "final": "https://www.mtu.de/de/karriere/",
+  "title": "Karriere - MTU Aero Engines",
+  "sigs": {},
+  "links": [
+   "https://www.mtu.de/de/karriere/jobboerse/"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "Zur Hauptnavigation springen Zum Seiteninhalt springen Zum Seitenfooter springen 351,00 € +1,24% DE EN Über uns Verantwortung Engines Maintenance Innovation Investoren Karriere Newsroom Home »Karriere Ihre Zukunft bei der MTU beginnt genau hier Wir sind über 14.000. An 20 Standorten weltweit. Jedes dritte Flugzeug fliegt mit unserer Technologie. Und wir arbeiten jeden Tag daran, dass es noch mehr werden. Noch besser, noch stärker. Noch nachhaltiger. Nicht nur für morgen und übermorgen, sondern für die kommenden Generationen. Dafür beschäftigen wir die besten Mitarbeiter:innen der Welt. Mensche",
+  "plain": {
+   "status": 200,
+   "final": "https://www.mtu.de/de/karriere/",
+   "server": "Apache",
+   "len": 482109,
+   "block": "captcha"
+  },
+  "hops": [
+   "https://www.mtu.de/de/karriere/jobboerse/"
+  ],
+  "shot": "probe/shots/mtu-aero-engines-0.jpg",
+  "patterns": [
+   "22x www.mtu.de/de/karriere/  e.g. https://www.mtu.de/de/karriere/#mainnav",
+   "19x www.mtu.de/de/engines/  e.g. https://www.mtu.de/de/engines/",
+   "15x www.mtu.de/de/ueber-uns/mtu-weltweit/[^/]+/  e.g. https://www.mtu.de/de/ueber-uns/mtu-weltweit/mtu-aero-engines/",
+   "15x www.mtu.de/de/maintenance/zivile-maintenance/[^/]+/  e.g. https://www.mtu.de/de/maintenance/zivile-maintenance/mtuplus-intelligent-solutions/",
+   "13x www.mtu.de/de/investoren/  e.g. https://www.mtu.de/de/investoren/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "MTU Aero Engines (verlinkt)",
+  "url": "https://www.mtu.de/de/karriere/jobboerse/",
+  "final": "https://www.mtu.de/de/karriere/jobboerse/s/all/all/all/all/",
+  "title": "Jobbörse - MTU Aero Engines",
+  "sigs": {},
+  "links": [
+   "https://www.mtu.de/de/karriere/jobboerse/s/all/all/all/all/#mainnav",
+   "https://www.mtu.de/de/karriere/jobboerse/s/all/all/all/all/#mainContent",
+   "https://www.mtu.de/de/karriere/jobboerse/s/all/all/all/all/#pageFooter",
+   "https://www.mtu.de/de/karriere/jobboerse/s/all/ludwigsfelde_ger/all/professionals/?cHash=c17eaf905e2d3805b259c405c7de4764",
+   "https://www.mtu.de/careers/online-job-market/s/all/ludwigsfelde_ger/all/professionals/?cHash=c17eaf905e2d3805b259c405c7de4764",
+   "https://www.mtu.de/de/karriere/jobboerse/",
+   "https://www.mtu.de/de/karriere/jobboerse/s/all/all/all/all/#",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schnupperstudium-sommerferien-2027/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schnupperstudium-osterferien-2027/",
+   "https://www.mtu.de/careers/online-job-market/job-posting/supply-chain-analyst/",
+   "https://www.mtu.de/careers/online-job-market/job-posting/project-manager-all-genders/",
+   "https://www.mtu.de/careers/online-job-market/job-posting/purchasing-specialist-indirect-maternity-cover-all-genders/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-projektmanagement-all-genders/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/sachbearbeiter-exportkontrolle-all-genders/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkfeuerwehrkraft-all-genders/",
+   "https://www.mtu.de/careers/online-job-market/job-posting/inspector-of-aircraft-engine-parts-all-genders/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/industriemechaniker-fokus-metallbau-fertigung-buerstendichtungen-all-genders/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/customer-account-manager-igt-all-genders/",
+   "https://www.mtu.de/careers/online-job-market/job-posting/production-planner/",
+   "https://www.mtu.de/careers/online-job-market/job-posting/trade-compliance-analyst/",
+   "https://www.mtu.de/careers/online-job-market/job-posting/intern-customer-account-manager/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/zerspanungsfachkraft-all-genders-3/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-data-science-/-data-engineering-all-genders/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-08022027-12022027/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-01022027-05022027/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/schuelerpraktikum-oberflaechenbeschichtung-30032027-02042027/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/qualitaetspruefer-all-genders/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/hr-integration-manager-all-genders/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/learning-manager-all-genders/",
+   "https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/praktikum-produktionsplanung-und-steuerung-all-genders/"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "Zur Hauptnavigation springen Zum Seiteninhalt springen Zum Seitenfooter springen 350,90 € +1,21% DE EN Über uns Verantwortung Engines Maintenance Innovation Investoren Karriere Newsroom Home »Karriere »Jobbörse Jobbörse Unsere Jobbörse hält eine breite Auswahl an Stellenangeboten für Sie bereit. Egal, wonach Sie suchen – hier finden Sie garantiert die passende Position. Geben Sie einfach ein Stichwort ein, wählen Sie eine Kategorie, einen Standort und eine Zielgruppe aus. Sie können alle Felder ausfüllen, nur eines oder auch gar keines – unsere Jobbörse hilft Ihnen dabei, entweder gezielt zu I",
+  "plain": {
+   "status": 200,
+   "final": "https://www.mtu.de/de/karriere/jobboerse/",
+   "server": "Apache",
+   "len": 1646017,
+   "block": "captcha"
+  },
+  "hops": [],
+  "shot": "probe/shots/mtu-aero-engines-verlinkt-h0.jpg",
+  "patterns": [
+   "228x www.mtu.de/de/karriere/jobboerse/stellenanzeige/[^/]+/  e.g. https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-projektmanagement-all-genders/",
+   "49x www.mtu.de/careers/[^/]+/job-posting/[^/]+/  e.g. https://www.mtu.de/careers/online-job-market/job-posting/supply-chain-analyst/",
+   "19x www.mtu.de/de/engines/  e.g. https://www.mtu.de/de/engines/",
+   "18x www.mtu.de/de/karriere/jobboerse/stellenanzeige/[^/]+/[^/]+/  e.g. https://www.mtu.de/de/karriere/jobboerse/stellenanzeige/werkstudent-data-science-/-data-engineering-all-genders/",
+   "15x www.mtu.de/de/ueber-uns/mtu-weltweit/[^/]+/  e.g. https://www.mtu.de/de/ueber-uns/mtu-weltweit/mtu-aero-engines/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "OMV",
+  "url": "https://www.omv.com/en/careers",
+  "final": "https://www.omv.com/en/careers",
+  "title": "Error | OMV.com",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 404,
+  "block": "",
+  "text": "Sorry we could not find your requested page Maybe the page doesn't exist anymore, changed its name or is temporarily unavailable. Please go to our Startpage to find the information you are looking for or use our Search. Leider ist diese Seite nicht verfügbar Möglicherweise existiert diese nicht mehr, oder es wurde der Name geändert, oder die Seite ist vorübergehend nicht verfügbar. Bitte navigieren Sie zu unserer Startseite oder verwenden Sie bitte unsere Suche. +43 1 40440-0 Contact us © 2026 OMV Aktiengesellschaft Accessibility Data protection Imprint & Legal Notice",
+  "plain": {
+   "status": 404,
+   "final": "https://www.omv.com/en/careers",
+   "server": "",
+   "len": 11792,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/omv-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "OMV",
+  "url": "https://jobs.omv.com",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.omv.com/\", waiting until \"domcontentloaded\"\n",
+  "status": null,
+  "block": "",
+  "text": "",
+  "plain": {
+   "status": null,
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='jobs.omv.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTT"
+  },
+  "hops": [],
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Bulgarian Energy Holding",
+  "url": "https://bgenh.com/en",
+  "final": "https://bgenh.com/en",
+  "title": "Bulgarian Energy Holding EAD",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "This website uses \"cookies\" to ensure that you get the best experience on our website. Learn more I agree ABOUT BEH PROJECTS PORTFOLIO INVESTORS CAREERS NEWS PROCEDURES CONTACTS EN BG EN In connection with numerous reports received regarding frequent publications on the Internet and social networks, through which the suggestion to carry out commercial and investment activity on behalf of Bulgarian Energy Holding is aimed, the management of the Holding categorically states that the disseminated information is misleading and false. Current and reliable information about the activities and initia",
+  "plain": {
+   "status": 200,
+   "final": "https://bgenh.com/en",
+   "server": "Apache",
+   "len": 55026,
+   "block": "captcha"
+  },
+  "hops": [],
+  "shot": "probe/shots/bulgarian-energy-holding-0.jpg",
+  "patterns": [
+   "6x bgenh.com/en/page/51/Overview.html  e.g. https://bgenh.com/en/page/51/Overview.html",
+   "5x bgenh.com/en/posts/\\d+/[^/]+  e.g. https://bgenh.com/en/posts/475/The-registration-process-for-Holding-Maritsa-Iztok-EAD-has-been-completed.html",
+   "4x bgenh.com/en/page/45/IGB.html  e.g. https://bgenh.com/en/page/45/IGB.html",
+   "3x bgenh.com/en/page/39/About-BEH.html  e.g. https://bgenh.com/en/page/39/About-BEH.html",
+   "3x bgenh.com/en/page/40/History.html  e.g. https://bgenh.com/en/page/40/History.html"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "INA",
+  "url": "https://www.ina.hr/",
+  "final": "https://www.ina.hr/",
+  "title": "Naslovnica - INA, d.d.",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "Postavke kolačića Ova web stranica koristi kolačiće. Kolačić je mala tekstualna datoteka u izvornom kodu web stranice koja web stranici omogućuje slanje informacija na korisnikov uređaj za pregledavanje ili preglednik te pristup podacima koje kolačić pohranjuje na korisnikovom uređaju za pregledavanje. Više informacija o tome kako kolačići funkcioniraju i kako ih koristimo, kao i informacije o promjeni jednom zadanih postavki kolačića možete pronaći ovdje. Obavezni kolačići Uvijek omogućeno Statistički kolačići Odbaci sve Spremi postavke Prihvati sve O kompaniji Profil kompanije Povijest INA G",
+  "plain": {
+   "status": 200,
+   "final": "https://www.ina.hr/",
+   "server": "nginx/1.18.0 (Ubuntu)",
+   "len": 178835,
+   "block": "captcha"
+  },
+  "hops": [],
+  "shot": "probe/shots/ina-0.jpg",
+  "patterns": [
+   "16x www.ina.hr/odrzivi-razvoj/[^/]+/[^/]+/  e.g. https://www.ina.hr/odrzivi-razvoj/ina-i-odrzivost/upravljanje-or-u-ini/",
+   "12x www.ina.hr/odrzivi-razvoj/[^/]+/  e.g. https://www.ina.hr/odrzivi-razvoj/ina-i-odrzivost/",
+   "12x www.ina.hr/[^/]+/  e.g. https://www.ina.hr/trazilica-benzinskih-postaja/",
+   "11x www.ina.hr/o-kompaniji/temeljne-djelatnosti/[^/]+/[^/]+/  e.g. https://www.ina.hr/o-kompaniji/temeljne-djelatnosti/istrazivanje-i-proizvodnja-nafte-i-plina/laboratorij-istrazivanja-i-proizvodnje-nafte-i-plina/",
+   "9x www.ina.hr/kupci/za-vozace/[^/]+/  e.g. https://www.ina.hr/kupci/za-vozace/ponuda-na-maloprodajnim-mjestima/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "HEP",
+  "url": "https://www.hep.hr/",
+  "final": "https://www.hep.hr/",
+  "title": "HEP grupa - Naslovna",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": " Projekt je sufinancirala Europska unija iz Europskog fonda za regionalni razvoj - više... Projekti HEP grupe sufinancirani iz fondova EU - više... Investitori Nabava Nekretnine Mediji Pristup informacijama Ljudski potencijali Zaštita podataka Kontakt EN KUPCI O HEP GRUPI PROJEKTI ODRŽIVOST I OKOLIŠ DRUŠTVENA ODGOVORNOST DRUŠTVA HEP GRUPE INVESTITORI NABAVA NEKRETNINE MEDIJI PRISTUP INFORMACIJAMA LJUDSKI POTENCIJALI ZAŠTITA PODATAKA KONTAKT KUPCI O HEP GRUPI PROJEKTI ODRŽIVOST I OKOLIŠ DRUŠTVENA ODGOVORNOST DRUŠTVA HEP GRUPE Dostava računa e-mailom Odaberite opskrbljivača s kojim ste u ugovorn",
+  "plain": {
+   "status": 200,
+   "final": "https://www.hep.hr/",
+   "server": "Microsoft-IIS/10.0",
+   "len": 45705,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/hep-0.jpg",
+  "patterns": [
+   "63x www.hep.hr/[^/]+/[^/]+/\\d+  e.g. https://www.hep.hr/o-hep-grupi/clanstva-hep-grupe/180",
+   "13x www.hep.hr/projekti/[^/]+/\\d+  e.g. https://www.hep.hr/projekti/projekti-iz-eu-fondova/3599",
+   "9x www.hep.hr/projekti/[^/]+/[^/]+/\\d+  e.g. https://www.hep.hr/projekti/obnovljivi-izvori-energije/poziv-za-iskaz-interesa-oie/3405",
+   "9x www.hep.hr/drustvena-odgovornost/[^/]+/\\d+  e.g. https://www.hep.hr/drustvena-odgovornost/prijava-nepravilnosti-u-hep-u-d-d/3903",
+   "4x www.hep.hr/ljudski-potencijali/[^/]+/\\d+  e.g. https://www.hep.hr/ljudski-potencijali/o-ljudskim-potencijalima/106"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Maersk",
+  "url": "https://www.maersk.com/careers/vacancies",
+  "final": "https://www.maersk.com/careers/vacancies",
+  "title": "Vacancies | Careers at Maersk",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "",
+  "plain": {
+   "status": 200,
+   "final": "https://www.maersk.com/careers/vacancies",
+   "server": "",
+   "len": 38552,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/maersk-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "LVMH",
+  "url": "https://www.lvmh.com/en/join-us",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lvmh.com/en/join-us\nCall log:\n  - navigating to \"https://www.lvmh.com/en/join-us\", waiting until \"domcontentloaded\"\n",
+  "status": null,
+  "block": "",
+  "text": "",
+  "plain": {
+   "status": 200,
+   "final": "https://www.lvmh.com/en/join-us",
+   "server": "",
+   "len": 1971804,
+   "block": ""
+  },
+  "hops": [],
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "BNP Paribas",
+  "url": "https://group.bnpparibas/en/careers/all-job-offers",
+  "final": "https://group.bnpparibas/en/careers/all-job-offers",
+  "title": "Access Denied",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 403,
+  "block": "Access Denied",
+  "text": "Access Denied You don't have permission to access \"http://group.bnpparibas/en/careers/all-job-offers\" on this server. Reference #18.ee72cd17.1794229823.12cf9656 https://errors.edgesuite.net/18.ee72cd17.1794229823.12cf9656",
+  "plain": {
+   "status": 403,
+   "final": "https://group.bnpparibas/en/careers/all-job-offers",
+   "server": "AkamaiGHost",
+   "len": 407,
+   "block": "Access Denied"
+  },
+  "hops": [],
+  "shot": "probe/shots/bnp-paribas-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Eni",
+  "url": "https://www.eni.com/en-IT/careers.html",
+  "final": "https://www.eni.com/en-IT/careers.html",
+  "title": "Careers | Eni",
+  "sigs": {},
+  "links": [
+   "https://www.eni.com/en-IT/careers/job-opportunities.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/onboarding.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/international.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/ambassador.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/versalis.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/enilive.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/plenitude.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/eniprogetti.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/technology-research-development-digital.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/eni-trade-biofuels.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/professional-areas/careers-with-eni-mexico.html",
+   "https://jobs.eni.com/en/sites/CX_1004/",
+   "https://jobs.eni.com/en-US/sites/CX_1001/job/34082",
+   "https://jobs.eni.com/en-US/sites/CX_1001/job/33945",
+   "https://jobs.eni.com/en-US/sites/CX_1001/job/33169",
+   "https://jobs.eni.com/en-US/sites/CX_1001/job/33439",
+   "https://jobs.eni.com/en-US/sites/CX_1001/job/33846",
+   "https://jobs.eni.com/en-US/sites/CX_1001/job/33845",
+   "https://jobs.eni.com/en-US/sites/CX_1001/job/33988",
+   "https://jobs.eni.com/en-US/sites/CX_1001/job/33701",
+   "https://jobs.eni.com/en-US/sites/CX_1001/job/34106",
+   "https://www.eni.com/en-IT/careers/job-offers-fraud.html",
+   "https://jobs.eni.com/en/sites/CX_1004/job/30001?keyword=join%20us&mode=location"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Skip to main content Publications Global Presence REGIONS Africa Americas Asia and Oceania Europe EN Search SEARCH Or discover EnergIA, our new artificial intelligence tool. COMPANY COMPANY Go to Our history Brand identity Diversity & Inclusion Business model Organisational chart Management Eni's main subsidiaries Creating long-term value Discover who we are and learn about the governance and business model that guide the creation of value for all our stakeholders. Explore the section HIGHLIGHT Explore the business model that supports our strategy and drives business development, innovation an",
+  "plain": {
+   "status": 200,
+   "final": "https://www.eni.com/en-IT/careers.html",
+   "server": "",
+   "len": 484279,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/eni-0.jpg",
+  "patterns": [
+   "10x www.eni.com/en-IT/governance/[^/]+  e.g. https://www.eni.com/en-IT/governance/corporate-governance-report.html",
+   "9x jobs.eni.com/en-US/sites/CX_\\d+/job/\\d+  e.g. https://jobs.eni.com/en-US/sites/CX_1001/job/34082",
+   "8x www.eni.com/en-IT/governance/[^/]+/[^/]+  e.g. https://www.eni.com/en-IT/governance/controls-and-risks/compilance-program-consumer-protection-green-claims.html",
+   "8x www.eni.com/en-IT/[^/]+  e.g. https://www.eni.com/en-IT/terms-and-conditions.html",
+   "7x www.eni.com/en-IT/careers.html  e.g. https://www.eni.com/en-IT/careers.html#skipToMainContent"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Eni",
+  "url": "https://jobs.eni.com/en-US/sites/CX_1001",
+  "final": "https://jobs.eni.com/en/sites/CX_1004",
+  "title": "EniJobs Careers",
+  "sigs": {
+   "oracle": [
+    "fa-evkm-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/CandidateExperience/en/siteSettings/CX_1004",
+    "fa-evkm-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/CandidateExperience/en/sites/CX_1004/page/3001?statusCode=ORA_ACTIVE",
+    "fa-evkm-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/CandidateExperience/globalSettings",
+    "fa-evkm-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/CandidateExperience/translations?language=en",
+    "fa-evkm-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=fl",
+    "fa-evkm-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCESites/CX_1004/child/pages?q=StatusCode="
+   ]
+  },
+  "links": [
+   "https://jobs.eni.com/en/sites/CX_1004#main",
+   "https://jobs.eni.com/en/sites/CX_1004/",
+   "https://jobs.eni.com/sitemaps/sitemapIndex",
+   "https://jobs.eni.com/en/sites/CX_1004/my-profile/sign-in",
+   "https://jobs.eni.com/en/sites/CX_1004/jobs",
+   "https://jobs.eni.com/en/sites/CX_1004/jobs?lastSelectedFacet=POSTING_DATES&selectedPostingDatesFacet=30",
+   "https://jobs.eni.com/en/sites/CX_1004/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000076088574",
+   "https://jobs.eni.com/en/sites/CX_1004/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000076088294",
+   "https://jobs.eni.com/en/sites/CX_1004/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000717033344",
+   "https://jobs.eni.com/en/sites/CX_1004/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000762784873",
+   "https://jobs.eni.com/en/sites/CX_1004/jobs?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000076088296",
+   "https://jobs.eni.com/en/sites/CX_1001/requisitions?lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000468816",
+   "https://jobs.eni.com/en/sites/CX_1001/requisitions?lastSelectedFacet=LOCATIONS&selectedLocationsFacet=300000000468675%3B300000000468516%3B300000000479197%3B300000000479182%3B300000000468633%3B300000000468957",
+   "https://jobs.eni.com/en/sites/CX_1001/requisitions?lastSelectedFacet=LOCATIONS&selectedLocationsFacet=300000000468861%3B300000000468525%3B300000000468630%3B300000000468801%3B300000000468789%3B300000000468924%3B300000000479080%3B300000000479146%3B300000000479206%3B300000000468681%3B300000000468489%3B300000000468555%3B300000000468810%3B300000000468807%3B300000000479002%3B300000000479047",
+   "https://jobs.eni.com/en/sites/CX_1001/requisitions?lastSelectedFacet=LOCATIONS&selectedLocationsFacet=300000000468717%3B300000000468546%3B300000000468984%3B300000000468786%3B300000000468792%3B300000000468753%3B300000000468501%3B300000000468522%3B300000000468780%3B300000000468651%3B300000000468663%3B300000000468657%3B300000000468690%3B300000000468711%3B300000000479038%3B300000000468987%3B300000000468615%3B300000000468906%3B300000000479173",
+   "https://jobs.eni.com/en/sites/CX_1001/requisitions?lastSelectedFacet=LOCATIONS&selectedLocationsFacet=300000000468978%3B300000000468672%3B300000000468510%3B300000000468963%3B300000000468612%3B300000000468618%3B300000000468714%3B300000000468732%3B300000000468831%3B300000000468897%3B300000000479227%3B300000000479152%3B300000000468894%3B300000000468612",
+   "https://jobs.eni.com/en/sites/CX_1004/requisitions/preview/30001/?keyword=join+us&mode=location",
+   "https://www.eni.com/en-IT/careers/job-opportunities/versalis.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/enilive.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/technology-research-development-digital.html",
+   "https://www.eni.com/en-IT/careers/job-opportunities/plenitude.html",
+   "https://jobs.eni.com/en/sites/CX_1004/pages/64003",
+   "https://jobs.eni.com/en/sites/CX_1004/pages/64011"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Skip to main content. MY PROFILE A world of professional opportunities FIND A NEW JOB Job title, skill, keyword LOCATION (NEAREST) Town, City, Country ALL JOBS (91) NEW JOBS (62) ACCOUNTING AND FINANCIAL STATEMENTS (7) FINANCE (4) PLANT OPERATIONAL MANAGEMENT (4) DEVELOPMENT PROJECT CONTROL (4) PROCUREMENT (3) Eni's activities across the world Explore by region and discover career opportunities in the countries where Eni operates. SUBMIT YOUR CV FOR FUTURE OPPORTUNITIES Working at Eni The world of Eni includes many different companies and sectors. Find the roles that suit you best. Working at ",
+  "plain": {
+   "status": null,
+   "error": "SSLError: HTTPSConnectionPool(host='jobs.eni.com', port=443): Max retries exceeded with url: /en-US/sites/CX_1001 (Caused by SSLEr"
+  },
+  "hops": [
+   "https://jobs.eni.com/en/sites/CX_1004/jobs"
+  ],
+  "shot": "probe/shots/eni-1.jpg",
+  "patterns": [
+   "7x jobs.eni.com/en/sites/CX_\\d+/jobs  e.g. https://jobs.eni.com/en/sites/CX_1004/jobs",
+   "5x jobs.eni.com/en/sites/CX_\\d+/requisitions  e.g. https://jobs.eni.com/en/sites/CX_1001/requisitions?lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000468816"
+  ],
+  "jsons": [
+   "3 Treffer in https://fa-evkm-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=flexFieldsFacet.values | keys=['href', 'kind', 'name', 'rel'] | z.B. recruitingCEJobRequisitions"
+  ],
+  "api": []
+ },
+ {
+  "name": "Generali",
+  "url": "https://www.generali.com/careers",
+  "final": "https://www.generali.com/careers",
+  "title": "PAGE NOT FOUND ! - Generali Group",
+  "sigs": {},
+  "links": [
+   "https://www.generali.com/work-with-us/join-us/job-search",
+   "https://www.generali.com/who-we-are/global-positioning",
+   "https://www.generali.com/who-we-are/global-positioning/insurance-division",
+   "https://www.generali.com/who-we-are/global-positioning/asset-management",
+   "https://www.generali.com/who-we-are/global-positioning/wealth-management",
+   "https://www.generali.com/investors/debt-ratings/debt-composition-and-maturity"
+  ],
+  "error": null,
+  "status": 404,
+  "block": "",
+  "text": "Navigate On Generali.Com shortcut to press release shortcut to financial figures shortcut to financial calendar shortcut to Generali stock shortcut to career go to HomePage go to search go to map go to Italian version go to English version Main content WHERE WE ARE GENERALI STORIES BOLLETTINO STRATEGIC PLAN DOWNLOAD CENTER CONTACT US ITA WHO WE ARE WHAT WE DO SUSTAINABILITY PEOPLE & CAREERS INVESTORS MEDIA GOVERNANCE SEARCH PAGE NOT FOUND ! PAGE NOT FOUND ! The page you're looking for can't be found. Follow the stories on our social networks Sign up for our Newsletter! SUBSCRIBE Receive all th",
+  "plain": {
+   "status": 404,
+   "final": "https://www.generali.com/careers",
+   "server": "JBoss-EAP/7",
+   "len": 106757,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/generali-0.jpg",
+  "patterns": [
+   "136x www.generali.com/careers  e.g. https://www.generali.com/careers#mainnav",
+   "28x www.generali.com/[^/]+/[^/]+/[^/]+  e.g. https://www.generali.com/who-we-are/Strategic-Plan-Lifetime-Partner-27/Excellence-in-Core-Capabilities",
+   "22x www.generali.com/governance/[^/]+/[^/]+  e.g. https://www.generali.com/governance/corporate-governance-system/articles-of-association",
+   "20x www.generali.com/[^/]+/[^/]+  e.g. https://www.generali.com/who-we-are/Strategic-Plan-Lifetime-Partner-27",
+   "17x www.generali.com/governance/[^/]+  e.g. https://www.generali.com/governance/corporate-governance-system"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Wesfarmers",
+  "url": "https://www.wesfarmers.com.au/careers",
+  "final": "https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers",
+  "title": "Working at Wesfarmers",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Search Wesfarmers Enter a search term  WHO WE ARE OUR BUSINESSES INVESTORS SUSTAINABILITY NEWS & MEDIA CAREERS CONTACT ONLINE SCAMS WORKING AT WESFARMERS Wesfarmers seeks to attract, retain and develop outstanding people, where everyone has access to opportunities based on merit. We know that through diverse teams and inclusive cultures we can achieve our objective of satisfactory returns to shareholders over the long term. Wesfarmers recognises that while great assets and strategies are critical, it is people who drive outcomes and that our teams are most effective when they reflect the comm",
+  "plain": {
+   "status": 200,
+   "final": "https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers",
+   "server": "Microsoft-IIS/10.0",
+   "len": 37368,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/wesfarmers-0.jpg",
+  "patterns": [
+   "11x www.wesfarmers.com.au/sustainability/fy\\d+  e.g. https://www.wesfarmers.com.au/sustainability/fy2025",
+   "6x www.wesfarmers.com.au/[^/]+/[^/]+  e.g. https://www.wesfarmers.com.au/who-we-are/who-we-are",
+   "3x www.wesfarmers.com.au/investor-centre  e.g. https://www.wesfarmers.com.au/investor-centre",
+   "3x www.wesfarmers.com.au/investor-centre/[^/]+/[^/]+  e.g. https://www.wesfarmers.com.au/investor-centre/company-performance-news/delivering-our-objective",
+   "3x www.wesfarmers.com.au/sustainability  e.g. https://www.wesfarmers.com.au/sustainability"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Coles Group",
+  "url": "https://colescareers.com.au/",
+  "final": "https://colescareers.com.au/au/en/home",
+  "title": "Coles Group is for Careers",
+  "sigs": {
+   "phenom": [
+    "/widgets",
+    "cdn.phenompeople",
+    "phApp.",
+    "phenompeople.com"
+   ]
+  },
+  "links": [
+   "https://colescareers.com.au/au/en/my-first-job",
+   "https://colescareers.com.au/au/en/jobcart",
+   "https://colescareers.com.au/au/en/job/56681/Team-Member-Expression-of-Interest"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "Skip to main content Skip to main content Work with us Life at Coles Our team stories FAQ Search and apply Login Saved jobs (0) - - We use cookies to offer you a better browsing experience, analyse site traffic, and personalise content. Read about how we use cookies and how you can control them by visiting our Cookie Settings page. If you continue to use this site, you consent to our use of cookies. Cookie Settings Allow People & Passion That's our recipe for making a difference Search for Job Title Enter Location Search Get tailored job recommendations based on your interests. ​​​​​​​​​​​​​​G",
+  "plain": {
+   "status": 200,
+   "final": "https://colescareers.com.au/au/en/home",
+   "server": "",
+   "len": 255740,
+   "block": "captcha"
+  },
+  "hops": [],
+  "shot": "probe/shots/coles-group-0.jpg",
+  "patterns": [
+   "17x colescareers.com.au/au/en/[^/]+  e.g. https://colescareers.com.au/au/en/store-teams-career-paths",
+   "8x void(0)  e.g. javascript:void(0)",
+   "6x colescareers.com.au/au/en/blogarticle/[^/]+  e.g. https://colescareers.com.au/au/en/blogarticle/from-fashion-to-liquor-my-unexpected-journey-with-coles",
+   "4x colescareers.com.au/au/en/home  e.g. https://colescareers.com.au/au/en/home#skipToMainContent",
+   "3x colescareers.com.au/au/en/search-results  e.g. https://colescareers.com.au/au/en/search-results"
+  ],
+  "jsons": [
+   "30 Treffer in https://colescareers.com.au/widgets | keys=['href', 'target', 'text', 'title', 'type'] | z.B. Terms Of Use"
+  ],
+  "api": []
+ },
+ {
+  "name": "Coles Group",
+  "url": "https://colescareers.com.au/au/en/search-results",
+  "final": "https://colescareers.com.au/au/en/search-results",
+  "title": "Search results | Find available job openings at Coles Group",
+  "sigs": {
+   "phenom": [
+    "/widgets",
+    "cdn.phenompeople",
+    "phApp.",
+    "phenompeople.com"
+   ]
+  },
+  "links": [
+   "https://colescareers.com.au/au/en/my-first-job",
+   "https://colescareers.com.au/au/en/jobcart",
+   "https://colescareers.com.au/au/en/job/144221/General-Manager",
+   "https://colescareers.com.au/au/en/job/56681/Team-Member-Expression-of-Interest",
+   "https://colescareers.com.au/au/en/job/195520/Team-Leader-Coles-Services-Merrylands",
+   "https://colescareers.com.au/au/en/job/192371/Click-Collect-Manager-Coles-Supermarkets-Mundaring",
+   "https://colescareers.com.au/au/en/job/195039/Team-Member-Coles-Maroochydore-Dairy",
+   "https://colescareers.com.au/au/en/job/198532/Cleaning-and-Trolley-Collection-Coles-Andergrove",
+   "https://colescareers.com.au/au/en/job/198069/Team-Leader-Coles-Services-Tweed-City",
+   "https://colescareers.com.au/au/en/job/195254/Team-Leader-Coles-Services-Robina",
+   "https://colescareers.com.au/au/en/job/196297/Baker-Coles-Supermarkets-Ulladulla",
+   "https://colescareers.com.au/au/en/job/196694/Baker-Coles-Supermarkets-Carlingford"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "Skip to main content Skip to main content Work with us Life at Coles Our team stories FAQ Search and apply Login Saved jobs (0) - - We use cookies to offer you a better browsing experience, analyse site traffic, and personalise content. Read about how we use cookies and how you can control them by visiting our Cookie Settings page. If you continue to use this site, you consent to our use of cookies. Cookie Settings Allow Enter keywords - start typing, then select an option below (loads new page). Apple mobile device users, explore by touch to select an option Enter Location Search Refine your ",
+  "plain": {
+   "status": 200,
+   "final": "https://colescareers.com.au/au/en/search-results",
+   "server": "",
+   "len": 124511,
+   "block": "captcha"
+  },
+  "hops": [],
+  "shot": "probe/shots/coles-group-1.jpg",
+  "patterns": [
+   "14x colescareers.com.au/au/en/search-results  e.g. https://colescareers.com.au/au/en/search-results#skipToMainContent",
+   "12x colescareers.com.au/au/en/[^/]+  e.g. https://colescareers.com.au/au/en/store-teams-career-paths",
+   "9x void(0)  e.g. javascript:void(0)",
+   "9x colescareers.com.au/au/en/job/\\d+/[^/]+  e.g. https://colescareers.com.au/au/en/job/56681/Team-Member-Expression-of-Interest"
+  ],
+  "jsons": [
+   "3 Treffer in https://colescareers.com.au/widgets | keys=['addToCartSaveText', 'addToCartSavedText', 'applyNowText', 'category', 'closeAriaLabelText', 'clubName', 'department', 'descriptionTeaser', 'drivingTime', 'experience', 'experienceRequired', 'expiryDate', 'jobId', 'jobIdConnectingText'] | z.B. Title",
+   "27 Treffer in https://colescareers.com.au/widgets | keys=['_cid', 'link', 'position', 'title'] | z.B. Personal Information Request"
+  ],
+  "api": []
+ },
+ {
+  "name": "Foodstuffs",
+  "url": "https://www.foodstuffs.co.nz/",
+  "final": "https://www.foodstuffs.co.nz/",
+  "title": "Kia ora, we're Foodies North Island.",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "challenge-platform",
+  "text": "Who we are Our Brands Here for NZ Newsroom Working at Foodies Partnering with us Kia ora, we're Foodies North Island. We're here to make sure New Zealanders get more out of life. It's our reason for being. From Four Square Houhora in the Far North, to New World Island Bay in the world’s coolest little capital, as the country's largest grocery retailer, we're proud to be a homegrown Co-op and feel privileged to serve New Zealand. Local grocers own and operate every one of our stores, and are committed to delivering what’s right for their customers and communities. And, while each grocer is loca",
+  "plain": {
+   "status": 200,
+   "final": "https://www.foodstuffs.co.nz/",
+   "server": "cloudflare",
+   "len": 90368,
+   "block": "challenge-platform"
+  },
+  "hops": [],
+  "shot": "probe/shots/foodstuffs-0.jpg",
+  "patterns": [
+   "14x www.foodstuffs.co.nz/[^/]+  e.g. https://www.foodstuffs.co.nz/who-we-are",
+   "3x www.foodstuffs.co.nz/our-brands  e.g. https://www.foodstuffs.co.nz/our-brands"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "ASB Bank",
+  "url": "https://www.asb.co.nz/about-us/careers.html",
+  "final": "https://www.asb.co.nz/about-us/careers.html",
+  "title": "Page is currently unavailable | ASB",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 403,
+  "block": "",
+  "text": "ASB The requested page was not available. Please contact the call centre during business hours and quote the reference id below. Call centre number: 0800 327 863 Your reference ID is: 0.8ff23517.1794229844.13964f2c",
+  "plain": {
+   "status": 404,
+   "final": "https://www.asb.co.nz/about-us/careers.html",
+   "server": "Apache",
+   "len": 46964,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/asb-bank-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Honda",
+  "url": "https://www.honda.de/karriere.html",
+  "final": "https://www.honda.de/karriere.html",
+  "title": "Leider ist ein Fehler aufgetreten",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 404,
+  "block": "",
+  "text": "DIE ANGEFORDERTE SEITE KONNTE NICHT GEFUNDEN WERDEN Klicken Sie bitte auf den 'Zurück' Button, um zur vorherigen Seite zu gelangen. AUTOMOBILE MOTORRÄDER GARTEN MARINE INDUSTRIE SCHNEEFRÄSEN IMPRESSUM RECHTLICHE HINWEISE DATENSCHUTZHINWEISE",
+  "plain": {
+   "status": 404,
+   "final": "https://www.honda.de/karriere.html",
+   "server": "none",
+   "len": 5697,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/honda-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Mitsubishi Electric",
+  "url": "https://www.mitsubishielectric.com/en/careers/",
+  "final": "https://www.mitsubishielectric.com/en/careers/",
+  "title": "Careers | MITSUBISHI ELECTRIC Global website",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Global About Sustainability Investors Careers News Products & Solutions Contact Careers Americas Asia-Pacific Europe, CIS, Middle East & Africa Americas U.S.A. English Asia-Pacific Taiwan 繁體中文 India English Myanmar English Singapore English Thailand ไทย Europe & CIS, Middle East France Français Germany Deutsch English Ireland English Italy Italiano Netherlands Nederlands English Poland Polski English Russia Русский Spain Español Sweden Svenska English Turkey Türkçe UK English Follow us Social media approved accounts Privacy Policy Terms of Use Sitemap Handling of personal data of EEA and UK re",
+  "plain": {
+   "status": 200,
+   "final": "https://www.mitsubishielectric.com/en/careers/",
+   "server": "Apache",
+   "len": 99633,
+   "block": ""
+  },
+  "hops": [
+   "https://empleo.mitsubishielectric.es/"
+  ],
+  "shot": "probe/shots/mitsubishi-electric-0.jpg",
+  "patterns": [
+   "13x www.mitsubishielectric.com/en/careers/  e.g. https://www.mitsubishielectric.com/en/careers/#",
+   "4x www.mitsubishielectric.com/en/about/  e.g. https://www.mitsubishielectric.com/en/about/",
+   "4x www.mitsubishielectric.com/en/pr/  e.g. https://www.mitsubishielectric.com/en/pr/",
+   "3x www.mitsubishielectric.com/en/sustainability/  e.g. https://www.mitsubishielectric.com/en/sustainability/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Mitsubishi Electric (verlinkt)",
+  "url": "https://empleo.mitsubishielectric.es/",
+  "final": "https://empleo.mitsubishielectric.es/",
+  "title": "",
+  "sigs": {
+   "successfactors": [
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://empleo.mitsubishielectric.es/viewalljobs/"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Mitsubishi Electric Europe B.V. Sucursal en España utiliza cookies propias y de terceros para analizar el uso que, como usuario de nuestra Página Web o Plataforma realiza, con el fin de mejorar nuestros servicios y crear un perfil con su navegación que permita generar contenidos personalizados de su interés. Para más información accede a nuestra Política de Cookies. Las cookies de este sitio web se utilizan para personalizar el contenido y los anuncios, ofrecer funciones de redes sociales y analizar el tráfico. Además, compartimos información sobre el uso que se haga del sitio web con nuestros",
+  "plain": {
+   "status": 200,
+   "final": "https://empleo.mitsubishielectric.es/",
+   "server": "Apache",
+   "len": 95974,
+   "block": ""
+  },
+  "hops": [
+   "https://empleo.mitsubishielectric.es/?locale=es_ES",
+   "https://empleo.mitsubishielectric.es/talentcommunity/subscribe/?locale=es_ES",
+   "https://empleo.mitsubishielectric.es/content/Programa-de-becas-TalentME/?locale=es_ES",
+   "https://empleo.mitsubishielectric.es/viewalljobs/"
+  ],
+  "shot": "probe/shots/mitsubishi-electric-verlinkt-h0.jpg",
+  "patterns": [
+   "7x www.nauticar.es/es/noticias/[^/]+  e.g. https://www.nauticar.es/es/noticias/viii-premios-cope-del-deporte-jovenes-promesas"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Panasonic",
+  "url": "https://www.panasonic.com/global/corporate/careers.html",
+  "final": "https://www.panasonic.com/global/corporate/careers.html",
+  "title": "Access Denied",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 403,
+  "block": "Access Denied",
+  "text": "Access Denied You don't have permission to access \"http://www.panasonic.com/global/corporate/careers.html\" on this server. Reference #18.c4cf5868.1794229855.35eb9f38 https://errors.edgesuite.net/18.c4cf5868.1794229855.35eb9f38",
+  "plain": {
+   "status": 403,
+   "final": "https://www.panasonic.com/global/corporate/careers.html",
+   "server": "AkamaiGHost",
+   "len": 412,
+   "block": "Access Denied"
+  },
+  "hops": [],
+  "shot": "probe/shots/panasonic-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Kia",
+  "url": "https://www.kia.com/eu/about-kia/careers.html",
+  "final": "https://www.kia.com/eu/about-kia/careers.html",
+  "title": "404-page - en | Kia Motors Europe",
+  "sigs": {},
+  "links": [
+   "https://www.kia.com/eu/about-kia/career/job-opportunities/"
+  ],
+  "error": null,
+  "status": 404,
+  "block": "",
+  "text": "open menu HOME Way off the map? Let us inspire you with some new paths. Try one of the links below: Experience Kia Let us inspire you with some new Models. Explore the Kia Range Join our team Discover our career opportunities. Find new inspiration Movement that inspires It's a purpose we act upon. Discover more Vehicles Electric Mobility Kia EV Ecosystem Drive Charge Connect Kia Fleet International Overview Drive Charge Connect Work Contact us PBV Vehicles Conversions Solutions business About Kia PBV Careers Overview About Us Culture Benefits Job Opportunities Press About Kia Kia company #insp",
+  "plain": {
+   "status": 404,
+   "final": "https://www.kia.com/eu/about-kia/careers.html",
+   "server": "cloudflare",
+   "len": 107871,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/kia-0.jpg",
+  "patterns": [
+   "7x www.kia.com/eu/about-kia/careers.html  e.g. https://www.kia.com/eu/about-kia/careers.html#contents",
+   "4x void(0)  e.g. javascript:void(0)",
+   "3x www.kia.com/eu/privacy-notice/  e.g. https://www.kia.com/eu/privacy-notice/",
+   "3x www.kia.com/eu/[^/]+/  e.g. https://www.kia.com/eu/german-privacy-notice/",
+   "3x www.kia.com/eu/about-kia/brand/  e.g. https://www.kia.com/eu/about-kia/brand/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "IHG Hotels & Resorts",
+  "url": "https://careers.ihg.com/",
+  "final": "https://careers.ihg.com/",
+  "title": "Access Denied",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 403,
+  "block": "Access Denied",
+  "text": "Access Denied You don't have permission to access \"http://careers.ihg.com/\" on this server. Reference #18.8cf23517.1794229865.1c7f778 https://errors.edgesuite.net/18.8cf23517.1794229865.1c7f778",
+  "plain": {
+   "status": 403,
+   "final": "https://careers.ihg.com/",
+   "server": "",
+   "len": 367,
+   "block": "Access Denied"
+  },
+  "hops": [],
+  "shot": "probe/shots/ihg-hotels-resorts-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Hyatt",
+  "url": "https://careers.hyatt.com/",
+  "final": "https://careers.hyatt.com/en-US/careers/",
+  "title": "Hyatt - Careers",
+  "sigs": {},
+  "links": [
+   "https://careers.hyatt.com/en-US/careers/job-alerts",
+   "http://www.amresorts-jobs.com/"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Skip to main content Hyatt Careers Careers HYATT.COM LANGUAGE WHY HYATT ALL JOBS UNIVERSITY PROGRAMS JOB ALERTS SIGN IN If you're looking for a career with our Inclusive Collection, please view Inclusive Collection job postings. CLOSE INCLUSIVE COLLECTION JOB POSTINGS NOTIFICATION Recruitment Fraud CLOSE RECRUITMENT FRAUD NOTIFICATION WORK AT HYATT WE TURN TRIPS INTO JOURNEYS, ENCOUNTERS INTO EXPERIENCES AND JOBS INTO CAREERS. JOIN US. Search by category or keyword Search by location Entry Level Jobs GO BROWSE ALL CAREERS Scroll to Featured Careers Featured Careers Rooms Food & Beverage Human ",
+  "plain": {
+   "status": 200,
+   "final": "https://careers.hyatt.com/",
+   "server": "",
+   "len": 4816,
+   "block": ""
+  },
+  "hops": [
+   "https://careers.hyatt.com/en-US/careers/search"
+  ],
+  "shot": "probe/shots/hyatt-0.jpg",
+  "patterns": [
+   "15x void(0)  e.g. javascript:void(0)"
+  ],
+  "jsons": [
+   "46 Treffer in https://careers.hyatt.com/customerinfo/hyatt.r-cfe9247.info.json | keys=['fragment', 'title', 'url'] | z.B. hyatt.navbar.pages.why_hyatt"
+  ],
+  "api": []
+ },
+ {
+  "name": "Hyatt (verlinkt)",
+  "url": "https://careers.hyatt.com/en-US/careers/search",
+  "final": "https://careers.hyatt.com/en-US/careers/search?searchable=%5B%5D",
+  "title": "Hyatt - Careers - Search",
+  "sigs": {},
+  "links": [
+   "https://careers.hyatt.com/en-US/careers/job-alerts",
+   "http://www.amresorts-jobs.com/",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10780/CHA006008",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000782",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000624",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000627",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000622",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000617",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000752",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000781",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/LON008162",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000780",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/CHE003244",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/CHE003243",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/CHA006010",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006872",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006873",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006902",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006895",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006870",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/CHA006009",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/HYD002087",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/GOA001087",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/HAM000872",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/HAM000871",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/BIR001071",
+   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/HYD002166"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Skip to main content Hyatt Careers Careers HYATT.COM LANGUAGE WHY HYATT ALL JOBS UNIVERSITY PROGRAMS JOB ALERTS SIGN IN If you're looking for a career with our Inclusive Collection, please view Inclusive Collection job postings. CLOSE INCLUSIVE COLLECTION JOB POSTINGS NOTIFICATION Recruitment Fraud CLOSE RECRUITMENT FRAUD NOTIFICATION Home Search \"When you work in Hawaii, in addition to learning about the functional aspects of running a hotel — like the proper way to make a bed or how to best handle luggage — it’s critically important to understand Hawaiian culture and the spirit of ‘ohana, or",
+  "plain": {
+   "status": 200,
+   "final": "https://careers.hyatt.com/en-US/careers/search",
+   "server": "",
+   "len": 4816,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/hyatt-verlinkt-h0.jpg",
+  "patterns": [
+   "26x void(0);  e.g. javascript:void(0);",
+   "13x void(0)  e.g. javascript:void(0)",
+   "5x careers.hyatt.com/en-US/careers/jobdetails/\\d+/DUB\\d+  e.g. https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006872",
+   "4x careers.hyatt.com/en-US/careers/jobdetails/\\d+/KUW\\d+  e.g. https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000782",
+   "4x careers.hyatt.com/en-US/careers/jobdetails/\\d+/RAI\\d+  e.g. https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000624"
+  ],
+  "jsons": [
+   "46 Treffer in https://careers.hyatt.com/customerinfo/hyatt.r-cfe9247.info.json | keys=['fragment', 'title', 'url'] | z.B. hyatt.navbar.pages.why_hyatt"
+  ],
+  "api": []
+ },
+ {
+  "name": "FC Bayern München",
+  "url": "https://fcbayern.com/de/club/jobs",
+  "final": "https://fcbayern.com/de/club/jobs",
+  "title": "FC Bayern München - Support",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 403,
+  "block": "",
+  "text": "Fehlerreferenz: 0.e872cd17.1794229892.1d73e79e ES IST EIN TECHNISCHES PROBLEM AUFGETRETEN Beim Aufruf der Seite ist ein Problem aufgetreten. Bugreport Zur vorherigen Seite Hinweis: Du bekommst keine Antwort auf deine E-Mail. A TECHNICAL ISSUE OCCURED We are sorry for technical issues which occurred on your request. Feel free to reach out to us: Bugreport Back to previous page Disclaimer: You will not receive a reply to your e-mail. © FC Bayern München AG - 2026",
+  "plain": {
+   "status": null,
+   "error": "ReadTimeout: HTTPSConnectionPool(host='fcbayern.com', port=443): Read timed out. (read timeout=25)"
+  },
+  "hops": [],
+  "shot": "probe/shots/fc-bayern-m-nchen-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "FC Barcelona",
+  "url": "https://www.fcbarcelona.com/en/club/jobs",
+  "final": "https://www.fcbarcelona.com/en/club/jobs",
+  "title": "Sorry, an error has occurred",
   "sigs": {
    "phenom": [
     "/widgets"
@@ -49,83 +1063,1600 @@
   },
   "links": [],
   "error": null,
+  "status": 404,
+  "block": "",
+  "text": "We use online identifiers to provide you with our services, personalize your experience, analyze our services, and tailor and measure ads based on your browsing habits. This includes first-party and third-party cookies from our partners to offer personalized advertising and content, ad and content measurement, audience research, and service development, as well as precise geolocation data and identification through device scanning, based on your browsing habits. We will process your personal data linked to the device you use, including storing or accessing your device's information. You can wi",
+  "plain": {
+   "status": 404,
+   "final": "https://www.fcbarcelona.com/en/club/jobs",
+   "server": "nginx",
+   "len": 274960,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/fc-barcelona-0.jpg",
   "patterns": [
-   "21x business.safety.google/privacy/  e.g. https://business.safety.google/privacy/",
-   "7x legal.hubspot.com/privacy-policy  e.g. https://legal.hubspot.com/privacy-policy",
-   "7x twitter.com/en/privacy  e.g. https://twitter.com/en/privacy",
-   "7x www.tiktok.com/legal/privacy-policy  e.g. https://www.tiktok.com/legal/privacy-policy?lang=en",
-   "6x privacy.microsoft.com/en-us/privacystatement  e.g. https://privacy.microsoft.com/en-us/privacystatement"
+   "11x www.fcbarcelona.com/en/tickets/[^/]+  e.g. https://www.fcbarcelona.com/en/tickets/things-to-do-in-barcelona?int=WB_26-27_K03-12&btm_source=WebBarca&btm_medium=NativeRibbon&btm_campaign=TSE_EN_TKT_ALL_WW",
+   "8x www.fcbarcelona.com/en/football/first-team/players/\\d+/[^/]+  e.g. https://www.fcbarcelona.com/en/football/first-team/players/5051/joao-pedro-cavaco-cancelo",
+   "6x www.fcbarcelona.com/en/club/members/[^/]+  e.g. https://www.fcbarcelona.com/en/club/members/26-27-pass",
+   "5x www.fcbarcelona.com/en/culers  e.g. https://www.fcbarcelona.com/en/culers",
+   "5x www.fcbarcelona.com/en/football/first-team/news  e.g. https://www.fcbarcelona.com/en/football/first-team/news?int=WB_26-27_K0-92&btm_source=WebBarca&btm_medium=MainMenu&btm_campaign=FIRSTTEAM_EN_TKT_FUT_WW"
   ],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Mercado Libre",
-  "url": "https://careers-meli.mercadolibre.com/en/jobs",
-  "final": "https://careers-meli.mercadolibre.com/en/jobs",
-  "title": "Mercado Libre Careers",
-  "sigs": {
-   "eightfold": [
-    "mercadolibre.eightfold.ai"
-   ]
-  },
-  "links": [
-   "https://careers-meli.mercadolibre.com/en/positions",
-   "https://careers-meli-staging.cdn.prismic.io/careers-meli-staging/vpTqeu8H9tTf8DZd_declaracion_de_privacidad_para_candidatos_version_7ta-10.9.2026.pdf"
-  ],
+  "name": "Real Madrid",
+  "url": "https://www.realmadrid.com/es-ES/el-club/empleo",
+  "final": "https://www.realmadrid.com/es-ES/el-club/empleo",
+  "title": "Real Madrid CF | Web oficial del Real Madrid CF",
+  "sigs": {},
+  "links": [],
   "error": null,
+  "status": 404,
+  "block": "",
+  "text": "Real Madrid Socios Madridistas Entradas Área VIP Tour Tienda RM Play Acceder Fútbol Baloncesto Socios Club Estadio Bernabéu RMTV en directo Noticias Fundación Real Madrid Escuela Universitaria Real Madrid RM Next Madridistas Área VIP Tienda Tour Entradas RM Play Descarga ahora Real Madrid App Real Madrid © 2026 Todos los derechos reservados VER TODOS LOS PATROCINADORES Aviso Legal Política de Privacidad Política de Cookies Canal de información realmadrid.com",
+  "plain": {
+   "status": 404,
+   "final": "https://www.realmadrid.com/es-ES/el-club/empleo",
+   "server": "",
+   "len": 423533,
+   "block": ""
+  },
+  "hops": [
+   "https://you.realmadrid.com/#/sign-in/user?language=es-ES&workflow=register-free&itm_campaign=rm_footer-oas-login-offers_perm_es_global&campaignId=4274a836-ff59-427d-949a-b276ea8179ef&campaignChannel=rm-footer-oas-login-offers&behalfClientId=af4c1f18-a8b5-4f2e-8346-74611f75c299&redirectUrl=https%3A%2F%2Fyou.realmadrid.com%2F%23%2Fprofile-area%2Foas%2Fexclusive-benefits%2Foffers&useHash=true&language=es-ES&behalfClientId=157c37f1-cc46-4159-87ed-315989f26335"
+  ],
+  "shot": "probe/shots/real-madrid-0.jpg",
+  "patterns": [
+   "5x www.realmadrid.com/es-ES/el-club/patrocinadores  e.g. https://www.realmadrid.com/es-ES/el-club/patrocinadores",
+   "4x www.realmadrid.com/es-ES/legal/[^/]+  e.g. https://www.realmadrid.com/es-ES/legal/politica-de-privacidad",
+   "3x www.realmadrid.com/es-ES/entradas  e.g. https://www.realmadrid.com/es-ES/entradas?filter-tickets=vip;general&filter-football=primer-equipo-masculino",
+   "3x www.realmadrid.com/es-ES/futbol/[^/]+  e.g. https://www.realmadrid.com/es-ES/futbol/primer-equipo-masculino"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Real Madrid (verlinkt)",
+  "url": "https://you.realmadrid.com/#/sign-in/user?language=es-ES&workflow=register-free&itm_campaign=rm_footer-oas-login-offers_perm_es_global&campaignId=4274a836-ff59-427d-949a-b276ea8179ef&campaignChannel=rm-footer-oas-login-offers&behalfClientId=af4c1f18-a8b5-4f2e-8346-74611f75c299&redirectUrl=https%3A%2F%2Fyou.realmadrid.com%2F%23%2Fprofile-area%2Foas%2Fexclusive-benefits%2Foffers&useHash=true&language=es-ES&behalfClientId=157c37f1-cc46-4159-87ed-315989f26335",
+  "final": "https://signin.realmadrid.com/#/sign-in/user?language=es-ES&behalfClientId=af4c1f18-a8b5-4f2e-8346-74611f75c299&workflow=register-free&redirectUrl=https:%2F%2Fyou.realmadrid.com%2F%23%2Fsign-in%2Fuser&useHash=true",
+  "title": "Real Madrid CF | Acceso y registro",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "ESEN ¡Hola! Inicia sesión o regístrate para acceder: Email o Núm. Socio/Madridista Continuar ¿No puedes acceder? o Continuar con Google Continuar con Apple ID Trataremos tu email para comprobar si ya estás registrado. Puedes ejercer tus derechos en oposicion@corp.realmadrid.com y obtener más información aquí. Real Madrid © 2026. Todos los derechos reservados. Aviso legal Política de cookies Política de Privacidad realmadrid.com",
+  "plain": {
+   "status": 200,
+   "final": "https://you.realmadrid.com/#/sign-in/user?language=es-ES&workflow=register-free&itm_campaign=rm_footer-oas-login-offers_perm_es_global&campaignId=4274a836-ff59-427d-949a-b276ea8179ef&campaignChannel=rm-footer-oas-login-offers&behalfClientId=af4c1f18-a8b5-4f2e-8346-74611f75c299&redirectUrl=https%3A%2F%2Fyou.realmadrid.com%2F%23%2Fprofile-area%2Foas%2Fexclusive-benefits%2Foffers&useHash=true&language=es-ES&behalfClientId=157c37f1-cc46-4159-87ed-315989f26335",
+   "server": "",
+   "len": 23674,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/real-madrid-verlinkt-h0.jpg",
+  "patterns": [],
+  "jsons": [
+   "72 Treffer in https://config.realmadrid.com/content/dam/common/statics/public-content/internet/web/rm-spa-profile-area/routes/es-ES.json | keys=['guards', 'id', 'moduleId', 'name', 'path', 'type'] | z.B. root"
+  ],
+  "api": []
+ },
+ {
+  "name": "WWF International",
+  "url": "https://wwf.panda.org/get_involved/jobs/",
+  "final": "https://wwf.panda.org/get_involved/jobs/",
+  "title": "403 Forbidden",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 403,
+  "block": "",
+  "text": "403 Forbidden",
+  "plain": {
+   "status": 403,
+   "final": "https://wwf.panda.org/get_involved/jobs/",
+   "server": "awselb/2.0",
+   "len": 520,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/wwf-international-0.jpg",
   "patterns": [],
   "jsons": [],
   "api": []
  },
  {
-  "name": "Mercado Libre",
-  "url": "https://mercadolibre.eightfold.ai/careers?query=intern",
-  "final": "https://mercadolibre.eightfold.ai/careers?query=intern&start=0&pid=44563099&sort_by=relevance",
-  "title": "Carreras en Mercado Libre | Mercado Libre",
+  "name": "IFAW",
+  "url": "https://www.ifaw.org/careers",
+  "final": "https://www.ifaw.org/careers",
+  "title": "Careers | IFAW",
   "sigs": {
-   "eightfold": [
-    "adolibre.eightfold.ai%2Fapi%2Fpcsx%2Fnotifications_boot_data",
-    "app.eightfold.ai",
-    "eightfold.ai",
-    "eightfold.ai/",
-    "eightfold.ai/privacy-policy/",
-    "mercadolibre.eightfold.ai%252Fcareers%253Fquery%253Dintern%2526start%253D0%2526pid%25"
+   "phenom": [
+    "/widgets"
    ]
   },
-  "links": [
-   "https://mercadolibre.eightfold.ai/careers?query=intern&start=0&pid=44563099&sort_by=relevance#main-content",
-   "https://mercadolibre.eightfold.ai/careers/job/44563099",
-   "https://mercadolibre.eightfold.ai/careers/job/43128419",
-   "https://mercadolibre.eightfold.ai/careers/job/44824473",
-   "https://mercadolibre.eightfold.ai/careers/job/43707026",
-   "https://mercadolibre.eightfold.ai/careers/job/45048892",
-   "https://mercadolibre.eightfold.ai/careers/job/43300796",
-   "https://mercadolibre.eightfold.ai/careers/apply?pid=44563099",
-   "https://mercadolibre.eightfold.ai/careers/job/44863020",
-   "https://mercadolibre.eightfold.ai/careers/job/44050912",
-   "https://mercadolibre.eightfold.ai/careers/job/44797627",
-   "https://mercadolibre.eightfold.ai/careers/job/44670620",
-   "https://mercadolibre.eightfold.ai/careers/job/44726124",
-   "https://mercadolibre.eightfold.ai/careers/job/44809003",
-   "https://mercadolibre.eightfold.ai/careers/job/44797016",
-   "https://mercadolibre.eightfold.ai/careers/job/44205529",
-   "https://mercadolibre.eightfold.ai/careers/job/45346208",
-   "https://careers-meli-staging.cdn.prismic.io/careers-meli-staging/iFyiEC2juHxSx0j___Declaracion_de_Privacidad_para_Candidatos_version-6ta-2026.docx.pdf"
-  ],
+  "links": [],
   "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "Skip to main content About IFAW Our work Get involved Donate Careers Welcome to the IFAW careers page! We are a growing organization where employment opportunities are posted and updated frequently. Please check back regularly for new openings. ifaw is an equal opportunity employer. IFAW prohibits any discrimination in employment based on race, color, religious creed, national origin, sex, sexual orientation, age, disability, military or veterans status, genetic information, ancestry, or any other characteristic protected by applicable law. IFAW seeks qualified candidates when positions become",
+  "plain": {
+   "status": 200,
+   "final": "https://www.ifaw.org/careers",
+   "server": "cloudflare-nginx",
+   "len": 650743,
+   "block": "captcha"
+  },
+  "hops": [],
+  "shot": "probe/shots/ifaw-0.jpg",
   "patterns": [
-   "16x mercadolibre.eightfold.ai/careers/job/\\d+  e.g. https://mercadolibre.eightfold.ai/careers/job/44563099",
-   "3x mercadolibre.eightfold.ai/careers  e.g. https://mercadolibre.eightfold.ai/careers?query=intern&start=0&pid=44563099&sort_by=relevance#main-content"
+   "4x www.ifaw.org/careers  e.g. https://www.ifaw.org/careers?form=join"
   ],
   "jsons": [
-   "6 Treffer in https://mercadolibre.eightfold.ai/api/pcsx/search?domain=mercadolibre.com&query=intern&location=&start=0& | keys=['atsJobId', 'creationTs', 'department', 'displayJobId', 'id', 'isHot', 'locationFlexibility', 'locations', 'name', 'positionUrl', 'postedTs', 'solrScore', 'standardizedLocations', 'stars'] | z.B. Sellers Modeling SSr Analyst",
-   "10 Treffer in https://mercadolibre.eightfold.ai/api/pcsx/similar_positions?domain=mercadolibre.com&position_id=44563099 | keys=['atsJobId', 'creationTs', 'department', 'displayJobId', 'id', 'isHot', 'locationFlexibility', 'locations', 'name', 'positionUrl', 'postedTs', 'solrScore', 'standardizedLocations', 'stars'] | z.B. Analista de Desarrollo de Modelos de Riesgo Crediticio - Fin"
+   "68 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/US/SiJJOPZUXTeXX6/63.4.35/63.4.35?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Targeting"
   ],
   "api": []
  },
  {
-  "name": "Sea Group",
+  "name": "IFAW",
+  "url": "https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/",
+  "final": "https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/?q=&o=postedDateDesc",
+  "title": "Meine Stellensuche",
+  "sigs": {},
+  "links": [
+   "https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/?q=&o=postedDateDesc#",
+   "https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/OpportunityDetail?opportunityId=e8464790-c2db-42ab-885c-33fb1d0bd66b",
+   "https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/OpportunityDetail?opportunityId=7bb0ea5d-5749-492d-b05a-96db2ebc6791"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "Freie Stellen suchen Deutsch Anmelden Opportunities 2 Stellenangebote durchsuchen Nach Stellenbezeichnung, Unternehmen, Laden oder Anforderungsnummer Es werden 2 von 2 Stellenangeboten angezeigt Sortieren Filtern nach Standort Filtern nach Kategorie Filtern nach Zeitplan Filtern nach Standorttyp Alle Filter löschen Program Officer, Wildlife Crime Oct 28, 2026 Lilongwe, Malawi Malawi Vollzeit Anforderung #: PROGR001364 Hybrid The Wildlife Crime Program Officer is responsible for successfully delivering the goals of IFAW’s Wildlife Crime Program and IFAW’s Institutional Strategic Plan in Malawi.",
+  "plain": {
+   "status": 200,
+   "final": "https://recruiting.ultipro.com/INT1059IFFA/JobBoard/17b588a3-808b-4bc9-aea8-c3385a35ec51/",
+   "server": "istio-envoy",
+   "len": 456548,
+   "block": "captcha"
+  },
+  "hops": [],
+  "shot": "probe/shots/ifaw-1.jpg",
+  "patterns": [],
+  "jsons": [
+   "4 Treffer in https://data.pendo.io/data/guide.json/cfb570dc-23df-45bd-5089-5be6acfaa92b?id=28&jzb=eJx1kVFr2zAUhf-LHvYUWXYcb45hjIwmNIVtMNq-hmv5Jr0gS6kkh9CR_56rUBwW2 | keys=['appId', 'attributes', 'audience', 'audienceUiHint', 'authoredLanguage', 'autoCreateFeedback', 'createdAt', 'createdByUser', 'currentFirstEligibleToBeSeenAt', 'dependentMetadata', 'description', 'displayDelayMs', 'editorType', 'emailState'] | z.B. Targeted Feedback - Recruiting",
+   "4 Treffer in https://data.pendo.io/data/guide.json/cfb570dc-23df-45bd-5089-5be6acfaa92b?id=26&jzb=eJx1kdHL0zAUxf-XPPi0NO26alcYMtn34QQVxM_XcZvczUCa1OR2iLL_fTdDOhz6l | keys=['appId', 'attributes', 'audience', 'audienceUiHint', 'authoredLanguage', 'autoCreateFeedback', 'createdAt', 'createdByUser', 'currentFirstEligibleToBeSeenAt', 'dependentMetadata', 'description', 'displayDelayMs', 'editorType', 'emailState'] | z.B. Targeted Feedback - Recruiting"
+  ],
+  "api": []
+ },
+ {
+  "name": "Aktion gegen den Hunger",
+  "url": "https://www.aktiongegendenhunger.de/stellenangebote",
+  "final": "https://www.aktiongegendenhunger.de/stellenangebote",
+  "title": "Jobs und Stellenangebote | Aktion gegen den Hunger",
+  "sigs": {},
+  "links": [
+   "https://www.aktiongegendenhunger.de/stellenangebote#main-content",
+   "https://www.aktiongegendenhunger.de/stellenangebote",
+   "https://careers.actionagainsthunger.org/?_ga=1.41833186.1754761703.1435568749",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote",
+   "https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote",
+   "https://www.aktiongegendenhunger.de/stellenangebote#"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Direkt zum Inhalt AKTUELLES PRESSE PUBLIKATIONEN KONTAKT SCHULEN Suche HUNGER WELTWEITSPENDENAKTIV WERDENÜBER UNS SPENDEN Suchbegriff eingeben JOBS UND STELLENANGEBOTE © Aktion gegen den Hunger/Lys Arango Startseite Jobs und Stellenangebote Sie sind auf der Suche nach einem neuen Job und möchten sich für eine gerechtere Welt ohne Hunger einsetzen? Dann sind Sie hier goldrichtig! Klicken Sie sich durch und schauen Sie, ob etwas für Sie dabei ist. Viel Spaß! September 2026 Referent*in Unternehmenskooperationen (d/w/m) Aktion gegen den Hunger ist in krisengeschüttelten Ländern im Einsatz,in die s",
+  "plain": {
+   "status": 200,
+   "final": "https://www.aktiongegendenhunger.de/stellenangebote",
+   "server": "nginx",
+   "len": 79197,
+   "block": ""
+  },
+  "hops": [
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote",
+   "https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote"
+  ],
+  "shot": "probe/shots/aktion-gegen-den-hunger-0.jpg",
+  "patterns": [
+   "27x www.aktiongegendenhunger.de/[^/]+  e.g. https://www.aktiongegendenhunger.de/spenden-statt-schenken",
+   "9x www.aktiongegendenhunger.de/spenden  e.g. https://www.aktiongegendenhunger.de/spenden?monthly=true",
+   "8x www.aktiongegendenhunger.de/stellenangebote  e.g. https://www.aktiongegendenhunger.de/stellenangebote#main-content",
+   "7x www.aktiongegendenhunger.de/datenschutz  e.g. https://www.aktiongegendenhunger.de/datenschutz",
+   "5x www.aktiongegendenhunger.de/kampagnen  e.g. https://www.aktiongegendenhunger.de/kampagnen"
+  ],
+  "jsons": [
+   "38 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/IcWw2ZiC_/185.53.601/185.53.601?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Engagement",
+   "684 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement",
+   "691 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/de/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement"
+  ],
+  "api": []
+ },
+ {
+  "name": "Aktion gegen den Hunger (verlinkt)",
+  "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote",
+  "final": "https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote",
+  "title": "Facebook",
+  "sigs": {},
+  "links": [
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://es-la.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://fr-fr.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://zh-cn.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://ar-ar.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://pt-br.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://it-it.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://ko-kr.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://hi-in.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://ja-jp.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote#"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "Facebook E-Mail-Adresse oder Handynummer Passwort Passwort vergessen? Registrieren Nicht angemeldet Nicht angemeldet Du bist nicht angemeldet. Bitte melde dich an und versuche es noch einmal. Zurück zur Startseite Deutsch English (US) Español Français (France) 中文(简体) العربية Português (Brasil) Italiano 한국어 हिन्दी 日本語 RegistrierenAnmeldenMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ban MetaMeta AIMuseInstagramThreadsDatenschutzrichtliniePrivacy CenterInfoWerbeanzeige erstellenSeite erstellenEntwicklerKarriereCookiesWerbepräferenzen NutzungsbedingungenHilfeHochladen von Kontakten u",
+  "plain": {
+   "status": 400,
+   "final": "https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote",
+   "server": "",
+   "len": 1542,
+   "block": ""
+  },
+  "hops": [
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://es-la.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://fr-fr.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://zh-cn.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote"
+  ],
+  "shot": "probe/shots/aktion-gegen-den-hunger-verlinkt-h0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Aktion gegen den Hunger (verlinkt)",
+  "url": "https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote",
+  "final": "https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote",
+  "title": "In WhatsApp teilen",
+  "sigs": {},
+  "links": [
+   "https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote#",
+   "https://web.whatsapp.com/send/?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://www.metacareers.com/jobs?divisions[0]=WhatsApp",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=af",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=az",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=id",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=ca",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=cs",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=da",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=de",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=et",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=en",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=es",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=tl",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=fr",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=ga",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=hr",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=it",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=sw",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=lv",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=lt",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=hu",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=ms",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=nl",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=nb",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=uz",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=pl",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=pt",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=pt-pt",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=ro"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "Funktionen Privacy Blog Apps Help Center Für Unternehmen Log In Download In WhatsApp teilen https://www.aktiongegendenhunger.de/stellenangebote App öffnen Weiter zu WhatsApp Web Du hast die App nicht? Jetzt herunterladen Herunterladen Was wir tun Funktionen Blog Sicherheit Für Unternehmen Wer wir sind Über uns Karriere Markenbereich Datenschutz WhatsApp verwenden Mobilgeräte Desktop Tablet WhatsApp Web Du benötigst Hilfe? Kontakt Hilfebereich Apps Sicherheitsmeldungen 2026 © WhatsApp LLC Nutzungsbedingungen und Datenschutzrichtlinie Sitemap Deutsch",
+  "plain": {
+   "status": 200,
+   "final": "https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote",
+   "server": "",
+   "len": 225509,
+   "block": "captcha"
+  },
+  "hops": [
+   "https://web.whatsapp.com/send/?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=af",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=az",
+   "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=id"
+  ],
+  "shot": "probe/shots/aktion-gegen-den-hunger-verlinkt-h1.jpg",
+  "patterns": [
+   "5x get.microsoft.com/installer/download/9NKSQGP7F2NH  e.g. https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=website_cta_psi",
+   "4x x.com/whatsapp  e.g. https://x.com/whatsapp",
+   "4x www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw  e.g. https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw",
+   "4x www.instagram.com/whatsapp/  e.g. https://www.instagram.com/whatsapp/?hl=en",
+   "4x www.facebook.com/profile.php  e.g. https://www.facebook.com/profile.php?id=100064758844406"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Friedrich-Ebert-Stiftung",
+  "url": "https://www.fes.de/stellenangebote",
+  "final": "https://www.fes.de/stellenangebote",
+  "title": "Stellenangebote",
+  "sigs": {},
+  "links": [
+   "https://www.fes.de/stellenangebote#",
+   "https://www.fes.de/stellenangebote#main-content",
+   "https://www.fes.de/stellenangebote#fes-footer",
+   "https://www.fes.de/stellenangebote",
+   "https://www.fes.de/stellenangebote#c502553",
+   "https://www.fes.de/stellenangebote/personalstrategie",
+   "https://jobs.fes.de/",
+   "https://www.fes.de/stellenangebote/referent-innen",
+   "https://www.fes.de/stellenangebote/sach-und-finanzsachbearbeiter-innen",
+   "https://www.fes.de/stellenangebote/praktikum",
+   "https://www.fes.de/stellenangebote/aushilfskraefte",
+   "https://www.fes.de/stellenangebote/bewerbungs-faq",
+   "https://www.fes.de/stellenangebote#top"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "COOKIE CONSENT Diese Webseite verwendet Cookies Notwendige Cookies Statistische Erhebung und -Analysen Marketing ALLE AUSWÄHLEN ABLEHNEN SPEICHERN Details anzeigen NOTWENDIGE COOKIES Diese Cookies sind notwendig STATISTISCHE ERHEBUNG UND -ANALYSEN Daten zur Verbesserung der Webseite durch Tracking (Matomo). Matomo Matomo Name: Matomo Anbieter: Matomo Zweck: Verbesserung der Webseite MARKETING Das sind Cookies die von externen Seiten und Diensten kommen z.B. von Youtube oder Vimeo. Marketing Marketing Anbieter: Youtube/Vimeo/Facebook Zweck: Marketing externer Anbieter Impressum | Datenschutz Öf",
+  "plain": {
+   "status": 200,
+   "final": "https://www.fes.de/stellenangebote",
+   "server": "nginx",
+   "len": 262962,
+   "block": ""
+  },
+  "hops": [
+   "https://www.fes.de/stellenangebote/personalstrategie",
+   "https://www.fes.de/stellenangebote/referent-innen",
+   "https://www.fes.de/stellenangebote/sach-und-finanzsachbearbeiter-innen",
+   "https://www.fes.de/stellenangebote/praktikum"
+  ],
+  "shot": "probe/shots/friedrich-ebert-stiftung-0.jpg",
+  "patterns": [
+   "55x www.fes.de/stellenangebote  e.g. https://www.fes.de/stellenangebote#",
+   "24x www.fes.de/[^/]+  e.g. https://www.fes.de/abteilung-internationale-zusammenarbeit",
+   "14x www.fes.de/[^/]+/[^/]+  e.g. https://www.fes.de/themenportal-die-welt-gerecht-gestalten/frieden-und-sicherheit",
+   "4x www.fes.de/ueber-uns/[^/]+/[^/]+  e.g. https://www.fes.de/ueber-uns/ueber-die-friedrich-ebert-stiftung/organigramm-und-gremien",
+   "3x www.fes.de/studienfoerderung  e.g. https://www.fes.de/studienfoerderung"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Friedrich-Ebert-Stiftung (verlinkt)",
+  "url": "https://www.fes.de/stellenangebote/personalstrategie",
+  "final": "https://www.fes.de/stellenangebote/personalstrategie",
+  "title": "Personalstrategie",
+  "sigs": {},
+  "links": [
+   "https://www.fes.de/stellenangebote/personalstrategie#",
+   "https://www.fes.de/stellenangebote/personalstrategie#main-content",
+   "https://www.fes.de/stellenangebote/personalstrategie#fes-footer",
+   "https://www.fes.de/stellenangebote/personalstrategie",
+   "https://www.fes.de/stellenangebote",
+   "https://www.fes.de/stellenangebote/personalstrategie#top"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "COOKIE CONSENT Diese Webseite verwendet Cookies Notwendige Cookies Statistische Erhebung und -Analysen Marketing ALLE AUSWÄHLEN ABLEHNEN SPEICHERN Details anzeigen NOTWENDIGE COOKIES Diese Cookies sind notwendig STATISTISCHE ERHEBUNG UND -ANALYSEN Daten zur Verbesserung der Webseite durch Tracking (Matomo). Matomo Matomo Name: Matomo Anbieter: Matomo Zweck: Verbesserung der Webseite MARKETING Das sind Cookies die von externen Seiten und Diensten kommen z.B. von Youtube oder Vimeo. Marketing Marketing Anbieter: Youtube/Vimeo/Facebook Zweck: Marketing externer Anbieter Impressum | Datenschutz Öf",
+  "plain": {
+   "status": 200,
+   "final": "https://www.fes.de/stellenangebote/personalstrategie",
+   "server": "nginx",
+   "len": 233308,
+   "block": ""
+  },
+  "hops": [
+   "https://www.fes.de/stellenangebote"
+  ],
+  "shot": "probe/shots/friedrich-ebert-stiftung-verlinkt-h0.jpg",
+  "patterns": [
+   "48x www.fes.de/stellenangebote/personalstrategie  e.g. https://www.fes.de/stellenangebote/personalstrategie#",
+   "24x www.fes.de/[^/]+  e.g. https://www.fes.de/abteilung-internationale-zusammenarbeit",
+   "14x www.fes.de/[^/]+/[^/]+  e.g. https://www.fes.de/themenportal-die-welt-gerecht-gestalten/frieden-und-sicherheit",
+   "4x www.fes.de/ueber-uns/[^/]+/[^/]+  e.g. https://www.fes.de/ueber-uns/ueber-die-friedrich-ebert-stiftung/organigramm-und-gremien",
+   "4x www.fes.de/stellenangebote  e.g. https://www.fes.de/stellenangebote"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Friedrich-Ebert-Stiftung (verlinkt)",
+  "url": "https://www.fes.de/stellenangebote/referent-innen",
+  "final": "https://www.fes.de/stellenangebote/referent-innen",
+  "title": "Referent_innen",
+  "sigs": {},
+  "links": [
+   "https://www.fes.de/stellenangebote/referent-innen#",
+   "https://www.fes.de/stellenangebote/referent-innen#main-content",
+   "https://www.fes.de/stellenangebote/referent-innen#fes-footer",
+   "https://www.fes.de/stellenangebote/referent-innen",
+   "https://www.fes.de/stellenangebote",
+   "https://jobs.fes.de/",
+   "https://www.fes.de/stellenangebote/referent-innen#top"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "COOKIE CONSENT Diese Webseite verwendet Cookies Notwendige Cookies Statistische Erhebung und -Analysen Marketing ALLE AUSWÄHLEN ABLEHNEN SPEICHERN Details anzeigen NOTWENDIGE COOKIES Diese Cookies sind notwendig STATISTISCHE ERHEBUNG UND -ANALYSEN Daten zur Verbesserung der Webseite durch Tracking (Matomo). Matomo Matomo Name: Matomo Anbieter: Matomo Zweck: Verbesserung der Webseite MARKETING Das sind Cookies die von externen Seiten und Diensten kommen z.B. von Youtube oder Vimeo. Marketing Marketing Anbieter: Youtube/Vimeo/Facebook Zweck: Marketing externer Anbieter Impressum | Datenschutz Öf",
+  "plain": {
+   "status": 200,
+   "final": "https://www.fes.de/stellenangebote/referent-innen",
+   "server": "nginx",
+   "len": 230481,
+   "block": ""
+  },
+  "hops": [
+   "https://www.fes.de/stellenangebote"
+  ],
+  "shot": "probe/shots/friedrich-ebert-stiftung-verlinkt-h1.jpg",
+  "patterns": [
+   "49x www.fes.de/stellenangebote/referent-innen  e.g. https://www.fes.de/stellenangebote/referent-innen#",
+   "24x www.fes.de/[^/]+  e.g. https://www.fes.de/abteilung-internationale-zusammenarbeit",
+   "14x www.fes.de/[^/]+/[^/]+  e.g. https://www.fes.de/themenportal-die-welt-gerecht-gestalten/frieden-und-sicherheit",
+   "4x www.fes.de/ueber-uns/[^/]+/[^/]+  e.g. https://www.fes.de/ueber-uns/ueber-die-friedrich-ebert-stiftung/organigramm-und-gremien",
+   "4x www.fes.de/stellenangebote  e.g. https://www.fes.de/stellenangebote"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Friedrich-Ebert-Stiftung",
+  "url": "https://jobs.fes.de/",
+  "final": "https://jobs.fes.de/",
+  "title": "Alle Ausschreibungen",
+  "sigs": {},
+  "links": [
+   "https://jobs.fes.de/"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Keine aktuellen Jobangebote Zurücksetzen Standort Position Job Alert Datenschutzhinweise Impressum Erklärung zur Barrierefreiheit Friedrich-Ebert-Stiftung e.V.",
+  "plain": {
+   "status": 200,
+   "final": "https://jobs.fes.de/",
+   "server": "",
+   "len": 17909,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/friedrich-ebert-stiftung-1.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Konrad-Adenauer-Stiftung",
+  "url": "https://www.kas.de/de/web/karriere/stellenangebote",
+  "final": "https://www.kas.de/de/web/karriere/stellenangebote",
+  "title": "Web Application Firewall",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 403,
+  "block": "",
+  "text": "Ihre Anfrage wurde aus Sicherheitsgründen blockiert: Fehler-ID : 0.c64ddb17.1794229888.644d6acf Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an: liferay.portale@kas.de Your request was blocked due to security reasons: Event ID : 0.c64ddb17.1794229888.644d6acf If you think this was a mistake, please contact: liferay.portale@kas.de",
+  "plain": {
+   "status": 403,
+   "final": "https://www.kas.de/de/web/karriere/stellenangebote",
+   "server": "",
+   "len": 1438,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/konrad-adenauer-stiftung-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Fairtrade Deutschland",
+  "url": "https://www.fairtrade.net/de-de.html",
+  "final": "https://www.fairtrade.net/de-de.html",
+  "title": "Für eine gerechtere Weltwirtschaft | Fairtrade Deutschland",
+  "sigs": {},
+  "links": [
+   "https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/fairtrade-hersteller-und-haendler.html"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Zurück zur Startseite Was ist Fairtrade? Produkte Für Unternehmen Mach mit! Newsroom Öffnen Sie das Suchfeld Öffnen oder schließen Sie den Sprachauswahl. Die derzeit ausgewählte Sprache ist DE-DE. Öffnen Sie das Meta-Menü Fairtrade: Fairness im Fokus! Fairtrade steht für fairen Handel, bessere Preise und menschenwürdige Arbeitsbedingungen. Wir setzen uns für eine gerechte Zukunft ein – für Bäuerinnen und Bauern, Arbeiterinnen und Arbeiter und für dich. > Für Unternehmen Sie möchten Produkte aus Fairtrade-Zutaten herstellen oder mit ihnen handeln? So geht's > Fairtrade-Produkte Es gibt eine eno",
+  "plain": {
+   "status": 200,
+   "final": "https://www.fairtrade.net/de-de.html",
+   "server": "",
+   "len": 274130,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/fairtrade-deutschland-0.jpg",
+  "patterns": [
+   "16x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel/Lebensmittelhandel-und-Drogerie.html",
+   "13x www.fairtrade.net/de-de/[^/]+/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick/das-ist-fairtrade.html",
+   "9x www.fairtrade.net/de-de/fuer-unternehmen/[^/]+  e.g. https://www.fairtrade.net/de-de/fuer-unternehmen/Ihr-Weg-zum-Fairtrade-Siegel.html",
+   "6x www.fairtrade.net/de-de/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/Was-ist-Fairtrade/unsere-arbeit-im-ueberblick.html",
+   "6x www.fairtrade.net/de-de/mach-mit/[^/]+/[^/]+  e.g. https://www.fairtrade.net/de-de/mach-mit/Aktionen-und-Kampagnen/wir-alle-sind-fairtrade.html"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Iberdrola",
+  "url": "https://www.iberdrola.com/talento/ofertas-empleo",
+  "final": "https://www.iberdrola.com/talento/ofertas-empleo",
+  "title": "Access Denied",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 403,
+  "block": "Access Denied",
+  "text": "Access Denied You don't have permission to access \"http://www.iberdrola.com/talento/ofertas-empleo\" on this server. Reference #18.a2d02e17.1794229898.4c185dc1 https://errors.edgesuite.net/18.a2d02e17.1794229898.4c185dc1",
+  "plain": {
+   "status": 403,
+   "final": "https://www.iberdrola.com/talento/ofertas-empleo",
+   "server": "",
+   "len": 401,
+   "block": "Access Denied"
+  },
+  "hops": [],
+  "shot": "probe/shots/iberdrola-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Inditex",
+  "url": "https://www.inditexcareers.com/",
+  "final": "https://www.inditexpeople.com/",
+  "title": "Access Denied",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 403,
+  "block": "Access Denied",
+  "text": "Access Denied You don't have permission to access \"http://www.inditexpeople.com/\" on this server. Reference #18.47532217.1794229899.2020d13c https://errors.edgesuite.net/18.47532217.1794229899.2020d13c",
+  "plain": {
+   "status": 403,
+   "final": "https://www.inditexpeople.com/",
+   "server": "AkamaiGHost",
+   "len": 196,
+   "block": "Reference #0.59532217"
+  },
+  "hops": [],
+  "shot": "probe/shots/inditex-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Redeia (Red Eléctrica)",
+  "url": "https://www.redeia.com/",
+  "final": "https://www.redeia.com/es",
+  "title": "Home | Redeia",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "CAPTCHA",
+  "text": "Pasar al contenido principal Nuestras empresas Navegación principal Conócenos Nuestros servicios Sostenibilidad Empleo Sala de prensa Header menu Accionistas e inversores Gobierno corporativo Twitter linkedin Youtube 09.Nov.26 / 13:50:59 RED15.7200€ 0.0500 0.31% ES EN Términos de búsquedas populares Sostenibilidad valores 2025 reto juego Jornadas de Sostenibilidad Impulsamos la transición energética creando impacto positivo en las personas, los ecosistemas y los territorios Más información Nuestras empresas Presentación de resultados Redeia presenta sus resultados correspondientes a los nueve ",
+  "plain": {
+   "status": 200,
+   "final": "https://www.redeia.com/es",
+   "server": "",
+   "len": 300245,
+   "block": ""
+  },
+  "hops": [
+   "https://talento.carrerasenred.com/"
+  ],
+  "shot": "probe/shots/redeia-red-el-ctrica-0.jpg",
+  "patterns": [
+   "35x www.redeia.com/es/gobierno-corporativo/[^/]+/[^/]+  e.g. https://www.redeia.com/es/gobierno-corporativo/etica-y-cumplimiento/canal-etico-y-de-cumplimiento",
+   "25x www.redeia.com/es/conocenos/proveedores/[^/]+  e.g. https://www.redeia.com/es/conocenos/proveedores/gestion-responsable-de-la-cadena-de-suministro",
+   "15x www.redeia.com/es/[^/]+  e.g. https://www.redeia.com/es/politica-de-cookies",
+   "15x www.redeia.com/es/sostenibilidad/naturaleza/[^/]+  e.g. https://www.redeia.com/es/sostenibilidad/naturaleza/compromiso-con-biodiversidad",
+   "13x www.redeia.com/es/[^/]+/[^/]+/[^/]+  e.g. https://www.redeia.com/es/accionistas-e-inversores/informacion-financiera-operativa/presentacion-vision-global"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Redeia (Red Eléctrica) (verlinkt)",
+  "url": "https://talento.carrerasenred.com/",
+  "final": "https://talento.carrerasenred.com/",
+  "title": "Trabaja en Redeia",
+  "sigs": {
+   "successfactors": [
+    "career5.successfactors.eu",
+    "career5.successfactors.eu/career?site=&amp;company=redelectri&amp;lang=es%5FES&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE",
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://talento.carrerasenred.com/viewalljobs/"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Trabaja en Redeia Inicio Elige Redeia La vida en Redeia Becas Campus Mi perfil #Trabaja en Redeia. Únete al cambio Palabra clave Ubicación Mostrar más filtros Eliminar filtros Únete a la comunidad de talentos Únete a Redeia, impulsa tu carrera con nosotr@s. Forma parte de un equipo apasionado desarrollando proyectos de futuro para transformar el mundo. ¡Avancemos junt@s! ÚNETE A LA COMUNIDAD DE TALENTOS Envíanos hoy tu CV. Si aún no te has registrado, hazlo ahora y despliega tu #TalentoEnRed. Mi perfil Despliega tu #TalentoEnRed Somos el operador global de infraestructuras esenciales, garantiz",
+  "plain": {
+   "status": 200,
+   "final": "https://talento.carrerasenred.com/",
+   "server": "Apache",
+   "len": 83378,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/redeia-red-el-ctrica-verlinkt-h0.jpg",
+  "patterns": [
+   "4x talento.carrerasenred.com/content/[^/]+/  e.g. https://talento.carrerasenred.com/content/Por-que-Red-Electrica/?locale=es_ES",
+   "4x talento.carrerasenred.com/content/Cultura/  e.g. https://talento.carrerasenred.com/content/Cultura/?locale=es_ES",
+   "4x talento.carrerasenred.com/content/Jovenes-Talentos/  e.g. https://talento.carrerasenred.com/content/Jovenes-Talentos/?locale=es_ES",
+   "4x talento.carrerasenred.com/content/Campus/  e.g. https://talento.carrerasenred.com/content/Campus/?locale=es_ES",
+   "3x www.redeia.com/es/[^/]+  e.g. https://www.redeia.com/es/politica-de-cookies"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Moeve (ehemals Cepsa)",
+  "url": "https://www.moeveglobal.com/",
+  "final": "https://www.moeveglobal.com/en",
+  "title": "Moeve | Corporate Portal",
+  "sigs": {
+   "phenom": [
+    "/widgets"
+   ]
+  },
+  "links": [
+   "https://jobs.moeveglobal.com/?locale=en_US",
+   "https://www.moeveglobal.com/en/search?search=job%20vacancies",
+   "https://jobs.moeveglobal.com/"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "captcha",
+  "text": "Saltar al contenido principal The company Businesses Sustainability Innovation Employment Investors Press Center Planet energy BUSCAR RESERVED AREA Busca en Moeveglobal.com BORRAR Cerrar menú Popular searches Job Vacancies Press Contact Third-Quarter Financial Results We posted strong results and a record level of investment, reinforcing our transformation toward sustainable energy. Press release arrow_right_alt Quarterly reports arrow_right_alt This is what the Andalusian Green Hydrogen Valley will look like Find out arrow_right_alt pause Pausar We are developing Europe's largest green hydrog",
+  "plain": {
+   "status": 200,
+   "final": "https://www.moeveglobal.com/en",
+   "server": "",
+   "len": 113445,
+   "block": "captcha"
+  },
+  "hops": [
+   "https://www.moeveglobal.com/en/search?search=job%20vacancies",
+   "https://jobs.moeveglobal.com/"
+  ],
+  "shot": "probe/shots/moeve-ehemals-cepsa-0.jpg",
+  "patterns": [
+   "5x www.moeveglobal.com/en/the-company/[^/]+  e.g. https://www.moeveglobal.com/en/the-company/purpose-and-values",
+   "3x www.moeveglobal.com/en/employment/[^/]+  e.g. https://www.moeveglobal.com/en/employment/your-place-at-moeve",
+   "3x www.moeveglobal.com/en/investors/[^/]+  e.g. https://www.moeveglobal.com/en/investors/quarterly-financial-information",
+   "3x www.moeveglobal.com/en/press  e.g. https://www.moeveglobal.com/en/press",
+   "3x www.moeveglobal.com/en/search  e.g. https://www.moeveglobal.com/en/search?search=job%20vacancies"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Moeve (ehemals Cepsa) (verlinkt)",
+  "url": "https://www.moeveglobal.com/en/search?search=job%20vacancies",
+  "final": "https://www.moeveglobal.com/en/search?search=job%20vacancies",
+  "title": "Search Results on cepsa.com - Moeve",
+  "sigs": {
+   "phenom": [
+    "/widgets"
+   ]
+  },
+  "links": [
+   "https://www.moeveglobal.com/en/search?search=job%20vacancies#main-content",
+   "https://jobs.cepsa.com/?locale=en_US",
+   "https://www.moeveglobal.com/en/search?search=job%20vacancies",
+   "https://jobs.cepsa.com/",
+   "https://www.moeveglobal.com/en/search?search=job%20vacancies#"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "Just a moment...",
+  "text": "Saltar al contenido principal The company Businesses Sustainability Innovation Employment Investors Press Center Planet energy BUSCAR RESERVED AREA Busca en Moeveglobal.com BORRAR Cerrar menú Popular searches Job Vacancies Press Contact Home MOEVE UNIVERSE Moeve.es Moeveglobal.pt Cepsa.ma Moeve Media Hub Fundación Moeve En Compañía Mubadala Carlyle.com FEATURED TOPICS Integrity Channel Certificate search Job Offers Consolidated Management Report Newsletter subscription HELP Cookies Policy Privacy Policy Disclaimer Accessibility Política datos personales Colombia CREG 080 Resolution of 2019 Con",
+  "plain": {
+   "status": 200,
+   "final": "https://www.moeveglobal.com/en/search?search=job%20vacancies",
+   "server": "Apache",
+   "len": 61078,
+   "block": "Just a moment..."
+  },
+  "hops": [
+   "https://jobs.cepsa.com/"
+  ],
+  "shot": "probe/shots/moeve-ehemals-cepsa-verlinkt-h0.jpg",
+  "patterns": [
+   "6x www.moeveglobal.com/en/search  e.g. https://www.moeveglobal.com/en/search?search=job%20vacancies#main-content",
+   "4x www.moeveglobal.com/en/the-company/[^/]+  e.g. https://www.moeveglobal.com/en/the-company/purpose-and-values",
+   "3x www.moeveglobal.com/en/employment/[^/]+  e.g. https://www.moeveglobal.com/en/employment/your-place-at-moeve"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Moeve (ehemals Cepsa) (verlinkt)",
+  "url": "https://jobs.moeveglobal.com/",
+  "final": "https://jobs.moeveglobal.com/",
+  "title": "",
+  "sigs": {
+   "successfactors": [
+    "career2.successfactors.eu",
+    "career2.successfactors.eu/career?site=&amp;company=C0000955645P&amp;lang=es%5FES&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE",
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://jobs.moeveglobal.com/#content",
+   "https://jobs.moeveglobal.com/?locale=es_ES",
+   "https://jobs.moeveglobal.com/#",
+   "https://jobs.moeveglobal.com/?locale=en_US",
+   "https://jobs.moeveglobal.com/go/ES_Junior/9653801/",
+   "https://jobs.moeveglobal.com/go/ES_Experiencia/9653901/",
+   "https://jobs.moeveglobal.com/go/ES_Energias/9654001/"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": " Inicio Empleo Idioma Acceso candidatos Acceso empleados ¡ENVÍA TU CV! Introduce tu e-mail ¿Ya eres miembro? Acceso candidatos Buscar ofertas Talento joven Empieza tu camino en un entorno donde aprender y crecer van de la mano. Construye tu futuro --> Profesionales con experiencia Aportar tu conocimiento y sigue evolucionando con nuevos retos. Sigue creciendo --> Nuevas energías La transición energética necesita mentes inquietas como la tuya. Impulsa el cambio --> ¿Por qué Moeve? Ofrecemos beneficios reales, compromiso con la diversidad y un entorno donde desarrollarte con sentido. No te quede",
+  "plain": {
+   "status": 200,
+   "final": "https://jobs.moeveglobal.com/",
+   "server": "Apache",
+   "len": 55302,
+   "block": ""
+  },
+  "hops": [
+   "https://www.moeveglobal.com/es/empleo"
+  ],
+  "shot": "probe/shots/moeve-ehemals-cepsa-verlinkt-h1.jpg",
+  "patterns": [
+   "4x www.moeveglobal.com/es/empleo  e.g. https://www.moeveglobal.com/es/empleo",
+   "3x jobs.moeveglobal.com/go/ES_Junior/\\d+/  e.g. https://jobs.moeveglobal.com/go/ES_Junior/9653801/",
+   "3x jobs.moeveglobal.com/go/ES_Experiencia/\\d+/  e.g. https://jobs.moeveglobal.com/go/ES_Experiencia/9653901/",
+   "3x jobs.moeveglobal.com/go/ES_Energias/\\d+/  e.g. https://jobs.moeveglobal.com/go/ES_Energias/9654001/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Galp",
+  "url": "https://jobs.galp.com/",
+  "final": "https://jobs.galp.com/",
+  "title": "Jobs at Galp",
+  "sigs": {
+   "successfactors": [
+    "career2.successfactors.eu",
+    "career2.successfactors.eu/career?site=&amp;company=galpenergi&amp;lang=pt%5FPT&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE",
+    "jobs2web",
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://jobs.galp.com/#content",
+   "https://jobs.galp.com/",
+   "https://jobs.galp.com/#",
+   "https://jobs.galp.com/go/Oportunidades/1335501/",
+   "https://jobs.galp.com/content/Candidatura-Espontanea/?locale=pt_PT",
+   "https://jobs.galp.com/content/FAQ/?locale=pt_PT",
+   "https://jobs.galp.com/?locale=en_US",
+   "https://jobs.galp.com/?locale=es_ES",
+   "https://jobs.galp.com/?locale=pt_PT",
+   "https://jobs.galp.com/search/",
+   "https://jobs.galp.com/search/?q=&locationsearch=",
+   "https://jobs.galp.com/content/privacytermsPT/?locale=pt_PT",
+   "https://jobs.galp.com/content/TermsConditionsPT/?locale=pt_PT"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Jobs at Galp Trabalhar na Galp galp.com FAQ Idioma Ver perfil Inscreva-se na nossa Talent Community Gosta de desafios e procura uma oportunidade única de realização profissional? Inscreva-se na nossa comunidade de talentos e mantenha-se informado sobre as oportunidades em aberto. Os leitores de ecrã não podem ler o seguinte mapa pesquisável. Siga este link para chegar à nossa página Pesquisa de emprego para procurar empregos disponíveis num formato mais acessível Página principal Ver todas as oportunidades Política de Privacidade Termos e Condições FAQ Abre num novo separador. Abre num novo se",
+  "plain": {
+   "status": 200,
+   "final": "https://jobs.galp.com/",
+   "server": "",
+   "len": 38526,
+   "block": ""
+  },
+  "hops": [
+   "https://jobs.galp.com/go/Oportunidades/1335501/",
+   "https://jobs.galp.com/search/?q=&locationsearch="
+  ],
+  "shot": "probe/shots/galp-0.jpg",
+  "patterns": [
+   "3x jobs.galp.com/content/FAQ/  e.g. https://jobs.galp.com/content/FAQ/?locale=pt_PT"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Galp (verlinkt)",
+  "url": "https://jobs.galp.com/go/Oportunidades/1335501/",
+  "final": "https://jobs.galp.com/go/Oportunidades/1335501/",
+  "title": "",
+  "sigs": {
+   "successfactors": [
+    "career2.successfactors.eu",
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://jobs.galp.com/go/Oportunidades/1335501/#content",
+   "https://jobs.galp.com/",
+   "https://jobs.galp.com/go/Oportunidades/1335501/#",
+   "https://jobs.galp.com/go/Oportunidades/1335501/",
+   "https://jobs.galp.com/content/Candidatura-Espontanea/?locale=pt_PT",
+   "https://jobs.galp.com/content/FAQ/?locale=pt_PT",
+   "https://jobs.galp.com/?locale=en_US",
+   "https://jobs.galp.com/?locale=es_ES",
+   "https://jobs.galp.com/?locale=pt_PT",
+   "https://jobs.galp.com/search/?q=&locationsearch=",
+   "https://jobs.galp.com/content/privacytermsPT/?locale=pt_PT",
+   "https://jobs.galp.com/content/TermsConditionsPT/?locale=pt_PT"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Trabalhar na Galp galp.com FAQ Idioma Ver perfil Oportunidades Somos uma empresa de origem nacional e atuação global. Os nossos colaboradores distribuem-se por, aproximadamente, uma centena de empresas que fazem parte do universo Galp. Como forma de concretizar a expansão dos nossos negócios, a mobilidade geográfica transforma-se num desafio cujo objetivo último passa por levar a Galp para o mundo, complementando a nossa atividade com o recrutamento local. Atualmente, não existem vagas correspondentes a esta categoria ou localização. As 0 mais recentes oportunidades publicadas na Galp encontra",
+  "plain": {
+   "status": 200,
+   "final": "https://jobs.galp.com/go/Oportunidades/1335501/",
+   "server": "",
+   "len": 32574,
+   "block": ""
+  },
+  "hops": [
+   "https://jobs.galp.com/search/?q=&locationsearch="
+  ],
+  "shot": "probe/shots/galp-verlinkt-h0.jpg",
+  "patterns": [
+   "16x jobs.galp.com/go/Oportunidades/\\d+/  e.g. https://jobs.galp.com/go/Oportunidades/1335501/#content",
+   "3x jobs.galp.com/content/FAQ/  e.g. https://jobs.galp.com/content/FAQ/?locale=pt_PT"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Galp (verlinkt)",
+  "url": "https://jobs.galp.com/search/?q=&locationsearch=",
+  "final": "https://jobs.galp.com/search/?q=&locationsearch=",
+  "title": "Empregos Galp",
+  "sigs": {
+   "successfactors": [
+    "career2.successfactors.eu",
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://jobs.galp.com/search/?q=&locationsearch=#content",
+   "https://jobs.galp.com/",
+   "https://jobs.galp.com/search/?q=&locationsearch=#",
+   "https://jobs.galp.com/go/Oportunidades/1335501/",
+   "https://jobs.galp.com/content/Candidatura-Espontanea/?locale=pt_PT",
+   "https://jobs.galp.com/content/FAQ/?locale=pt_PT",
+   "https://jobs.galp.com/search/?q=&locationsearch=&locale=en_US",
+   "https://jobs.galp.com/search/?q=&locationsearch=&locale=es_ES",
+   "https://jobs.galp.com/search/?q=&locationsearch=&locale=pt_PT",
+   "https://jobs.galp.com/search/?q=&sortColumn=sort_title&sortDirection=desc#hdrTitleButton",
+   "https://jobs.galp.com/search/?q=&sortColumn=sort_location&sortDirection=desc#hdrLocationButton",
+   "https://jobs.galp.com/search/?q=&sortColumn=referencedate&sortDirection=asc#hdrDateButton",
+   "https://jobs.galp.com/job/NA-Candidaturas-%C3%81reas-de-Servi%C3%A7o/439784001/",
+   "https://jobs.galp.com/job/NA-Spontaneous-Application-Service-Stations/439783901/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-Torres-Vedras-%28F%C3%A9rias%29-2565-646/1455135133/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-A7-Ceide-%28Baixa%29-4770-021/1455156433/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-Ajuda-%28Baixa%29-1400-081/1454700733/",
+   "https://jobs.galp.com/job/Operador-posto-A_S_Aeroporto-1950-233/1453795833/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-Sines-7520-106/1452682433/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-Sines-%28F%C3%A9rias%29-7520-106/1452681633/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-Sines-%28Baixa%29-7520-106/1452681933/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-%28A28%29-Vila-Do-Conde-%28Baixa%29-4485-000/1442304533/",
+   "https://jobs.galp.com/job/Reclutamos-Expendedor-Estaci%C3%B3n-de-Servicio-Galp-Montseny/1410303733/",
+   "https://jobs.galp.com/job/Reclutamos-Expendedor-Estaci%C3%B3n-de-Servicio-Galp-Alcobendas/1441084733/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-%28A22%29-Baixa-%28Loul%C3%A9%29-8100-000/1450416533/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-%28A22%29-Loul%C3%A9-%28Baixa%29-8100-000/1429120033/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-Amaro-da-Costa-%28F%C3%A9rias%29-2750-279/1449063133/",
+   "https://jobs.galp.com/job/Recrutamos-Service-Station-Operator-Galp-%28Baixa%29-Birre-2750-279/1449057933/",
+   "https://jobs.galp.com/job/Reclutamos-Expendedor-Estaci%C3%B3n-de-Servicio-Galp-Torredembarra/1446547933/",
+   "https://jobs.galp.com/job/Reclutamos-Expendedor-Estaci%C3%B3n-de-Servicio-Galp-Ziordia/1446548033/"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Trabalhar na Galp galp.com FAQ Idioma Ver perfil Página Principal | em Galp (página atual) De modo a garantir a proteção dos teus dados, não é possível receberes, no teu e-mail, alertas sobre as novas oportunidades disponíveis na Galp. Para que possas estar a par de todas as ofertas que temos, podes guardar as tuas pesquisas e consultá-las a qualquer momento. Sugerimos também que consultes a nossa página de Linkedin. Procurar resultados para \"\". Título Localização Data de publicação Candidaturas Áreas de Serviço N/A, PT 07/11/2026 Spontaneous Application - Service Stations N/A, PT 07/11/2026 R",
+  "plain": {
+   "status": 200,
+   "final": "https://jobs.galp.com/search/?q=&locationsearch=",
+   "server": "",
+   "len": 62738,
+   "block": ""
+  },
+  "hops": [
+   "https://jobs.galp.com/go/Oportunidades/1335501/"
+  ],
+  "shot": "probe/shots/galp-verlinkt-h1.jpg",
+  "patterns": [
+   "13x jobs.galp.com/search/  e.g. https://jobs.galp.com/search/?q=&locationsearch=#content",
+   "12x jobs.galp.com/job/[^/]+/\\d+/  e.g. https://jobs.galp.com/job/NA-Candidaturas-%C3%81reas-de-Servi%C3%A7o/439784001/",
+   "3x jobs.galp.com/content/FAQ/  e.g. https://jobs.galp.com/content/FAQ/?locale=pt_PT"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Galp",
+  "url": "https://jobs.galp.com",
+  "final": "https://jobs.galp.com/",
+  "title": "Jobs at Galp",
+  "sigs": {
+   "successfactors": [
+    "career2.successfactors.eu",
+    "career2.successfactors.eu/career?site=&amp;company=galpenergi&amp;lang=pt%5FPT&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE",
+    "jobs2web",
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://jobs.galp.com/#content",
+   "https://jobs.galp.com/",
+   "https://jobs.galp.com/#",
+   "https://jobs.galp.com/go/Oportunidades/1335501/",
+   "https://jobs.galp.com/content/Candidatura-Espontanea/?locale=pt_PT",
+   "https://jobs.galp.com/content/FAQ/?locale=pt_PT",
+   "https://jobs.galp.com/?locale=en_US",
+   "https://jobs.galp.com/?locale=es_ES",
+   "https://jobs.galp.com/?locale=pt_PT",
+   "https://jobs.galp.com/search/",
+   "https://jobs.galp.com/search/?q=&locationsearch=",
+   "https://jobs.galp.com/content/privacytermsPT/?locale=pt_PT",
+   "https://jobs.galp.com/content/TermsConditionsPT/?locale=pt_PT"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Jobs at Galp Trabalhar na Galp galp.com FAQ Idioma Ver perfil Inscreva-se na nossa Talent Community Gosta de desafios e procura uma oportunidade única de realização profissional? Inscreva-se na nossa comunidade de talentos e mantenha-se informado sobre as oportunidades em aberto. Os leitores de ecrã não podem ler o seguinte mapa pesquisável. Siga este link para chegar à nossa página Pesquisa de emprego para procurar empregos disponíveis num formato mais acessível Página principal Ver todas as oportunidades Política de Privacidade Termos e Condições FAQ Abre num novo separador. Abre num novo se",
+  "plain": {
+   "status": 200,
+   "final": "https://jobs.galp.com/",
+   "server": "",
+   "len": 38526,
+   "block": ""
+  },
+  "hops": [
+   "https://jobs.galp.com/go/Oportunidades/1335501/",
+   "https://jobs.galp.com/search/?q=&locationsearch="
+  ],
+  "shot": "probe/shots/galp-1.jpg",
+  "patterns": [
+   "3x jobs.galp.com/content/FAQ/  e.g. https://jobs.galp.com/content/FAQ/?locale=pt_PT"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Ørsted",
+  "url": "https://orsted.com/en/careers/vacancies-list",
+  "final": "https://orsted.com/en/careers/vacancies-list",
+  "title": "Vacancies: See All Available Jobs | Ørsted Careers",
+  "sigs": {},
+  "links": [
+   "https://orsted.com/en/careers/vacancies-list",
+   "https://orsted.com/en/careers/vacancies-list#",
+   "https://orsted.com/en/careers/hiring-process/job-alert",
+   "https://orsted.com/en/careers/vacancies-list/2026/04/31843-experienced-servicenow-grc-product-owner",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32954-operations-and-maintenance-team-lead",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32874-senior-ot-incident-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32887-plant-manager--andrews-county-tx",
+   "https://orsted.com/en/careers/vacancies-list/2026/09/32532-senior-operational-technology-ot-security-officer",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32879-senior-pipeline-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32928-senior-sourcing-manager-temporary",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32849-senior-cyber-security-incident-responder",
+   "https://orsted.com/en/careers/vacancies-list/2026/07/32560-innovation-and-new-ventures-lead",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32870-project-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/09/32819-senior-energy-storage-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32868-senior-control-systems-specialist-til-avedoerevaerket",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32927-account-manager-barselsvikariat",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32761-executive-communications-partner",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32962-lead-algo-developer",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32885-administrative-coordinator-for-post-fixture-assistance-in-bioenergy",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32829-purchasing-and-warehouse-coordinator-til-asnaesvaerket",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32846-purchasing-and-warehouse-coordinator-til-herningvaerket",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32945-fishery-relations-manager-fixed-term-contract",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32888-accounts-payable-analyst-12-months-fixed-term",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32842-ap-analyst-reconciliation-12-months-fixed-term",
+   "https://orsted.com/en/careers/vacancies-list/2026/09/32756-wind-farm-technician",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32891-permitting-manager-fixed-term-contract",
+   "https://orsted.com/en/careers/vacancies-list/2026/05/32273-verantwortliche-elektrofachkraft-offshorewindkraftanlagen-m-f-d",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32941-community-engagement-and-competency-specialist",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32989-operations-manager-m-w-d",
+   "https://orsted.com/en/careers/vacancies-list/2026/08/32612-senior-quality-engineer"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "CAPTCHA",
+  "text": "Skip navigation Offshore wind Other energy News & media Investors Careers About Contact All sites Home Careers Open positions Grow your career while pursuing our vision of a world that runs entirely on green energy Wherever you join Ørsted you will find a friendly and collaborative work environment with plenty of opportunity to develop. Search now for open vacancies, or read more about working at Ørsted. Create job alert Watch out for recruitment scams! Fraudsters may impersonate Ørsted recruiters through fake LinkedIn adverts or emails. All legitimate Ørsted vacancies can be found on this pag",
+  "plain": {
+   "status": 200,
+   "final": "https://orsted.com/en/careers/vacancies-list",
+   "server": "",
+   "len": 94473,
+   "block": ""
+  },
+  "hops": [
+   "https://orsted.com/en/careers/vacancies-list/2026/04/31843-experienced-servicenow-grc-product-owner",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32954-operations-and-maintenance-team-lead",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32874-senior-ot-incident-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32887-plant-manager--andrews-county-tx"
+  ],
+  "shot": "probe/shots/rsted-0.jpg",
+  "patterns": [
+   "10x policies.google.com/technologies/partner-sites  e.g. https://policies.google.com/technologies/partner-sites?hl=en",
+   "7x piwik.pro/privacy-policy  e.g. https://piwik.pro/privacy-policy",
+   "7x orsted.com/en/careers/[^/]+/[^/]+  e.g. https://orsted.com/en/careers/areas-of-work/engineering-and-construction",
+   "6x orsted.com/en/careers/vacancies-list  e.g. https://orsted.com/en/careers/vacancies-list",
+   "5x www.salesforce.com/company/privacy  e.g. https://www.salesforce.com/company/privacy"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Ørsted (verlinkt)",
+  "url": "https://orsted.com/en/careers/vacancies-list/2026/04/31843-experienced-servicenow-grc-product-owner",
+  "final": "https://orsted.com/en/careers/vacancies-list/2026/04/31843-experienced-servicenow-grc-product-owner",
+  "title": "Experienced ServiceNow GRC Product Owner, Gentofte | Ørsted",
+  "sigs": {},
+  "links": [
+   "https://orsted.com/en/careers/vacancies-list/2026/04/31843-experienced-servicenow-grc-product-owner",
+   "https://orsted.com/en/careers/vacancies-list/2026/04/31843-experienced-servicenow-grc-product-owner#",
+   "https://orsted.com/en/careers/vacancies-list",
+   "https://orsted.com/en/careers/hiring-process/job-alert",
+   "https://applyforjob.orsted.com/job/Gentofte-Experienced-ServiceNow-GRC-Product-Owner/1359577557/?feedId=319102&utm_source=SiteCore&utm_campaign=Orsted_SiteCore&tcsource=apply",
+   "https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2forsted.com%2fen%2fcareers%2fvacancies-list%2f2026%2f04%2f31843-experienced-servicenow-grc-product-owner",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32874-senior-ot-incident-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/09/32532-senior-operational-technology-ot-security-officer"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "CAPTCHA",
+  "text": "Skip navigation Offshore wind Other energy News & media Investors Careers About Contact All sites Apply Home Careers Open positions IT and digital Experienced ServiceNow GRC Product Owner Imagine a future where you enable governance, risk, and compliance capabilities that help power the global green energy transition. Application deadline 11 November 2026 , 23:59 CET Country Denmark Location Gentofte Workplace Hybrid (office and home-working) Working hours full-time Employment type Permanent Legal entity Ørsted Services A/S Some of our benefits include: Proven very high employee satisfaction a",
+  "plain": {
+   "status": 200,
+   "final": "https://orsted.com/en/careers/vacancies-list/2026/04/31843-experienced-servicenow-grc-product-owner",
+   "server": "",
+   "len": 110951,
+   "block": ""
+  },
+  "hops": [
+   "https://orsted.com/en/careers/vacancies-list",
+   "https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2forsted.com%2fen%2fcareers%2fvacancies-list%2f2026%2f04%2f31843-experienced-servicenow-grc-product-owner",
+   "https://orsted.com/en/careers/vacancies-list/2026/10/32874-senior-ot-incident-engineer",
+   "https://orsted.com/en/careers/vacancies-list/2026/09/32532-senior-operational-technology-ot-security-officer"
+  ],
+  "shot": "probe/shots/rsted-verlinkt-h0.jpg",
+  "patterns": [
+   "10x policies.google.com/technologies/partner-sites  e.g. https://policies.google.com/technologies/partner-sites?hl=en",
+   "7x piwik.pro/privacy-policy  e.g. https://piwik.pro/privacy-policy",
+   "7x orsted.com/en/careers/[^/]+/[^/]+  e.g. https://orsted.com/en/careers/areas-of-work/engineering-and-construction",
+   "5x www.salesforce.com/company/privacy  e.g. https://www.salesforce.com/company/privacy",
+   "5x orsted.com/en/careers/[^/]+  e.g. https://orsted.com/en/careers/areas-of-work"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Ørsted (verlinkt)",
+  "url": "https://orsted.com/en/careers/vacancies-list/2026/11/32954-operations-and-maintenance-team-lead",
+  "final": "https://orsted.com/en/careers/vacancies-list/2026/11/32954-operations-and-maintenance-team-lead",
+  "title": "Operations & Maintenance Team Lead, several locations | Ørsted",
+  "sigs": {},
+  "links": [
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32954-operations-and-maintenance-team-lead",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32954-operations-and-maintenance-team-lead#",
+   "https://orsted.com/en/careers/vacancies-list",
+   "https://orsted.com/en/careers/hiring-process/job-alert",
+   "https://applyforjob.orsted.com/job/Barrow-in-Furness-Operations-&-Maintenance-Team-Lead/1376425057/?feedId=319102&utm_source=SiteCore&utm_campaign=Orsted_SiteCore&tcsource=apply",
+   "https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2forsted.com%2fen%2fcareers%2fvacancies-list%2f2026%2f11%2f32954-operations-and-maintenance-team-lead",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32941-community-engagement-and-competency-specialist"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "CAPTCHA",
+  "text": "Skip navigation Offshore wind Other energy News & media Investors Careers About Contact All sites Apply Home Careers Open positions Operations and technicians Operations & Maintenance Team Lead Imagine a future where you lead a frontline team delivering safe, reliable, and high-quality offshore operations and maintenance Application deadline 12 November 2026 , 23:59 GMT Country United Kingdom Location Liverpool, Barrow-in-Furness Workplace Office-based Working hours Full Time Employment type Permanent Legal entity Orsted Power (UK) Ltd. Join us in this role where you’ll lead a team of maintena",
+  "plain": {
+   "status": 200,
+   "final": "https://orsted.com/en/careers/vacancies-list/2026/11/32954-operations-and-maintenance-team-lead",
+   "server": "",
+   "len": 102042,
+   "block": ""
+  },
+  "hops": [
+   "https://orsted.com/en/careers/vacancies-list",
+   "https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2forsted.com%2fen%2fcareers%2fvacancies-list%2f2026%2f11%2f32954-operations-and-maintenance-team-lead",
+   "https://orsted.com/en/careers/vacancies-list/2026/11/32941-community-engagement-and-competency-specialist"
+  ],
+  "shot": "probe/shots/rsted-verlinkt-h1.jpg",
+  "patterns": [
+   "10x policies.google.com/technologies/partner-sites  e.g. https://policies.google.com/technologies/partner-sites?hl=en",
+   "7x piwik.pro/privacy-policy  e.g. https://piwik.pro/privacy-policy",
+   "7x orsted.com/en/careers/[^/]+/[^/]+  e.g. https://orsted.com/en/careers/areas-of-work/engineering-and-construction",
+   "5x www.salesforce.com/company/privacy  e.g. https://www.salesforce.com/company/privacy",
+   "5x orsted.com/en/careers/[^/]+  e.g. https://orsted.com/en/careers/areas-of-work"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Schneider Electric",
+  "url": "https://www.se.com/ww/en/about-us/careers/job-search/",
+  "final": "https://www.se.com/ww/en/about-us/careers/job-search/",
+  "title": "Schneider Electric",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 404,
+  "block": "",
+  "text": "November/9/2026 13:11:55 TZ: GMT +00:00 Schneider Electric Error 404 The Schneider Electric document you are trying to view was not found. We apologize for the inconvenience caused. ",
+  "plain": {
+   "status": 403,
+   "final": "https://www.se.com/ww/en/about-us/careers/job-search/",
+   "server": "",
+   "len": 426,
+   "block": "Access Denied"
+  },
+  "hops": [],
+  "shot": "probe/shots/schneider-electric-0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Booking.com",
+  "url": "https://careers.booking.com/",
+  "final": "https://careers.booking.com/",
+  "title": "Booking.com Careers site",
+  "sigs": {
+   "icims": [
+    "internal-workingatbooking.icims.com"
+   ]
+  },
+  "links": [
+   "https://jobs.booking.com/booking/jobs",
+   "https://jobs.booking.com/",
+   "https://jobs.booking.com/booking/jobs/30591?lang=en-us",
+   "https://jobs.booking.com/booking/jobs/13140?lang=en-us",
+   "https://jobs.booking.com/booking/jobs/30644?lang=en-us",
+   "https://jobs.booking.com/booking/talentcommunity/form"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Skip To Main Content Open search drawer Teams Locations Life at Booking.com Our Impact Sustainability Our Impact Inclusion Societal Impact Our Journey Start Your Journey Start Your Journey Early Careers Hybrid Ways of Working Benefits See all jobs Your Booking.com journey starts here Where do you want to go? Search for jobs by title or keyword Search Join our teams COMMERCIAL Revenue Analyst - Flights Amsterdam, Netherlands ENGINEERING Engineering Manager Amsterdam, Netherlands FINTECH Senior SAP FICA Specialist Amsterdam, Netherlands Internships and graduate roles Whether you’re seeking an ap",
+  "plain": {
+   "status": 200,
+   "final": "https://careers.booking.com/",
+   "server": "cloudflare",
+   "len": 168359,
+   "block": ""
+  },
+  "hops": [
+   "https://jobs.booking.com/booking/jobs"
+  ],
+  "shot": "probe/shots/booking-com-0.jpg",
+  "patterns": [
+   "9x careers.booking.com/[^/]+/  e.g. https://careers.booking.com/start-your-journey/",
+   "7x careers.booking.com/our-impact/  e.g. https://careers.booking.com/our-impact/",
+   "6x careers.booking.com/benefits/  e.g. https://careers.booking.com/benefits/",
+   "5x careers.booking.com/early-careers/  e.g. https://careers.booking.com/early-careers/",
+   "4x careers.booking.com/our-diversity/  e.g. https://careers.booking.com/our-diversity/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Booking.com (verlinkt)",
+  "url": "https://jobs.booking.com/booking/jobs",
+  "final": "https://jobs.booking.com/booking/jobs",
+  "title": "Booking.com Careers",
+  "sigs": {
+   "icims": [
+    "employees-holdings-workingatbooking.icims.com",
+    "external-workingatbooking.icims.com",
+    "internal-workingatbooking.icims.com",
+    "www.icims.com"
+   ]
+  },
+  "links": [
+   "https://jobs.booking.com/booking#",
+   "https://jobs.booking.com/booking/jobs",
+   "https://internal-workingatbooking.icims.com/jobs/login?loginOnly=1",
+   "https://external-workingatbooking.icims.com/jobs/login?loginOnly=1",
+   "https://jobs.booking.com/booking/talentcommunity/form"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "CAPTCHA",
+  "text": "Zum Hauptinhalt wechseln Toggle navigation Teams Locations Life at Booking.com Our Impact Start Your Journey Benefits See all jobs Job Search Page Jobs suchen Auftragsübereinstimmung search Current Employee? Click here Filter Standorte Kategorien 0 Ergebnisse Relevanz Sortieren Nach JOBS.NO_RESULTS_MESSAGE Artikel pro Seite 10 0 of 0 Follow Us Search Jobs Already an applicant? Check your status in our portal Log In Careers Blog Global Benefits Our Impact Inclusion Environmental Impact Start Your Journey Early Careers Join our Talent Network Employee Access Copyright © 1996 - 2025 Booking.com® ",
+  "plain": {
+   "status": 200,
+   "final": "https://jobs.booking.com/booking/jobs",
+   "server": "nginx",
+   "len": 264444,
+   "block": "CAPTCHA"
+  },
+  "hops": [],
+  "shot": "probe/shots/booking-com-verlinkt-h0.jpg",
+  "patterns": [
+   "5x careers.booking.com/[^/]+/  e.g. https://careers.booking.com/start-your-journey/",
+   "4x jobs.booking.com/booking  e.g. https://jobs.booking.com/booking#",
+   "3x careers.booking.com/blog/  e.g. https://careers.booking.com/blog/?page=1",
+   "3x careers.booking.com/our-impact/  e.g. https://careers.booking.com/our-impact/",
+   "3x careers.booking.com/our-diversity/  e.g. https://careers.booking.com/our-diversity/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Booking.com",
+  "url": "https://jobs.booking.com/booking/jobs?keywords=intern",
+  "final": "https://jobs.booking.com/booking/jobs?keywords=intern",
+  "title": "Booking.com Careers",
+  "sigs": {
+   "icims": [
+    "employees-holdings-workingatbooking.icims.com",
+    "external-workingatbooking.icims.com",
+    "internal-workingatbooking.icims.com",
+    "www.icims.com"
+   ]
+  },
+  "links": [
+   "https://jobs.booking.com/booking#",
+   "https://jobs.booking.com/booking/jobs",
+   "https://internal-workingatbooking.icims.com/jobs/login?loginOnly=1",
+   "https://external-workingatbooking.icims.com/jobs/login?loginOnly=1",
+   "https://jobs.booking.com/booking/talentcommunity/form"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "CAPTCHA",
+  "text": "Zum Hauptinhalt wechseln Toggle navigation Teams Locations Life at Booking.com Our Impact Start Your Journey Benefits See all jobs Job Search Page Jobs suchen Auftragsübereinstimmung close search Current Employee? Click here Filter Standorte Kategorien 0 Ergebnisse Relevanz Sortieren Nach JOBS.NO_RESULTS_MESSAGE Artikel pro Seite 10 0 of 0 Follow Us Search Jobs Already an applicant? Check your status in our portal Log In Careers Blog Global Benefits Our Impact Inclusion Environmental Impact Start Your Journey Early Careers Join our Talent Network Employee Access Copyright © 1996 - 2025 Booking",
+  "plain": {
+   "status": 200,
+   "final": "https://jobs.booking.com/booking/jobs?keywords=intern",
+   "server": "nginx",
+   "len": 264520,
+   "block": "CAPTCHA"
+  },
+  "hops": [
+   "https://jobs.booking.com/booking/jobs"
+  ],
+  "shot": "probe/shots/booking-com-1.jpg",
+  "patterns": [
+   "5x careers.booking.com/[^/]+/  e.g. https://careers.booking.com/start-your-journey/",
+   "4x jobs.booking.com/booking  e.g. https://jobs.booking.com/booking#",
+   "3x careers.booking.com/blog/  e.g. https://careers.booking.com/blog/?page=1",
+   "3x careers.booking.com/our-impact/  e.g. https://careers.booking.com/our-impact/",
+   "3x careers.booking.com/our-diversity/  e.g. https://careers.booking.com/our-diversity/"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Falabella",
+  "url": "https://www.falabella.com/",
+  "final": "https://www.falabella.com/falabella-cl",
+  "title": "falabella.com | Todo lo que necesitas en un solo lugar",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Menú Search Bar Hola, Inicia sesión Mi cuenta 0 location-icon Ingresa tu ubicación Venta Empresas Vende en falabella.com Tarjetas y cuentas Novios Ayuda Ofertas Cuotas sin interés Outlet Regalos 0 0 : HORAS 4 7 : MINUTOS 4 0 SEGUNDOS Busca por categorías Moda Mujer Moda Hombre Zapatos Mujer Zapatillas Tecnología Hogar Belleza Accesorios Electro Deporte Moda Infantil Juguetes Bebés Mascotas Zapatos Hombre Trajes de baño Renueva tu hogar > Los más vendidos en Tecnología Patrocinado CAIXUN|Smart TV LED Caixun Roku TV 32 HD C32V1HR 4.6 (304) $129.990 -32% $139.990 $189.990 Patrocinado MASTER G|Mon",
+  "plain": {
+   "status": 200,
+   "final": "https://www.falabella.com/falabella-cl",
+   "server": "cloudflare",
+   "len": 967689,
+   "block": ""
+  },
+  "hops": [
+   "https://www.falabella.com/falabella-cl/page/ultimas-oportunidades?sid=HO_ASV_OFE_1"
+  ],
+  "shot": "probe/shots/falabella-0.jpg",
+  "patterns": [
+   "57x www.falabella.com/falabella-cl/product/\\d+/[^/]+/\\d+  e.g. https://www.falabella.com/falabella-cl/product/124575413/smart-tv-caixun-led-32-hd-roku-tv-c32v1hr/124575415",
+   "36x www.falabella.com/falabella-cl/category/cat\\d+/[^/]+  e.g. https://www.falabella.com/falabella-cl/category/cat19300025/Toallas-de-Playa?sid=HO_BH8_TOA_275",
+   "21x www.falabella.com/falabella-cl/page/[^/]+  e.g. https://www.falabella.com/falabella-cl/page/Vende-en-Falabella.com?sid=HO_HO_SEL_1924",
+   "16x www.falabella.com/falabella-cl/collection/[^/]+  e.g. https://www.falabella.com/falabella-cl/collection/sets-belleza-navidad?sid=HO_V9_CAL_14&sid=HO_V6_SET_10",
+   "11x www.falabella.com/falabella-cl  e.g. https://www.falabella.com/falabella-cl"
+  ],
+  "jsons": [
+   "28 Treffer in https://www.falabella.com/s/commerce-config/v1/FACL/commerce-config/merged?namespace=web | keys=['allowedEmailSha256', 'allowedHosts', 'audience', 'isEnabled', 'title', 'url'] | z.B. Chat de ayuda",
+   "4 Treffer in https://www.falabella.com/s/browse/v1/fetchItemDetails/cl?%7B%22products%22:%5B%7B%22skuId%22:%22127862680%22%7D,%7B%22skuId%22:%228467275%22%7D,%7B%2 | keys=['badges', 'brand', 'categoryPaths', 'displayName', 'gCategoryId', 'id', 'measurement', 'mediaUrls', 'offeringId', 'prices', 'productId', 'published', 'rating', 'sellerName'] | z.B. Zueco Bamers Classic Buckle Mujer Beige",
+   "25 Treffer in https://www.falabella.com/s/browse/v2/recommended-products/cl?pageType=HOME&slots=HOME-HRT-2&politicalId=15c37b0b-a392-41a9-8b3b-978376c700d5&priceGro | keys=['config', 'data', 'description', 'id', 'name', 'slot', 'type'] | z.B. Los más vendidos en Zapatillas",
+   "24 Treffer in https://www.falabella.com/s/browse/v2/recommended-products/cl?pageType=HOME&slots=HOME-HRT-1&politicalId=15c37b0b-a392-41a9-8b3b-978376c700d5&priceGro | keys=['config', 'data', 'description', 'id', 'name', 'slot', 'type'] | z.B. Los más vendidos en Tecnología"
+  ],
+  "api": []
+ },
+ {
+  "name": "Falabella (verlinkt)",
+  "url": "https://www.falabella.com/falabella-cl/page/ultimas-oportunidades?sid=HO_ASV_OFE_1",
+  "final": "https://www.falabella.com/falabella-cl/page/ultimas-oportunidades?sid=HO_ASV_OFE_1",
+  "title": "Ofertas Falabella • Desde 40% dcto | Tienda Falabella",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Menú Search Bar Hola, Inicia sesión Mi cuenta 0 location-icon Ingresa tu ubicación Venta Empresas Vende en falabella.com Tarjetas y cuentas Novios Ayuda Home Ofertas Falabella • Desde 40% Dcto Ofertas Falabella Top ofertas Ofertas CMR MUJER HOMBRE ELECTRO INFANTIL DEPORTE HOGAR MÁS CATEGORÍAS BASEMENT|Pantalón Fluido Tiro Alto con Lino Mujer Basement 4.9 (9) $11.990 -40% $19.990 Envío Plus + SYBILLA|Jeans Straight Tiro Alto Mujer Sybilla 4.5 (510) $14.990 -25% $19.990 Envío Plus + MOSSIMO|Blazer Sin Mangas Mujer Mossimo 4.8 (35) $20.990 -40% $34.990 Envío Plus + SYBILLA|Pantalón Pareo Tachas M",
+  "plain": {
+   "status": 200,
+   "final": "https://www.falabella.com/falabella-cl/page/ultimas-oportunidades?sid=HO_ASV_OFE_1",
+   "server": "cloudflare",
+   "len": 557823,
+   "block": ""
+  },
+  "hops": [
+   "https://www.falabella.com/falabella-cl/page/oportunidades-unicas"
+  ],
+  "shot": "probe/shots/falabella-verlinkt-h0.jpg",
+  "patterns": [
+   "345x www.falabella.com/falabella-cl/product/\\d+/[^/]+/\\d+  e.g. https://www.falabella.com/falabella-cl/product/883829547/pantalon-fluido-tiro-alto-con-lino-mujer-basement/883829559",
+   "28x www.falabella.com/falabella-cl/page/ultimas-oportunidades  e.g. https://www.falabella.com/falabella-cl/page/ultimas-oportunidades?sid=HO_ASV_OFE_1#",
+   "12x www.falabella.com/falabella-cl/page/[^/]+  e.g. https://www.falabella.com/falabella-cl/page/Vende-en-Falabella.com?sid=HO_HO_SEL_1924",
+   "5x www.falabella.com/falabella-cl/product/prod\\d+/[^/]+/\\d+  e.g. https://www.falabella.com/falabella-cl/product/prod104966824/Galaxy-FIT3-Samsung/17032338",
+   "5x www.falabella.com/falabella-cl/category/cat\\d+/[^/]+  e.g. https://www.falabella.com/falabella-cl/category/cat2025/Tecnologia-para-la-Belleza?facetSelected=true&f.range.derived.variant.discount=20%25+dcto+y+m%C3%A1s&mkid=LP_OF25_ELB_0112"
+  ],
+  "jsons": [
+   "28 Treffer in https://www.falabella.com/s/commerce-config/v1/FACL/commerce-config/merged?namespace=web | keys=['allowedEmailSha256', 'allowedHosts', 'audience', 'isEnabled', 'title', 'url'] | z.B. Chat de ayuda",
+   "22 Treffer in https://www.falabella.com/s/browse/v2/recommended-products/cl?pageType=LANDING&slots=HOME-HRT-71&politicalId=15c37b0b-a392-41a9-8b3b-978376c700d5&pric | keys=['config', 'data', 'description', 'id', 'name', 'slot', 'type'] | z.B. lp ofertas dic25 zapatos hombre",
+   "24 Treffer in https://www.falabella.com/s/browse/v2/recommended-products/cl?pageType=LANDING&slots=HOME-HRT-65&politicalId=15c37b0b-a392-41a9-8b3b-978376c700d5&pric | keys=['config', 'data', 'description', 'id', 'name', 'slot', 'type'] | z.B. lp ofertas dic25 accesorios mujer",
+   "24 Treffer in https://www.falabella.com/s/browse/v2/recommended-products/cl?pageType=LANDING&slots=HOME-HRT-77&politicalId=15c37b0b-a392-41a9-8b3b-978376c700d5&pric | keys=['config', 'data', 'description', 'id', 'name', 'slot', 'type'] | z.B. lp ofertas dic25 decoracion"
+  ],
+  "api": []
+ },
+ {
+  "name": "Cencosud",
+  "url": "https://www.cencosud.com/trabaja-con-nosotros",
+  "final": "https://www.cencosud.com/trabaja-con-nosotros",
+  "title": "Cencosud",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 404,
+  "block": "",
+  "text": "Canal de Denuncias Código de Ética The Fresh Market Cenco Malls Conócenos Inversionistas Sostenibilidad Equipo Cencosud Centro de Medios Clientes ¡Página No Encontrada! Lo sentimos, pero no podemos encontrar la página que buscaba. Probablemente sea algo que hemos hecho mal, pero ahora lo sabemos e intentaremos solucionarlo. Mientras tanto, pruebe una de estas opciones: Regresar a la página anterior Ir al Inicio Canal de Denuncias Conócenos Inversionistas Sostenibilidad Equipo Cencosud Centro de Medios © Cenconsud 2026>",
+  "plain": {
+   "status": 404,
+   "final": "https://www.cencosud.com/trabaja-con-nosotros",
+   "server": "cloudflare",
+   "len": 195621,
+   "block": ""
+  },
+  "hops": [
+   "http://empleos.cencosud.com/"
+  ],
+  "shot": "probe/shots/cencosud-0.jpg",
+  "patterns": [
+   "60x www.cencosud.com/[^/]+  e.g. https://www.cencosud.com/trabaja-con-nosotros#",
+   "24x www.cencosud.com/cencosud/site/edic/base/port/sostenibilidad.html  e.g. https://www.cencosud.com/cencosud/site/edic/base/port/sostenibilidad.html#section-08",
+   "6x www.cencosud.com/inversionistas  e.g. https://www.cencosud.com/inversionistas",
+   "6x www.cencosud.com/equipo_cencosud  e.g. https://www.cencosud.com/equipo_cencosud",
+   "4x www.cencosud.com/nuestra-empresa  e.g. https://www.cencosud.com/nuestra-empresa"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Cencosud (verlinkt)",
+  "url": "http://empleos.cencosud.com/",
+  "final": "https://empleos.cencosud.com/",
+  "title": "Portal Laboral Cencosud",
+  "sigs": {
+   "csod": [
+    "cencosud.csod.com",
+    "encosud.csod.com"
+   ],
+   "gupy": [
+    "cencosudbrasil.gupy.io"
+   ]
+  },
+  "links": [
+   "https://cencosud.csod.com/ui/internal-career-site/app/search-jobs"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "OPORTUNIDADES NOSOTROS PROCESO DE SELECCIÓN PORTAL DE EMPLEOS ¡SÚMATE a nuestro equipo! UN MUNDO DE DESAFÍOS PARA TI PORTAL DE EMPLEOS ¡SÚMATE a nuestro equipo! . . PORTAL DE EMPLEOS ¡SÚMATE a nuestro equipo! UN MUNDO DE DESAFÍOS PARA TI PORTAL DE EMPLEOS ¡SÚMATE a nuestro equipo! UN MUNDO DE DESAFÍOS PARA TI PORTAL DE EMPLEOS ¡SÚMATE a nuestro equipo! UN MUNDO DE DESAFÍOS PARA TI PORTAL DE EMPLEOS ¡SÚMATE a nuestro equipo! UN MUNDO DE DESAFÍOS PARA TI PORTAL DE EMPLEOS ¡SÚMATE a nuestro equipo! . . PORTAL DE EMPLEOS ¡SÚMATE a nuestro equipo! UN MUNDO DE DESAFÍOS PARA TI PORTAL DE EMPLEOS ¡SÚM",
+  "plain": {
+   "status": 200,
+   "final": "https://empleos.cencosud.com/",
+   "server": "AmazonS3",
+   "len": 43607,
+   "block": ""
+  },
+  "hops": [
+   "https://empleos.cencosud.com/index.html",
+   "https://empleos.cencosud.com/#home",
+   "https://empleos.cencosud.com/#seccion1",
+   "https://empleos.cencosud.com/#seccion4"
+  ],
+  "shot": "probe/shots/cencosud-verlinkt-h0.jpg",
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Petrobras",
+  "url": "https://petrobras.com.br/en/careers",
+  "final": "https://petrobras.com.br/en/careers",
+  "title": "Brazilian Energy | Petrobras",
+  "sigs": {},
+  "links": [
+   "https://petrobras.com.br/en/careers#fragment_85835",
+   "https://petrobras.com.br/en/careers#fragment_86435"
+  ],
+  "error": null,
+  "status": 404,
+  "block": "",
+  "text": "Skip to Main Content Open Accessibility Menu Button Label You are on: PETROBRAS WEBSITE Also access: ACCESS TO INFORMATION INVESTORS PRESS SUPPLIERS CLIENTS A- 100% A+ EN PT Página inicial Petrobras Transição Energética show submenu \" Transição Energética \" Sustainability show submenu \" Sustainability \" Innovation and Technology show submenu \" Innovation and Technology \" Business About us show submenu \" About us \" Careers Conteúdo indisponível Fomos em águas profundas e ultraprofundas, mas não encontramos o que você está procurando. Tente novamente ou busque por assuntos relacionados. Se prefe",
+  "plain": {
+   "status": 404,
+   "final": "https://petrobras.com.br/en/careers",
+   "server": "",
+   "len": 976023,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/petrobras-0.jpg",
+  "patterns": [
+   "79x petrobras.com.br/en/quem-somos/[^/]+  e.g. https://petrobras.com.br/en/quem-somos/exploracao-e-producao",
+   "34x petrobras.com.br/en/[^/]+  e.g. https://petrobras.com.br/en/inovacao-e-tecnologia",
+   "27x petrobras.com.br/en/careers  e.g. https://petrobras.com.br/en/careers#main-content",
+   "18x petrobras.com.br/en/sustentabilidade/[^/]+  e.g. https://petrobras.com.br/en/sustentabilidade/iniciativas-de-reflorestamento",
+   "16x petrobras.com.br/en/[^/]+/[^/]+  e.g. https://petrobras.com.br/en/inovacao-e-tecnologia/centro-de-pesquisa"
+  ],
+  "jsons": [
+   "10 Treffer in https://petrobras.com.br/o/c/destaquesubmenus/scopes/2677942 | keys=['additionalName', 'contentType', 'externalReferenceCode', 'familyName', 'givenName', 'id', 'image', 'name'] | z.B. William Natividade"
+  ],
+  "api": []
+ },
+ {
+  "name": "Natura &Co",
+  "url": "https://www.naturaeco.com/",
+  "final": null,
+  "title": null,
+  "sigs": {},
+  "links": [],
+  "error": "Page.goto: net::ERR_CERT_DATE_INVALID at https://www.naturaeco.com/\nCall log:\n  - navigating to \"https://www.naturaeco.com/\", waiting until \"domcontentloaded\"\n",
+  "status": null,
+  "block": "",
+  "text": "",
+  "plain": {
+   "status": null,
+   "error": "SSLError: HTTPSConnectionPool(host='www.naturaeco.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVer"
+  },
+  "hops": [],
+  "patterns": [],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Globant",
+  "url": "https://career.globant.com/",
+  "final": "https://career.globant.com/",
+  "title": "Join our team | Globant Careers",
+  "sigs": {
+   "successfactors": [
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://career.globant.com/recent-job-searches"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "globant logo LOG IN JOIN GLOBANT THE PLACE TO REINVENT Show me the latest job openings To apply for a job vacancy, please register . Work with us Recent job searches My activity All vacancies All Areas All Countries Search Job Managing Director - Media & Entertainment New York, United States New! Salesforce Sales Director (any location) New York, United States New! AWS Sales Specialist New York, United States New! Cybersecurity Engineer Texas, United States AI Studio Principal CABA, Argentina AI Studio Principal CABA, Argentina Principal Quality Engineer - Colombia Bogotá, Argentina Principal ",
+  "plain": {
+   "status": 200,
+   "final": "https://career.globant.com/",
+   "server": "istio-envoy",
+   "len": 121183,
+   "block": ""
+  },
+  "hops": [
+   "https://career.globant.com/recent-job-searches"
+  ],
+  "shot": "probe/shots/globant-0.jpg",
+  "patterns": [],
+  "jsons": [
+   "10 Treffer in https://career.globant.com/api/sap/job-requisition-v1 | keys=['area', 'country', 'createdDateTime', 'externalCode', 'jobDescription', 'jobReqId', 'jobTitle', 'location', 'questions', 'status'] | z.B. Managing Director - Media & Entertainment",
+   "16 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/IUOihXdI1/59.3.133/59.3.133?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
+  ],
+  "api": []
+ },
+ {
+  "name": "Globant (verlinkt)",
+  "url": "https://career.globant.com/recent-job-searches",
+  "final": "https://career.globant.com/recent-job-searches",
+  "title": "Join our team | Globant Careers",
+  "sigs": {
+   "successfactors": [
+    "rmkcdn.successfactors.com"
+   ]
+  },
+  "links": [
+   "https://career.globant.com/recent-job-searches"
+  ],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "globant logo LOG IN JOIN GLOBANT THE PLACE TO REINVENT Show me the latest job openings To apply for a job vacancy, please register . Work with us Recent job searches My activity All vacancies Create an account to offer you more personalized information and job offers that fit your profile In meantime, search in work with us section to find a job Find your job Join the Globant Journey We offer a positive and empowering recruitment journey! 1 Discover our opportunities. Find your dream job and apply on our Career site. Complete our AI-powered Talent Experience for an objective evaluation. 2 Conn",
+  "plain": {
+   "status": 200,
+   "final": "https://career.globant.com/recent-job-searches",
+   "server": "istio-envoy",
+   "len": 106566,
+   "block": ""
+  },
+  "hops": [
+   "https://career.globant.com/"
+  ],
+  "shot": "probe/shots/globant-verlinkt-h0.jpg",
+  "patterns": [
+   "3x career.globant.com/auth/login  e.g. https://career.globant.com/auth/login"
+  ],
+  "jsons": [
+   "16 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/IUOihXdI1/59.3.133/59.3.133?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
+  ],
+  "api": []
+ },
+ {
+  "name": "Sea Group (Shopee)",
+  "url": "https://www.sea.com/careers",
+  "final": "https://www.sea.com/careers",
+  "title": "Sea | Careers",
+  "sigs": {},
+  "links": [],
+  "error": null,
+  "status": 200,
+  "block": "",
+  "text": "Digital entertainment E-commerce Digital Financial Services Home About Us Products & Services Investor Relations News Sustainability Careers Contact Us Careers Sea is a magnet for passionate and talented individuals We want to provide you with a platform to grow and excel as an individual, unleash your potential and make an impact. If you are passionate, determined to succeed and have aspirations to make a real difference in society, then we'd love to welcome you onboard! Apply now You will have access to best-in-class training programs You will have a stimulating work environment You will wor",
+  "plain": {
+   "status": 200,
+   "final": "https://www.sea.com/careers",
+   "server": "SGW",
+   "len": 54634,
+   "block": ""
+  },
+  "hops": [],
+  "shot": "probe/shots/sea-group-shopee-0.jpg",
+  "patterns": [
+   "4x www.sea.com/careers  e.g. https://www.sea.com/careers",
+   "3x www.sea.com/products/garena  e.g. https://www.sea.com/products/garena",
+   "3x www.sea.com/products/shopee  e.g. https://www.sea.com/products/shopee",
+   "3x www.sea.com/products/monee  e.g. https://www.sea.com/products/monee",
+   "3x www.sea.com/aboutus/ourvalues  e.g. https://www.sea.com/aboutus/ourvalues"
+  ],
+  "jsons": [],
+  "api": []
+ },
+ {
+  "name": "Sea Group (Shopee)",
   "url": "https://apply.workable.com/shopee-9/",
   "final": "https://apply.workable.com/shopee-9/",
   "title": "Shopee - Current Openings",
@@ -141,237 +2672,18 @@
    "https://jobs.workable.com/?utm_campaign=careers_page&utm_content=careers_page&utm_medium=feature&utm_source=careers_page"
   ],
   "error": null,
-  "patterns": [],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Sea Group",
-  "url": "https://careers.shopee.sg/jobs",
-  "final": "https://careers.shopee.sg/jobs",
-  "title": "Shopee Careers - Jobs | Shopee Singapore",
-  "sigs": {},
-  "links": [
-   "https://careers.shopee.sg/jobs"
-  ],
-  "error": null,
-  "patterns": [
-   "3x careers.shopee.sg/[^/]+  e.g. https://careers.shopee.sg/life-at-shopee"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Galp",
-  "url": "https://jobs.galp.com/search/?q=intern",
-  "final": "https://jobs.galp.com/search/?q=intern",
-  "title": "Intern-oportunidades Galp",
-  "sigs": {
-   "successfactors": [
-    "career2.successfactors.eu",
-    "rmkcdn.successfactors.com"
-   ]
+  "status": 200,
+  "block": "captcha",
+  "text": "Careers at Shopee Shopee is the leading e-commerce platform in Southeast Asia and Taiwan. It is a platform tailored for the region, providing customers with an easy, secure and fast online shopping experience through strong payment and logistical support. Shopee aims to continually enhance its platform and become the region’s e-commerce destination of choice. Shopee has a wide selection of product categories ranging from consumer electronics to home & living, health & beauty, baby & toys, fashion and fitness equipment. Shopee, a Sea company, was first launched in Singapore in 2015, and has sin",
+  "plain": {
+   "status": 200,
+   "final": "https://apply.workable.com/shopee-9/",
+   "server": "cloudflare",
+   "len": 7718,
+   "block": "captcha"
   },
-  "links": [
-   "https://jobs.galp.com/search/?q=intern#content",
-   "https://jobs.galp.com/",
-   "https://jobs.galp.com/search/?q=intern#",
-   "https://jobs.galp.com/go/Oportunidades/1335501/",
-   "https://jobs.galp.com/content/Candidatura-Espontanea/?locale=pt_PT",
-   "https://jobs.galp.com/content/FAQ/?locale=pt_PT",
-   "https://jobs.galp.com/search/?q=intern&locale=en_US",
-   "https://jobs.galp.com/search/?q=intern&locale=es_ES",
-   "https://jobs.galp.com/search/?q=intern&locale=pt_PT",
-   "https://jobs.galp.com/search/?q=&locationsearch=",
-   "https://jobs.galp.com/content/privacytermsPT/?locale=pt_PT",
-   "https://jobs.galp.com/content/TermsConditionsPT/?locale=pt_PT"
-  ],
-  "error": null,
-  "patterns": [
-   "10x jobs.galp.com/search/  e.g. https://jobs.galp.com/search/?q=intern#content",
-   "3x jobs.galp.com/content/FAQ/  e.g. https://jobs.galp.com/content/FAQ/?locale=pt_PT"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Galp",
-  "url": "https://jobs.galp.com/search/?q=est%C3%A1gio",
-  "final": "https://jobs.galp.com/search/?q=est%C3%A1gio",
-  "title": "Estágio-oportunidades Galp",
-  "sigs": {
-   "successfactors": [
-    "career2.successfactors.eu",
-    "rmkcdn.successfactors.com"
-   ]
-  },
-  "links": [
-   "https://jobs.galp.com/search/?q=est%C3%A1gio#content",
-   "https://jobs.galp.com/",
-   "https://jobs.galp.com/search/?q=est%C3%A1gio#",
-   "https://jobs.galp.com/go/Oportunidades/1335501/",
-   "https://jobs.galp.com/content/Candidatura-Espontanea/?locale=pt_PT",
-   "https://jobs.galp.com/content/FAQ/?locale=pt_PT",
-   "https://jobs.galp.com/search/?q=est%C3%A1gio&locale=en_US",
-   "https://jobs.galp.com/search/?q=est%C3%A1gio&locale=es_ES",
-   "https://jobs.galp.com/search/?q=est%C3%A1gio&locale=pt_PT",
-   "https://jobs.galp.com/search/?q=&locationsearch=",
-   "https://jobs.galp.com/content/privacytermsPT/?locale=pt_PT",
-   "https://jobs.galp.com/content/TermsConditionsPT/?locale=pt_PT"
-  ],
-  "error": null,
-  "patterns": [
-   "10x jobs.galp.com/search/  e.g. https://jobs.galp.com/search/?q=est%C3%A1gio#content",
-   "3x jobs.galp.com/content/FAQ/  e.g. https://jobs.galp.com/content/FAQ/?locale=pt_PT"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Vestas",
-  "url": "https://careers.vestas.com/search/?q=intern",
-  "final": "https://careers.vestas.com/search/?q=intern",
-  "title": "Intern - Vestas Jobs",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu",
-    "jobs2web",
-    "rmkcdn.successfactors.com"
-   ]
-  },
-  "links": [
-   "https://careers.vestas.com/job/Houston-Regional-Project-Manager-%28Factories%2C-Offices%29-TX-77002/1444078033/",
-   "https://careers.vestas.com/job/Aarhus-N-Category-Specialist-Warehousing-and-Customs-%28mfd%29-Regi-8200/1426477833/",
-   "https://careers.vestas.com/job/Alissas-Operator-Service-technician-%28MF%29-07/1127529001/",
-   "https://careers.vestas.com/job/BURGOS-BOP-%28Balance-of-Plant%29-Engineer-Iloc/1403162233/",
-   "https://careers.vestas.com/job/Hamburg-Contract-Manager-%28mwd%29-HH-20097/1452563233/",
-   "https://careers.vestas.com/job/Bucharest-Installation-Coordinator-Bucu/1432786333/",
-   "https://careers.vestas.com/job/Chennai-Continuous-Improvement-Analyst-%28CIM%29-TN-600-117/1446006933/",
-   "https://careers.vestas.com/job/Bucharest-Sales-Manager-Bucu-12095/1398848633/",
-   "https://careers.vestas.com/job/Hamburg-Lead-Service-Sales-Manager%2C-Cluster-1-%28mwd%29-HH-20097/1452890133/",
-   "https://careers.vestas.com/job/Lakota-Manager%2C-Site-IA-50451/1449567833/"
-  ],
-  "error": null,
-  "patterns": [
-   "56x careers.vestas.com/search/  e.g. https://careers.vestas.com/search/?q=intern#content",
-   "6x careers.vestas.com/job/[^/]+/\\d+/  e.g. https://careers.vestas.com/job/Alissas-Operator-Service-technician-%28MF%29-07/1127529001/",
-   "4x careers.vestas.com/talentcommunity/subscribe/  e.g. https://careers.vestas.com/talentcommunity/subscribe/?locale=en_GB"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Vestas",
-  "url": "https://careers.vestas.com/search/?q=student",
-  "final": "https://careers.vestas.com/search/?q=student",
-  "title": "Student - Vestas Jobs",
-  "sigs": {
-   "successfactors": [
-    "career5.successfactors.eu",
-    "jobs2web",
-    "rmkcdn.successfactors.com"
-   ]
-  },
-  "links": [
-   "https://careers.vestas.com/job/Aarhus-N-Procurement-Intern-Regi-8200/1451142333/",
-   "https://careers.vestas.com/job/Aarhus-N-Finance-Intern-Regi-8200/1452600533/"
-  ],
-  "error": null,
-  "patterns": [
-   "44x careers.vestas.com/search/  e.g. https://careers.vestas.com/search/?q=student#content",
-   "4x careers.vestas.com/talentcommunity/subscribe/  e.g. https://careers.vestas.com/talentcommunity/subscribe/?locale=en_GB"
-  ],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Glovo",
-  "url": "https://careers.glovoapp.com/jobs-at-glovo/?search=intern",
-  "final": "https://careers.glovoapp.com/jobs-at-glovo/?search=intern",
-  "title": "Jobs at Glovo - Glovo",
-  "sigs": {},
-  "links": [
-   "https://careers.glovoapp.com/saved-jobs/",
-   "https://careers.glovoapp.com/job/sr-account-manager-qcommerce-italy-in-milano-italy-jid-744000159560449/",
-   "https://careers.glovoapp.com/job/account-management-intern-in-zagreb-croatia-jid-744000153754369/",
-   "https://careers.glovoapp.com/job/sr-data-analyst-commercial-team-in-almaty-kazakhstan-jid-744000143867906/",
-   "https://careers.glovoapp.com/job/category-management-analyst-uganda-in-kampala-uganda-jid-744000140274434/",
-   "https://careers.glovoapp.com/job/sales-specialist-poland-they-she-he-in-warsaw-poland-jid-744000155567619/",
-   "https://careers.glovoapp.com/job/sales-executive-bulgaria-in-sofia-bulgaria-jid-744000154966789/",
-   "https://careers.glovoapp.com/job/catalog-operations-intern-q-commerce-in-casablanca-morocco-jid-744000152638469/",
-   "https://careers.glovoapp.com/job/account-manager-intern-in-casablanca-morocco-jid-744000143040519/",
-   "https://careers.glovoapp.com/job/senior-financial-analyst-tunisia-in-tunis-tunisia-jid-744000154953479/",
-   "https://careers.glovoapp.com/job/accounting-lead-in-warsaw-poland-jid-744000154821899/",
-   "https://careers.glovoapp.com/job/tecnico-de-prevencion-de-riesgos-laborales-in-barcelona-spain-jid-744000159632909/",
-   "https://careers.glovoapp.com/job/operations-analyst-bulgaria-in-sofia-bulgaria-jid-744000157212429/",
-   "https://careers.glovoapp.com/jobs-at-glovo/?job_page=1",
-   "https://careers.glovoapp.com/jobs-at-glovo/?job_page=2",
-   "https://careers.glovoapp.com/jobs-at-glovo/?job_page=19"
-  ],
-  "error": null,
-  "patterns": [
-   "12x void(0)  e.g. javascript:void(0)",
-   "8x careers.glovoapp.com/[^/]+/  e.g. https://careers.glovoapp.com/life-at-glovo/"
-  ],
-  "jsons": [
-   "35 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/3l-LWoLH2QhZhI/66.19.89/66.19.89?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
-  ],
-  "api": []
- },
- {
-  "name": "Glovo",
-  "url": "https://careers.glovoapp.com/jobs-at-glovo/",
-  "final": "https://careers.glovoapp.com/jobs-at-glovo/",
-  "title": "Jobs at Glovo - Glovo",
-  "sigs": {},
-  "links": [
-   "https://careers.glovoapp.com/saved-jobs/",
-   "https://careers.glovoapp.com/job/sr-account-manager-qcommerce-italy-in-milano-italy-jid-744000159560449/",
-   "https://careers.glovoapp.com/job/account-management-intern-in-zagreb-croatia-jid-744000153754369/",
-   "https://careers.glovoapp.com/job/sr-data-analyst-commercial-team-in-almaty-kazakhstan-jid-744000143867906/",
-   "https://careers.glovoapp.com/job/category-management-analyst-uganda-in-kampala-uganda-jid-744000140274434/",
-   "https://careers.glovoapp.com/job/sales-specialist-poland-they-she-he-in-warsaw-poland-jid-744000155567619/",
-   "https://careers.glovoapp.com/job/sales-executive-bulgaria-in-sofia-bulgaria-jid-744000154966789/",
-   "https://careers.glovoapp.com/job/catalog-operations-intern-q-commerce-in-casablanca-morocco-jid-744000152638469/",
-   "https://careers.glovoapp.com/job/account-manager-intern-in-casablanca-morocco-jid-744000143040519/",
-   "https://careers.glovoapp.com/job/senior-financial-analyst-tunisia-in-tunis-tunisia-jid-744000154953479/",
-   "https://careers.glovoapp.com/job/accounting-lead-in-warsaw-poland-jid-744000154821899/",
-   "https://careers.glovoapp.com/job/tecnico-de-prevencion-de-riesgos-laborales-in-barcelona-spain-jid-744000159632909/",
-   "https://careers.glovoapp.com/job/operations-analyst-bulgaria-in-sofia-bulgaria-jid-744000157212429/",
-   "https://careers.glovoapp.com/jobs-at-glovo/?job_page=1",
-   "https://careers.glovoapp.com/jobs-at-glovo/?job_page=2",
-   "https://careers.glovoapp.com/jobs-at-glovo/?job_page=19"
-  ],
-  "error": null,
-  "patterns": [
-   "12x void(0)  e.g. javascript:void(0)",
-   "8x careers.glovoapp.com/[^/]+/  e.g. https://careers.glovoapp.com/life-at-glovo/"
-  ],
-  "jsons": [
-   "35 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/en/GDPR/3l-LWoLH2QhZhI/66.19.89/66.19.89?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Marketing"
-  ],
-  "api": []
- },
- {
-  "name": "Enel",
-  "url": "https://jobs.enel.com/en_US/careers/SearchJobs/intern",
-  "final": "https://jobs.enel.com/en_US/careers/SearchJobs/intern/",
-  "title": "",
-  "sigs": {},
-  "links": [],
-  "error": null,
-  "patterns": [],
-  "jsons": [],
-  "api": []
- },
- {
-  "name": "Enel",
-  "url": "https://jobs.enel.com/es_ES/careers/SearchJobs/?search=becario",
-  "final": "https://jobs.enel.com/es_ES/careers/SearchJobs/?search=becario",
-  "title": "",
-  "sigs": {},
-  "links": [],
-  "error": null,
+  "hops": [],
+  "shot": "probe/shots/sea-group-shopee-1.jpg",
   "patterns": [],
   "jsons": [],
   "api": []
@@ -386,15 +2698,53 @@
   "error": null,
   "patterns": [],
   "api": [
-   "sr DeliveryHero: 314 ['(Senior) Manager, International Markets @ Berlin / Delivery Hero', 'Specialist Payroll (Greek Speaker)  @ Dubai / Delivery Hero', 'Intern People Operations @ Barcelona / Delivery Hero']",
-   "sr Glovo: 0 []",
-   "slugs Acciona: []",
-   "slugs Mercado Libre: []",
-   "slugs Sea Group: []",
+   "slugs Lufthansa: []",
+   "slugs Bayer: []",
+   "slugs Linde: []",
+   "slugs KraussMaffei: []",
+   "slugs MTU Aero Engines: []",
+   "slugs OMV: []",
+   "slugs Bulgarian Energy Holding: []",
+   "slugs INA: []",
+   "slugs HEP: []",
+   "slugs Maersk: []",
+   "slugs LVMH: ['smartrecruiters:lvmh (4 Stellen)', 'recruitee:lvmh (32 Stellen)']",
+   "slugs BNP Paribas: []",
+   "slugs Eni: []",
+   "slugs Generali: []",
+   "slugs Wesfarmers: []",
+   "slugs Coles Group: []",
+   "slugs Foodstuffs: ['lever:foodstuffs (1 Stellen)']",
+   "slugs ASB Bank: []",
+   "slugs Honda: []",
+   "slugs Mitsubishi Electric: []",
+   "slugs Panasonic: []",
+   "slugs Kia: []",
+   "slugs IHG Hotels & Resorts: []",
+   "slugs Hyatt: []",
+   "slugs FC Bayern München: []",
+   "slugs FC Barcelona: []",
+   "slugs Real Madrid: []",
+   "slugs WWF International: []",
+   "slugs IFAW: []",
+   "slugs Aktion gegen den Hunger: []",
+   "slugs Friedrich-Ebert-Stiftung: []",
+   "slugs Konrad-Adenauer-Stiftung: []",
+   "slugs Fairtrade Deutschland: []",
+   "slugs Iberdrola: []",
+   "slugs Inditex: []",
+   "slugs Redeia (Red Eléctrica): []",
+   "slugs Moeve (ehemals Cepsa): []",
    "slugs Galp: []",
-   "slugs Vestas: []",
-   "slugs Glovo: []",
-   "slugs Enel: []"
+   "slugs Ørsted: []",
+   "slugs Schneider Electric: []",
+   "slugs Booking.com: []",
+   "slugs Falabella: []",
+   "slugs Cencosud: []",
+   "slugs Petrobras: []",
+   "slugs Natura &Co: []",
+   "slugs Globant: []",
+   "slugs Sea Group (Shopee): []"
   ]
  }
 ]
