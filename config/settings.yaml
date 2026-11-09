@@ -19,6 +19,7 @@ include_title:
   - intern(s|ship|ships)?\b   # Intern, Interns, Internship (nicht: international, internal)
   - pr[aá]cticas?\b    # Prácticas / Práctica profesional
   - becari[oa]s?\b
+  - becas?\b          # Beca (spanische Praktikumsstelle, z. B. Moeve "Beca Welcome U")
   - pasant[ií]as?\b
   - pasantes?\b       # Pasante (Lateinamerika)
   - stagiaire
