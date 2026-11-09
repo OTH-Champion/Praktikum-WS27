@@ -1,14 +1,15 @@
-Wesfarmers|https://www.wesfarmers.com.au/util/careers/current-opportunities
-Foodstuffs|https://foodstuffs.careers/about-us.php
-Honda|https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html
-Petrobras|https://petrobras.com.br/quem-somos/estagios
-LVMH|https://www.lvmh.com/en/join-us/our-job-offers
-Sea Group (Shopee)|https://career.sea.com/jobs?keyword=intern|https://career.sea.com/early-careers-internships
-Aktion gegen den Hunger|https://www.aktiongegendenhunger.de/stellenangebote
-Booking.com|https://external-workingatbooking.icims.com/jobs/search?ss=1&searchKeyword=intern
-Coles Group|https://colescareers.com.au/au/en/talent-programs
-Generali|https://www.generali.com/it/people-and-careers/work-with-us
-Natura &Co|https://www.natura.com.br/trabalhe-conosco
-Linde|https://de.lindecareers.com/|https://www.lindecareers.com/en/search-jobs
-Maersk|https://www.maersk.com/careers/vacancies?search=intern
-Schneider Electric|https://www.se.com/ww/en/about-us/careers/overview.jsp|https://www.se.com/de/de/about-us/careers/
+LVMH [h1]|https://www.lvmh.com/en/join-us/our-job-offers
+Maersk [h1]|https://www.maersk.com/careers/vacancies
+OMV|https://www.omv.com/en/career/grow-with-us/jobboard
+INA|https://molgroup.taleo.net/careersection/external/jobsearch.ftl?lang=hr&location=4205100397
+Linde|https://linde.csod.com/ux/ats/careersite/20/home?c=linde&country=de
+Cencosud AR|https://cencosud.csod.com/ux/ats/careersite/16/home?c=cencosud
+Cencosud BR|https://cencosudbrasil.gupy.io/
+Lufthansa|https://apply.lufthansagroup.careers/index.php?ac=search_result&language=2
+KraussMaffei|https://jobs.kraussmaffei.com/search/?q=praktikum
+Redeia|https://talento.carrerasenred.com/search/?q=becas
+Moeve|https://jobs.moeveglobal.com/search/?q=practicas
+Mitsubishi ES|https://empleo.mitsubishielectric.es/search/?q=
+Kia|https://www.kia.com/eu/about-kia/career/job-opportunities/
+Sea|https://career.sea.com/jobs?keyword=intern
+Hyatt|https://careers.hyatt.com/en-US/careers/search?keyword=intern

@@ -146,6 +146,8 @@ def patterns(links):
 
 
 async def visit_multi(browser, name, urls, sem):
+    if isinstance(browser, tuple):  # (normal, ohne HTTP/2): Firmenname mit " [h1]" nutzt den zweiten
+        browser = browser[1] if name.endswith("[h1]") else browser[0]
     out, done = [], set()
     for i, u in enumerate(urls):
         if u in done:
@@ -307,8 +309,10 @@ async def main():
     sem = asyncio.Semaphore(6)
     async with async_playwright() as p:
         browser = await p.chromium.launch()  # headless, wie der Stellen-Abruf
-        nested = await asyncio.gather(*(visit_multi(browser, n, u, sem) for n, u in firms))
+        browser_h1 = await p.chromium.launch(args=["--disable-http2"])
+        nested = await asyncio.gather(*(visit_multi((browser, browser_h1), n, u, sem) for n, u in firms))
         await browser.close()
+        await browser_h1.close()
     results = [r for grp in nested for r in grp]
     results.append({"name": "_API", "url": "", "final": None, "title": None, "sigs": {}, "links": [], "error": None,
                     "patterns": [], "api": extra_api()})
