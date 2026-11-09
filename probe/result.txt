@@ -1,136 +1,433 @@
-## Wesfarmers  https://www.wesfarmers.com.au/util/careers/current-opportunities
-   final: https://www.wesfarmers.com.au/util/careers/current-opportunities  status: 200  title: Current opportunities  error: None
-   ohne Browser: {'status': 200, 'final': 'https://www.wesfarmers.com.au/util/careers/current-opportunities', 'server': 'Microsoft-IIS/10.0', 'len': 55356, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Search Wesfarmers Enter a search term  WHO WE ARE OUR BUSINESSES INVESTORS SUSTAINABILITY NEWS & MEDIA CAREERS CONTACT ONLINE SCAMS CAREERS ACROSS THE WESFARMERS GROUP Wesfarmers strives to employ the most talented people available. Each of the diverse businesses in the Wesfarmers Group are responsible for their day-to-day operations. As a result, each business has its own human resources team wh
-   folgt: https://www.wesfarmers.com.au/util/careers
-   folgt: https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers
-   antwort: FEHLER net::ERR_NAME_NOT_RESOLVED https://image.flaticon.com/icons/png/512/174/174857.png
-   antwort: FEHLER net::ERR_NAME_NOT_RESOLVED https://image.flaticon.com/icons/png/512/174/174857.png
-   pattern: 11x www.wesfarmers.com.au/sustainability/fy\d+  e.g. https://www.wesfarmers.com.au/sustainability/fy2025
-   pattern: 8x www.wesfarmers.com.au/util/careers/current-opportunities  e.g. https://www.wesfarmers.com.au/util/careers/current-opportunities#
-   pattern: 6x www.wesfarmers.com.au/[^/]+/[^/]+  e.g. https://www.wesfarmers.com.au/who-we-are/who-we-are
-   pattern: 5x www.linkedin.com/company/[^/]+/jobs/  e.g. https://www.linkedin.com/company/wesfarmers-chemical-energy-and-fertilisers/jobs/
-   pattern: 3x www.wesfarmers.com.au/investor-centre  e.g. https://www.wesfarmers.com.au/investor-centre
-   link: https://www.bunnings.com.au/jobs
-   link: https://www.linkedin.com/company/bunnings/jobs/
-   link: https://www.linkedin.com/company/blackwoods/jobs/
-   link: https://www.linkedin.com/company/workwear-group/jobs/
-   link: https://bullivants.com/careers/find-a-job-now
-   link: https://www.linkedin.com/company/bullivants/jobs/
-   link: https://jobs.kmart.com.au/
-   link: https://www.linkedin.com/company/officeworks/jobs/
-   link: https://www.linkedin.com/company/wesfarmers-chemical-energy-and-fertilisers/jobs/
-   link: https://csbp.com.au/work-with-us/available-positions/
-   link: https://www.linkedin.com/company/csbp/jobs/
-   link: https://www.linkedin.com/company/australian-vinyls-corporation/jobs/
-   link: https://www.linkedin.com/jobs/australian-gold-reagents-pty.-ltd.-jobs-worldwide
-   link: https://www.linkedin.com/company/queensland-nitrates-pty-ltd/jobs/
-   link: https://www.linkedin.com/company/wesfarmers-kleenheat-gas/jobs/
-   link: https://www.linkedin.com/company/covalent-lithium-pty-ltd/jobs/
-   link: https://www.linkedin.com/company/wesfarmers/jobs/
-## Wesfarmers (verlinkt)  https://www.wesfarmers.com.au/util/careers
-   final: https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers  status: 200  title: Working at Wesfarmers  error: None
-   ohne Browser: {'status': 200, 'final': 'https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers', 'server': 'Microsoft-IIS/10.0', 'len': 37368, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Search Wesfarmers Enter a search term  WHO WE ARE OUR BUSINESSES INVESTORS SUSTAINABILITY NEWS & MEDIA CAREERS CONTACT ONLINE SCAMS WORKING AT WESFARMERS Wesfarmers seeks to attract, retain and develop outstanding people, where everyone has access to opportunities based on merit. We know that through diverse teams and inclusive cultures we can achieve our objective of satisfactory returns to shar
-   folgt: https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers
-   pattern: 11x www.wesfarmers.com.au/sustainability/fy\d+  e.g. https://www.wesfarmers.com.au/sustainability/fy2025
-   pattern: 6x www.wesfarmers.com.au/[^/]+/[^/]+  e.g. https://www.wesfarmers.com.au/who-we-are/who-we-are
-   pattern: 3x www.wesfarmers.com.au/investor-centre  e.g. https://www.wesfarmers.com.au/investor-centre
-   pattern: 3x www.wesfarmers.com.au/investor-centre/[^/]+/[^/]+  e.g. https://www.wesfarmers.com.au/investor-centre/company-performance-news/delivering-our-objective
-   pattern: 3x www.wesfarmers.com.au/sustainability  e.g. https://www.wesfarmers.com.au/sustainability
-## Wesfarmers (verlinkt)  https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers
-   final: https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers  status: 200  title: Working at Wesfarmers  error: None
-   ohne Browser: {'status': 200, 'final': 'https://www.wesfarmers.com.au/util/careers/working-at-wesfarmers', 'server': 'Microsoft-IIS/10.0', 'len': 37368, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Search Wesfarmers Enter a search term  WHO WE ARE OUR BUSINESSES INVESTORS SUSTAINABILITY NEWS & MEDIA CAREERS CONTACT ONLINE SCAMS WORKING AT WESFARMERS Wesfarmers seeks to attract, retain and develop outstanding people, where everyone has access to opportunities based on merit. We know that through diverse teams and inclusive cultures we can achieve our objective of satisfactory returns to shar
-   folgt: https://www.wesfarmers.com.au/util/careers
-   pattern: 11x www.wesfarmers.com.au/sustainability/fy\d+  e.g. https://www.wesfarmers.com.au/sustainability/fy2025
-   pattern: 6x www.wesfarmers.com.au/[^/]+/[^/]+  e.g. https://www.wesfarmers.com.au/who-we-are/who-we-are
-   pattern: 3x www.wesfarmers.com.au/investor-centre  e.g. https://www.wesfarmers.com.au/investor-centre
-   pattern: 3x www.wesfarmers.com.au/investor-centre/[^/]+/[^/]+  e.g. https://www.wesfarmers.com.au/investor-centre/company-performance-news/delivering-our-objective
-   pattern: 3x www.wesfarmers.com.au/sustainability  e.g. https://www.wesfarmers.com.au/sustainability
-## Foodstuffs  https://foodstuffs.careers/about-us.php
-   final: https://foodstuffs.careers/about-us.php  status: 200  title: Who We Are | Foodstuffs Careers North Island  error: None
-   ohne Browser: {'status': 200, 'final': 'https://foodstuffs.careers/about-us.php', 'server': 'Sucuri/Cloudproxy', 'len': 50756, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Who We Are Our Careers Search Jobs > We’re Foodies and we’re an unbeatable team of over 22,000 New Zealanders, who are making sure New Zealanders get more out of life. We believe that everyone who calls New Zealand home, or comes to visit us, deserves to enjoy more of what matters most to them. For nearly 100 years we have built up a network of almost 350 (And still growing) PAK’nSAVE, New World, 
-   antwort: FEHLER net::ERR_CERT_COMMON_NAME_INVALID https://a.vimeocdn.com/js/froogaloop2.min.js
-   pattern: 13x void(0);  e.g. javascript:void(0);
-   pattern: 7x foodstuffs.careers/about-us.php  e.g. https://foodstuffs.careers/about-us.php
-   pattern: 3x vimeo.com/\d+  e.g. https://vimeo.com/261183437
-## Honda  https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html
-   final: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html  status: 200  title: Offene Stellen - Stellenangebote - Honda  error: None
-   ohne Browser: {'status': 200, 'final': 'https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html', 'server': 'none', 'len': 140245, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Hauptseite Automobile Motorräder Garten Marine Schneefräsen Industrie Beruf & Karriere Arbeiten bei Honda Offene Stellen Offene Stellen Auf einen Blick - aktuelle Stellenangebote bei Honda. Nutzen Sie Ihre Chance auf eine interessante berufliche Perspektive. Offene Stellen unserer Gesellschaften Für ausführliche Informationen wählen Sie bitte die gewünschte Position. Bitte beachten Sie die Datensc
-   folgt: http://www.honda.de/cars/world-of-honda/arbeiten-bei-honda.html
-   antwort: FEHLER net::ERR_ABORTED https://www.honda.de/001hme/gs/ccm/collect?rcb=4&frm=0&apvc=1&tid=DC-17353316&en=page_view&dl=https%3A%2F%2Fwww.honda.de%2Fuseful-links%2Far
-   json: 1112 Treffer in https://cdn.cookielaw.org/vendorlist/iab2V2Data.json | keys=['description', 'id', 'illustrations', 'name'] | z.B. Match and combine data from other data sources
-   pattern: 4x www.honda.de/useful-links/[^/]+/offene-stellen.html  e.g. https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html#page
-   pattern: 4x www.honda.de/useful-links/[^/]+/offene-stellen/honda-center/[^/]+  e.g. https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen/honda-center/ausbildung-kaufmann-einzelhandel-frankfurt.html
-   pattern: 3x www.honda.de/useful-links/[^/]+/[^/]+  e.g. https://www.honda.de/useful-links/arbeiten-bei-honda/arbeiten-bei-honda.html
-   pattern: 3x honda-portal.rexx-systems.com/[^/]+  e.g. https://honda-portal.rexx-systems.com/Student-Activity-Software-Prototyping-Automotive-Data-Ecos-de-j51.html
-   link: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html#page
-   link: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html
-   link: https://deapps.honda.de/stellenportal/car.php
-   link: https://deapps.honda.de/stellenportal/mc.php
-   link: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen/honda-center/ausbildung-kaufmann-einzelhandel-frankfurt.html
-   link: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen/honda-center/zweiradmechatroniker-frankfurt.html
-   link: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen/honda-center/zweiradmechatroniker-fachrichtung-motorradtechnik.html
-   link: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen/honda-center/kfz-mechatroniker-leipzig.html
-   link: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen/honda-center/kfz-serviceberater-mit-werkstattverantwortung-duesseldorf.html
-   link: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen/honda-r-d-europe/projektingenieur-intelligente-ems.html
-   link: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html#
-## Honda (verlinkt)  http://www.honda.de/cars/world-of-honda/arbeiten-bei-honda.html
-   final: https://www.honda.de/useful-links/arbeiten-bei-honda/arbeiten-bei-honda.html  status: 200  title: Unsere Gesellschaften - Honda  error: None
-   ohne Browser: {'status': 200, 'final': 'https://www.honda.de/useful-links/arbeiten-bei-honda/arbeiten-bei-honda.html', 'server': 'none', 'len': 153533, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Hauptseite Automobile Motorräder Garten Marine Schneefräsen Industrie Beruf & Karriere Arbeiten bei Honda Offene Stellen Willkommen bei Honda Unsere Philosophie. Zufriedene und engagierte Mitarbeiter. Erst der Mensch, dann die Maschine - so lautete das Credo des Firmengründers Soichiro Honda. Die Marke Honda steht für höchste Qualität und Zuverlässigkeit. Honda entwickelt, fertigt und vermarktet A
-   folgt: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html
-   antwort: FEHLER net::ERR_ABORTED https://www.honda.de/001hme/gs/ccm/collect?rcb=4&frm=0&apvc=1&tid=DC-17353316&en=page_view&dl=https%3A%2F%2Fwww.honda.de%2Fuseful-links%2Far
-   json: 1112 Treffer in https://cdn.cookielaw.org/vendorlist/iab2V2Data.json | keys=['description', 'id', 'illustrations', 'name'] | z.B. Match and combine data from other data sources
-   pattern: 5x www.honda.de/useful-links/[^/]+/[^/]+  e.g. https://www.honda.de/useful-links/arbeiten-bei-honda/arbeiten-bei-honda.html#page
-   pattern: 3x www.honda.de/useful-links/[^/]+/offene-stellen.html  e.g. https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html
-   link: https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html
-## Petrobras  https://petrobras.com.br/quem-somos/estagios
-   final: https://petrobras.com.br/quem-somos/estagios  status: 200  title: Estágios na Petrobras: conheça o nosso Programa | Petrobras  error: None
-   ohne Browser: {'status': 200, 'final': 'https://petrobras.com.br/quem-somos/estagios', 'server': '', 'len': 919518, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Pular para o Conteúdo principal Abrir menu de acessibilidade Button Label Você está em: SITE PETROBRAS Acesse também: ACESSO À INFORMAÇÃO INVESTIDORES IMPRENSA FORNECEDORES CLIENTES A- 100% A+ PT EN Página inicial Petrobras Transição Energética mostrar submenu " Transição Energética " Sustentabilidade mostrar submenu " Sustentabilidade " Inovação e Tecnologia mostrar submenu " Inovação e Tecnologi
-   folgt: https://petrobras.com.br/quem-somos/carreiras
-   folgt: https://petrobras.com.br/documents/d/f3a44542-113e-11ee-be56-0242ac120002/anexo-i-formacao-cidade-e-uf?download=true
-   antwort: FEHLER net::ERR_BLOCKED_BY_ORB https://tags.t.tailtarget.com/t3m.js?i=TT-15436-9/CT-2495
-   antwort: FEHLER net::ERR_ABORTED https://www.google.com/pagead/1p-conversion/11114480776/?random=1701389857&cv=11&fst=1794230944523&fmt=8&bg=ffffff&guid=ON&async=1&en=conver
-   json: 10 Treffer in https://petrobras.com.br/o/c/destaquesubmenus/scopes/2677942 | keys=['additionalName', 'contentType', 'externalReferenceCode', 'familyName', 'givenName', 'id', 'image', 'name'] | z.B. William Natividade
-   pattern: 35x petrobras.com.br/quem-somos/[^/]+  e.g. https://petrobras.com.br/quem-somos/exploracao-e-producao
-   pattern: 34x petrobras.com.br/quem-somos/estagios  e.g. https://petrobras.com.br/quem-somos/estagios#main-content
-   pattern: 20x petrobras.com.br/documents/d/f3a\d+-\d+e-11ee-be56-\d+ac\d+/[^/]+  e.g. https://petrobras.com.br/documents/d/f3a44542-113e-11ee-be56-0242ac120002/anexo-i-formacao-cidade-e-uf?download=true
-   pattern: 18x petrobras.com.br/[^/]+  e.g. https://petrobras.com.br/inovacao-e-tecnologia
-   pattern: 10x petrobras.com.br/quem-somos/carreiras  e.g. https://petrobras.com.br/quem-somos/carreiras
-## Petrobras (verlinkt)  https://petrobras.com.br/quem-somos/carreiras
-   final: https://petrobras.com.br/quem-somos/carreiras  status: 200  title: Carreiras: o caminho para você trabalhar na Petrobras  error: None
-   ohne Browser: {'status': 200, 'final': 'https://petrobras.com.br/quem-somos/carreiras', 'server': '', 'len': 875321, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Pular para o Conteúdo principal Abrir menu de acessibilidade Button Label Você está em: SITE PETROBRAS Acesse também: ACESSO À INFORMAÇÃO INVESTIDORES IMPRENSA FORNECEDORES CLIENTES A- 100% A+ PT EN Página inicial Petrobras Transição Energética mostrar submenu " Transição Energética " Sustentabilidade mostrar submenu " Sustentabilidade " Inovação e Tecnologia mostrar submenu " Inovação e Tecnologi
-   antwort: FEHLER net::ERR_BLOCKED_BY_ORB https://tags.t.tailtarget.com/t3m.js?i=TT-15436-9/CT-2495
-   antwort: FEHLER net::ERR_ABORTED https://www.google.com/pagead/1p-conversion/11114480776/?random=579329505&cv=11&fst=1794230984622&fmt=8&bg=ffffff&guid=ON&async=1&en=convers
-   json: 10 Treffer in https://petrobras.com.br/o/c/destaquesubmenus/scopes/2677942 | keys=['additionalName', 'contentType', 'externalReferenceCode', 'familyName', 'givenName', 'id', 'image', 'name'] | z.B. William Natividade
-   pattern: 35x petrobras.com.br/quem-somos/[^/]+  e.g. https://petrobras.com.br/quem-somos/exploracao-e-producao
-   pattern: 30x petrobras.com.br/quem-somos/carreiras  e.g. https://petrobras.com.br/quem-somos/carreiras#main-content
-   pattern: 17x petrobras.com.br/[^/]+  e.g. https://petrobras.com.br/inovacao-e-tecnologia
-   pattern: 9x petrobras.com.br/sustentabilidade/[^/]+  e.g. https://petrobras.com.br/sustentabilidade/iniciativas-de-reflorestamento
-   pattern: 8x petrobras.com.br/quem-somos/fertilizantes  e.g. https://petrobras.com.br/quem-somos/fertilizantes
-## Petrobras (verlinkt)  https://petrobras.com.br/documents/d/f3a44542-113e-11ee-be56-0242ac120002/anexo-i-formacao-cidade-e-uf?download=true
-   final: None  status: None  title: None  error: Page.goto: Download is starting
+## LVMH [h1]  https://www.lvmh.com/en/join-us/our-job-offers
+   final: None  status: None  title: None  error: Page.goto: Timeout 90000ms exceeded.
 Call log:
-  - navigating to "https://petrobras.com.br/documents/d/f3a44542-113e-11ee-be56-0242ac120002/anexo-i-formacao-cidade-e-uf?download=true", waiting until "domco
-   ohne Browser: {'status': 200, 'final': 'https://petrobras.com.br/documents/d/f3a44542-113e-11ee-be56-0242ac120002/anexo-i-formacao-cidade-e-uf?download=true', 'server': '', 'len': 82704, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: 
-   antwort: FEHLER net::ERR_ABORTED https://petrobras.com.br/documents/d/f3a44542-113e-11ee-be56-0242ac120002/anexo-i-formacao-cidade-e-uf?download=true
-## LVMH  https://www.lvmh.com/en/join-us/our-job-offers
-   final: None  status: None  title: None  error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.lvmh.com/en/join-us/our-job-offers
-Call log:
-  - navigating to "https://www.lvmh.com/en/join-us/our-job-offers", waiting until "domcontentloaded
+  - navigating to "https://www.lvmh.com/en/join-us/our-job-offers", waiting until "domcontentloaded"
+
    ohne Browser: {'status': 200, 'final': 'https://www.lvmh.com/en/join-us/our-job-offers', 'server': '', 'len': 2169151, 'block': '', 'jobhrefs': 0, 'beispiele': []}
    text: 
-   antwort: FEHLER net::ERR_HTTP2_PROTOCOL_ERROR https://www.lvmh.com/en/join-us/our-job-offers
-## Sea Group (Shopee)  https://career.sea.com/jobs?keyword=intern
+## Maersk [h1]  https://www.maersk.com/careers/vacancies
+   final: https://www.maersk.com/careers/vacancies  status: 200  title: Vacancies | Careers at Maersk  error: None
+   ohne Browser: {'status': 200, 'final': 'https://www.maersk.com/careers/vacancies', 'server': '', 'len': 38553, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: 
+## OMV  https://www.omv.com/en/career/grow-with-us/jobboard
+   final: https://careers.omv.com/?locale=en_GB  status: 200  title: OMV Jobs | Career | Job openings & opportunities  error: None
+   ohne Browser: {'status': 200, 'final': 'https://www.omv.com/en/career/grow-with-us/jobboard', 'server': '', 'len': 25056, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text:  Language Create account/View profile Employees The best thing about tomorrow is that you can create it Explore Careers at OMV Search by location Screen readers cannot read the following searchable map. Follow this link to reach our Job Search page to search for available jobs in a more accessible format. Working at OMV Viewing item 3 of 4 Grow with us - Unlock your potential. Make it count. Our s
+   folgt: https://careers.omv.com/search/
+   folgt: https://www.omv.com/en/career/why-work-with-us
+   successfactors: ['career5.successfactors.eu', 'career5.successfactors.eu/career?site=&amp;company=omvagPRD&amp;lang=en%5FGB&amp;login_ns=register&amp;career_ns=home&amp;navBarLevel=MY_PROFILE', 'jobs2web', 'rmkcdn.successfactors.com']
+   pattern: 3x www.omv.com/en/career/[^/]+  e.g. https://www.omv.com/en/career/grow-with-us
+   link: https://www.omv.com/en/career/why-work-with-us/jobstories
+## OMV (verlinkt)  https://careers.omv.com/search/
+   final: https://careers.omv.com/search/  status: 200  title: OMV Jobs | Career | Job openings & opportunities  error: None
+   ohne Browser: {'status': 200, 'final': 'https://careers.omv.com/search/', 'server': 'nginx', 'len': 97347, 'block': '', 'jobhrefs': 25, 'beispiele': ['/Petrom/job/Blejoi-Expert-Permitting-107070/1442784133/', '/Petrom/job/Bucharest-Expert-Dispatching-013329/1442907333/', '/Petrom/job/Bucharest-Expert-Fin-Int&amp;apos;l-Fixed-Assets-with-German-013329/1384783433/']}
+   text:  Language Create account/View profile Employees Job Overview Search by Keyword Show More Options Clear Results 1 – 25 of 56 Page 1 of 3 « 1 2 3 » Title Location Date Reset Professional Projects Reporting Bucharest, RO, 013329 9 Nov 2026 Anlagenfahrer (gn) Burghausen, DE, D-84489 8 Nov 2026 Sr. Expert Environment Eng Bucharest, RO, 013329 7 Nov 2026 Expert Permitting Blejoi, RO, 107070 7 Nov 2026 S
+   folgt: https://www.omv.com/en/career/why-work-with-us
+   successfactors: ['career5.successfactors.eu', 'rmkcdn.successfactors.com']
+   pattern: 34x careers.omv.com/search/  e.g. https://careers.omv.com/search/#content
+   link: https://careers.omv.com/Petrom/job/Bucharest-Professional-Projects-Reporting-013329/1455443433/
+   link: https://careers.omv.com/job/Burghausen-Anlagenfahrer-%28gn%29-D-84489/940723701/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Sr_-Expert-Environment-Eng-013329/1445885233/
+   link: https://careers.omv.com/Petrom/job/Blejoi-Expert-Permitting-107070/1442784133/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Sr-Expert-Connect_-Automat_-Engineering-013329/1392341433/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Pro-Field-Engineering-%28in-view-offshore%29-013329/1271208101/
+   link: https://careers.omv.com/job/Bratislava-Expert-Pricing-&-Volume-Management-CZHUSK-%28gn%29-851-01/1435423933/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Expert-Fin-Int&apos;l-Fixed-Assets-with-German-013329/1384783433/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Production-Manager-013329/1268203201/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Project-Expert-PMO-013329/1406778033/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Sr-Exp-Production-Planning-&-Analysis-013329/1434450533/
+   link: https://careers.omv.com/job/Vienna-Expert-Data-Engineer%2C-Digital-Trading-Solutions-%28gn%29-Vien-1020/1455071533/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Expert-Treasury-Operations-013329/1455002233/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Sr-Expert-C&I-Administration-013329/1271200401/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Sr-Expert-Process-&-Flow-Assurance-Eng-013329/1389119633/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Sr-Expert-Data-Management-013329/1453734633/
+   link: https://careers.omv.com/job/Vienna-Senior-Expert-Treasury-%28gn%29-Vien-1020/1424218233/
+   link: https://careers.omv.com/job/Schwechat-Expert-Electrical-&-Automation-%28gn%29-Nied-2320/1413167633/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Expert-Procurement-013329/1429110733/
+   link: https://careers.omv.com/job/Budapest-Department-Manager-Sales-HU-%28gn%29-1117/1432768233/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Sr-Expert-Insurance-Corporate-Finance-013329/1452812533/
+   link: https://careers.omv.com/job/Vienna-Advisor-Mergers-&-Acquisitions-Energy-%28gn%29-Vien-1020/1386412033/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Sr-Expert-Environmental-Management-determined-period-013329/1442797233/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Expert-Dispatching-013329/1442907333/
+   link: https://careers.omv.com/Petrom/job/Bucharest-Sr-Expert-Fin-Int&apos;l-Stock-Accounting-013329/1442709433/
+   link: https://www.omv.com/en/career/why-work-with-us/jobstories
+## OMV (verlinkt)  https://www.omv.com/en/career/why-work-with-us
+   final: https://www.omv.com/en/career/why-work-with-us  status: 404  title: Error | OMV.com  error: None
+   ohne Browser: {'status': 404, 'final': 'https://www.omv.com/en/career/why-work-with-us', 'server': '', 'len': 11792, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: Sorry we could not find your requested page Maybe the page doesn't exist anymore, changed its name or is temporarily unavailable. Please go to our Startpage to find the information you are looking for or use our Search. Leider ist diese Seite nicht verfügbar Möglicherweise existiert diese nicht mehr, oder es wurde der Name geändert, oder die Seite ist vorübergehend nicht verfügbar. Bitte navigiere
+   antwort: 404 https://www.omv.com/en/career/why-work-with-us
+## INA  https://molgroup.taleo.net/careersection/external/jobsearch.ftl?lang=hr&location=4205100397
+   final: https://molgroup.taleo.net/careersection/external/jobsearch.ftl?lang=hr&location=4205100397  status: 200  title: Pretraživanje zaposlenja  error: None
+   ohne Browser: {'status': 200, 'final': 'https://molgroup.taleo.net/careersection/external/jobsearch.ftl?lang=hr&location=4205100397', 'server': '', 'len': 44580, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: JOB OPPORTUNITIES Dobro došli. Niste prijavljeni. Prijava / Registracija PRETRAGA POSLOVA MOJ PROFIL Ključna riječ Lokacija Organizacija Otvorena radna mjesta Napredno pretraživanje SLOBODNA RADNA MJESTA 1 - 25 OD 26 RSS: Lokacija Grad Grad Zagreb(13) Rijeka(6) Graberje Ivaničko(3) Molve(2) Lokacija rada Lokacija rada Ulica Grada Vukovara 18(2) Prikaži više... Prikaz svih lokacija u Croatia Područ
+   taleo: ['molgroup.taleo.net']
+   pattern: 57x molgroup.taleo.net/careersection/external/jobsearch.ftl  e.g. https://molgroup.taleo.net/careersection/external/jobsearch.ftl?ftlcompclass=LoginComponent
+   pattern: 22x molgroup.taleo.net/careersection/external/jobdetail.ftl  e.g. https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=24003427&tz=GMT%2B00%3A00&tzname=UTC
+   pattern: 22x molgroup.taleo.net/careersection/application.jss  e.g. https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=232722
+   pattern: 6x void(0);  e.g. javascript:void(0);
+   link: https://molgroup.taleo.net/careersection/external/jobsearch.ftl?ftlcompclass=LoginComponent
+   link: https://molgroup.taleo.net/careersection/external/jobsearch.ftl
+   link: https://molgroup.taleo.net/careersection/external/jobsearch.ftl?lang=hr&location=4205100397#
+   link: https://molgroup.taleo.net/careersection/profile.jss?type=1&portal=8205100397
+   link: https://molgroup.taleo.net/careersection/feed/joblist.rss?lang=hr&portal=8205100397&searchtype=3&f=null&LOCATION=4205100397&s=3|D&a=null&multiline=false
+   link: https://molgroup.taleo.net/careersection/external/jobsearch.ftl?ftlcompclass=LoginComponent&restore=true
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=24003427&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=232722
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=24003424&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=232702
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=24001892&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=213262
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=26002846&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=280977
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=26002845&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=280901
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=26002689&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=279801
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=26002817&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=280717
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=26002810&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=280621
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=26002803&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=280617
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=26002800&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=280597
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=26002799&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=280577
+   link: https://molgroup.taleo.net/careersection/external/jobdetail.ftl?job=26002786&tz=GMT%2B00%3A00&tzname=UTC
+   link: https://molgroup.taleo.net/careersection/application.jss?type=1&lang=hr&portal=8205100397&reqNo=280438
+## Linde  https://linde.csod.com/ux/ats/careersite/20/home?c=linde&country=de
+   final: https://linde.csod.com/ux/ats/careersite/20/home?c=linde&country=de  status: 200  title: Aktuelle freie Stellen - linde  error: None
+   ohne Browser: {'status': 200, 'final': 'https://linde.csod.com/ux/ats/careersite/20/home?c=linde&country=de', 'server': '', 'len': 5521, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: Überspringen zum Hauptinhalt Anmelden Profil erstellen Englisch (USA) Französisch (Kanada) Deutsch (Deutschland) Italienisch (Italien) Polnisch (Polen) Französisch (Frankreich) Spanisch (Spanien) Portugiesisch (Portugal) Turkish (Türkiye) Rumänisch (Rumänien) Tschechisch (Tschechische Republik) Norwegisch (Norwegen) Schwedisch (Schweden) Griechisch (Griechenland) Bulgarisch (Bulgarien) Ukrainisch 
+   csod: ['api.csod.com', 'linde.csod.com']
+   json: 403 Treffer in https://linde.csod.com/services/x/core-customfields-service/v1/CustomFields?fieldIds=344&fieldIds=140&fieldIds=139&fieldIds=251&fieldIds=239&fieldIds= | keys=['dataType', 'displayType', 'emailTag', 'entityTypeId', 'id', 'isUiReadOnly', 'itemTypeId', 'items', 'name', 'validationCriteria'] | z.B. Sprache der Stellenausschreibung
+   pattern: 25x linde.csod.com/ux/ats/careersite/20/home/requisition/\d+  e.g. https://linde.csod.com/ux/ats/careersite/20/home/requisition/34259?c=linde
+   pattern: 11x void(0);  e.g. javascript:void(0);
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/34259?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/28012?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/34106?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/34104?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/34232?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/34160?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/34252?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/34251?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/34250?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33821?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/34141?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/34013?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33302?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33976?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33761?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33855?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33559?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33754?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33713?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33712?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/32987?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/31558?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33339?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33289?c=linde
+   link: https://linde.csod.com/ux/ats/careersite/20/home/requisition/33240?c=linde
+## Cencosud AR  https://cencosud.csod.com/ux/ats/careersite/16/home?c=cencosud
+   final: https://cencosud.csod.com/ux/ats/careersite/16/home?c=cencosud  status: 200  title: Vacantes actuales - cencosud  error: None
+   ohne Browser: {'status': 200, 'final': 'https://cencosud.csod.com/ux/ats/careersite/16/home?c=cencosud', 'server': '', 'len': 5362, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: Omitir e ir a Contenido principal PROGRAMA DE PASANTIAS Buscar PROGRAMA DE PASANTIAS Somos uno de los principales ecosistemas de retail de América Latina, con operaciones en 6 países y una propuesta que integra supermercados (Jumbo, Disco, Vea), mejoramiento del hogar (Easy, Blaisten), mayorista (Makro, Basualdo), centros comerciales, servicios financieros y retail media. Buscamos impactar positiv
+   csod: ['api.csod.com', 'cencosud.csod.com']
+   pattern: 5x void(0);  e.g. javascript:void(0);
+   link: https://cencosud.csod.com/ux/ats/careersite/16/home/requisition/15442?c=cencosud
+## Cencosud BR  https://cencosudbrasil.gupy.io/
+   final: https://cencosudbrasil.gupy.io/  status: 200  title: Cencosud Brasil  error: None
+   ohne Browser: {'status': 200, 'final': 'https://cencosudbrasil.gupy.io/', 'server': '', 'len': 424300, 'block': '', 'jobhrefs': 10, 'beispiele': ['/jobs/12057364?jobBoardSource=gupy_public_page', '/jobs/12494363?jobBoardSource=gupy_public_page', '/jobs/12507249?jobBoardSource=gupy_public_page']}
+   text: Pular para o conteúdo principal Sobre Vagas Cencosud Brasil Selo de Feedback UM MUNDO DE OPORTUNIDADES PARA VOCÊ! 💙🚀 Cencosud é um dos maiores e mais prestigiados varejistas na América. Possui operações na Argentina, Brasil, Chile, Peru, Colômbia e Estados Unidos – além de um escritório comercial na China e um Hub Tecnológico e Digital no Uruguai –, onde desenvolve diariamente uma estratégia multi
+   antwort: FEHLER csp https://try.abtasty.com/82670607f96b5c94cd6b17c92208ea3a.js
+   antwort: 401 https://private-api.gupy.io/authentication/candidate/account/current?q=0.1726239888616995
+   antwort: 401 https://private-api.gupy.io/authentication/candidate/account/current?q=0.5749441552871916
+   gupy: ['attachments.gupy.io', 'cencosudbrasil.gupy.io', 'front-statics-assets.gupy.io', 'private-api.gupy.io', 'suporte-candidatos.gupy.io', 'tools.gupy.io']
+   json: 37 Treffer in https://survey.survicate.com/workspaces/84355a9a6c320c3fed76237b264ca875/web_surveys.json | keys=['activated', 'audiences_ids', 'global_close_tags', 'global_tags', 'id', 'integrations', 'links', 'name', 'points', 'project_id', 'settings', 'show_subfooter', 'theme_id', 'type'] | z.B. [CES] Criação de Pesquisa Flexível
+   pattern: 10x cencosudbrasil.gupy.io/jobs/\d+  e.g. https://cencosudbrasil.gupy.io/jobs/12744814?jobBoardSource=gupy_public_page
+   link: https://cencosudbrasil.gupy.io/jobs/12744814?jobBoardSource=gupy_public_page
+   link: https://cencosudbrasil.gupy.io/jobs/12744813?jobBoardSource=gupy_public_page
+   link: https://cencosudbrasil.gupy.io/jobs/12639895?jobBoardSource=gupy_public_page
+   link: https://cencosudbrasil.gupy.io/jobs/12722710?jobBoardSource=gupy_public_page
+   link: https://cencosudbrasil.gupy.io/jobs/12494363?jobBoardSource=gupy_public_page
+   link: https://cencosudbrasil.gupy.io/jobs/12725288?jobBoardSource=gupy_public_page
+   link: https://cencosudbrasil.gupy.io/jobs/12507249?jobBoardSource=gupy_public_page
+   link: https://cencosudbrasil.gupy.io/jobs/12590451?jobBoardSource=gupy_public_page
+   link: https://cencosudbrasil.gupy.io/jobs/12590449?jobBoardSource=gupy_public_page
+   link: https://cencosudbrasil.gupy.io/jobs/12057364?jobBoardSource=gupy_public_page
+## Lufthansa  https://apply.lufthansagroup.careers/index.php?ac=search_result&language=2
+   final: https://apply.lufthansagroup.careers/index.php?ac=search_result&search_criterion_channel%5B%5D=12&language=2  status: 200  title: Job portal | Career-Portal | lufthansagroup.careers  error: None
+   ohne Browser: {'status': 200, 'final': 'https://apply.lufthansagroup.careers/index.php?ac=search_result&language=2', 'server': '', 'len': 128710, 'block': 'captcha', 'jobhrefs': 1, 'beispiele': ['https://wa.me/?text=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ%20ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ']}
+   SPERRE: captcha
+   text: Career opportunities (current) My account Job portal Search again Reset Keywords 5 15 25 50 100 25 Miles KM KM More filters I am... Pupil Student New professional Experienced professional I am... Employment level Leadership Level Apprenticeship Bachelor / Master thesis Direct entry Dual Studies Junior lawyer Pilot training School student internship Temp/Working student University internship Employ
+   folgt: https://lufthansagroup.careers/en
+   phenom: ['/widgets']
+   beesite: ['beesite', 'milchundzucker']
+   json: 4 Treffer in https://apply.lufthansagroup.careers/assets/js/jobboard.config.json | keys=['channel', 'date', 'id', 'job_id', 'location', 'title', 'uri'] | z.B. PositionTitle
+   pattern: 89x apply.lufthansagroup.careers/index.php  e.g. https://apply.lufthansagroup.careers/index.php?ac=search_result
+   pattern: 3x lufthansagroup.careers/en/imprint/  e.g. https://lufthansagroup.careers/en/imprint/
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136491
+   link: https://apply.lufthansagroup.careers/index.php?ac=search_result&search_criterion_channel%5B%5D=12&language=2#js-share-jobad
+   link: https://apply.lufthansagroup.careers/index.php?ac=search_result&search_criterion_channel%5B%5D=12&language=2#js-mark-jobad
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136545
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=135861
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136549
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136472
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136470
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136465
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136462
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136458
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136374
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136506
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136497
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136482
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136476
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136516
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136508
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=134491
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136480
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136455
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136453
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136452
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136446
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136435
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136431
+   link: https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136428
+   link: https://www.linkedin.com/shareArticle?mini=true&url=ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ&title=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ
+   link: https://www.linkedin.com/?shareActive=true&text=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ&shareUrl=ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ
+   link: https://x.com/share?text=ZZZZZ_JS_JOBAD_TITLE_ENCODED_ZZZZZ&url=ZZZZZ_JS_LINK_TO_SHARE_ZZZZZ
+## Lufthansa (verlinkt)  https://lufthansagroup.careers/en
+   final: https://lufthansagroup.careers/en  status: 200  title: Lufthansa Group Careers  error: None
+   ohne Browser: {'status': 200, 'final': 'https://lufthansagroup.careers/en', 'server': 'Apache', 'len': 10103, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: Skip to the content Skip to the filters Skip to the navigation Go to the bottom of the page Job portal My account EN Deutsch Discover our world I am... - search filter Entry - search filter Interested in - search filter Company - search filter find your job. In 366 entry options. Discover all jobs Skip the section - Introduction teaser Get to know our trainee programs! Learn more InnovAero Competi
+   folgt: https://apply.lufthansagroup.careers/index.php?ac=search_result&language=2
+   beesite: ['beesite']
+   json: 42 Treffer in https://api.lufthansagroup.careers/rest/get-objects-from-selected-tags/staticpage?cache=1790155137235 | keys=['linktext', 'maincontent', 'title', 'url'] | z.B. Datenschutzinformationen
+   json: 8 Treffer in https://api.lufthansagroup.careers/rest/get-objects-from-selected-tags/topteaser/14?cache=1790155137235 | keys=['link', 'link_text', 'title', 'top_teaser_image', 'type_of_link'] | z.B. Lerne unsere Traineeprogramme kennen!
+   json: 27 Treffer in https://api.lufthansagroup.careers/rest/get-posts-by-category/3107,3117,3129,3119,3121,3133,3123,3125,3127,3135,3115,3109,3137/100?cache=1790155137235 | keys=['content', 'date', 'excerpt', 'id', 'link', 'media_url_medium', 'title'] | z.B. {'rendered': 'Life Between Sky and Ground – My Role as Purse
+   json: 8 Treffer in https://api.lufthansagroup.careers/rest/get-objects-from-selected-tags/topteaser/14?cache=1790155137235 | keys=['link', 'link_text', 'title', 'top_teaser_image', 'type_of_link'] | z.B. Lerne unsere Traineeprogramme kennen!
+   pattern: 85x void(0);  e.g. javascript:void(0);
+   pattern: 48x blog.lufthansagroup.careers/en/[^/]+/  e.g. https://blog.lufthansagroup.careers/en/life-between-sky-and-ground-my-role-as-purser-team-lead-cabin-crew-in-cologne/
+   pattern: 30x www.facebook.com/search/top/  e.g. https://www.facebook.com/search/top/?q=%23LufthansaGroup
+   pattern: 28x www.facebook.com/reel/\d+/  e.g. https://www.facebook.com/reel/2112902656027046/
+   pattern: 18x www.linkedin.com/company/lufthansa-group/  e.g. https://www.linkedin.com/company/lufthansa-group/
+   link: https://blog.lufthansagroup.careers/en/my-heavenly-workplace-10000-meters-above-the-ground/
+   link: https://blog.lufthansagroup.careers/en/28327-2/
+   link: https://blog.lufthansagroup.careers/?pk_vid=ab411debab509ce31785771379c6a7d0
+## KraussMaffei  https://jobs.kraussmaffei.com/search/?q=praktikum
+   final: https://jobs.kraussmaffei.com/search/?q=praktikum  status: 200  title: Praktikum - KraussMaffei Jobs  error: None
+   ohne Browser: {'status': 200, 'final': 'https://jobs.kraussmaffei.com/search/?q=praktikum', 'server': 'nginx', 'len': 63388, 'block': '', 'jobhrefs': 10, 'beispiele': ['/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Mechatronik-Elektronik-vom-02_11_2026-bis-06_11_2026/1439527733/', '/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Mechatronik-Elektronik-vom-15_03_2027-bis-19_03_2027/1449815733/', '/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Mechatronik-Elektronik-vom-18_05_2027-bis-21_05_2027/1449814833/']}
+   text: Careers Home Language View Profile Home | Praktikum at KraussMaffei (current page) Search results for "praktikum". Search by Keyword Search by Location Show More Options Clear Select how often (in days) to receive an alert: Create Alert Title Location Date Reset Schülerpraktikanten (m/w/d) im Bereich Zerspanungsmechanik Treuchtlingen, DE Oct 12, 2026 Schülerpraktikanten (m/w/d) im Bereich Werkzeug
+   folgt: https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=en_US
+   successfactors: ['career5.successfactors.eu', 'rmkcdn.successfactors.com']
+   pattern: 15x jobs.kraussmaffei.com/search/  e.g. https://jobs.kraussmaffei.com/search/?q=praktikum#content
+   pattern: 6x jobs.kraussmaffei.com/job/[^/]+/\d+/  e.g. https://jobs.kraussmaffei.com/job/Treuchtlingen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Zerspanungsmechanik/1050929001/
+   link: https://jobs.kraussmaffei.com/search/?q=praktikum#content
+   link: https://jobs.kraussmaffei.com/
+   link: https://jobs.kraussmaffei.com/search/?q=praktikum
+   link: https://jobs.kraussmaffei.com/search/?q=praktikum#
+   link: https://jobs.kraussmaffei.com/search/?q=praktikum&locale=de_DE
+   link: https://jobs.kraussmaffei.com/search/?q=praktikum&locale=en_US
+   link: https://jobs.kraussmaffei.com/search/?q=praktikum&locale=sk_SK
+   link: https://jobs.kraussmaffei.com/search/?q=praktikum&sortColumn=sort_title&sortDirection=desc#hdrTitleButton
+   link: https://jobs.kraussmaffei.com/search/?q=praktikum&sortColumn=sort_location&sortDirection=desc#hdrLocationButton
+   link: https://jobs.kraussmaffei.com/search/?q=praktikum&sortColumn=referencedate&sortDirection=desc#hdrDateButton
+   link: https://jobs.kraussmaffei.com/search/?q=praktikum#reset
+   link: https://jobs.kraussmaffei.com/job/Treuchtlingen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Zerspanungsmechanik/1050929001/
+   link: https://jobs.kraussmaffei.com/job/Viersen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Werkzeugmechanik/1022353701/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Metallbearbeitung/1447432833/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Mechatronik-Elektronik-vom-02_11_2026-bis-06_11_2026/1439527733/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Mechatronik-Elektronik-vom-19_07_2027-bis-23_07_2027/1454214633/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Mechatronik-Elektronik-vom-15_03_2027-bis-19_03_2027/1449815733/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Mechatronik-Elektronik-vom-18_05_2027-bis-21_05_2027/1449814833/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Mechatronik-Elektronik-vom-28_06_2027-bis-02_07_2027%282964%29/1450340533/
+   link: https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=en_US
+## KraussMaffei (verlinkt)  https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=en_US
+   final: https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=en_US  status: 200  title: KraussMaffei Jobs  error: None
+   ohne Browser: {'status': 200, 'final': 'https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=en_US', 'server': 'nginx', 'len': 82148, 'block': '', 'jobhrefs': 24, 'beispiele': ['/job/Georgsmarienh%C3%BCtte-Auszubildenden-zum-Zerspanungsmechaniker-%28mwd%29-ab-01_08_2027/1440561033/', '/job/Laatzen-bei-Hannover-Auszubildenden-zum-Elektroniker-f%C3%BCr-Automatisierungstechnik-%28mwd%29-zum-01_08_2027/1422856733/', '/job/Laatzen-bei-Hannover-Auszubildenden-zum-Elektroniker-f%C3%BCr-Betriebstechnik-%28mwd%29-zum-01_08_2027/1421981833/']}
+   text: Careers Home Language View Profile Home | at KraussMaffei (current page) Search results for "". Search by Keyword Search by Location Show More Options Clear Title Location Date Reset Auszubildenden zum Mechatroniker (m/w/d) ab 01.09.2027 Parsdorf bei München, DE Nov 8, 2026 Auszubildenden zum Industriemechaniker (m/w/d) ab 01.09.2027 Parsdorf bei München, DE Nov 8, 2026 Auszubildenden zum Elektron
+   successfactors: ['career5.successfactors.eu', 'rmkcdn.successfactors.com']
+   pattern: 18x jobs.kraussmaffei.com/search/  e.g. https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=en_US#content
+   pattern: 6x jobs.kraussmaffei.com/job/[^/]+/\d+/  e.g. https://jobs.kraussmaffei.com/job/Viersen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Werkzeugmechanik/1022353701/
+   link: https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=en_US#content
+   link: https://jobs.kraussmaffei.com/
+   link: https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=en_US
+   link: https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=en_US#
+   link: https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=de_DE
+   link: https://jobs.kraussmaffei.com/search/?createNewAlert=false&q&optionsFacetsDD_customfield1&optionsFacetsDD_customfield2&optionsFacetsDD_country&locationsearch&locale=sk_SK
+   link: https://jobs.kraussmaffei.com/search/?q=&sortColumn=sort_title&sortDirection=desc#hdrTitleButton
+   link: https://jobs.kraussmaffei.com/search/?q=&sortColumn=sort_location&sortDirection=desc#hdrLocationButton
+   link: https://jobs.kraussmaffei.com/search/?q=&sortColumn=referencedate&sortDirection=asc#hdrDateButton
+   link: https://jobs.kraussmaffei.com/search/?q=#reset
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Auszubildenden-zum-Mechatroniker-%28mwd%29-ab-01_09_2027/1436104233/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Auszubildenden-zum-Industriemechaniker-%28mwd%29-ab-01_09_2027/1436103933/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Auszubildenden-zum-Elektroniker-f%C3%BCr-Automatisierungstechnik-%28mwd%29-ab-01_09_2027/1436103233/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Auszubildenden-zum-Zerspanungsmechaniker-%28mwd%29-ab-01_09_2027/1436104433/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Auszubildenden-zum-Industriekaufmann-%28mwd%29-ab-01_09_2027/1436103533/
+   link: https://jobs.kraussmaffei.com/job/Viersen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Werkzeugmechanik/1022353701/
+   link: https://jobs.kraussmaffei.com/job/Laatzen-bei-Hannover-Auszubildenden-zum-Industriekaufmann-%28mwd%29-zum-01_08_2027/1414182833/
+   link: https://jobs.kraussmaffei.com/job/Laatzen-bei-Hannover-Auszubildenden-zum-Kunststoff-und-Kautschuktechnologe-%28mwd%29-zum-01_08_2027/1422746133/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Mechatronik-Elektronik-vom-19_07_2027-bis-23_07_2027/1454214633/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Werkstudent-im-Bereich-Versand-&-Logistik-%28mwd%29/1453310933/
+   link: https://jobs.kraussmaffei.com/job/Laatzen-bei-Hannover-Auszubildenden-zum-Elektroniker-f%C3%BCr-Automatisierungstechnik-%28mwd%29-zum-01_08_2027/1422856733/
+   link: https://jobs.kraussmaffei.com/job/Laatzen-bei-Hannover-Auszubildenden-zum-Elektroniker-f%C3%BCr-Betriebstechnik-%28mwd%29-zum-01_08_2027/1421981833/
+   link: https://jobs.kraussmaffei.com/job/Laatzen-bei-Hannover-Auszubildenden-zum-Technischen-Produktdesigner-%28mwd%29-Maschinen-und-Anlagentechnik-zum-01_08_2027/1422009533/
+   link: https://jobs.kraussmaffei.com/job/Laatzen-bei-Hannover-Auszubildenden-zum-Zerspanungsmechaniker-%28mwd%29-zum-01_08_2027/1421982833/
+   link: https://jobs.kraussmaffei.com/job/Laatzen-bei-Hannover-Auszubildenden-zum-Industriemechaniker-%28mwd%29-zum-01_08_2027/1422008633/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Praktikanten-Werkstudenten-%28mwd%29-Group-Transformation/1369127333/
+   link: https://jobs.kraussmaffei.com/job/Treuchtlingen-Auszubildenden-zum-Zerspanungsmechaniker-%28mwd%29-ab-01_09_2027/1441253733/
+   link: https://jobs.kraussmaffei.com/job/Viersen-Auszubildenden-zum-Werkzeugmechaniker-%28mwd%29-ab-01_08_2027/1441257533/
+   link: https://jobs.kraussmaffei.com/job/Georgsmarienh%C3%BCtte-Auszubildenden-zum-Zerspanungsmechaniker-%28mwd%29-ab-01_08_2027/1440561033/
+   link: https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Sch%C3%BClerpraktikanten-%28mwd%29-im-Bereich-Mechatronik-Elektronik-vom-28_06_2027-bis-02_07_2027%282964%29/1450340533/
+## Redeia  https://talento.carrerasenred.com/search/?q=becas
+   final: https://talento.carrerasenred.com/search/?q=becas  status: 200  title: Becas - Grupo Red Eléctrica vacantes  error: None
+   ohne Browser: {'status': 200, 'final': 'https://talento.carrerasenred.com/search/?q=becas', 'server': 'nginx', 'len': 73897, 'block': '', 'jobhrefs': 12, 'beispiele': ['/job/Alcobendas-T%C3%A9cnicoa-Auditor%C3%ADa-Interna/1434904633/', '/job/Alcobendas-T%C3%A9cnicoa-Infraestructura-y-Operaciones-TI/1434915433/', '/job/Alcobendas-T%C3%A9cnicoa-Seguridad-del-Sistema-ProteccionesAjustes/1433805633/']}
+   text:  Inicio Elige Redeia La vida en Redeia Becas Campus Mi perfil Inicio | Becas en Grupo Red Eléctrica (página actual) Resultados de búsqueda de "becas". En este momento, no hay ninguna vacante acorde a tus preferencias "becas". A continuación figuran las 12 últimas vacantes publicadas por Grupo Red Eléctrica por si te resultan de interés. Palabra clave Ubicación Mostrar más filtros Eliminar filtros 
+   successfactors: ['career5.successfactors.eu', 'rmkcdn.successfactors.com']
+   pattern: 24x talento.carrerasenred.com/job/[^/]+/\d+/  e.g. https://talento.carrerasenred.com/job/Las-Palmas-de-Gran-Canaria-T%C3%A9cnicoa-Implantaci%C3%B3n-de-Bombeos-OS/1433308033/
+   pattern: 19x talento.carrerasenred.com/search/  e.g. https://talento.carrerasenred.com/search/?q=becas#
+   pattern: 4x talento.carrerasenred.com/content/[^/]+/  e.g. https://talento.carrerasenred.com/content/Por-que-Red-Electrica/?locale=es_ES
+   pattern: 4x talento.carrerasenred.com/content/Cultura/  e.g. https://talento.carrerasenred.com/content/Cultura/?locale=es_ES
+   pattern: 4x talento.carrerasenred.com/content/Jovenes-Talentos/  e.g. https://talento.carrerasenred.com/content/Jovenes-Talentos/?locale=es_ES
+   link: https://talento.carrerasenred.com/job/Las-Palmas-de-Gran-Canaria-T%C3%A9cnicoa-Implantaci%C3%B3n-de-Bombeos-OS/1433308033/
+   link: https://talento.carrerasenred.com/job/Alcobendas-T%C3%A9cnicoa-Seguridad-del-Sistema-ProteccionesAjustes/1433805633/
+   link: https://talento.carrerasenred.com/job/Santa-Cruz-de-Tenerife-Administrativoa/1455198633/
+   link: https://talento.carrerasenred.com/job/Tarragona-T%C3%A9cnicoa-Especialista-de-Mantenimiento-y-Verificaci%C3%B3n-%28L%C3%ADneas%29/1455204033/
+   link: https://talento.carrerasenred.com/job/Alcobendas-T%C3%A9cnicoa-Infraestructura-y-Operaciones-TI/1434915433/
+   link: https://talento.carrerasenred.com/job/Alcobendas-T%C3%A9cnicoa-Auditor%C3%ADa-Interna/1434904633/
+   link: https://talento.carrerasenred.com/job/Alcobendas-T%C3%A9cnicoa-de-Soporte-Mantenimiento-y-Construcci%C3%B3n-%28Subestaciones%29/1454673533/
+   link: https://talento.carrerasenred.com/job/Marratx%C3%AD-%28Palma-de-Mallorca%29-TAD-%28Proyectos%29/1394521333/
+   link: https://talento.carrerasenred.com/job/Villamayor-de-G%C3%A1llego-Zarago-T%C3%A9cnicoa-de-Mantenimiento-y-Verificaci%C3%B3n-%28Telecomunicaciones%29/1444228233/
+   link: https://talento.carrerasenred.com/job/Rub%C3%AD-T%C3%A9cnicoa-de-Mantenimiento-y-Verificaci%C3%B3n-%28Telecomunicaciones%29/1444236133/
+   link: https://talento.carrerasenred.com/job/La-Cuadra-%2C-G%C3%BCe%C3%B1es-Vizcaya-T%C3%A9cnicoa-Especialista-de-Mantenimiento-y-Verificaci%C3%B3n-%28L%C3%ADneas%29/1444348833/
+   link: https://talento.carrerasenred.com/job/SS-de-los-Reyes-T%C3%A9cnicoa-de-Mantenimiento-y-Verificaci%C3%B3n-%28Telecomunicaciones%29/1444251033/
+   link: https://talento.carrerasenred.com/viewalljobs/
+## Moeve  https://jobs.moeveglobal.com/search/?q=practicas
+   final: https://jobs.moeveglobal.com/search/?q=practicas&searchResultView=LIST  status: 200  title: Practicas - MOEVE ofertas de trabajo  error: None
+   ohne Browser: {'status': 200, 'final': 'https://jobs.moeveglobal.com/search/?q=practicas', 'server': 'nginx', 'len': 64697, 'block': '', 'jobhrefs': 1, 'beispiele': ['https://jobs.moeveglobal.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css']}
+   text:  Inicio Empleo Idioma Acceso candidatos Acceso empleados Buscar ofertas Recibir alertas de puestos para esta búsqueda Refinar búsqueda Refinar búsqueda País Provincia Localidad Unidad de negocio 1 a 10 de 12 resultados 1 a 10 de 12 resultados Ordenar por Beca Welcome U Innovación Analítica PaísEspaña ProvinciaMadrid EdificioCentro de Innovación Beca Welcome U Claims & Demurrage PaísEspaña Provinci
+   folgt: https://www.moeveglobal.com/es/empleo
+   successfactors: ['career2.successfactors.eu', 'jobs2web', 'rmkcdn.successfactors.com']
+   phenom: ['/widgets']
+   pattern: 15x jobs.moeveglobal.com/search/  e.g. https://jobs.moeveglobal.com/search/?q=practicas&searchResultView=LIST#content
+   pattern: 10x jobs.moeveglobal.com/job/[^/]+/\d+-es_ES  e.g. https://jobs.moeveglobal.com/job/Beca-Welcome-U-Innovaci%C3%B3n-Anal%C3%ADtica/59049-es_ES
+   pattern: 4x www.moeveglobal.com/es/empleo  e.g. https://www.moeveglobal.com/es/empleo
+   link: https://jobs.moeveglobal.com/search/?q=practicas&searchResultView=LIST#content
+   link: https://jobs.moeveglobal.com/?locale=es_ES
+   link: https://jobs.moeveglobal.com/search/?q=practicas&searchResultView=LIST#
+   link: https://jobs.moeveglobal.com/search/?q=practicas&locale=en_US
+   link: https://jobs.moeveglobal.com/search/?q=practicas&locale=es_ES
+   link: https://jobs.moeveglobal.com/job/Beca-Welcome-U-Innovaci%C3%B3n-Anal%C3%ADtica/59049-es_ES
+   link: https://jobs.moeveglobal.com/job/Beca-Welcome-U-Claims-&amp;-Demurrage/58916-es_ES
+   link: https://jobs.moeveglobal.com/job/Beca-Welcome-U-Gesti%C3%B3n-Aduanas/59054-es_ES
+   link: https://jobs.moeveglobal.com/job/Beca-Welcome-U-Proyectos-Transici%C3%B3n-Ecol%C3%B3gica/59067-es_ES
+   link: https://jobs.moeveglobal.com/job/Beca-Welcome-U-relaciones-con-medios-nacionales-e-internacionales/59055-es_ES
+   link: https://jobs.moeveglobal.com/job/Beca-Welcome-U-Marca-Corporativa-Patrocinios/59069-es_ES
+   link: https://jobs.moeveglobal.com/job/Beca-Welcome-U-Power-Back-Office/58999-es_ES
+   link: https://jobs.moeveglobal.com/job/T%C3%A9cnicoa-de-Gesti%C3%B3n-Ambiental-Biodiversidad-%28Temporal%29/58986-es_ES
+   link: https://jobs.moeveglobal.com/job/Beca-Welcome-U-Comunicaci%C3%B3n-Interna/58215-es_ES
+   link: https://jobs.moeveglobal.com/job/Beca-Welcome-U-Control-de-Costes-Fijos%2C-Operaciones-&amp;-HSE/58936-es_ES
+## Moeve (verlinkt)  https://www.moeveglobal.com/es/empleo
+   final: https://www.moeveglobal.com/es/empleo  status: 200  title: Empleo en Moeve: trabaja con nosotros  error: None
+   ohne Browser: {'status': 200, 'final': 'https://www.moeveglobal.com/es/empleo', 'server': '', 'len': 96334, 'block': 'captcha', 'jobhrefs': 0, 'beispiele': []}
+   SPERRE: captcha
+   text: Saltar al contenido principal Compañía Negocios Sostenibilidad Innovación Empleo Inversores Centro de prensa Planet energy BUSCAR ÁREA RESERVADA Busca en Moeveglobal.com BORRAR Cerrar menú Búsquedas populares Empleo Prensa Contacto Tu talento tiene futuro Súmate a la aventura. Sé parte del cambio. Conoce las ofertas arrow_right_alt ¿Por qué Moeve? Descubre la vida en Moeve arrow_right_alt visibili
+   folgt: https://www.moeveglobal.com/es/empleo/tu-lugar-en-moeve
+   folgt: https://www.moeveglobal.com/es/empleo/la-vida-en-moeve
+   folgt: https://www.moeveglobal.com/es/empleo/seleccion-y-ayuda-al-talento
+   folgt: https://jobs.moeveglobal.com/?locale=es_ES
+   antwort: FEHLER net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=11&frm=0&apvc=1&ae=g&en=page_view&dl=https%3A%2F%2Fwww.moeveglobal.com%2Fes%2Fempleo&s
+   antwort: FEHLER net::ERR_CONNECTION_CLOSED https://www.moeveglobal.com/stfls/corporativo/IMG/Empleo/01-hero-header-movil.webp
+   antwort: FEHLER net::ERR_CONNECTION_CLOSED https://www.moeveglobal.com/stfls/corporativo/IMG/Empleo/01-hero_header-empleo-escritorio.webp
+   antwort: FEHLER net::ERR_CONNECTION_CLOSED https://www.moeveglobal.com/stfls/corporativo/IMG/Empleo/04-naked_cards-tu_lugar_en_moeve-talento_joven-escritorio.webp
+   antwort: FEHLER net::ERR_CONNECTION_CLOSED https://www.moeveglobal.com/stfls/corporativo/IMG/Empleo/04-naked_cards-tu_lugar_en_moeve-profesionales_con_experiencia-escritorio.webp
+   antwort: FEHLER net::ERR_CONNECTION_CLOSED https://www.moeveglobal.com/stfls/corporativo/IMG/Empleo/04-naked_cards-tu_lugar_en_moeve-nuevas_energias-escritorio.webp
+   antwort: FEHLER net::ERR_CONNECTION_CLOSED https://www.moeveglobal.com/stfls/corporativo/IMG/Empleo/04-naked_cards-tu_lugar_en_moeve-estaciones_de_servicio-escritorio.webp
+   antwort: 403 https://www.moeveglobal.com/recursos_corporativo/cookie-policy/cookie-policy.js?v=20240722
+   antwort: FEHLER net::ERR_ABORTED https://www.moeveglobal.com/recursos_corporativo/cookie-policy/cookie-policy.js?v=20240722
+   antwort: 403 https://www.moeveglobal.com/stfls/corporativo/IMG/Empleo/05-content_block-la_vida_en_moeve-movimiento-escritorio.webp
+   antwort: FEHLER net::ERR_CONNECTION_CLOSED https://www.moeveglobal.com/stfls/corporativo/IMG/Empleo/05-content_block-la_vida_en_moeve-haz_que_cuente-escritorio.webp
+   antwort: FEHLER net::ERR_CONNECTION_CLOSED https://www.moeveglobal.com/stfls/corporativo/IMG/Empleo/05-content_block-la_vida_en_moeve-mucho_por_hacer-escritorio.webp
+   antwort: FEHLER net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=3&frm=0&apvc=0&tid=DC-11111803&en=page_view&dl=https%3A%2F%2Fwww.moeveglobal.com%2Fes%
+   antwort: FEHLER net::ERR_ABORTED https://pagead2.googlesyndication.com/ccm/collect?rcb=19&frm=0&apvc=0&tid=AW-17726849152&en=page_view&dl=https%3A%2F%2Fwww.moeveglobal.com%2
+   antwort: 403 https://www.moeveglobal.com/stfls/corporativo/IMG/Empleo/08-featured_card-duda-escritorio.webp
+   phenom: ['/widgets']
+   pattern: 7x www.moeveglobal.com/es/compania/[^/]+  e.g. https://www.moeveglobal.com/es/compania/identidad-de-marca
+   pattern: 6x www.moeveglobal.com/es/empleo  e.g. https://www.moeveglobal.com/es/empleo#main-content
+   pattern: 6x www.moeveglobal.com/es/empleo/[^/]+  e.g. https://www.moeveglobal.com/es/empleo/tu-lugar-en-moeve
+   pattern: 4x www.moeveglobal.com/es/sostenibilidad/[^/]+  e.g. https://www.moeveglobal.com/es/sostenibilidad/plan-de-sostenibilidad
+   pattern: 3x www.moeveglobal.com/es/planet-energy  e.g. https://www.moeveglobal.com/es/planet-energy
+   link: https://jobs.moeveglobal.com/?locale=es_ES
+   link: https://jobs.moeveglobal.com/
+## Mitsubishi ES  https://empleo.mitsubishielectric.es/search/?q=
+   final: https://empleo.mitsubishielectric.es/search/?q=  status: 200  title: Mitsubishi Electric Europe ofertas de trabajo  error: None
+   ohne Browser: {'status': 200, 'final': 'https://empleo.mitsubishielectric.es/search/?q=', 'server': 'nginx', 'len': 84849, 'block': '', 'jobhrefs': 1, 'beispiele': ['/job/Es-Calo-des-Moro-Service-Assistance-Technician-ES/1345128855/']}
+   text: Mitsubishi Electric Europe B.V. Sucursal en España utiliza cookies propias y de terceros para analizar el uso que, como usuario de nuestra Página Web o Plataforma realiza, con el fin de mejorar nuestros servicios y crear un perfil con su navegación que permita generar contenidos personalizados de su interés. Para más información accede a nuestra Política de Cookies. Las cookies de este sitio web s
+   folgt: https://empleo.mitsubishielectric.es/search/?q=&locale=es_ES
+   folgt: https://empleo.mitsubishielectric.es/
+   folgt: https://empleo.mitsubishielectric.es/talentcommunity/subscribe/?locale=es_ES
+   folgt: https://empleo.mitsubishielectric.es/content/Programa-de-becas-TalentME/?locale=es_ES
+   successfactors: ['rmkcdn.successfactors.com']
+   pattern: 12x empleo.mitsubishielectric.es/search/  e.g. https://empleo.mitsubishielectric.es/search/?q=#content
+   link: https://empleo.mitsubishielectric.es/job/Es-Calo-des-Moro-Service-Assistance-Technician-ES/1345128855/
+## Mitsubishi ES (verlinkt)  https://empleo.mitsubishielectric.es/search/?q=&locale=es_ES
+   final: https://empleo.mitsubishielectric.es/search/?q=&locale=es_ES  status: 200  title: Mitsubishi Electric Europe ofertas de trabajo  error: None
+   ohne Browser: {'status': 200, 'final': 'https://empleo.mitsubishielectric.es/search/?q=&locale=es_ES', 'server': 'nginx', 'len': 84849, 'block': '', 'jobhrefs': 1, 'beispiele': ['/job/Es-Calo-des-Moro-Service-Assistance-Technician-ES/1345128855/']}
+   text: Mitsubishi Electric Europe B.V. Sucursal en España utiliza cookies propias y de terceros para analizar el uso que, como usuario de nuestra Página Web o Plataforma realiza, con el fin de mejorar nuestros servicios y crear un perfil con su navegación que permita generar contenidos personalizados de su interés. Para más información accede a nuestra Política de Cookies. Las cookies de este sitio web s
+   folgt: https://empleo.mitsubishielectric.es/
+   folgt: https://empleo.mitsubishielectric.es/talentcommunity/subscribe/?locale=es_ES
+   folgt: https://empleo.mitsubishielectric.es/content/Programa-de-becas-TalentME/?locale=es_ES
+   folgt: https://empleo.mitsubishielectric.es/search/?q=&sortColumn=sort_title&sortDirection=desc#hdrTitleButton
+   successfactors: ['rmkcdn.successfactors.com']
+   pattern: 12x empleo.mitsubishielectric.es/search/  e.g. https://empleo.mitsubishielectric.es/search/?q=&locale=es_ES#content
+   link: https://empleo.mitsubishielectric.es/job/Es-Calo-des-Moro-Service-Assistance-Technician-ES/1345128855/
+## Mitsubishi ES (verlinkt)  https://empleo.mitsubishielectric.es/
+   final: https://empleo.mitsubishielectric.es/  status: 200  title:   error: None
+   ohne Browser: {'status': 200, 'final': 'https://empleo.mitsubishielectric.es/', 'server': 'Apache', 'len': 95974, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: Mitsubishi Electric Europe B.V. Sucursal en España utiliza cookies propias y de terceros para analizar el uso que, como usuario de nuestra Página Web o Plataforma realiza, con el fin de mejorar nuestros servicios y crear un perfil con su navegación que permita generar contenidos personalizados de su interés. Para más información accede a nuestra Política de Cookies. Las cookies de este sitio web s
+   folgt: https://empleo.mitsubishielectric.es/?locale=es_ES
+   folgt: https://empleo.mitsubishielectric.es/talentcommunity/subscribe/?locale=es_ES
+   folgt: https://empleo.mitsubishielectric.es/content/Programa-de-becas-TalentME/?locale=es_ES
+   folgt: https://empleo.mitsubishielectric.es/viewalljobs/
+   successfactors: ['rmkcdn.successfactors.com']
+   pattern: 7x www.nauticar.es/es/noticias/[^/]+  e.g. https://www.nauticar.es/es/noticias/viii-premios-cope-del-deporte-jovenes-promesas
+   link: https://empleo.mitsubishielectric.es/viewalljobs/
+## Kia  https://www.kia.com/eu/about-kia/career/job-opportunities/
+   final: https://www.kia.com/eu/about-kia/career/job-opportunities/#/  status: 200  title: Job Opportunities  error: None
+   ohne Browser: {'status': 200, 'final': 'https://www.kia.com/eu/about-kia/career/job-opportunities/', 'server': 'cloudflare', 'len': 749619, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: open menu Home About Us Our Culture Our Benefits Discover Our Jobs HOME ABOUT KIA CAREERS JOB OPPORTUNITIES Search job title, keywords or locations Locations All Locations Teams All Teams Locations Teams Employment type Experience level 0 Jobs Across Europe Sort by Created Date Showing 0 of 0 jobs Vehicles Electric Mobility Kia EV Ecosystem Drive Charge Connect Kia Fleet International Overview Dri
+   folgt: https://www.kia.com/eu/about-kia/career/home/
+   antwort: FEHLER net::ERR_ABORTED https://md-eecad2978f7a43f5b7838c919258e6de.ecs.us-east-2.on.aws/events?cee=no
+   antwort: FEHLER net::ERR_ABORTED https://md-eecad2978f7a43f5b7838c919258e6de.ecs.us-east-2.on.aws/events?cee=no
+   pattern: 15x www.kia.com/eu/about-kia/career/job-opportunities/  e.g. https://www.kia.com/eu/about-kia/career/job-opportunities/#contents
+   pattern: 4x void(0)  e.g. javascript:void(0)
+   pattern: 4x www.kia.com/eu/about-kia/kia-company/  e.g. https://www.kia.com/eu/about-kia/kia-company/
+   pattern: 3x www.kia.com/eu/privacy-notice/  e.g. https://www.kia.com/eu/privacy-notice/
+   pattern: 3x www.kia.com/eu/[^/]+/  e.g. https://www.kia.com/eu/german-privacy-notice/
+   link: https://www.kia.com/eu/about-kia/career/job-opportunities/#contents
+   link: https://www.kia.com/eu/about-kia/career/job-opportunities
+   link: https://www.kia.com/eu/about-kia/career/job-opportunities/#
+   link: https://www.kia.com/eu/about-kia/career/job-opportunities/
+   link: https://www.kia.com/eu/about-kia/career/job-opportunities/#hire_hive_cmp
+   link: https://www.kia.com/content/dam/kwcms/kme/global/en/assets/contents/about-kia/career/job-opportunities/Interview-Preparation-Guide.pdf
+   link: https://www.kia.com/eu/about-kia/career/job-opportunities/#eut_header
+## Kia (verlinkt)  https://www.kia.com/eu/about-kia/career/home/
+   final: https://www.kia.com/eu/about-kia/career/home/  status: 200  title: Home  error: None
+   ohne Browser: {'status': 200, 'final': 'https://www.kia.com/eu/about-kia/career/home/', 'server': 'cloudflare', 'len': 139861, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: open menu Home About Us Our Culture Our Benefits Discover Our Jobs HOME ABOUT KIA CAREERS HOME Vehicles Electric Mobility Kia EV Ecosystem Drive Charge Connect Kia Fleet International Overview Drive Charge Connect Work Contact us PBV Vehicles Conversions Solutions business About Kia PBV Careers Overview About Us Culture Benefits Job Opportunities Press About Kia Kia company #inspiredbykia The Kia 
+   folgt: https://www.kia.com/eu/about-kia/career/job-opportunities/
+   antwort: FEHLER net::ERR_ABORTED https://streaming.interlake.net/fp;streaming/20120113173806/39783;career_video_2.mp4;stream;fwd.mp4
+   antwort: FEHLER net::ERR_ABORTED https://md-eecad2978f7a43f5b7838c919258e6de.ecs.us-east-2.on.aws/events?cee=no
+   antwort: FEHLER net::ERR_ABORTED https://md-eecad2978f7a43f5b7838c919258e6de.ecs.us-east-2.on.aws/events?cee=no
+   pattern: 14x www.kia.com/eu/about-kia/career/home/  e.g. https://www.kia.com/eu/about-kia/career/home/#contents
+   pattern: 8x www.kia.com/eu/about-kia/career/job-opportunities/  e.g. https://www.kia.com/eu/about-kia/career/job-opportunities/
+   pattern: 5x www.kia.com/eu/about-kia/career/about-us/  e.g. https://www.kia.com/eu/about-kia/career/about-us/
+   pattern: 5x www.kia.com/eu/about-kia/career/culture/  e.g. https://www.kia.com/eu/about-kia/career/culture/
+   pattern: 5x www.kia.com/eu/about-kia/career/benefits/  e.g. https://www.kia.com/eu/about-kia/career/benefits/
+   link: https://www.kia.com/eu/about-kia/career/job-opportunities/
+## Sea  https://career.sea.com/jobs?keyword=intern
    final: https://career.sea.com/jobs?keyword=intern  status: 200  title: Sea Careers | Search  error: None
-   ohne Browser: {'status': 200, 'final': 'https://career.sea.com/jobs?keyword=intern', 'server': 'SGW', 'len': 981489, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   ohne Browser: {'status': 200, 'final': 'https://career.sea.com/jobs?keyword=intern', 'server': 'SGW', 'len': 981490, 'block': '', 'jobhrefs': 0, 'beispiele': []}
    text: Careers Home Jobs Early Careers & Internships Filter by Job Category Design Engineering and Technology People Product Management Compliance Strategy Intern Project Management Digitalent Programme Corporate Real Estate Finance Location São Paulo Shanghai Shenzhen Bandung Bekasi Jakarta Medan Solo Yogyakarta Tokyo Kuala Lumpur Sabah Sarawak Mexico City Manila Singapore Seoul Taipei Bangkok Hanoi Ho 
    folgt: https://career.sea.com/
    folgt: https://career.sea.com/jobs
@@ -151,12 +448,11 @@ Call log:
    link: https://career.sea.com/position/J02160976
    link: https://career.sea.com/position/J02195563
    link: https://career.sea.com/position/J02165787
-## Sea Group (Shopee) (verlinkt)  https://career.sea.com/
+## Sea (verlinkt)  https://career.sea.com/
    final: https://career.sea.com/  status: 200  title: Sea Careers  error: None
    ohne Browser: {'status': 200, 'final': 'https://career.sea.com/', 'server': 'SGW', 'len': 98730, 'block': '', 'jobhrefs': 21, 'beispiele': ['/jobs?&amp;keyword=&amp;job_categories=10&amp;teams=107454', '/jobs?&amp;keyword=&amp;job_categories=10&amp;teams=107457', '/jobs?&amp;keyword=&amp;job_categories=10&amp;teams=107459']}
    text: Careers Home Jobs Early Careers & Internships Careers Empowering Talent to Achieve the Unimaginable At Sea, people are our greatest asset. We believe in empowering our people with the right tools, knowledge, and opportunities, to make a meaningful difference in the lives of the consumers and small businesses. Our Teams Sea AI Lab (SAIL) Intern 1 Position Sea Corporate Lab Design 1 Position Enginee
    folgt: https://career.sea.com/jobs
-   antwort: FEHLER net::ERR_ABORTED https://career.sea.com/jobs?_rsc=1p-R_iEY6bj0jY31
    antwort: FEHLER net::ERR_ABORTED https://career.sea.com/next-api/monitoring
    antwort: FEHLER net::ERR_ABORTED https://career.sea.com/next-api/monitoring
    antwort: FEHLER net::ERR_ABORTED https://career.sea.com/next-api/monitoring
@@ -185,13 +481,14 @@ Call log:
    link: https://career.sea.com/jobs?&keyword=&job_categories=100009&teams=107459
    link: https://career.sea.com/jobs?&keyword=&job_categories=100007&teams=107459
    link: https://career.sea.com/jobs?keyword=
-## Sea Group (Shopee) (verlinkt)  https://career.sea.com/jobs
+## Sea (verlinkt)  https://career.sea.com/jobs
    final: https://career.sea.com/jobs  status: 200  title: Sea Careers | Search  error: None
    ohne Browser: {'status': 200, 'final': 'https://career.sea.com/jobs', 'server': 'SGW', 'len': 979827, 'block': '', 'jobhrefs': 0, 'beispiele': []}
    text: Careers Home Jobs Early Careers & Internships Filter by Job Category Design Engineering and Technology People Product Management Compliance Strategy Intern Project Management Digitalent Programme Corporate Real Estate Finance Location São Paulo Shanghai Shenzhen Bandung Bekasi Jakarta Medan Solo Yogyakarta Tokyo Kuala Lumpur Sabah Sarawak Mexico City Manila Singapore Seoul Taipei Bangkok Hanoi Ho 
    folgt: https://career.sea.com/
    antwort: FEHLER net::ERR_ABORTED https://career.sea.com/next-api/monitoring
    antwort: FEHLER net::ERR_ABORTED https://career.sea.com/next-api/monitoring
+   antwort: FEHLER net::ERR_ABORTED https://career.sea.com/?_rsc=QsxRzy58luoz_qpw
    antwort: FEHLER net::ERR_ABORTED https://career.sea.com/next-api/monitoring
    json: 30 Treffer in https://career.sea.com/api/user/job/category?search_channel=3 | keys=['external_link', 'id', 'job_count', 'name', 'sub_categories'] | z.B. Sea AI Lab (SAIL)
    pattern: 10x career.sea.com/position/J\d+  e.g. https://career.sea.com/position/J02208194
@@ -207,253 +504,102 @@ Call log:
    link: https://career.sea.com/position/J02160976
    link: https://career.sea.com/position/J02195563
    link: https://career.sea.com/position/J02160995
-## Sea Group (Shopee)  https://career.sea.com/early-careers-internships
-   final: https://career.sea.com/early-careers-internships  status: 200  title: Sea Careers | Programs  error: None
-   ohne Browser: {'status': 200, 'final': 'https://career.sea.com/early-careers-internships', 'server': 'SGW', 'len': 44566, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Careers Home Jobs Early Careers & Internships Sea Global Management Associate Program Finance ACE Program Labs Internship Program IMDA-Sea CLT Program Programs Sea Global Management Associate Program Sea Global Management Associate Program Program Overview The Sea Global Management Associate Program (MAP) is Sea’s 2-year flagship program for aspiring graduates who seek to create a purposeful impac
-   folgt: https://career.sea.com/
-   folgt: https://career.sea.com/jobs
-   folgt: https://career.sea.com/jobs?keyword=
-   antwort: FEHLER net::ERR_ABORTED https://career.sea.com/next-api/monitoring
-   antwort: FEHLER net::ERR_ABORTED https://career.sea.com/next-api/monitoring
-   antwort: FEHLER net::ERR_ABORTED https://career.sea.com/?_rsc=X9oEqn2ciDmpoSRH
-   antwort: FEHLER net::ERR_ABORTED https://career.sea.com/jobs?_rsc=X9oEqn2ciDmpoSRH
-   antwort: FEHLER net::ERR_ABORTED https://career.sea.com/next-api/monitoring
-   pattern: 3x career.sea.com/[^/]+  e.g. https://career.sea.com/early-careers-internships
-   link: https://career.sea.com/jobs
-   link: https://career.sea.com/jobs?keyword=
-## Aktion gegen den Hunger  https://www.aktiongegendenhunger.de/stellenangebote
-   final: https://www.aktiongegendenhunger.de/stellenangebote  status: 200  title: Jobs und Stellenangebote | Aktion gegen den Hunger  error: None
-   ohne Browser: {'status': 200, 'final': 'https://www.aktiongegendenhunger.de/stellenangebote', 'server': 'nginx', 'len': 79197, 'block': '', 'jobhrefs': 1, 'beispiele': ['mailto:?subject=Jobs und Stellenangebote | Aktion gegen den Hunger&body=Hallo%2C%0D%0A%0D%0Aich%20habe%20eine%20interessante%20Seite%20auf%20der%20Aktion%20gegen%20den%20Hunger-Webseite%20gefunden%2C%20die%20ich%20sehr%20gerne%20mit%20dir%20teilen%20m%C3%B6chte.%0D%0AHier ist der Link: https://www.aktiongegendenhunger.de/stellenangebote%0D%0A%0D%0ALiebe%20Gr%C3%BC%C3%9Fe%0D%0A%0D%0A%0D%0A%0D%0A---%0D%0AAktion%20gegen%20den%20Hunger%0D%0Ahttps://www.aktiongegendenhunger.de%0D%0A---']}
-   text: Direkt zum Inhalt AKTUELLES PRESSE PUBLIKATIONEN KONTAKT SCHULEN Suche HUNGER WELTWEITSPENDENAKTIV WERDENÜBER UNS SPENDEN Suchbegriff eingeben JOBS UND STELLENANGEBOTE © Aktion gegen den Hunger/Lys Arango Startseite Jobs und Stellenangebote Sie sind auf der Suche nach einem neuen Job und möchten sich für eine gerechtere Welt ohne Hunger einsetzen? Dann sind Sie hier goldrichtig! Klicken Sie sich d
-   folgt: https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote
-   folgt: https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote
-   antwort: FEHLER net::ERR_ABORTED https://consent-api.service.consent.usercentrics.eu/consent/uw/3
-   json: 38 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/1/cmp/de/GDPR/IcWw2ZiC_/185.53.601/185.53.601?isOutsideRegion=true | keys=['description', 'id', 'name'] | z.B. Engagement
-   json: 684 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/en/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement
-   json: 691 Treffer in https://v1.api.service.cmp.usercentrics.eu/latest/i18n/de/GDPR/IcWw2ZiC_/185.53.601?theme=uc | keys=['description', 'id', 'name'] | z.B. Engagement
-   pattern: 27x www.aktiongegendenhunger.de/[^/]+  e.g. https://www.aktiongegendenhunger.de/spenden-statt-schenken
-   pattern: 9x www.aktiongegendenhunger.de/spenden  e.g. https://www.aktiongegendenhunger.de/spenden?monthly=true
-   pattern: 8x www.aktiongegendenhunger.de/stellenangebote  e.g. https://www.aktiongegendenhunger.de/stellenangebote#main-content
-   pattern: 7x www.aktiongegendenhunger.de/datenschutz  e.g. https://www.aktiongegendenhunger.de/datenschutz
-   pattern: 5x www.aktiongegendenhunger.de/kampagnen  e.g. https://www.aktiongegendenhunger.de/kampagnen
-   link: https://www.aktiongegendenhunger.de/stellenangebote#main-content
-   link: https://www.aktiongegendenhunger.de/stellenangebote
-   link: https://careers.actionagainsthunger.org/?_ga=1.41833186.1754761703.1435568749
-   link: https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote
-   link: https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote
-   link: https://www.aktiongegendenhunger.de/stellenangebote#
-## Aktion gegen den Hunger (verlinkt)  https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote
-   final: https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote  status: 200  title: Facebook  error: None
-   ohne Browser: {'status': 400, 'final': 'https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote', 'server': '', 'len': 1542, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   SPERRE: captcha
-   text: Facebook E-Mail-Adresse oder Handynummer Passwort Passwort vergessen? Registrieren Nicht angemeldet Nicht angemeldet Du bist nicht angemeldet. Bitte melde dich an und versuche es noch einmal. Zurück zur Startseite Deutsch English (US) Español Français (France) 中文(简体) العربية Português (Brasil) Italiano 한국어 हिन्दी 日本語 RegistrierenAnmeldenMessengerFacebook LiteVideoMeta PayMeta StoreMeta QuestRay-Ba
-   folgt: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   folgt: https://es-la.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   folgt: https://fr-fr.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   folgt: https://zh-cn.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://es-la.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://fr-fr.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://zh-cn.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://ar-ar.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://pt-br.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://it-it.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://ko-kr.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://hi-in.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://ja-jp.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://www.facebook.com/sharer/sharer.php?u=https://www.aktiongegendenhunger.de/stellenangebote#
-## Aktion gegen den Hunger (verlinkt)  https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote
-   final: https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote  status: 200  title: In WhatsApp teilen  error: None
-   ohne Browser: {'status': 200, 'final': 'https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote', 'server': '', 'len': 225480, 'block': 'captcha', 'jobhrefs': 1, 'beispiele': ['https://www.metacareers.com/jobs?divisions[0]=WhatsApp']}
-   SPERRE: captcha
-   text: Funktionen Privacy Blog Apps Help Center Für Unternehmen Log In Download In WhatsApp teilen https://www.aktiongegendenhunger.de/stellenangebote App öffnen Weiter zu WhatsApp Web Du hast die App nicht? Jetzt herunterladen Herunterladen Was wir tun Funktionen Blog Sicherheit Für Unternehmen Wer wir sind Über uns Karriere Markenbereich Datenschutz WhatsApp verwenden Mobilgeräte Desktop Tablet WhatsAp
-   folgt: https://web.whatsapp.com/send/?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   folgt: https://www.metacareers.com/jobs?divisions[0]=WhatsApp
-   folgt: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=af
-   folgt: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=az
-   antwort: FEHLER net::ERR_ABORTED whatsapp://send/?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   antwort: 404 https://api.whatsapp.com/data/manifest.json
-   pattern: 5x get.microsoft.com/installer/download/9NKSQGP7F2NH  e.g. https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=website_cta_psi
-   pattern: 4x x.com/whatsapp  e.g. https://x.com/whatsapp
-   pattern: 4x www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw  e.g. https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw
-   pattern: 4x www.instagram.com/whatsapp/  e.g. https://www.instagram.com/whatsapp/?hl=en
-   pattern: 4x www.facebook.com/profile.php  e.g. https://www.facebook.com/profile.php?id=100064758844406
-   link: https://api.whatsapp.com/send?text=https://www.aktiongegendenhunger.de/stellenangebote#
-   link: https://web.whatsapp.com/send/?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote
-   link: https://www.metacareers.com/jobs?divisions[0]=WhatsApp
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=af
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=az
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=id
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=ca
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=cs
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=da
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=de
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=et
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=en
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=es
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=tl
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=fr
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=ga
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=hr
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=it
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=sw
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=lv
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=lt
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=hu
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=ms
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=nl
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=nb
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=uz
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=pl
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=pt
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=pt-pt
-   link: https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.aktiongegendenhunger.de%2Fstellenangebote&lang=ro
-## Booking.com  https://external-workingatbooking.icims.com/jobs/search?ss=1&searchKeyword=intern
-   final: https://external-workingatbooking.icims.com/jobs/search?ss=1&searchKeyword=intern  status: 405  title: Let's confirm you are human  error: None
-   ohne Browser: {'status': 405, 'final': 'https://external-workingatbooking.icims.com/jobs/search?ss=1&searchKeyword=intern', 'server': 'CloudFront', 'len': 2115, 'block': 'captcha', 'jobhrefs': 0, 'beispiele': []}
-   SPERRE: captcha
-   text: Let's confirm you are human Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam. Begin Select language العربية Čeština Dansk Deutsch English Español Français Bahasa Indonesia Italiano 日本語 한국어 Nederlands Polski Português Svenska ไทย Türkçe 中文 Apply
-   antwort: 405 https://external-workingatbooking.icims.com/jobs/search?ss=1&searchKeyword=intern
-   icims: ['external-workingatbooking.icims.com']
-## Coles Group  https://colescareers.com.au/au/en/talent-programs
-   final: https://colescareers.com.au/au/en/talent-programs  status: 200  title: Talent Programs | Coles Group  error: None
-   ohne Browser: {'status': 200, 'final': 'https://colescareers.com.au/au/en/talent-programs', 'server': '', 'len': 169217, 'block': 'captcha', 'jobhrefs': 0, 'beispiele': []}
-   SPERRE: captcha
-   text: Skip to main content Skip to main content Work with us Life at Coles Our team stories FAQ Search and apply Login Saved jobs (0) - - We use cookies to offer you a better browsing experience, analyse site traffic, and personalise content. Read about how we use cookies and how you can control them by visiting our Cookie Settings page. If you continue to use this site, you consent to our use of cookie
-   antwort: FEHLER net::ERR_BLOCKED_BY_ORB https://cdn.phenompeople.com/CareerConnectResources/COGRAU/canvas/assets/css/default/undefined
-   antwort: FEHLER net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&ae=g&auid=1000960670.1794230962&dt=Talent%20Programs%20%7C%20Coles%20Group&en=page_vie
-   antwort: FEHLER net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=7&frm=0&apvc=0&auid=1000960670.1794230962&dt=Talent%20Programs%20%7C%20Coles%20Group&tid=DC-5754594&e
-   antwort: FEHLER net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=0&auid=1000960670.1794230962&dt=Talent%20Programs%20%7C%20Coles%20Group&tid=DC-13000873&
-   antwort: FEHLER net::ERR_ABORTED https://www.google.com/rmkt/collect/11098583409/?random=1794230963111&cv=11&fst=1794230963111&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config
-   antwort: FEHLER net::ERR_ABORTED https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=0&auid=1000960670.1794230962&dt=Talent%20Programs%20%7C%20Coles%20Group&tid=AW-110985834
-   antwort: FEHLER net::ERR_ABORTED https://www.google.com/pagead/1p-conversion/11098583409/?random=1336505696&cv=11&fst=1794230963149&fmt=8&bg=ffffff&guid=ON&async=1&en=page_v
-   phenom: ['/widgets', 'cdn.phenompeople', 'phApp.', 'phenompeople.com']
-   json: 30 Treffer in https://colescareers.com.au/widgets | keys=['href', 'target', 'text', 'title', 'type'] | z.B. Terms Of Use
-   pattern: 13x colescareers.com.au/au/en/[^/]+  e.g. https://colescareers.com.au/au/en/store-teams-career-paths
-   pattern: 7x colescareers.com.au/au/en/talent-programs  e.g. https://colescareers.com.au/au/en/talent-programs#skipToMainContent
-   pattern: 6x colescareers.com.au/au/en/blogarticle/[^/]+  e.g. https://colescareers.com.au/au/en/blogarticle/finding-my-feet-my-experience-on-the-coles-graduate-program-so-far
-   pattern: 3x colescareers.com.au/au/en/culture  e.g. https://colescareers.com.au/au/en/culture
-   pattern: 3x colescareers.com.au/au/en/diversityandinclusion  e.g. https://colescareers.com.au/au/en/diversityandinclusion
-   link: https://colescareers.com.au/au/en/my-first-job
-   link: https://colescareers.com.au/au/en/jobcart
-   link: https://colescareers.com.au/au/en/talent-programs#Graduate_Program_2026
-## Generali  https://www.generali.com/it/people-and-careers/work-with-us
-   final: https://www.generali.com/it/people-and-careers/work-with-us  status: 200  title: Lavora con Noi - Gruppo Generali  error: None
-   ohne Browser: {'status': 200, 'final': 'https://www.generali.com/it/people-and-careers/work-with-us', 'server': 'JBoss-EAP/7', 'len': 120646, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Navigate On Generali.Com shortcut to press release shortcut to financial figures shortcut to financial calendar shortcut to Generali stock shortcut to career go to HomePage go to search go to map go to Italian version go to English version Main content DOVE SIAMO LE GENERALI STORIES BOLLETTINO PIANO STRATEGICO ARCHIVIO GENERALE CONTATTACI ENG CHI SIAMO COSA OFFRIAMO SOSTENIBILITÀ PEOPLE & CAREERS 
-   pattern: 169x www.generali.com/it/[^/]+/[^/]+  e.g. https://www.generali.com/it/people-and-careers/work-with-us#mainnav
-   pattern: 31x www.generali.com/it/[^/]+/[^/]+/[^/]+  e.g. https://www.generali.com/it/who-we-are/Strategic-Plan-Lifetime-Partner-27/Excellence-in-Core-Capabilities
-   pattern: 22x www.generali.com/it/governance/[^/]+/[^/]+  e.g. https://www.generali.com/it/governance/corporate-governance-system/articles-of-association
-   pattern: 17x www.generali.com/it/governance/[^/]+  e.g. https://www.generali.com/it/governance/corporate-governance-system
-   pattern: 16x www.generali.com/it/[^/]+  e.g. https://www.generali.com/it/where-we-are
-   link: https://www.generali.com/it/work-with-us/join-us/job-search
-   link: https://www.generali.com/it/who-we-are/global-positioning
-   link: https://www.generali.com/it/who-we-are/global-positioning/insurance-division
-   link: https://www.generali.com/it/who-we-are/global-positioning/asset-management
-   link: https://www.generali.com/it/who-we-are/global-positioning/wealth-management
-   link: https://www.generali.com/it/investors/debt-ratings/debt-composition-and-maturity
-   link: https://www.generali.com/it/people-and-careers/work-with-us#collapse50aff02f-0412-4ac5-b021-c296806514be
-   link: https://www.generali.com/it/people-and-careers/work-with-us#collapse45593b6f-4754-4f44-8520-999ef5cc55a1
-   link: https://www.linkedin.com/company/generali/jobs/?viewAsMember=true
-## Natura &Co  https://www.natura.com.br/trabalhe-conosco
-   final: https://carreiras.natura.com.br/  status: 200  title: Carreiras Natura - Trabalhe Conosco e Descubra Oportunidades  error: None
-   ohne Browser: {'status': 403, 'final': 'https://www.natura.com.br/trabalhe-conosco', 'server': 'AkamaiGHost', 'len': 395, 'block': 'Access Denied', 'jobhrefs': 0, 'beispiele': []}
-   text: Recursos de acessibilidade Rybena disponíveis. Para ativar, pressione Alt + J. Ir para o conteúdo Home Sobre Nosso Dia a Dia Cultura Diversidade Benefícios Desenvolvimento Aqui tem transformação Somos mais de 14.000 colaboradores e colaboradoras na América Latina, com orgulho em pertencer e promover o bem-estar. 163 Vagas abertas Clique acima e confira! Conheça a nossa história e o ecossistema Bem
-   folgt: https://carreiras.natura.com.br/#content
-   folgt: https://carreiras.natura.com.br/
-   folgt: https://carreiras.natura.com.br/sobre/
-   folgt: https://carreiras.natura.com.br/nosso-dia-a-dia/
-   pattern: 25x carreiras.natura.com.br/[^/]+/  e.g. https://carreiras.natura.com.br/nosso-dia-a-dia/
-   pattern: 9x carreiras.natura.com.br/cultura/  e.g. https://carreiras.natura.com.br/cultura/
-   pattern: 8x carreiras.natura.com.br/sobre/  e.g. https://carreiras.natura.com.br/sobre/
-   pattern: 8x carreiras.natura.com.br/diversidade/  e.g. https://carreiras.natura.com.br/diversidade/
-   pattern: 8x carreiras.natura.com.br/es/inicio/  e.g. https://carreiras.natura.com.br/es/inicio/
-   link: https://www.ilovemyjob.com.br/
-## Natura &Co (verlinkt)  https://carreiras.natura.com.br/#content
-   final: https://carreiras.natura.com.br/#content  status: 200  title: Carreiras Natura - Trabalhe Conosco e Descubra Oportunidades  error: None
-   ohne Browser: {'status': 200, 'final': 'https://carreiras.natura.com.br/#content', 'server': 'Apache', 'len': 116273, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Recursos de acessibilidade Rybena disponíveis. Para ativar, pressione Alt + J. Ir para o conteúdo Home Sobre Nosso Dia a Dia Cultura Diversidade Benefícios Desenvolvimento Aqui tem transformação Somos mais de 14.000 colaboradores e colaboradoras na América Latina, com orgulho em pertencer e promover o bem-estar. 163 Vagas abertas Clique acima e confira! Conheça a nossa história e o ecossistema Bem
-   folgt: https://carreiras.natura.com.br/#content
-   folgt: https://carreiras.natura.com.br/
-   folgt: https://carreiras.natura.com.br/sobre/
-   folgt: https://carreiras.natura.com.br/nosso-dia-a-dia/
-   pattern: 25x carreiras.natura.com.br/[^/]+/  e.g. https://carreiras.natura.com.br/nosso-dia-a-dia/
-   pattern: 9x carreiras.natura.com.br/cultura/  e.g. https://carreiras.natura.com.br/cultura/
-   pattern: 8x carreiras.natura.com.br/sobre/  e.g. https://carreiras.natura.com.br/sobre/
-   pattern: 8x carreiras.natura.com.br/diversidade/  e.g. https://carreiras.natura.com.br/diversidade/
-   pattern: 8x carreiras.natura.com.br/es/inicio/  e.g. https://carreiras.natura.com.br/es/inicio/
-   link: https://www.ilovemyjob.com.br/
-## Natura &Co (verlinkt)  https://carreiras.natura.com.br/
-   final: https://carreiras.natura.com.br/  status: 200  title: Carreiras Natura - Trabalhe Conosco e Descubra Oportunidades  error: None
-   ohne Browser: {'status': 200, 'final': 'https://carreiras.natura.com.br/', 'server': 'Apache', 'len': 116273, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Recursos de acessibilidade Rybena disponíveis. Para ativar, pressione Alt + J. Ir para o conteúdo Home Sobre Nosso Dia a Dia Cultura Diversidade Benefícios Desenvolvimento Aqui tem transformação Somos mais de 14.000 colaboradores e colaboradoras na América Latina, com orgulho em pertencer e promover o bem-estar. 163 Vagas abertas Clique acima e confira! Conheça a nossa história e o ecossistema Bem
-   folgt: https://carreiras.natura.com.br/sobre/
-   folgt: https://carreiras.natura.com.br/nosso-dia-a-dia/
-   folgt: https://carreiras.natura.com.br/cultura/
-   folgt: https://carreiras.natura.com.br/diversidade/
-   pattern: 25x carreiras.natura.com.br/[^/]+/  e.g. https://carreiras.natura.com.br/nosso-dia-a-dia/
-   pattern: 9x carreiras.natura.com.br/cultura/  e.g. https://carreiras.natura.com.br/cultura/
-   pattern: 8x carreiras.natura.com.br/sobre/  e.g. https://carreiras.natura.com.br/sobre/
-   pattern: 8x carreiras.natura.com.br/diversidade/  e.g. https://carreiras.natura.com.br/diversidade/
-   pattern: 8x carreiras.natura.com.br/es/inicio/  e.g. https://carreiras.natura.com.br/es/inicio/
-   link: https://www.ilovemyjob.com.br/
-## Linde  https://de.lindecareers.com/
-   final: https://de.lindecareers.com/  status: 200  title: Karriere | Linde Deutschland  error: None
-   ohne Browser: {'status': 200, 'final': 'https://de.lindecareers.com/', 'server': '', 'len': 480224, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Karriere Deutschland Kontaktieren Sie uns Linde Corporate Globale Standorte Deutschland Jobs bei Linde Linde in Deutschland Warum Linde Unsere Berufsbilder Unsere Programme Unser Engagement Inklusion Be Linde. Be Limitless. Starten Sie Ihre Karriere bei Linde und nutzen Sie die Chance, Ihr Potenzial voll auszuschöpfen, während Sie die Welt positiv beeinflussen. Entdecken Sie unsere vielseitigen Ka
-   csod: ['linde.csod.com']
-   pattern: 3x www.linde.com/global-locations  e.g. https://www.linde.com/global-locations
-   link: https://de.lindecareers.com/jobs-bei-linde
-## Linde  https://www.lindecareers.com/en/search-jobs
-   final: https://www.lindecareers.com/en/search-jobs  status: 200  title: Search Jobs | Linde  error: None
-   ohne Browser: {'status': 200, 'final': 'https://www.lindecareers.com/en/search-jobs', 'server': '', 'len': 490941, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: Careers Contact Us Linde Corporate Global Locations Global Search Jobs Why Linde? Our Roles Our Programs Our Commitments Inclusion Home Search Jobs Search Jobs Discover Exciting Career Opportunities at Linde Linde is a diverse global community of trailblazers working together to make our world more productive. Join us on our mission and redefine what’s possible in your career. Find a job Our Globa
-   folgt: https://www.lindecareers.com/en/job-locations
-   csod: ['linde.csod.com']
-   pattern: 3x www.lindecareers.com/en/contact  e.g. https://www.lindecareers.com/en/contact
-   pattern: 3x www.linde.com/global-locations  e.g. https://www.linde.com/global-locations
-   link: https://www.lindecareers.com/en/search-jobs#main
-   link: https://www.lindecareers.com/en/search-jobs
-   link: https://www.lindecareers.com/en/job-locations
-## Maersk  https://www.maersk.com/careers/vacancies?search=intern
-   final: https://www.maersk.com/careers/vacancies?search=intern  status: 200  title: Vacancies | Careers at Maersk  error: None
-   ohne Browser: {'status': 200, 'final': 'https://www.maersk.com/careers/vacancies?search=intern', 'server': '', 'len': 38566, 'block': '', 'jobhrefs': 0, 'beispiele': []}
-   text: 
-## Schneider Electric  https://www.se.com/ww/en/about-us/careers/overview.jsp
-   final: https://www.se.com/ww/en/about-us/careers/overview/?utm_source=email_signature&utm_medium=organic_social&utm_campaign=ww_2023_hr_employer_organic_whyschneiderpage&utm_purpose=marketo  status: 200  title: Work at Schneider Electric | Schneider Electric  error: None
-   ohne Browser: {'status': 403, 'final': 'https://www.se.com/ww/en/about-us/careers/overview.jsp', 'server': '', 'len': 421, 'block': 'Access Denied', 'jobhrefs': 0, 'beispiele': []}
-   SPERRE: captcha
-   text: €232.10 +1.51% Welcome to our corporate site. Looking for products? Select your location. ENGLISH | FRENCH Your role at Schneider Electric Early careers Professionals Freelancers Executives Hiring tips and processes Our culture Why work at Schneider Electric Meet our teams Our vision and mission Our journey Inclusion and care From Boston to Bangalore, our teams are driving sustainability and innov
-   antwort: FEHLER net::ERR_BLOCKED_BY_ORB https://selectandconfig-widget.se.com/release/wrapper/2.X/wrapper.min.css
-   antwort: FEHLER net::ERR_FAILED https://uiaas.myschneider.se.com/@quartzds/se-fonts/@1.0.0-beta.5/dist/fonts/ArialRoundedMTforSE-Bold_Paneuropean.woff2
-   antwort: FEHLER net::ERR_FAILED https://uiaas.myschneider.se.com/@quartzds/se-fonts/@1.0.0-beta.5/dist/fonts/ArialRoundedMTforSE-Regular_Paneuropean.woff2
-   antwort: FEHLER net::ERR_BLOCKED_BY_ORB https://selectandconfig-widget.schneider-electric.com/release/wrapper/2.X/wrapper.min.css
-   antwort: 429 https://semyschneiderweb.report-uri.com/r/t/csp/reportOnly
-   antwort: 429 https://semyschneiderweb.report-uri.com/r/t/csp/reportOnly
-   antwort: 429 https://semyschneiderweb.report-uri.com/r/t/csp/reportOnly
-   antwort: 429 https://semyschneiderweb.report-uri.com/r/t/csp/reportOnly
-   antwort: 429 https://semyschneiderweb.report-uri.com/r/t/csp/reportOnly
-   antwort: FEHLER net::ERR_BLOCKED_BY_ORB https://uiaas.myschneider.se.com/systemjs/6.15.1/system.min.js
-   antwort: FEHLER net::ERR_BLOCKED_BY_ORB https://uiaas.myschneider.se.com/systemjs/6.15.1/extras/named-register.min.js
-   antwort: FEHLER net::ERR_FAILED https://uiaas.myschneider.se.com/@quartzds/websites/@1.0.0-beta.92/dist/esm/qds-web.js
-   antwort: FEHLER net::ERR_FAILED https://uiaas.myschneider.se.com/@quartzds/websites/@1.0.0-beta.92/dist/esm/qds-web-block-promo.entry.js
-   antwort: FEHLER net::ERR_FAILED https://uiaas.myschneider.se.com/@quartzds/core/@1.0.0-beta.131/dist/esm/qds.js
-   antwort: FEHLER net::ERR_FAILED https://uiaas.myschneider.se.com/@quartzds/websites/@1.0.0-beta.92/dist/esm/qds-web-carousel_2.entry.js
-   json: 98 Treffer in https://www.se.com/product-menu-items?country-code=us&language-code=en&brand=se | keys=['channelCodes', 'id', 'name', 'subItems', 'type', 'url'] | z.B. Low Voltage Products and Systems
-   json: 8 Treffer in https://www.se.com/_server/api/pes-mega-menu?country=aa&lang=en | keys=['id', 'level', 'name', 'oname', 'type', 'url'] | z.B. Residential and Small Business
-   json: 5 Treffer in https://nebula-cdn.kampyle.com/eu/we/300880/forms/41157/formDataV2_1793248308013_en.json | keys=['id', 'name', 'pages', 'propertyType', 'settings', 'surveyMessages'] | z.B. TEST - IFD Embed - Virtual Agent
-   pattern: 8x careers.se.com/[^/]+  e.g. https://careers.se.com/careers-at-schneider-electric?lang=en-US
-   pattern: 4x www.se.com/ww/en/about-us/  e.g. https://www.se.com/ww/en/about-us/
-   link: https://www.se.com/ww/en/about-us/careers/overview/?utm_source=email_signature&utm_medium=organic_social&utm_campaign=ww_2023_hr_employer_organic_whyschneiderpage&utm_purpose=marketo#
-## Schneider Electric  https://www.se.com/de/de/about-us/careers/
-   final: https://www.se.com/de/de/about-us/careers/  status: 404  title: Schneider Electric  error: None
-   ohne Browser: {'status': 403, 'final': 'https://www.se.com/de/de/about-us/careers/', 'server': '', 'len': 407, 'block': 'Access Denied', 'jobhrefs': 0, 'beispiele': []}
-   text: November/9/2026 13:29:59 TZ: GMT +00:00 Schneider Electric Error 404 The Schneider Electric document you are trying to view was not found. We apologize for the inconvenience caused. 
-   antwort: 404 https://www.se.com/de/de/about-us/careers/
-   antwort: FEHLER net::ERR_NAME_NOT_RESOLVED https://tagmanager.schneider-electric.com/sdl/configuration-stat.js
+## Hyatt  https://careers.hyatt.com/en-US/careers/search?keyword=intern
+   final: https://careers.hyatt.com/en-US/careers/search?searchable=%5B%5D&keyword=intern  status: 200  title: Hyatt - Careers - Search  error: None
+   ohne Browser: {'status': 200, 'final': 'https://careers.hyatt.com/en-US/careers/search?keyword=intern', 'server': '', 'len': 4816, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: Skip to main content Hyatt Careers Careers HYATT.COM LANGUAGE WHY HYATT ALL JOBS UNIVERSITY PROGRAMS JOB ALERTS SIGN IN If you're looking for a career with our Inclusive Collection, please view Inclusive Collection job postings. CLOSE INCLUSIVE COLLECTION JOB POSTINGS NOTIFICATION Recruitment Fraud CLOSE RECRUITMENT FRAUD NOTIFICATION Home Search "I believe successful people are the ones who take 
+   folgt: https://careers.hyatt.com/en-US/careers/search
+   folgt: https://www.hyatt.com/careers
+   antwort: 404 https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.woff2
+   antwort: FEHLER net::ERR_ABORTED https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.woff2
+   antwort: 404 https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.woff
+   antwort: FEHLER net::ERR_ABORTED https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.woff
+   antwort: 404 https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.ttf
+   antwort: FEHLER net::ERR_ABORTED https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.ttf
+   json: 46 Treffer in https://careers.hyatt.com/customerinfo/hyatt.r-cfe9247.info.json | keys=['fragment', 'title', 'url'] | z.B. hyatt.navbar.pages.why_hyatt
+   pattern: 26x void(0);  e.g. javascript:void(0);
+   pattern: 13x void(0)  e.g. javascript:void(0)
+   pattern: 8x careers.hyatt.com/en-US/careers/jobdetails/\d+/ISL\d+  e.g. https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001947?keyword=intern
+   pattern: 4x careers.hyatt.com/en-US/careers/jobdetails/\d+/KUW\d+  e.g. https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000782?keyword=intern
+   pattern: 4x careers.hyatt.com/en-US/careers/jobdetails/\d+/RAI\d+  e.g. https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000624?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/job-alerts
+   link: http://www.amresorts-jobs.com/
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001947?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001928?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001948?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001883?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001913?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001949?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001905?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/LEN000950?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001951?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/CHA006008?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000782?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000624?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000627?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000622?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000617?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000752?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000781?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/LON008162?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000780?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/CHE003244?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/CHE003243?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/CHA006010?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006872?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006873?keyword=intern
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006902?keyword=intern
+## Hyatt (verlinkt)  https://careers.hyatt.com/en-US/careers/search
+   final: https://careers.hyatt.com/en-US/careers/search?searchable=%5B%5D  status: 200  title: Hyatt - Careers - Search  error: None
+   ohne Browser: {'status': 200, 'final': 'https://careers.hyatt.com/en-US/careers/search', 'server': '', 'len': 4816, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: Skip to main content Hyatt Careers Careers HYATT.COM LANGUAGE WHY HYATT ALL JOBS UNIVERSITY PROGRAMS JOB ALERTS SIGN IN If you're looking for a career with our Inclusive Collection, please view Inclusive Collection job postings. CLOSE INCLUSIVE COLLECTION JOB POSTINGS NOTIFICATION Recruitment Fraud CLOSE RECRUITMENT FRAUD NOTIFICATION Home Search "Our leaders have always encouraged us to try new a
+   folgt: https://www.hyatt.com/careers
+   antwort: 404 https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.woff2
+   antwort: FEHLER net::ERR_ABORTED https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.woff2
+   antwort: 404 https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.woff
+   antwort: FEHLER net::ERR_ABORTED https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.woff
+   antwort: 404 https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.ttf
+   antwort: FEHLER net::ERR_ABORTED https://careers.hyatt.com/fonts/open-sans-v15-latin-regular.ttf
+   json: 46 Treffer in https://careers.hyatt.com/customerinfo/hyatt.r-cfe9247.info.json | keys=['fragment', 'title', 'url'] | z.B. hyatt.navbar.pages.why_hyatt
+   pattern: 26x void(0);  e.g. javascript:void(0);
+   pattern: 13x void(0)  e.g. javascript:void(0)
+   pattern: 8x careers.hyatt.com/en-US/careers/jobdetails/\d+/ISL\d+  e.g. https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001947
+   pattern: 4x careers.hyatt.com/en-US/careers/jobdetails/\d+/KUW\d+  e.g. https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000782
+   pattern: 4x careers.hyatt.com/en-US/careers/jobdetails/\d+/RAI\d+  e.g. https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000624
+   link: https://careers.hyatt.com/en-US/careers/job-alerts
+   link: http://www.amresorts-jobs.com/
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001947
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001928
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001948
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001883
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001913
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001949
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001905
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/LEN000950
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/ISL001951
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10780/CHA006008
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000782
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000624
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000627
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000622
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/RAI000617
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000752
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000781
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/LON008162
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/KUW000780
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/CHE003244
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/CHE003243
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/CHA006010
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006872
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006873
+   link: https://careers.hyatt.com/en-US/careers/jobdetails/10880/DUB006902
+## Hyatt (verlinkt)  https://www.hyatt.com/careers
+   final: https://www.hyatt.com/careers  status: 403  title: Hyatt Hotels und Resorts  error: None
+   ohne Browser: {'status': 403, 'final': 'https://www.hyatt.com/careers', 'server': '', 'len': 12857, 'block': '', 'jobhrefs': 0, 'beispiele': []}
+   text: Es tut uns leid Ihr Browser hat etwas Unerwartetes getan und wir konnten Ihre Anfrage nicht verarbeiten. Für Hilfe bei der Reservierung: 1 800 720 0059 (in den USA) +(1) 402 593 5064 (außerhalb USA) ERROR:E6020 REFERENCE:0.d26bdc17.1794232784.15b8c95
+   antwort: 403 https://www.hyatt.com/careers
 ## _API  
    final: None  status: None  title: None  error: None
    ohne Browser: None
    text: 
-   api: ['slugs Wesfarmers: []', "slugs Foodstuffs: ['lever:foodstuffs (1 Stellen)']", 'slugs Honda: []', 'slugs Petrobras: []', "slugs LVMH: ['smartrecruiters:lvmh (4 Stellen)', 'recruitee:lvmh (32 Stellen)']", 'slugs Sea Group (Shopee): []', 'slugs Aktion gegen den Hunger: []', 'slugs Booking.com: []', 'slugs Coles Group: []', 'slugs Generali: []', 'slugs Natura &Co: []', 'slugs Linde: []', 'slugs Maersk: []', 'slugs Schneider Electric: []']
+   api: ["slugs LVMH [h1]: ['smartrecruiters:lvmh (4 Stellen)', 'recruitee:lvmh (32 Stellen)']", 'slugs Maersk [h1]: []', 'slugs OMV: []', 'slugs INA: []', 'slugs Linde: []', 'slugs Cencosud AR: []', 'slugs Cencosud BR: []', 'slugs Lufthansa: []', 'slugs KraussMaffei: []', 'slugs Redeia: []', 'slugs Moeve: []', 'slugs Mitsubishi ES: []', 'slugs Kia: []', 'slugs Sea: []', 'slugs Hyatt: []']
