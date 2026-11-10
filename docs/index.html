@@ -7,7 +7,7 @@
 <title>Praktikum WS27</title>
 <meta name="description" content="Praktika für BWLer weltweit, mit Visa- und Förder-Infos. Wöchentlich aktualisiert.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230c3b4f'/><circle cx='16' cy='16' r='9' fill='none' stroke='%23f08a24' stroke-width='2.5'/><path d='M7 16h18M16 7c3 3 3 15 0 18M16 7c-3 3-3 15 0 18' fill='none' stroke='%23f08a24' stroke-width='1.6'/></svg>">
-<link rel="stylesheet" href="style.css?v=20261109f">
+<link rel="stylesheet" href="style.css?v=20261110a">
 </head>
 <body>
 <header class="hero">
@@ -130,6 +130,68 @@
   <form method="dialog"><button class="ghost dlg-close" aria-label="Schließen">Schließen</button></form>
 </dialog>
 
+<dialog id="ki-dialog" class="ki-dialog" aria-labelledby="ki-title">
+  <div class="ki-scroll">
+    <div class="ki-top">
+      <div>
+        <p class="ki-eyebrow">Bewerbung mit KI</p>
+        <h2 id="ki-title">Prompt für Anschreiben &amp; Lebenslauf</h2>
+        <p class="ki-job" id="ki-job"></p>
+      </div>
+      <form method="dialog"><button class="ki-x" aria-label="Schließen">×</button></form>
+    </div>
+    <p class="ki-lead">Stell dir einen Prompt zusammen und schick ihn dir per Mail. In deiner eigenen KI entstehen daraus ein Anschreiben nach DIN 5008 und ein ATS-konformer Lebenslauf, je eine DIN-A4-Seite als bearbeitbare Word-Datei. Die Stelle samt Link zur Anzeige ist schon eingetragen.</p>
+
+    <section class="ki-step">
+      <h3><span class="ki-num">1</span>Variante wählen</h3>
+      <div class="ki-tones" id="ki-tones" role="radiogroup" aria-label="Tonalität"></div>
+    </section>
+
+    <section class="ki-step">
+      <h3><span class="ki-num">2</span>Dokumente &amp; Sprache</h3>
+      <div class="ki-selects">
+        <label>Dokumente<select id="ki-docs">
+          <option value="beide">Anschreiben + Lebenslauf</option>
+          <option value="anschreiben">Nur Anschreiben</option>
+          <option value="lebenslauf">Nur Lebenslauf</option>
+        </select></label>
+        <label>Sprache<select id="ki-sprache">
+          <option value="anzeige">Wie die Stellenanzeige</option>
+          <option value="de">Deutsch</option>
+          <option value="en">Englisch</option>
+        </select></label>
+      </div>
+    </section>
+
+    <section class="ki-step">
+      <div class="ki-step-head">
+        <h3><span class="ki-num">3</span>Mit Bausteinen personalisieren</h3>
+        <span class="ki-n" id="ki-n"></span>
+        <button type="button" class="ki-link" id="ki-reset">Standard</button>
+      </div>
+      <div id="ki-bausteine"></div>
+    </section>
+
+    <section class="ki-step">
+      <h3><span class="ki-num">4</span>Per Mail an dich schicken</h3>
+      <form id="ki-form" class="mail-row" novalidate>
+        <label class="sr" for="ki-mail">E-Mail-Adresse</label>
+        <input id="ki-mail" type="email" placeholder="deine@adresse.de" autocomplete="email" required>
+        <button class="cta" type="submit">Mail erstellen</button>
+        <button class="ghost" type="button" id="ki-copy">Prompt kopieren</button>
+      </form>
+      <p class="mail-msg" id="ki-msg" aria-live="polite"></p>
+      <p class="ki-more" id="ki-more" hidden>Kommt der Prompt abgeschnitten an (z. B. bei Outlook unter Windows)? <button type="button" class="ki-link" id="ki-split">In mehreren kurzen Mails schicken</button></p>
+      <div class="mail-parts" id="ki-parts"></div>
+      <p class="hint">Deine Adresse und deine Auswahl verlassen dieses Gerät nicht: Die Mail entsteht in deinem eigenen Mailprogramm.</p>
+      <details class="ki-prev" id="ki-prev-wrap">
+        <summary>Prompt ansehen</summary>
+        <textarea id="ki-preview" readonly rows="14" aria-label="Vorschau des Prompts"></textarea>
+      </details>
+    </section>
+  </div>
+</dialog>
+
 <button type="button" class="to-top" id="to-top" hidden aria-label="Nach oben zu den Filtern">
   <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5.5 11.5 12 5l6.5 6.5"/></svg><span>Nach oben</span>
 </button>
@@ -139,6 +201,6 @@
   <p><a href="datenschutz.html">Hinweise &amp; Datenschutz</a></p>
 </footer>
 
-<script src="app.js?v=20261109e"></script>
+<script src="app.js?v=20261110a"></script>
 </body>
 </html>

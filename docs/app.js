@@ -273,8 +273,11 @@
     return `<div class="st-row"><label class="sr" for="st-${esc(j.link)}">Bewerbungsstatus</label>
       <select class="status${cur.s ? " st-" + cur.s : ""}" id="st-${esc(j.link)}" data-link="${esc(j.link)}">${opts}</select>
       <button type="button" class="st-i" aria-label="Wo wird der Status gespeichert?" aria-controls="st-info" aria-expanded="false">i</button>
-      ${cur.s && cur.d ? `<span class="hint">seit ${fmtDate(cur.d)}</span>` : ""}</div>`;
+      ${cur.s && cur.d ? `<span class="hint">seit ${fmtDate(cur.d)}</span>` : ""}${kiBtn(j, "ki-row")}</div>`;
   }
+
+  // Zwei Platzierungen: in der Tabelle neben dem Status (breit), auf dem Handy groß unter „Zur Stelle“
+  const kiBtn = (j, cls) => `<button type="button" class="ki-btn ${cls}" data-link="${esc(j.link)}" aria-label="Bewerbung mit KI vorbereiten: ${esc(j.titel)}" title="Prompt für Anschreiben und Lebenslauf zusammenstellen und per Mail schicken"><span aria-hidden="true">✦</span> Bewerbung mit KI</button>`;
 
   function row(j) {
     const on = favs.has(j.link) || !!status[j.link];
@@ -293,7 +296,7 @@
         <td data-l="Gesamtdauer">${val(j.dauer)}</td>
         <td data-l="Wochenstunden">${stundenCell(j)}</td>
         <td class="c-date" data-l="Veröffentlicht" title="${j.datum_geschaetzt ? "Zuerst erfasst am" : "Veröffentlicht am"}">${j.datum_geschaetzt ? "≈ " : ""}${fmtDate(j.veroeffentlicht)}</td>
-        <td class="c-link"><a class="go" href="${esc(j.link)}" target="_blank" rel="noopener noreferrer">Zur Stelle ↗</a></td>
+        <td class="c-link"><div class="c-actions"><a class="go" href="${esc(j.link)}" target="_blank" rel="noopener noreferrer">Zur Stelle ↗</a>${kiBtn(j, "ki-card")}</div></td>
       </tr>`;
   }
 
@@ -464,6 +467,228 @@
   function mailto(addr, m) {
     return `mailto:${encodeURIComponent(addr).replace(/%40/g, "@")}?subject=${encodeURIComponent(m.subject)}&body=${encodeURIComponent(m.body)}`;
   }
+  const validMail = (a) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(a);
+
+  // ---------------------------------------------------------------- Bewerbung mit KI (Prompt per Mail)
+  const KI_KEY = "praktikum-ws27-ki-prompt";   // nur die Auswahl (Variante, Bausteine), keine Adresse
+  const TONES = [
+    { k: "pro", name: "Professionell", sub: "Konzern, Bank, Beratung",
+      prompt: "Professionell: förmlich, sachlich und präzise. Klassische Anrede („Sehr geehrte Frau …“) und Grußformel („Mit freundlichen Grüßen“). Keine Floskeln, keine unbelegten Superlative." },
+    { k: "mid", name: "Ausgewogen", sub: "Der Standard für die meisten Firmen",
+      prompt: "Ausgewogen: modern und sachlich, klar und aktiv formuliert, persönlich, aber seriös. Anrede „Sehr geehrte Frau …“ oder „Guten Tag Frau …“, Grußformel „Mit freundlichen Grüßen“ oder „Freundliche Grüße“." },
+    { k: "lock", name: "Locker", sub: "Start-up, Tech, Sport, Agentur",
+      prompt: "Locker, aber businesstauglich: persönlich, direkt, mit spürbarer Begeisterung und kurzen Sätzen. Anrede passend zur Unternehmenskultur (z. B. „Hallo Frau …“ bei Start-ups, sonst „Guten Tag Frau …“), Grußformel z. B. „Beste Grüße“." },
+  ];
+  // d: für welches Dokument (a = Anschreiben, l = Lebenslauf, "" = beide); one: nur eine Auswahl in der Gruppe
+  const BAUSTEINE = [
+    { g: "Einstieg ins Anschreiben", d: "a", one: true, items: [
+      ["e-firma", "Bezug zum Unternehmen", "Steig mit einem konkreten Bezug zum Unternehmen ein (Produkt, Projekt, Strategie oder Meldung aus Anzeige bzw. Website)."],
+      ["e-motiv", "Persönliche Motivation", "Steig mit meiner persönlichen Motivation für genau dieses Praktikum ein."],
+      ["e-erfolg", "Stärkster Erfolg", "Steig mit meinem stärksten belegbaren Erfolg ein, der zur Stelle passt."],
+    ] },
+    { g: "Inhalt", d: "", items: [
+      ["zahlen", "Erfolge mit Zahlen", "Belege Erfolge mit Zahlen und Ergebnissen (Umsatz, Prozent, Anzahl, Zeitersparnis), nur aus meinen Angaben."],
+      ["praxis", "Praxiserfahrung betonen", "Stell meine Praxiserfahrung (Ausbildung, Werkstudententätigkeit, Jobs) in den Vordergrund."],
+      ["studium", "Studieninhalte mit Bezug", "Verknüpfe passende Studieninhalte und Schwerpunkte direkt mit den Aufgaben der Stelle."],
+      ["digital", "Digital- & IT-Kompetenz", "Hebe digitale Kompetenzen hervor (z. B. Excel, BI-Tools, ERP/CRM, KI-Tools), soweit vorhanden."],
+      ["intl", "Internationalität & Sprachen", "Betone Auslandserfahrung, interkulturelle Kompetenz und Sprachkenntnisse."],
+      ["pflicht", "Pflichtpraktikum erwähnen", "Erwähne, dass es ein Pflichtpraktikum im Rahmen meines Studiums ist (PFLICHT Stunden, ca. 20–22 Wochen), und nenne meinen möglichen Zeitraum."],
+      ["soft", "Soft Skills mit Beispiel", "Belege Soft Skills mit einem kurzen Beispiel, statt sie nur zu behaupten."],
+      ["ehrenamt", "Ehrenamt & Engagement", "Binde ehrenamtliches Engagement (z. B. Fachschaft, Verein) ein."],
+    ] },
+    { g: "Sprache & Stil", d: "", items: [
+      ["kurz", "Kurze, aktive Sätze", "Schreib kurze, aktive Sätze mit starken Verben, kein Nominalstil."],
+      ["keywords", "Keywords der Anzeige", "Übernimm Schlüsselbegriffe aus der Anzeige wörtlich, wo sie ehrlich zu mir passen."],
+      ["ich", "Wenige „Ich“-Anfänge", "Beginne im Anschreiben höchstens zwei Sätze mit „Ich“."],
+      ["cta", "Schluss mit Gesprächsangebot", "Schließ das Anschreiben mit einem klaren, selbstbewussten Gesprächsangebot, ohne Konjunktiv („würde mich freuen“)."],
+    ] },
+    { g: "Aufbau Lebenslauf", d: "l", items: [
+      ["profil", "Kurzprofil oben", "Beginne den Lebenslauf mit einem Kurzprofil (2–3 Zeilen), zugeschnitten auf die Stelle."],
+      ["ergebnis", "Stichpunkte mit Ergebnis", "Formuliere Stichpunkte nach dem Muster Tätigkeit + Ergebnis, höchstens 3–4 pro Station."],
+      ["niveau", "Kenntnisse mit Niveau", "Gib Sprachen mit GER-Niveau (A1–C2) und Tools mit Kenntnisstand an (Grundkenntnisse, gut, sehr gut)."],
+      ["projekte", "Projekte als eigene Rubrik", "Ergänze eine Rubrik „Projekte“ für Studien- oder Praxisprojekte mit Bezug zur Stelle."],
+      ["foto", "Platz für Bewerbungsfoto", "Plane oben rechts ein Bewerbungsfoto ein, als eingebettetes Bild im Fließtext (nicht in Tabelle oder Textfeld), damit der Lebenslauf ATS-lesbar bleibt."],
+    ] },
+  ];
+  const KI_DEFAULT = { v: "mid", docs: "beide", sprache: "anzeige", b: ["e-firma", "zahlen", "studium", "pflicht", "keywords", "cta", "ergebnis", "niveau"] };
+  const allBausteine = BAUSTEINE.flatMap((g) => g.items.map(([k]) => k));
+  function loadKi() {
+    const s = store.get(KI_KEY, {});
+    const c = { ...KI_DEFAULT, ...(s && typeof s === "object" ? s : {}) };
+    if (!TONES.some((t) => t.k === c.v)) c.v = KI_DEFAULT.v;
+    if (!["beide", "anschreiben", "lebenslauf"].includes(c.docs)) c.docs = KI_DEFAULT.docs;
+    if (!["anzeige", "de", "en"].includes(c.sprache)) c.sprache = KI_DEFAULT.sprache;
+    c.b = Array.isArray(c.b) ? c.b.filter((k) => allBausteine.includes(k)) : [...KI_DEFAULT.b];
+    return c;
+  }
+  let ki = loadKi(), kiJob = null;
+  const groupOn = (g, c) => !g.d || c.docs === "beide" || (g.d === "a" ? c.docs === "anschreiben" : c.docs === "lebenslauf");
+
+  // Der Prompt als Abschnitte (für die Aufteilung auf mehrere Mails)
+  function kiSections(j, c) {
+    const A = c.docs !== "lebenslauf", Lv = c.docs !== "anschreiben";
+    const tone = TONES.find((t) => t.k === c.v);
+    const docName = A && Lv ? "ein Anschreiben und einen Lebenslauf" : A ? "ein Anschreiben" : "einen Lebenslauf";
+    const out = [];
+    out.push(["ROLLE",
+      "Du bist ein erfahrener Bewerbungscoach und Recruiter für BWL- und Business-Positionen. Du kennst DIN 5008 und die Anforderungen von Bewerbermanagement-Systemen (ATS)."]);
+    out.push(["AUFGABE",
+      `Erstelle mir ${docName} für die Praktikumsstelle unten. Jedes Dokument ist genau eine DIN-A4-Seite lang. Gib jedes Dokument als bearbeitbare Word-Datei (.docx) aus und nutze Word-Formatvorlagen (Standard, Überschrift 1/2), damit ich alles leicht anpassen kann. Kannst du keine Dateien erzeugen, liefere den fertigen Text mit allen Formatangaben zum direkten Einfügen in Word.`]);
+    const st = [`Titel: ${j.titel}`, `Unternehmen: ${j.firma}`, `Ort: ${orteText(j) || "k. A."}`];
+    if (known(j.fachbereich)) st.push(`Fachbereich: ${j.fachbereich}`);
+    if (known(j.start)) st.push(`Start: ${j.start}`);
+    if (known(j.dauer)) st.push(`Dauer: ${j.dauer}`);
+    if (known(j.stunden)) st.push(`Wochenstunden: ${j.stunden}`);
+    if (known(j.arbeitsmodell)) st.push(`Arbeitsmodell: ${j.arbeitsmodell}`);
+    st.push(`Stellenanzeige: ${j.link}`);
+    st.push("Öffne die Anzeige und nutze Aufgaben, Anforderungen, Ansprechperson und Schlüsselbegriffe daraus. Ziehe bei Bedarf die Website des Unternehmens hinzu. Kannst du den Link nicht öffnen, bitte mich, den Anzeigentext einzufügen."
+      + (j.offline ? " Hinweis: Die Anzeige ist evtl. nicht mehr online, dann nutze die Angaben oben." : ""));
+    out.push(["STELLE", st.join("\n")]);
+    out.push(["ÜBER MICH",
+      "[HIER DEINEN BISHERIGEN LEBENSLAUF EINFÜGEN ODER ALS DATEI ANHÄNGEN: Kontaktdaten, Studium (Studiengang, Hochschule, Semester), Praxiserfahrung, Kenntnisse, Sprachen, Engagement, möglicher Praktikumszeitraum]"]);
+    out.push(["VORGEHEN", [
+      "1. Gleiche meine Angaben mit der Anzeige ab. Stell mir vor dem Schreiben höchstens 5 gezielte Fragen zu dem, was fehlt.",
+      "2. Erfinde keine Stationen, Noten, Zahlen oder Kenntnisse. Fehlt etwas, setze einen [PLATZHALTER].",
+      "3. Erstelle die Dokumente. Wird es zu lang, kürze den Inhalt statt Schrift oder Ränder zu verkleinern.",
+      "4. Prüfe zum Schluss: genau eine Seite je Dokument, alle Formvorgaben erfüllt. Nenne mir kurz, was ich noch ergänzen sollte.",
+    ].join("\n")]);
+    const sprache = { anzeige: "Schreib in der Sprache der Stellenanzeige. Ist sie englisch, folge englischen Business-Konventionen im Text, das Layout bleibt nach DIN 5008.",
+      de: "Schreib auf Deutsch.", en: "Schreib auf Englisch (Business English). Das Layout bleibt nach DIN 5008." }[c.sprache];
+    out.push(["TONALITÄT", `${tone.prompt}\nIn jeder Variante gilt der Business-Rahmen: seriös, keine Umgangssprache, kein Slang, keine Emojis, keine Übertreibungen.\n${sprache}`]);
+    if (A) out.push(["ANSCHREIBEN (DIN 5008)", [
+      "- Genau eine DIN-A4-Seite, ca. 250–350 Wörter Brieftext.",
+      "- Ränder: links 25 mm, rechts mindestens 20 mm. Anschriftfeld nach Form B (fensterkuverttauglich).",
+      "- Reihenfolge: Absender (Name, Adresse, Telefon, E-Mail), Anschriftfeld (Unternehmen, Ansprechperson, Adresse), Ort und Datum rechtsbündig, Betreff fett ohne das Wort „Betreff“, Anrede, Brieftext, Grußformel, Name mit Platz für die Unterschrift, „Anlagen“.",
+      "- Schrift Arial oder Calibri 11 pt, Zeilenabstand 1,0 bis 1,15, linksbündiger Flattersatz, eine Leerzeile zwischen Absätzen.",
+      "- Ansprechperson aus der Anzeige übernehmen, sonst neutrale Anrede.",
+      "- Inhalt: Einstieg, 2–3 belegte Punkte, die meine Erfahrung mit den Anforderungen verbinden, Motivation für genau dieses Unternehmen, Rahmendaten (Zeitraum, Verfügbarkeit), Schluss.",
+    ].join("\n")]);
+    if (Lv) out.push(["LEBENSLAUF (ATS-KONFORM)", [
+      "- Genau eine DIN-A4-Seite.",
+      "- Einspaltig. Keine Tabellen, Textfelder, Grafiken, Icons oder Skill-Balken. Kontaktdaten im Textkörper, nicht in Kopf- oder Fußzeile.",
+      "- Standardüberschriften: Kontakt, Studium und Ausbildung, Praxiserfahrung, Kenntnisse, Sprachen, Engagement.",
+      "- Umgekehrt chronologisch, Datumsformat einheitlich MM/JJJJ, Stichpunkte statt Fließtext.",
+      "- Standardschrift (Arial oder Calibri) 10–11 pt, Überschriften als Word-Formatvorlage.",
+      "- Begriffe aus der Anzeige verwenden, wo sie ehrlich passen, damit das ATS sie findet.",
+    ].join("\n")]);
+    const picks = BAUSTEINE.filter((g) => groupOn(g, c)).flatMap((g) => g.items.filter(([k]) => c.b.includes(k)))
+      .map(([, , p]) => "- " + p.replace("PFLICHT", String(pflicht)));
+    if (picks.length) out.push(["PERSONALISIERUNG", picks.join("\n")]);
+    return out.map(([h, t]) => `${h}\n${t}`);
+  }
+  const kiPrompt = (j, c) => kiSections(j, c).join("\n\n");
+  const KI_INTRO = "So geht's: Kopiere alles unter der Linie in deine KI (z. B. ChatGPT, Claude, Gemini oder Copilot) und füge an der markierten Stelle deinen Lebenslauf ein oder hänge ihn als Datei an.";
+  const KI_LINE = "────────────────────────";
+  const kiSubject = (j, suffix = "") => `Praktikum WS27: KI-Prompt für ${j.firma}${suffix}`;
+  const crlf = (s) => s.replace(/\r?\n/g, NL);
+  function kiMail(j, c) {
+    return { subject: kiSubject(j), body: crlf(`${KI_INTRO}\n${KI_LINE}\n\n${kiPrompt(j, c)}\n`) };
+  }
+  // Rückfallebene für Mailprogramme, die lange mailto-Links abschneiden (z. B. Outlook unter Windows)
+  function kiMailParts(j, c) {
+    const head = (i, n) => `TEIL ${i} VON ${n}. Kopiere alle ${n} Teile nacheinander in EINE Nachricht an deine KI und schick sie erst danach ab.\n${KI_LINE}\n\n`;
+    const size = (t) => encodeURIComponent(crlf(head(10, 10) + t)).length;
+    const units = [];
+    kiSections(j, c).forEach((s) => {
+      if (size(s) <= 1900) { units.push(s); return; }
+      s.split("\n").forEach((line) => units.push(line));   // zu großer Abschnitt: zeilenweise
+    });
+    const parts = [];
+    let cur = "";
+    units.forEach((u) => {
+      const sep = cur ? (u.startsWith("- ") || /^\d\./.test(u) ? "\n" : "\n\n") : "";
+      if (cur && size(cur + sep + u) > 1900) { parts.push(cur); cur = u; } else cur += sep + u;
+    });
+    if (cur) parts.push(cur);
+    return parts.map((p, i) => ({ subject: kiSubject(j, ` (Teil ${i + 1}/${parts.length})`), body: crlf(head(i + 1, parts.length) + p + "\n") }));
+  }
+
+  function renderKi() {
+    const c = ki, j = kiJob;
+    if (!j) return;
+    $("ki-job").innerHTML = `<strong>${esc(j.titel)}</strong><span>${esc(j.firma)}${orteText(j) ? " · " + esc(orteText(j)) : ""}</span>`;
+    $("ki-tones").innerHTML = TONES.map((t) => `
+      <label class="ki-tone"><input type="radio" name="ki-tone" value="${t.k}"${c.v === t.k ? " checked" : ""}>
+        <span class="ki-tone-name">${esc(t.name)}</span><span class="ki-tone-sub">${esc(t.sub)}</span></label>`).join("");
+    $("ki-docs").value = c.docs;
+    $("ki-sprache").value = c.sprache;
+    $("ki-bausteine").innerHTML = BAUSTEINE.filter((g) => groupOn(g, c)).map((g) => `
+      <fieldset class="ki-group"><legend>${esc(g.g)}${g.one ? ' <span class="hint">eine Auswahl</span>' : ""}</legend><div class="ki-pills">
+      ${g.items.map(([k, label, p]) => `<label class="ki-pill" title="${esc(p.replace("PFLICHT", String(pflicht)))}"><input type="checkbox" data-b="${k}"${g.one ? ` data-one="${esc(g.g)}"` : ""}${c.b.includes(k) ? " checked" : ""}><span>${esc(label)}</span></label>`).join("")}
+      </div></fieldset>`).join("");
+    paintKiCount();
+  }
+  function paintKiCount() {
+    const n = BAUSTEINE.filter((g) => groupOn(g, ki)).flatMap((g) => g.items).filter(([k]) => ki.b.includes(k)).length;
+    $("ki-n").textContent = plural(n, "Baustein", "Bausteine") + " gewählt";
+    $("ki-preview").value = kiJob ? kiPrompt(kiJob, ki) : "";
+  }
+  function kiChanged(full) {
+    store.set(KI_KEY, ki);
+    $("ki-parts").innerHTML = "";
+    $("ki-more").hidden = true;
+    $("ki-msg").textContent = "";
+    if (full) renderKi(); else paintKiCount();
+  }
+  function openKi(link) {
+    kiJob = byLink.get(link) || favEntries().find((j) => j.link === link);
+    if (!kiJob) return;
+    if (!$("ki-mail").value && $("mail").value) $("ki-mail").value = $("mail").value;
+    $("ki-parts").innerHTML = ""; $("ki-more").hidden = true; $("ki-msg").textContent = "";
+    $("ki-prev-wrap").open = false;
+    renderKi();
+    const d = $("ki-dialog");
+    if (typeof d.showModal === "function") { d.showModal(); d.querySelector(".ki-scroll").scrollTop = 0; }
+  }
+  function initKi() {
+    const d = $("ki-dialog");
+    d.addEventListener("change", (e) => {
+      const t = e.target;
+      if (t.name === "ki-tone") { ki.v = t.value; kiChanged(false); return; }
+      if (t.id === "ki-docs") { ki.docs = t.value; kiChanged(true); return; }
+      if (t.id === "ki-sprache") { ki.sprache = t.value; kiChanged(false); return; }
+      const b = t.dataset.b;
+      if (!b) return;
+      if (t.checked && t.dataset.one) {   // Einstieg: nur eine Option, erneutes Antippen hebt sie wieder auf
+        const g = BAUSTEINE.find((x) => x.g === t.dataset.one);
+        ki.b = ki.b.filter((k) => !g.items.some(([gk]) => gk === k));
+        d.querySelectorAll(`input[data-one="${CSS.escape(t.dataset.one)}"]`).forEach((x) => { if (x !== t) x.checked = false; });
+      }
+      ki.b = t.checked ? [...new Set([...ki.b, b])] : ki.b.filter((k) => k !== b);
+      kiChanged(false);
+    });
+    $("ki-reset").addEventListener("click", () => { ki = { ...KI_DEFAULT, b: [...KI_DEFAULT.b] }; kiChanged(true); });
+    $("ki-form").addEventListener("submit", (e) => {
+      e.preventDefault();
+      const addr = $("ki-mail").value.trim();
+      if (!validMail(addr)) {
+        $("ki-msg").textContent = "Bitte eine gültige E-Mail-Adresse eingeben.";
+        $("ki-mail").focus();
+        return;
+      }
+      $("ki-parts").innerHTML = "";
+      $("ki-msg").textContent = "Dein Mailprogramm öffnet sich mit dem fertigen Prompt. Nur noch auf „Senden“ klicken.";
+      $("ki-more").hidden = false;
+      location.href = mailto(addr, kiMail(kiJob, ki));
+    });
+    $("ki-split").addEventListener("click", () => {
+      const addr = $("ki-mail").value.trim();
+      if (!validMail(addr)) { $("ki-msg").textContent = "Bitte eine gültige E-Mail-Adresse eingeben."; $("ki-mail").focus(); return; }
+      const parts = kiMailParts(kiJob, ki);
+      $("ki-msg").textContent = `Der Prompt wird auf ${parts.length} kurze Mails aufgeteilt. Bitte nacheinander öffnen und später alle Teile zusammen in die KI kopieren.`;
+      $("ki-parts").innerHTML = parts.map((p, i) => `<a class="cta" href="${esc(mailto(addr, p))}">Mail ${i + 1} von ${parts.length} öffnen</a>`).join("");
+    });
+    $("ki-copy").addEventListener("click", async () => {
+      try {
+        await navigator.clipboard.writeText(kiPrompt(kiJob, ki));
+        $("ki-msg").textContent = "Prompt kopiert. Du kannst ihn direkt in deine KI einfügen.";
+      } catch {
+        $("ki-prev-wrap").open = true;
+        $("ki-preview").select();
+        $("ki-msg").textContent = "Kopieren hat nicht geklappt. Der Prompt ist unten markiert, kopiere ihn bitte manuell.";
+      }
+    });
+  }
 
   // ---------------------------------------------------------------- Quellen
   // Firmen ohne Stellenliste: Karriereseite wird beobachtet, neue Stellenlinks erscheinen als Hinweis
@@ -610,6 +835,8 @@
         render();
         return;
       }
+      const kb = e.target.closest(".ki-btn");
+      if (kb) { openKi(kb.dataset.link); return; }
       const ll = e.target.closest(".land-link");
       if (ll) { openLand(ll.dataset.land); return; }
       const sl = e.target.closest(".show-land");
@@ -712,7 +939,7 @@
     $("mailform").addEventListener("submit", (e) => {
       e.preventDefault();
       const addr = $("mail").value.trim();
-      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(addr)) {
+      if (!validMail(addr)) {
         $("mail-msg").textContent = "Bitte eine gültige E-Mail-Adresse eingeben.";
         $("mail").focus();
         return;
@@ -742,6 +969,7 @@
         $("mail-msg").textContent = "Kopieren hat nicht geklappt. Bitte „Mail erstellen“ nutzen.";
       }
     });
+    initKi();
     render();
   }
 
