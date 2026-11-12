@@ -22,6 +22,7 @@
 #   oracle          https://jobs.firma.com/en/sites/CX_1   (optional api_host)
 #   radancy         https://careers.firma.com/en/search-jobs
 #   pinpoint        https://careers.firma.com
+#   telekom         https://careers.telekom.com/de/jobs  (optional stufen: [studentisches Praktikum])
 #   browser         Karriereseite ohne passende Schnittstelle: echter Browser wie bei StudiJobs RGB,
 #                   braucht list_url und job_link (Regex für Links zu einzelnen Stellen)
 #                   optional slug_title: Regex mit (?P<title>…) und (?P<ort>…), liest Titel/Ort aus der Stellenadresse
@@ -111,13 +112,11 @@
   career_url: https://careers.adidas-group.com/
 
 - name: Deutsche Telekom
-  ats: browser
+  # Die Seite ignoriert ?keywords= und blättert nur per Knopf: daher eigene Schnittstelle,
+  # gefiltert auf die Einstiegsart "studentisches Praktikum" (inkl. Flexikum, alle Konzerntöchter)
+  ats: telekom
+  url: https://careers.telekom.com/de/jobs
   career_url: https://careers.telekom.com/de/jobs
-  list_url: https://careers.telekom.com/de/jobs?keywords=praktikum
-  job_link: careers\.telekom\.com/de/jobs/[a-z0-9-]+-\d+
-  extra_urls:
-    - https://careers.telekom.com/de/jobs?keywords=internship
-    - https://careers.telekom.com/de/jobs?keywords=intern
 
 - name: E.ON
   ats: browser   # Stellenbörse des E.ON-Konzerns, Bayernwerk-Stellen werden getrennt geführt

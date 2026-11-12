@@ -60,6 +60,15 @@ def fake_http():
         if "recruitee" in url:
             return {"offers": [{"title": "Praktikum Einkauf", "careers_url": "https://r.recruitee.com/o/1", "city": "Wien", "country": "Austria",
                                 "country_code": "AT", "description": DESC_DE, "published_at": "2026-10-02 10:00:00 UTC"}]}
+        if "/api/jobs-proxy/search" in url:
+            assert method == "POST" and "experience_level=studentisches%20Praktikum" in url
+            page = int(url.split("page=")[1].split("&")[0])
+            rows = [{"requisition_id": "833536", "title": "Business Development & Organizational Development Internship",
+                     "job_title": "Praktikum Business Development & Organisationsentwicklung", "city": "Bonn",
+                     "experience_level": "studentisches Praktikum", "category": "Zentralfunktionen"}] if page == 1 else [
+                    {"requisition_id": "918443", "title": "Flexicum in Administration", "job_title": "Flexikum Verwaltung",
+                     "city": "Kiel,Berlin", "experience_level": "studentisches Praktikum"}]
+            return {"data": rows, "pagination_info": {"number_of_pages": 2, "page": page}}
         if "/api/apply/v2/jobs/" in url:
             return {"job_description": DESC_EN}
         if "/api/apply/v2/jobs" in url:
@@ -81,6 +90,12 @@ def fake_http():
                 return SimpleNamespace(text="")
             html = ('<table><tr class="data-row"><td><a href="/job/Zurich-Intern-HR/123/" class="jobTitle-link">Intern HR</a></td>'
                     '<td><span class="jobLocation">Zürich, ZH, CH, 8000</span></td><td><span class="jobDate">Oct 30, 2026</span></td></tr></table>')
+            return SimpleNamespace(text=html)
+        if "careers.telekom.com/de/jobs/" in url:
+            body = DESC_DE.replace('"', '\\"')
+            n = len(DESC_DE.encode())
+            html = (f'<html><script>self.__next_f.push([1,"{hex(n)[2:]}"])</script>'
+                    f'<script>self.__next_f.push([1,"2a:T{n:x},{body}"])</script></html>')
             return SimpleNamespace(text=html)
         if "/job/Zurich" in url:
             return SimpleNamespace(text=f'<html><script type="application/ld+json">{json.dumps({"@type": "JobPosting", "description": DESC_EN, "datePosted": "2026-10-30"})}</script></html>')
@@ -104,6 +119,23 @@ def main() -> int:
         {"name": "SF", "ats": "successfactors", "url": "https://jobs.acme.com"},
         {"name": "EF", "ats": "eightfold", "url": "https://jobs.e.com/careers", "domain": "e.com"},
     ]
+    # Telekom: Liste über die Schnittstelle (2 Seiten), Beschreibung aus den Next.js-Daten
+    tk = adapters.ADAPTERS["telekom"].list(http, {"name": "DT", "url": "https://careers.telekom.com/de/jobs"}, settings)
+    assert [j["url"] for j in tk] == [
+        "https://careers.telekom.com/de/jobs/business-development-organizational-development-internship-833536",
+        "https://careers.telekom.com/de/jobs/flexicum-in-administration-918443"], tk
+    assert tk[1]["locations"] == ["Kiel", "Berlin"] and all(j["intern"] for j in tk)
+    d = adapters.ADAPTERS["telekom"].detail(http, {}, tk[0])
+    assert "Controlling" in d["text"] and "<p>" not in d["text"], d
+    from scraper.common import title_is_internship as tii
+    assert tii("Flexikum Social Media Content Creator", settings) and tii("Industrial Placement Finance", settings)
+    assert not tii("Placement Manager", settings)
+    # Warnungen bei ignorierter Suche / nur erster Seite
+    w = run.search_warnings({"name": "X"}, "browser", {"gefunden": 20, "praktika": 0}, {"extra": [0, 0], "auto_next_neu": 0})
+    assert len(w) == 2, w
+    assert not run.search_warnings({"name": "X"}, "browser", {"gefunden": 20, "praktika": 3}, {"extra": [0]})
+    print("Telekom- und Warnungs-Tests bestanden.")
+
     results = {}
     for comp in comps:
         ad = adapters.ADAPTERS[comp["ats"]]

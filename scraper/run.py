@@ -134,6 +134,24 @@ def collect_http(comp: dict, http: Http, settings: dict) -> tuple[list[dict], ob
     return out, adapter
 
 
+PAGE_SIZES = {10, 12, 15, 20, 24, 25, 30, 40, 50, 100}
+
+
+def search_warnings(comp: dict, ats: str, zahlen: dict, hstats: dict | None) -> list[str]:
+    """Hinweise, dass eine Firma vermutlich nicht alle Praktika liefert (Suche ignoriert, nur 1 Seite gelesen)."""
+    found, prakt = zahlen.get("gefunden", 0), zahlen.get("praktika", 0)
+    if not found or prakt:
+        return []
+    out = []
+    hs = hstats or {}
+    paging = comp.get("pages") or comp.get("next_click") or comp.get("follow") or hs.get("auto_next_neu")
+    if ats == "browser" and hs.get("extra") and not any(hs["extra"]):
+        out.append("alle Such-URLs liefern dieselben Stellen, der Suchbegriff wird vermutlich ignoriert")
+    if found in PAGE_SIZES and not paging:
+        out.append(f"genau {found} Stellen und kein Praktikum, vermutlich nur die erste Seite gelesen")
+    return out
+
+
 def names_of(comp: dict) -> list[str]:
     """Firmenname plus Tochterfirmen, die auf derselben Stellenbörse ausgeschrieben werden."""
     return [comp["name"]] + list((comp.get("unterfirmen") or {}).keys())
@@ -233,6 +251,13 @@ def main() -> int:
                 pre.append(c)
             print(f"  {len(pre)} nach Ortsfilter (Liste)")
             st["zahlen"] = {"gefunden": len(raw), "praktika": len(cands), "ort_ok": len(pre)}
+            hstats = None
+            if ats == "browser":
+                from .harvest import LAST_STATS
+                hstats = dict(LAST_STATS)
+            st["warnungen"] = search_warnings(comp, ats, st["zahlen"], hstats)
+            for h in st["warnungen"]:
+                print(f"  ⚠ {h}")
             if args.list_only:
                 for c in pre[:8]:
                     print(f"    · {c['title'][:70]} | {'; '.join(c.get('locations') or [])[:60]}")
@@ -304,9 +329,17 @@ def main() -> int:
                                               encoding="utf-8")
     browser.close()
 
+    def print_warnings():
+        flagged = [s for s in company_status if s.get("warnungen")]
+        if flagged:
+            print(f"\nHinweise: bei {len(flagged)} Firma(en) fehlen evtl. Praktika (Konfiguration prüfen):")
+            for s in flagged:
+                print(f"  ⚠ {s['name']}: {'; '.join(s['warnungen'])}")
+
     if args.list_only:
         for s in company_status:
             print(f"  {'OK ' if s['ok'] else 'ERR'} {s['name']}: {s['zahlen']} {s['seconds']}s {s['note']}")
+        print_warnings()
         return 0
 
     # Firmen mit Fehler: alte Stellen einen Lauf lang behalten
@@ -350,6 +383,7 @@ def main() -> int:
     print(f"\nFertig: {len(jobs_out)} Praktika online.")
     for s in company_status:
         print(f"  {'OK ' if s['ok'] else 'ERR'} {s['name']}: {s['zahlen']} {s['seconds']}s {s['note']}")
+    print_warnings()
     return 0
 
 

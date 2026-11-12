@@ -12,7 +12,7 @@ from __future__ import annotations
 
 import json
 import re
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 from playwright.sync_api import Page, TimeoutError as PWTimeout
 
@@ -37,6 +37,10 @@ LOC_KEYS = ("location", "locations", "LocationName", "full_location", "short_loc
             "standardizedLocations", "cityState", "workLocation")
 DATE_KEYS = ("posted_date", "publicationDate", "postingDate", "t_create", "postedTs", "postedDate", "datePosted", "createdDate", "publishedDate",
              "postingDate", "creationDate", "posted_on", "startDate_posted", "releasedDate", "posting_start_date")
+
+
+# Kennzahlen des letzten harvest()-Aufrufs (für die Warnungen in run.py)
+LAST_STATS: dict = {}
 
 
 def dismiss_cookies(page: Page) -> None:
@@ -271,7 +275,9 @@ def harvest(page: Page, company: dict, debug: dict | None = None) -> list[dict]:
     _settle(page)
     dismiss_cookies(page)
     _settle(page, 1500)
-    grab()
+    stats = {"start": grab(), "extra": [], "auto_next": 0, "auto_next_neu": 0}
+    LAST_STATS.clear()
+    LAST_STATS.update(stats)
     if debug is not None:
         debug["list_html"] = page.content()
         debug["list_text"] = page.evaluate("document.body.innerText")
@@ -290,6 +296,31 @@ def harvest(page: Page, company: dict, debug: dict | None = None) -> list[dict]:
             page.wait_for_timeout(2000)
             if grab() == 0:
                 break
+
+    # Automatisch weiterblättern, wenn für die Firma nichts zum Blättern eingestellt ist:
+    # Viele Seiten zeigen nur 10-20 Stellen und blättern per Knopf (z. B. "Go to next page").
+    # Abschalten mit auto_next: 0
+    start_host = urlparse(page.url).netloc
+    auto_max = company.get("auto_next", 10)
+    if auto_max and not (company.get("next_click") or company.get("follow") or pages_cfg) and raw_links:
+        stale = 0
+        for i in range(auto_max):
+            if not _click_next(page):
+                break
+            _settle(page, 1500)
+            if urlparse(page.url).netloc != start_host:  # Knopf hat woandershin geführt
+                break
+            n = grab()
+            stats["auto_next"] = i + 1
+            stats["auto_next_neu"] += n
+            if n == 0:
+                stale += 1
+                if stale >= 2:
+                    break
+            else:
+                stale = 0
+        if stats["auto_next"]:
+            print(f"    [auto-next] {stats['auto_next']} Seite(n) weitergeblättert -> {stats['auto_next_neu']} neu")
 
     # Blättern per "Nächste Seite"-Knopf
     if company.get("next_click"):
@@ -334,7 +365,9 @@ def harvest(page: Page, company: dict, debug: dict | None = None) -> list[dict]:
         try:
             page.goto(extra, wait_until="domcontentloaded", timeout=60_000)
             _settle(page, 1500)
-            print(f"    [extra] {extra[:90]} -> {grab()} neu")
+            n = grab()
+            stats["extra"].append(n)
+            print(f"    [extra] {extra[:90]} -> {n} neu")
         except Exception as e:  # noqa: BLE001
             print(f"    [extra] {extra[:90]} Fehler {e.__class__.__name__}")
 
@@ -355,6 +388,7 @@ def harvest(page: Page, company: dict, debug: dict | None = None) -> list[dict]:
                 break
 
     page.remove_listener("response", on_response)
+    LAST_STATS.update(stats)
 
     jobs: dict[str, dict] = {}
     for l in raw_links:

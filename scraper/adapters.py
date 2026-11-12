@@ -383,6 +383,76 @@ class Eightfold:
         return {"text": html_to_text(d.get("job_description"))}
 
 
+# --------------------------------------------------------------------------- Telekom (Global Career Website)
+def _slugify(text: str) -> str:
+    import unicodedata
+    t = unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", "-", t).strip("-") or "job"
+
+
+def next_rsc_text(raw: str) -> str:
+    """Next.js-Seiten (App Router) liefern Inhalte als self.__next_f.push([1,"…"]): zusammensetzen."""
+    parts = []
+    for m in re.finditer(r'self\.__next_f\.push\(\[1,"((?:[^"\\]|\\.)*)"\]\)', raw):
+        try:
+            parts.append(json.loads(f'"{m.group(1)}"'))
+        except ValueError:
+            continue
+    return "".join(parts)
+
+
+def next_rsc_html_blocks(raw: str) -> list[str]:
+    """Textblöcke 'id:T<länge hex>,<inhalt>' aus den Next.js-Daten, die HTML enthalten (z. B. Stellenbeschreibung)."""
+    b = next_rsc_text(raw).encode("utf-8")
+    out = []
+    for m in re.finditer(rb"([0-9a-f]{1,6}):T([0-9a-f]{1,8}),<", b):
+        n = int(m.group(2), 16)
+        out.append(b[m.end() - 1:m.end() - 1 + n].decode("utf-8", "ignore"))
+    return out
+
+
+class TelekomGCW:
+    """careers.telekom.com: Die Seite ignoriert ?keywords= und blättert per Knopf. Die Stellenliste kommt
+    aus /api/jobs-proxy/search, gefiltert nach Einstiegsart (experience_level).
+
+    Optional: stufen (Liste der Einstiegsarten, Standard: studentisches Praktikum), locale (de)."""
+
+    def list(self, http, comp, settings):
+        from urllib.parse import quote
+        u = urlparse(comp["url"])
+        base = f"{u.scheme}://{u.netloc}"
+        locale = comp.get("locale", "de")
+        out = []
+        for stufe in comp.get("stufen") or ["studentisches Praktikum"]:
+            page, pages = 1, 1
+            while page <= min(pages, comp.get("max_pages", 30)):
+                data = http.json(f"{base}/api/jobs-proxy/search?page={page}&experience_level={quote(stufe)}",
+                                 method="POST", json={"user_query": "", "locale": locale})
+                pages = int((data.get("pagination_info") or {}).get("number_of_pages") or 1)
+                for j in data.get("data") or []:
+                    rid = str(j.get("requisition_id") or "")
+                    if not rid:
+                        continue
+                    out.append({
+                        "url": f"{base}/{locale}/jobs/{_slugify(j.get('title') or j.get('job_title'))}-{rid}",
+                        "title": clean(j.get("job_title") or j.get("title")),
+                        "locations": [clean(c) for c in str(j.get("city") or "").split(",") if clean(c)],
+                        "department": j.get("category") or "",
+                        "intern": "praktikum" in stufe.lower(),
+                        "ref": rid,
+                    })
+                page += 1
+        return _uniq(out)
+
+    def detail(self, http, comp, job):
+        raw = http.get(job["url"], headers={"Accept": "text/html"}).text
+        blocks = next_rsc_html_blocks(raw)
+        text = html_to_text(max(blocks, key=len)) if blocks else ""
+        if len(text) < 100:  # Seitenaufbau geändert: allgemeine Auswertung versuchen
+            return fetch_html_detail(http, job["url"])
+        return {"text": text[:12000]}
+
+
 # --------------------------------------------------------------------------- Oracle Recruiting Cloud
 class OracleHCM:
     """Karriereseiten von Oracle (…/hcmUI/CandidateExperience/… oder eigene Domain mit /sites/CX_1)
@@ -679,7 +749,7 @@ ADAPTERS = {
     "radancy": Radancy(),
     "workday": Workday(), "greenhouse": Greenhouse(), "lever": Lever(), "smartrecruiters": SmartRecruiters(),
     "ashby": Ashby(), "personio": Personio(), "recruitee": Recruitee(), "successfactors": SuccessFactors(),
-    "eightfold": Eightfold(),
+    "eightfold": Eightfold(), "telekom": TelekomGCW(),
 }
 
 

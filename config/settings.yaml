@@ -16,6 +16,9 @@ suchbegriffe:
 include_title:
   - praktik            # Praktikum, Praktikant, Praktika
   - pflichtprakt
+  - flexikum           # Telekom: flexibles Praktikum neben dem Studium
+  - (industrial|work|year|summer|student) placement   # UK: Placement Year = Praktikum
+  - placement (year|student)
   - intern(s|ship|ships)?\b   # Intern, Interns, Internship (nicht: international, internal)
   - pr[aá]cticas?\b    # Prácticas / Práctica profesional
   - becari[oa]s?\b
