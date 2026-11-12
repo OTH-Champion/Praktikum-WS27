@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-12T16:58+00:00",
+ "aktualisiert": "2026-11-12T18:02+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -23,7 +23,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 3
+   "stellen": 4
   },
   {
    "name": "Bosch",
@@ -39,7 +39,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 31
+   "stellen": 30
   },
   {
    "name": "Munich Re",
@@ -515,7 +515,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 2
   },
   {
    "name": "AXA",
@@ -581,7 +581,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 1
+   "stellen": 2
   },
   {
    "name": "airBaltic",
@@ -629,7 +629,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 0
+   "stellen": 1
   },
   {
    "name": "ASML",
@@ -717,7 +717,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 25
+   "stellen": 24
   },
   {
    "name": "Sky",
@@ -868,8 +868,8 @@
   {
    "name": "Kia",
    "career_url": "https://www.kia.com/eu/about-kia/career/job-opportunities/",
-   "ok": true,
-   "note": "",
+   "ok": false,
+   "note": "Keine Stellen gefunden (Seite oder Schnittstelle evtl. geändert)",
    "aktiv": true,
    "stellen": 0
   },
@@ -911,7 +911,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 2
+   "stellen": 1
   },
   {
    "name": "Vapiano",
@@ -1094,8 +1094,8 @@
   {
    "name": "Caritas international",
    "career_url": "https://www.caritas-international.de/ueberuns/jobs/",
-   "ok": true,
-   "note": "",
+   "ok": false,
+   "note": "Keine Stellen gefunden (Seite oder Schnittstelle evtl. geändert)",
    "aktiv": true,
    "stellen": 0
   },
@@ -1392,8 +1392,8 @@
   {
    "name": "Galp",
    "career_url": "https://jobs.galp.com/",
-   "ok": false,
-   "note": "Fehler: RuntimeError",
+   "ok": true,
+   "note": "",
    "aktiv": true,
    "stellen": 0
   },
@@ -1483,7 +1483,7 @@
    "ok": true,
    "note": "",
    "aktiv": true,
-   "stellen": 51
+   "stellen": 52
   },
   {
    "name": "Mercado Libre",
@@ -1707,6 +1707,106 @@
    "link": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028---Digital-Transformation---Data-Strategy_JR10455853"
   },
   {
+   "titel": "#Discover I 2027-2028 INTERNSHIP PROJECTS ASSEMBY LINE A400M RETRO",
+   "firma": "Airbus",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "11 Monate",
+   "dauer_wochen": 47.8,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-INTERNSHIP--PROJECTS-ASSEMBY-LINE-A400M-RETRO_JR10456367"
+  },
+  {
+   "titel": "#Discover I 2027-2028 PRODUCT MARKETING INTERN. #Discover I 2026-2027",
+   "firma": "Airbus",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "11 Monate",
+   "dauer_wochen": 47.8,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-PRODUCT-MARKETING-INTERN--Discover-I-2026-2027_JR10456454"
+  },
+  {
+   "titel": "HSBC Student Work Placement",
+   "firma": "HSBC",
+   "orte": [],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://apply.careers.hsbc.com/emergingtalent/job/Central-HSBC-Student-Work-Placement-Hong/1367003857/"
+  },
+  {
+   "titel": "Customer Success Account Mgmt INTERN",
+   "firma": "Microsoft",
+   "orte": [
+    {
+     "land": "NL",
+     "stadt": "Schiphol"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Präsenz",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://apply.careers.microsoft.com/careers/job/1970393557041285"
+  },
+  {
+   "titel": "Customer Success Account Mgmt INTERN",
+   "firma": "Microsoft",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Präsenz",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://apply.careers.microsoft.com/careers/job/1970393557041301"
+  },
+  {
    "titel": "Lufthansa Group Business Services GmbH Internship Human Resources Management 11/12/2026 Frankfurt / Main Full time",
    "firma": "Lufthansa",
    "orte": [
@@ -1788,6 +1888,48 @@
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": false,
    "link": "https://careers.allianz.com/global/en/job/109922/Intern-Health-Safety-and-Wellbeing-m-f-d"
+  },
+  {
+   "titel": "Intern (m/f/d) Private Debt Risk",
+   "firma": "Allianz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "München"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://careers.allianz.com/global/en/job/109943/Intern-m-f-d-Private-Debt-Risk"
+  },
+  {
+   "titel": "EU Compensation & Benefits Intern (m/f/d)",
+   "firma": "DHL",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bonn"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://careers.dhl.com/global/en/job/AV-386297/EU-Compensation-Benefits-Intern-m-f-d"
   },
   {
    "titel": "Internship - Finance Controlling",
@@ -1937,6 +2079,38 @@
    "link": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-retail-in-madrid-spain-jid-744000161254544"
   },
   {
+   "titel": "Intern – Talent Acquisition Headquarters (m/f/x)",
+   "firma": "Hilti",
+   "orte": [],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://careers.hilti.group/de-de/jobs/22465-en/intern-talent-acquisition-headquarters-m-f-x"
+  },
+  {
+   "titel": "Intern - Market & Competitive Insights (m/f/x)",
+   "firma": "Hilti",
+   "orte": [],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Präsenz",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://careers.hilti.group/de-de/jobs/22503-en/intern-market-competitive-insights-m-f-x"
+  },
+  {
    "titel": "Marketing Intern",
    "firma": "Hyatt",
    "orte": [],
@@ -1951,6 +2125,432 @@
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": false,
    "link": "https://careers.hyatt.com/en-US/careers/jobdetails/10880/GAY000095?keyword=intern"
+  },
+  {
+   "titel": "Praktikum Business Development & Organisationsentwicklung",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/business-development-organizational-development-internship-833536"
+  },
+  {
+   "titel": "Flexikum im Bereich Verwaltung – Change Management & Organisationsentwicklung",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Dezember 2026",
+   "start_monat": "2026-12",
+   "dauer": "4–12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/flexicum-in-administration-change-management-organizational-development-918443"
+  },
+  {
+   "titel": "Flexikum Social Media Content Creator (m/w/d/x)",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "20 Std.",
+   "stunden_num": 20.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/flexikum-social-media-content-creator-m-w-d-x-563465374912429"
+  },
+  {
+   "titel": "Praktikum Grafikdesign und Mediengestaltung",
+   "firma": "Deutsche Telekom",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Köln"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/graphic-design-and-media-design-internship-563465374957575"
+  },
+  {
+   "titel": "Praktikum AI & Digital HR Projects in Core Operations im Bereich HR Germany & Global Tech",
+   "firma": "Deutsche Telekom",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/internship-ai-digital-hr-projects-in-core-operations-in-hr-germany-global-tech-947588"
+  },
+  {
+   "titel": "Praktikum / Flexikum FTTH Wartegrundbearbeitung & Terminierung",
+   "firma": "Deutsche Telekom",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Hannover"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/internship-flexicum-ftth-waiting-processing-scheduling-824542"
+  },
+  {
+   "titel": "Praktikum / Flexikum im Presales & Business Development",
+   "firma": "Deutsche Telekom",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "München"
+    },
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/internship-flexicum-in-presales-business-development-881401"
+  },
+  {
+   "titel": "Praktikum / Flexikum - IT & Telekommunikation",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/internship-flexicum-it-telecommunications-783996"
+  },
+  {
+   "titel": "Praktikum / Flexikum Strategisches Controlling & Performance Management",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/internship-flexicum-strategic-controlling-performance-management-778378"
+  },
+  {
+   "titel": "Praktikum HR Management & Projects in Core Operations im Bereich HR Germany & Global Tech",
+   "firma": "Deutsche Telekom",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/internship-in-hr-management-projects-in-core-operations-in-hr-germany-global-tech-716769"
+  },
+  {
+   "titel": "Praktikum im Process Automation & Digital Solutions – Tribe D&T im Bereich HR Germany & Global Tech",
+   "firma": "Deutsche Telekom",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/internship-in-process-automation-digital-solutions-tribe-d-t-in-hr-germany-global-tech-755154"
+  },
+  {
+   "titel": "Praktikum Travel, Transport & Logistics (all genders)",
+   "firma": "Deutsche Telekom",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "20 Std.",
+   "stunden_num": 20.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/internship-travel-transport-logistics-all-genders-563465374746755"
+  },
+  {
+   "titel": "Praktikum Key Account Management Direktvertrieb & KI",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/key-account-management-direct-sales-ai-internship-919635"
+  },
+  {
+   "titel": "Rechtsreferendar (m/w/d)",
+   "firma": "Deutsche Telekom",
+   "orte": [
+    {
+     "land": "HU",
+     "stadt": "Budapest"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "20 Std.",
+   "stunden_num": 20.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/legal-trainee-m-f-d-563465374932785"
+  },
+  {
+   "titel": "Praktikum Key Account Management GK / B2B",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/praktikum-key-account-management-gk-b2b-842536"
+  },
+  {
+   "titel": "Praktikum Media Production & Digital Events",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/praktikum-media-production-digital-events-761713"
+  },
+  {
+   "titel": "Praktikum Media Production & Digital Events",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/praktikum-media-production-digital-events-804023"
+  },
+  {
+   "titel": "Praktikum Media Productions & Digital Events",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/praktikum-media-productions-digital-events-754026"
+  },
+  {
+   "titel": "Praktikum Telekom Strategy Consulting",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/praktikum-telekom-strategy-consulting-563465374572357"
+  },
+  {
+   "titel": "Praktikum im Projektmanagement – Data Economy",
+   "firma": "Deutsche Telekom",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "München"
+    },
+    {
+     "land": "DE",
+     "stadt": "Berlin"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/project-management-internship-data-economy-810780"
+  },
+  {
+   "titel": "Technisches Praktikum (m/w/d) Kecskemét",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "20 Std.",
+   "stunden_num": 20.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/technical-intern-m-f-d-kecskemet-563465374876180"
+  },
+  {
+   "titel": "Technisches Praktikum (m/w/d) Székesfehérvár",
+   "firma": "Deutsche Telekom",
+   "orte": [],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "20 Std.",
+   "stunden_num": 20.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/technical-intern-m-f-d-szekesfehervar-563465374876316"
+  },
+  {
+   "titel": "Rechtsreferendar*in in der Wahlstation (m/w/d)",
+   "firma": "Deutsche Telekom",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Frankfurt am Main"
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://careers.telekom.com/de/jobs/trainee-lawyer-at-the-polling-station-m-f-d-234492"
   },
   {
    "titel": "Finance Intern",
@@ -1972,6 +2572,43 @@
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": false,
    "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26148348"
+  },
+  {
+   "titel": "Intern – Programme Management and Operations Support / Office based (Rome, Italy)",
+   "firma": "UNDP",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Rom"
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "1 Wochen",
+   "dauer_wochen": 1.0,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38054"
+  },
+  {
+   "titel": "Environment Operations Intern",
+   "firma": "Apple",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "3 Monate",
+   "dauer_wochen": 13.0,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.apple.com/de-de/details/200693369-3715/environment-operations-intern?team=OPMFG"
   },
   {
    "titel": "Praktikum für Umschüler zum Kaufmann / Kauffrau für Büromanagement (m/w/d)",
@@ -2121,6 +2758,27 @@
    "link": "https://jobs.deloitte.de/job/mehrere-Standorte-Praktikant-Real-Estate-Advisory-%28mwd%29/1212361301/"
   },
   {
+   "titel": "Beca Gestión de Terrenos Renovables – Madrid",
+   "firma": "Endesa",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Beca Gestión de Terrenos Renovables"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "9 Monate",
+   "dauer_wochen": 39.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.enel.com/en_US/careers/JobDetail/24669?team=RenewableEnergies"
+  },
+  {
    "titel": "HR Technical Engagement Activities Support Internship (Maranello)",
    "firma": "Ferrari",
    "orte": [],
@@ -2135,6 +2793,64 @@
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": true,
    "link": "https://jobs.ferrari.com/job/Maranello-HR-Technical-Engagement-Activities-Support-Internship-%28Maranello%29/1368285555/"
+  },
+  {
+   "titel": "Praktikant*in im Sektorvorhaben Übergangshilfe als Instrument der Krisenbewältigung - UN Kooperation",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bonn"
+    }
+   ],
+   "fachbereich": "Programm- & Projektarbeit",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79607"
+  },
+  {
+   "titel": "Praktikant*in Head of Support im Innovationsmanagement der GIZ",
+   "firma": "GIZ",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Eschborn"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79611"
+  },
+  {
+   "titel": "Procurement Intern",
+   "firma": "Lenovo",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Procurement-Intern/83689"
   },
   {
    "titel": "Intern - Leasing sales",
@@ -2219,6 +2935,27 @@
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": false,
    "link": "https://jobs.mercedes-benz.com/praktikant-in-im-team-tactical-market-steering-van-sales-pflicht-praktikum--246351-MER0004ADT"
+  },
+  {
+   "titel": "Praktikant*in Kommunikation Integrität & Governance mit Schwerpunkt interne Kommunikation (Pflicht-Praktikum)",
+   "firma": "Mercedes-Benz",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.mercedes-benz.com/praktikant-in-kommunikation-integrit-t-governance-mit-schwerpunkt-interne-kommunikation-pflicht-praktikum--246500-MER0004AFE"
   },
   {
    "titel": "Praktikant*in Lieferantenkapazitätsmanagement",
@@ -2368,6 +3105,763 @@
    "link": "https://jobs.mercedes-benz.com/praktikant-in-weltweite-transportlogistik-transport-network-management-246399-MER000495R"
   },
   {
+   "titel": "Praktikum Einkauf Rohstoffe, Halbleiter & präventives Risikomanagement",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "ab sofort",
+   "start_monat": "2026-11",
+   "dauer": "4–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=17983"
+  },
+  {
+   "titel": "Praktikum Logistik Strategie, Kosten & Planungssysteme",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=17996"
+  },
+  {
+   "titel": "Praktikum Logistikplanung neue Werk- & Fahrzeugprojekte",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=17997"
+  },
+  {
+   "titel": "Praktikum Logistikplanung Verpackungstechnik & Ladungsträgersteuerung",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18011"
+  },
+  {
+   "titel": "Praktikum Logistik & Änderungsmanagement",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18013"
+  },
+  {
+   "titel": "Praktikum Supply Chain Management & strategische Disposition",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18041"
+  },
+  {
+   "titel": "Praktikum Customer Relations",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18115"
+  },
+  {
+   "titel": "Praktikum Marketing Strategy",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18123"
+  },
+  {
+   "titel": "Praktikum Strategie- und Organisationsentwicklung",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "September 2027",
+   "start_monat": "2027-09",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18125"
+  },
+  {
+   "titel": "Praktikum Logistik – Operations After Sales (Porsche Logistik GmbH)",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18270"
+  },
+  {
+   "titel": "Praktikum Customer Insights & Analytics",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18359"
+  },
+  {
+   "titel": "Praktikum Qualitätsanalysen Bauteile & Gesamtfahrzeug",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18500"
+  },
+  {
+   "titel": "Praktikum Content Creation (Film, Foto & Redaktion)",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18549"
+  },
+  {
+   "titel": "Praktikum Projekt- & Prozessmanagement Produktionsorganisation",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18684"
+  },
+  {
+   "titel": "Praktikum Werklogistikplanung (Standort Zuffenhausen)",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "4–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18859"
+  },
+  {
+   "titel": "Praktikum Marketing und Kommunikation Porsche Heritage und Museum",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=19218"
+  },
+  {
+   "titel": "Praktikum Digitale Transformation & Projekte im Bereich Digital Strategy & Organization",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "ab sofort",
+   "start_monat": "2026-11",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=19220"
+  },
+  {
+   "titel": "Praktikum Betriebsmanagement Logistik Zuffenhausen",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=19742"
+  },
+  {
+   "titel": "Praktikant (m/w/d) IT-Transformation & Prozessmanagement",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20250"
+  },
+  {
+   "titel": "Praktikant (m/w/d) Digitalisierung & IT-Projektmanagement",
+   "firma": "Porsche",
+   "orte": [
+    {
+     "land": "IT",
+     "stadt": "Projektmanagement Porsche Leipzig GmbH Leipzig"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20251"
+  },
+  {
+   "titel": "Praktikant (m/w/d) IT-Support Digitaler Arbeitsplatz",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20257"
+  },
+  {
+   "titel": "Praktikant (m/w/d) im Bereich Unternehmens- & Arbeitssicherheit, Brand- & Umweltschutz mit Schwerpunkt Gefahrstoffmanagement",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20274"
+  },
+  {
+   "titel": "Praktikant (m/w/d) Qualitätsmanagement Vorserienprojekte",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20304"
+  },
+  {
+   "titel": "Praktikant (m/w/d) Digitalisierung & Automatisierung Logistik",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20315"
+  },
+  {
+   "titel": "Praktikant (m/w/d) Disposition Serie",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20345"
+  },
+  {
+   "titel": "Praktikant (m/w/d) Logistikplanung und Transportnetzwerk",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Präsenz",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20346"
+  },
+  {
+   "titel": "Praktikant (m/w/d) Logistik Readiness",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Präsenz",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20347"
+  },
+  {
+   "titel": "Praktikant (m/w/d) Logistik Betriebsmanagement",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Präsenz",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20349"
+  },
+  {
+   "titel": "Praktikum im Bereich Arbeitssicherheit mit Schwerpunkt Digitalisierung",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "k. A.",
+   "start": "Juni 2027",
+   "start_monat": "2027-06",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20388"
+  },
+  {
+   "titel": "Praktikum Fuhrpark-Management Sonderwunschmanufaktur",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20403"
+  },
+  {
+   "titel": "Praktikum Manufakturen-, Lieferantensteuerung & Qualitätsmanagement",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20426"
+  },
+  {
+   "titel": "Praktikum Produktplanung",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20431"
+  },
+  {
+   "titel": "Praktikum Supply Chain Management – Classic & Zubehör",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20462"
+  },
+  {
+   "titel": "Praktikant (m/w/d) Einkauf & Prozessoptimierung",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20496"
+  },
+  {
+   "titel": "Praktikum Öffentlichkeitsarbeit",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20827"
+  },
+  {
+   "titel": "Praktikum Produkt & Individualisierungsangebot: Produktmanagement Classic",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20891"
+  },
+  {
+   "titel": "Praktikum Strategie und Digitalisierung",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "5 Monate",
+   "dauer_wochen": 21.7,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21033"
+  },
+  {
+   "titel": "Praktikum Öffentlichkeitsarbeit Testwagenmanagement",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21050"
+  },
+  {
+   "titel": "Praktikum Projektleitung Energiesystem",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21131"
+  },
+  {
+   "titel": "Praktikum im Bereich Sonderwunsch",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "ab sofort",
+   "start_monat": "2026-11",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21198"
+  },
+  {
+   "titel": "Praktikum Aftersales Verkaufsförderung und Kommunikation",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21232"
+  },
+  {
+   "titel": "Praktikum HR Prozesse & Digitalisierung",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21428"
+  },
+  {
+   "titel": "Praktikum Internationales Qualitätsmanagement, Garantie und Kulanz",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21429"
+  },
+  {
+   "titel": "Praktikant (m/w/d) Qualitätsmanagement und Auditunterstützung",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21675"
+  },
+  {
+   "titel": "Praktikum Produkt & Individualisierungsangebot: Produktmanagement",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21766"
+  },
+  {
+   "titel": "Praktikum Produkt & Individualisierungsangebot: Produktmanagement Angebotsstrategie",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "5–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21769"
+  },
+  {
+   "titel": "Praktikum Employer Branding & Social Media Content",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21783"
+  },
+  {
    "titel": "Praktikum E-Commerce Marketing & Customer Care im Porsche Online Shop",
    "firma": "Porsche",
    "orte": [],
@@ -2382,6 +3876,54 @@
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": true,
    "link": "https://jobs.porsche.com/index.php?ac=jobad&id=22122"
+  },
+  {
+   "titel": "Praktikum Sales & Marketing",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "5 Monate",
+   "dauer_wochen": 21.7,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=2269"
+  },
+  {
+   "titel": "Praktikum IT Projekt- und Applikationsmanagement",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "September 2026",
+   "start_monat": "2026-09",
+   "dauer": "5 Monate",
+   "dauer_wochen": 21.7,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=3107"
+  },
+  {
+   "titel": "Praktikant (m/w/d) Strategie & Unternehmenssteuerung",
+   "firma": "Porsche",
+   "orte": [],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "April 2027",
+   "start_monat": "2027-04",
+   "dauer": "1 Monat",
+   "dauer_wochen": 4.3,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=961"
   },
   {
    "titel": "Diploma Student / Intern",
@@ -2405,6 +3947,48 @@
    "link": "https://jobs.sap.com/en/jobs/744000161250118/diploma-student-intern"
   },
   {
+   "titel": "SAP iXp Intern - Recruiting Associate (Tech TD) (limited full-time)",
+   "firma": "SAP",
+   "orte": [
+    {
+     "land": "CZ",
+     "stadt": "Prag"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.sap.com/en/jobs/744000161307409/sap-ixp-intern-recruiting-associate-tech-td-limited-full-time"
+  },
+  {
+   "titel": "iXP Intern - Commercial Finance Team",
+   "firma": "SAP",
+   "orte": [
+    {
+     "land": "BR",
+     "stadt": "São Paulo"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.sap.com/en/jobs/744000161315051/ixp-intern-commercial-finance-team"
+  },
+  {
    "titel": "Purchasing Intern",
    "firma": "Schaeffler",
    "orte": [],
@@ -2419,6 +4003,48 @@
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": true,
    "link": "https://jobs.schaeffler.com/job/Cuautitl%C3%A1n-Izcalli-Purchasing-Intern-54769/1456235933/"
+  },
+  {
+   "titel": "Business Development Internship -12 Months",
+   "firma": "Siemens",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Business Development Internship -12 Months London"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503105"
+  },
+  {
+   "titel": "Internships | Application Manager (m/f/d)",
+   "firma": "Siemens",
+   "orte": [
+    {
+     "land": "PT",
+     "stadt": "Application Manager"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526925"
   },
   {
    "titel": "Pflichtpraktikum in der Kommunikation & Change Management im Controlling Transformationsprojekt",
@@ -2484,6 +4110,153 @@
    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161274259"
   },
   {
+   "titel": "Praktikum im strategischen Key Account Management - Akku Allianzen und Private Label",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Leinfelden-Echterdingen"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161286319"
+  },
+  {
+   "titel": "Pflichtpraktikum Hyperautomation und Business Process Management",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161293110"
+  },
+  {
+   "titel": "Praktikum im Bereich Digital Learning und SAP S/4HANA Training",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Stuttgart"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "35 Std.",
+   "stunden_num": 35.0,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161294079"
+  },
+  {
+   "titel": "Praktikum im Strategischen Einkauf",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "München"
+    }
+   ],
+   "fachbereich": "Business Development & Strategie",
+   "arbeitsmodell": "Präsenz",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161303612"
+  },
+  {
+   "titel": "Praktikum Digital Marketing Communication",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Elchingen"
+    }
+   ],
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161311330"
+  },
+  {
+   "titel": "Pflichtpraktikum im Marketing",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Ludwigsburg"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Präsenz",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161312629"
+  },
+  {
+   "titel": "Pflichtpraktikum im Produktmanagement - Bereich Vehicle Motion",
+   "firma": "Bosch",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Karlsruhe"
+    }
+   ],
+   "fachbereich": "Produktmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "3–6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161320979"
+  },
+  {
    "titel": "Internship Sales Controlling",
    "firma": "Red Bull",
    "orte": [
@@ -2524,6 +4297,27 @@
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": true,
    "link": "https://psa-recrute.talent-soft.com/job/job-social-media-marketing-intern_20290.aspx"
+  },
+  {
+   "titel": "Praktikant Nachwuchs- und Bindungsprogramme (w/m/x) Veröffentlicht: 12.11.2026 Neu Aus- und Weiterbildung München",
+   "firma": "BMW",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "München"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": false,
+   "link": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198318.html"
   },
   {
    "titel": "Learn more about Associate Product Marketing Manager BS/MS Intern, 2027",
@@ -2571,7 +4365,7 @@
    "link": "https://www.google.com/about/careers/applications/jobs/results/136217193707643590-data-center-facilities-technician-intern-2027?q=intern"
   },
   {
-   "titel": "Praktikant Nachwuchs- und Bindungsprogramme (w/m/x) Veröffentlicht: 12.11.2026 Neu Aus- und Weiterbildung München",
+   "titel": "Praktikant Projektmanagement Fahrzeugprojekt (w/m/x) Veröffentlicht: 12.11.2026 Neu Strategie / Projektmanagement München",
    "firma": "BMW",
    "orte": [
     {
@@ -2580,27 +4374,6 @@
     }
    ],
    "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198318.html"
-  },
-  {
-   "titel": "Praktikant Recruiting und Betreuung von Zeitarbeitskräften (w/m/x) Veröffentlicht: 12.11.2026 Neu Personalmanagement München",
-   "firma": "BMW",
-   "orte": [
-    {
-     "stadt": "München",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
    "arbeitsmodell": "k. A.",
    "start": "Dezember 2026",
    "start_monat": "2026-12",
@@ -2610,10 +4383,10 @@
    "stunden_num": null,
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": false,
-   "link": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197182.html"
+   "link": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197615.html"
   },
   {
-   "titel": "Praktikant HR Marketing Nachwuchszielgruppen (w/m/x) Veröffentlicht: 12.11.2026 Neu Personalmarketing und Employer Branding München",
+   "titel": "Praktikant Customer Experience BMW M (w/m/x) Veröffentlicht: 12.11.2026 Neu Kundenerlebnis München",
    "firma": "BMW",
    "orte": [
     {
@@ -2621,7 +4394,7 @@
      "land": "DE"
     }
    ],
-   "fachbereich": "Personal (HR)",
+   "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "k. A.",
    "start": "Januar 2027",
    "start_monat": "2027-01",
@@ -2631,1738 +4404,122 @@
    "stunden_num": null,
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": false,
-   "link": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.192532.html"
+   "link": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197378.html"
   },
   {
-   "titel": "Praktikant*in Kommunikation Integrität & Governance mit Schwerpunkt interne Kommunikation (Pflicht-Praktikum)",
-   "firma": "Mercedes-Benz",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.mercedes-benz.com/praktikant-in-kommunikation-integrit-t-governance-mit-schwerpunkt-interne-kommunikation-pflicht-praktikum--246500-MER0004AFE"
-  },
-  {
-   "titel": "Internships | Application Manager (m/f/d)",
+   "titel": "HR and Diversity, Equity and Inclusion Internship (12 Months)",
    "firma": "Siemens",
-   "orte": [
-    {
-     "stadt": "Application Manager",
-     "land": "PT"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526925"
-  },
-  {
-   "titel": "Business Development Internship -12 Months",
-   "firma": "Siemens",
-   "orte": [
-    {
-     "stadt": "Business Development Internship -12 Months London",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503105"
-  },
-  {
-   "titel": "Communications Internship (12 months)",
-   "firma": "Siemens",
-   "orte": [
-    {
-     "stadt": "Communications Internship",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503103"
-  },
-  {
-   "titel": "Praktikum Digital Marketing Communication",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Elchingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161311330"
-  },
-  {
-   "titel": "Pflichtpraktikum im Marketing",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Ludwigsburg",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161312629"
-  },
-  {
-   "titel": "Praktikum im strategischen Key Account Management - Akku Allianzen und Private Label",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Leinfelden-Echterdingen",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161286319"
-  },
-  {
-   "titel": "Pflichtpraktikum im Produktmanagement - Bereich Vehicle Motion",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Karlsruhe",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161320979"
-  },
-  {
-   "titel": "Praktikum im Strategischen Einkauf",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "München",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Präsenz",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161303612"
-  },
-  {
-   "titel": "Praktikum im Bereich Digital Learning und SAP S/4HANA Training",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161294079"
-  },
-  {
-   "titel": "Pflichtpraktikum Hyperautomation und Business Process Management",
-   "firma": "Bosch",
-   "orte": [
-    {
-     "stadt": "Stuttgart",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/BoschGroup/744000161293110"
-  },
-  {
-   "titel": "iXP Intern - Commercial Finance Team",
-   "firma": "SAP",
-   "orte": [
-    {
-     "stadt": "São Paulo",
-     "land": "BR"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.sap.com/en/jobs/744000161315051/ixp-intern-commercial-finance-team"
-  },
-  {
-   "titel": "SAP iXp Intern - Recruiting Associate (Tech TD) (limited full-time)",
-   "firma": "SAP",
-   "orte": [
-    {
-     "stadt": "Prag",
-     "land": "CZ"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.sap.com/en/jobs/744000161307409/sap-ixp-intern-recruiting-associate-tech-td-limited-full-time"
-  },
-  {
-   "titel": "Intern (m/f/d) Private Debt Risk",
-   "firma": "Allianz",
-   "orte": [
-    {
-     "stadt": "München",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://careers.allianz.com/global/en/job/109943/Intern-m-f-d-Private-Debt-Risk"
-  },
-  {
-   "titel": "Praktikum Logistikplanung Verpackungstechnik & Ladungsträgersteuerung",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18011"
-  },
-  {
-   "titel": "Praktikant (m/w/d) Strategie & Unternehmenssteuerung",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Hybrid",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=961"
-  },
-  {
-   "titel": "Praktikum Customer Insights & Analytics",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18359"
-  },
-  {
-   "titel": "Praktikum Employer Branding & Social Media Content",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21783"
-  },
-  {
-   "titel": "Praktikum Produkt & Individualisierungsangebot: Produktmanagement",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21766"
-  },
-  {
-   "titel": "Praktikum Produkt & Individualisierungsangebot: Produktmanagement Angebotsstrategie",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21769"
-  },
-  {
-   "titel": "Praktikum Logistik – Operations After Sales (Porsche Logistik GmbH)",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18270"
-  },
-  {
-   "titel": "Praktikum Qualitätsanalysen Bauteile & Gesamtfahrzeug",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18500"
-  },
-  {
-   "titel": "Praktikant (m/w/d) Qualitätsmanagement und Auditunterstützung",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21675"
-  },
-  {
-   "titel": "Praktikum Supply Chain Management & strategische Disposition",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18041"
-  },
-  {
-   "titel": "Praktikum Digitale Transformation & Projekte im Bereich Digital Strategy & Organization",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "ab sofort",
-   "start_monat": "2026-11",
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=19220"
-  },
-  {
-   "titel": "Praktikum Einkauf Rohstoffe, Halbleiter & präventives Risikomanagement",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "ab sofort",
-   "start_monat": "2026-11",
-   "dauer": "4–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=17983"
-  },
-  {
-   "titel": "Praktikum Logistikplanung neue Werk- & Fahrzeugprojekte",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=17997"
-  },
-  {
-   "titel": "Praktikum Logistik Strategie, Kosten & Planungssysteme",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=17996"
-  },
-  {
-   "titel": "Praktikum Customer Relations",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18115"
-  },
-  {
-   "titel": "Praktikum Fuhrpark-Management Sonderwunschmanufaktur",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20403"
-  },
-  {
-   "titel": "Praktikum Logistik & Änderungsmanagement",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18013"
-  },
-  {
-   "titel": "Praktikum Projekt- & Prozessmanagement Produktionsorganisation",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18684"
-  },
-  {
-   "titel": "Praktikum Werklogistikplanung (Standort Zuffenhausen)",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "4–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18859"
-  },
-  {
-   "titel": "Praktikum HR Prozesse & Digitalisierung",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21428"
-  },
-  {
-   "titel": "Praktikum Internationales Qualitätsmanagement, Garantie und Kulanz",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21429"
-  },
-  {
-   "titel": "Praktikum Betriebsmanagement Logistik Zuffenhausen",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=19742"
-  },
-  {
-   "titel": "Praktikum Aftersales Verkaufsförderung und Kommunikation",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21232"
-  },
-  {
-   "titel": "Praktikum im Bereich Sonderwunsch",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "ab sofort",
-   "start_monat": "2026-11",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21198"
-  },
-  {
-   "titel": "Praktikum Projektleitung Energiesystem",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21131"
-  },
-  {
-   "titel": "Praktikum Marketing und Kommunikation Porsche Heritage und Museum",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=19218"
-  },
-  {
-   "titel": "Praktikum Öffentlichkeitsarbeit Testwagenmanagement",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21050"
-  },
-  {
-   "titel": "Praktikum Strategie und Digitalisierung",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=21033"
-  },
-  {
-   "titel": "Praktikum Marketing Strategy",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18123"
-  },
-  {
-   "titel": "Praktikum Produkt & Individualisierungsangebot: Produktmanagement Classic",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20891"
-  },
-  {
-   "titel": "Praktikum IT Projekt- und Applikationsmanagement",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "September 2026",
-   "start_monat": "2026-09",
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=3107"
-  },
-  {
-   "titel": "Praktikum Öffentlichkeitsarbeit",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20827"
-  },
-  {
-   "titel": "Praktikum Strategie- und Organisationsentwicklung",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "September 2027",
-   "start_monat": "2027-09",
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18125"
-  },
-  {
-   "titel": "Praktikum Sales & Marketing",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=2269"
-  },
-  {
-   "titel": "Praktikum Content Creation (Film, Foto & Redaktion)",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18549"
-  },
-  {
-   "titel": "Praktikant (m/w/d) Einkauf & Prozessoptimierung",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20496"
-  },
-  {
-   "titel": "Praktikum Supply Chain Management – Classic & Zubehör",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20462"
-  },
-  {
-   "titel": "Praktikum Produktplanung",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20431"
-  },
-  {
-   "titel": "Praktikum Manufakturen-, Lieferantensteuerung & Qualitätsmanagement",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20426"
-  },
-  {
-   "titel": "Praktikum im Bereich Arbeitssicherheit mit Schwerpunkt Digitalisierung",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "5–6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20388"
-  },
-  {
-   "titel": "Praktikant (m/w/d) Disposition Serie",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20345"
-  },
-  {
-   "titel": "Praktikant (m/w/d) Logistik Betriebsmanagement",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Präsenz",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20349"
-  },
-  {
-   "titel": "Praktikant (m/w/d) Logistik Readiness",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Präsenz",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20347"
-  },
-  {
-   "titel": "Praktikant (m/w/d) Logistikplanung und Transportnetzwerk",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Präsenz",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20346"
-  },
-  {
-   "titel": "Praktikant (m/w/d) Qualitätsmanagement Vorserienprojekte",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20304"
-  },
-  {
-   "titel": "Praktikant (m/w/d) Digitalisierung & Automatisierung Logistik",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Hybrid",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20315"
-  },
-  {
-   "titel": "Praktikant (m/w/d) im Bereich Unternehmens- & Arbeitssicherheit, Brand- & Umweltschutz mit Schwerpunkt Gefahrstoffmanagement",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20274"
-  },
-  {
-   "titel": "Praktikant (m/w/d) IT-Transformation & Prozessmanagement",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20250"
-  },
-  {
-   "titel": "Praktikant (m/w/d) Digitalisierung & IT-Projektmanagement",
-   "firma": "Porsche",
-   "orte": [
-    {
-     "stadt": "Projektmanagement Porsche Leipzig GmbH Leipzig",
-     "land": "IT"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20251"
-  },
-  {
-   "titel": "Praktikant (m/w/d) IT-Support Digitaler Arbeitsplatz",
-   "firma": "Porsche",
-   "orte": [],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "1 Monat",
-   "dauer_wochen": 4.3,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://jobs.porsche.com/index.php?ac=jobad&id=20257"
-  },
-  {
-   "titel": "Technisches Praktikum (m/w/d) Kecskemét",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "20 Std.",
-   "stunden_num": 20.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/technical-intern-m-f-d-kecskemet-563465374876180"
-  },
-  {
-   "titel": "Rechtsreferendar*in in der Wahlstation (m/w/d)",
-   "firma": "Deutsche Telekom",
-   "orte": [
-    {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/trainee-lawyer-at-the-polling-station-m-f-d-234492"
-  },
-  {
-   "titel": "Praktikum Media Production & Digital Events",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/praktikum-media-production-digital-events-804023"
-  },
-  {
-   "titel": "Praktikum Telekom Strategy Consulting",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/praktikum-telekom-strategy-consulting-563465374572357"
-  },
-  {
-   "titel": "Praktikum / Flexikum - IT & Telekommunikation",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/internship-flexicum-it-telecommunications-783996"
-  },
-  {
-   "titel": "Praktikum Media Productions & Digital Events",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/praktikum-media-productions-digital-events-754026"
-  },
-  {
-   "titel": "Praktikum Travel, Transport & Logistics (all genders)",
-   "firma": "Deutsche Telekom",
    "orte": [
     {
      "stadt": "k. A.",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "20 Std.",
-   "stunden_num": 20.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/internship-travel-transport-logistics-all-genders-563465374746755"
-  },
-  {
-   "titel": "Praktikum AI & Digital HR Projects in Core Operations im Bereich HR Germany & Global Tech",
-   "firma": "Deutsche Telekom",
-   "orte": [
-    {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/internship-ai-digital-hr-projects-in-core-operations-in-hr-germany-global-tech-947588"
-  },
-  {
-   "titel": "Praktikum Key Account Management Direktvertrieb & KI",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/key-account-management-direct-sales-ai-internship-919635"
-  },
-  {
-   "titel": "Rechtsreferendar (m/w/d)",
-   "firma": "Deutsche Telekom",
-   "orte": [
-    {
-     "stadt": "Budapest",
-     "land": "HU"
-    }
-   ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "20 Std.",
-   "stunden_num": 20.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/legal-trainee-m-f-d-563465374932785"
-  },
-  {
-   "titel": "Praktikum Media Production & Digital Events",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/praktikum-media-production-digital-events-761713"
-  },
-  {
-   "titel": "Praktikum im Projektmanagement – Data Economy",
-   "firma": "Deutsche Telekom",
-   "orte": [
-    {
-     "stadt": "München",
-     "land": "DE"
+     "land": "HR"
     },
     {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/project-management-internship-data-economy-810780"
-  },
-  {
-   "titel": "Praktikum Business Development & Organisationsentwicklung",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/business-development-organizational-development-internship-833536"
-  },
-  {
-   "titel": "Praktikum / Flexikum im Presales & Business Development",
-   "firma": "Deutsche Telekom",
-   "orte": [
-    {
-     "stadt": "München",
-     "land": "DE"
-    },
-    {
-     "stadt": "Berlin",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/internship-flexicum-in-presales-business-development-881401"
-  },
-  {
-   "titel": "Praktikum / Flexikum Strategisches Controlling & Performance Management",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/internship-flexicum-strategic-controlling-performance-management-778378"
-  },
-  {
-   "titel": "Praktikum HR Management & Projects in Core Operations im Bereich HR Germany & Global Tech",
-   "firma": "Deutsche Telekom",
-   "orte": [
-    {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
+     "stadt": "Inclusion Internship",
+     "land": "GB"
     }
    ],
    "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/internship-in-hr-management-projects-in-core-operations-in-hr-germany-global-tech-716769"
-  },
-  {
-   "titel": "Flexikum im Bereich Verwaltung – Change Management & Organisationsentwicklung",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Dezember 2026",
-   "start_monat": "2026-12",
-   "dauer": "4–12 Monate",
+   "arbeitsmodell": "Hybrid",
+   "start": "ab sofort",
+   "start_monat": "2026-11",
+   "dauer": "12 Monate",
    "dauer_wochen": 52.1,
-   "stunden": "Teilzeit",
+   "stunden": "Vollzeit",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/flexicum-in-administration-change-management-organizational-development-918443"
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/506095"
   },
   {
-   "titel": "Praktikum Grafikdesign und Mediengestaltung",
-   "firma": "Deutsche Telekom",
+   "titel": "HR Internship - 12 Months",
+   "firma": "Siemens",
    "orte": [
     {
-     "stadt": "Köln",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/graphic-design-and-media-design-internship-563465374957575"
-  },
-  {
-   "titel": "Technisches Praktikum (m/w/d) Székesfehérvár",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "20 Std.",
-   "stunden_num": 20.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/technical-intern-m-f-d-szekesfehervar-563465374876316"
-  },
-  {
-   "titel": "Praktikum Key Account Management GK / B2B",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/praktikum-key-account-management-gk-b2b-842536"
-  },
-  {
-   "titel": "Praktikum / Flexikum FTTH Wartegrundbearbeitung & Terminierung",
-   "firma": "Deutsche Telekom",
-   "orte": [
-    {
-     "stadt": "Hannover",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/internship-flexicum-ftth-waiting-processing-scheduling-824542"
-  },
-  {
-   "titel": "Praktikum im Process Automation & Digital Solutions – Tribe D&T im Bereich HR Germany & Global Tech",
-   "firma": "Deutsche Telekom",
-   "orte": [
-    {
-     "stadt": "Frankfurt am Main",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/internship-in-process-automation-digital-solutions-tribe-d-t-in-hr-germany-global-tech-755154"
-  },
-  {
-   "titel": "Flexikum Social Media Content Creator (m/w/d/x)",
-   "firma": "Deutsche Telekom",
-   "orte": [],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "20 Std.",
-   "stunden_num": 20.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": true,
-   "link": "https://careers.telekom.com/de/jobs/flexikum-social-media-content-creator-m-w-d-x-563465374912429"
-  },
-  {
-   "titel": "EU Compensation & Benefits Intern (m/f/d)",
-   "firma": "DHL",
-   "orte": [
-    {
-     "stadt": "Bonn",
-     "land": "DE"
+     "stadt": "HR Internship",
+     "land": "GB"
     }
    ],
    "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
+   "arbeitsmodell": "Hybrid",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "12 Monate",
    "dauer_wochen": 52.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://careers.dhl.com/global/en/job/AV-386297/EU-Compensation-Benefits-Intern-m-f-d"
-  },
-  {
-   "titel": "Intern – Talent Acquisition Headquarters (m/f/x)",
-   "firma": "Hilti",
-   "orte": [],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://careers.hilti.group/de-de/jobs/22465-en/intern-talent-acquisition-headquarters-m-f-x"
-  },
-  {
-   "titel": "Intern - Market & Competitive Insights (m/f/x)",
-   "firma": "Hilti",
-   "orte": [],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "Präsenz",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://careers.hilti.group/de-de/jobs/22503-en/intern-market-competitive-insights-m-f-x"
-  },
-  {
-   "titel": "Environment Operations Intern",
-   "firma": "Apple",
-   "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "3 Monate",
-   "dauer_wochen": 13.0,
    "stunden": "Vollzeit",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.apple.com/de-de/details/200693369-3715/environment-operations-intern?team=OPMFG"
+   "datum_geschaetzt": true,
+   "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504448"
   },
   {
-   "titel": "Customer Success Account Mgmt INTERN",
-   "firma": "Microsoft",
-   "orte": [
-    {
-     "stadt": "Schiphol",
-     "land": "NL"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Präsenz",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://apply.careers.microsoft.com/careers/job/1970393557041285"
-  },
-  {
-   "titel": "Customer Success Account Mgmt INTERN",
-   "firma": "Microsoft",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Präsenz",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://apply.careers.microsoft.com/careers/job/1970393557041301"
-  },
-  {
-   "titel": "Procurement Intern",
-   "firma": "Lenovo",
+   "titel": "TILT Engagement Coordinator Intern",
+   "firma": "TotalEnergies",
    "orte": [],
-   "fachbereich": "Einkauf & Supply Chain",
+   "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
    "dauer": "k. A.",
    "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Procurement-Intern/83689"
-  },
-  {
-   "titel": "HSBC Student Work Placement",
-   "firma": "HSBC",
-   "orte": [],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
+   "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": true,
-   "link": "https://apply.careers.hsbc.com/emergingtalent/job/Central-HSBC-Student-Work-Placement-Hong/1367003857/"
+   "link": "https://jobs.totalenergies.com/en_US/careers/JobDetail/TILT-Engagement-Coordinator-Intern/86010"
   },
   {
-   "titel": "Intern – Programme Management and Operations Support / Office based (Rome, Italy)",
-   "firma": "UNDP",
+   "titel": "Reporting Analyst: Power & Cost Efficiency – Intern",
+   "firma": "TotalEnergies",
    "orte": [
     {
-     "stadt": "Rom",
-     "land": "IT"
+     "stadt": "Cost Efficiency",
+     "land": "CH"
     }
    ],
-   "fachbereich": "Einkauf & Supply Chain",
+   "fachbereich": "Finanzen & Controlling",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
-   "dauer": "1 Wochen",
-   "dauer_wochen": 1.0,
-   "stunden": "Vollzeit",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38054"
+   "datum_geschaetzt": true,
+   "link": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Reporting-Analyst-Power-Cost-Efficiency-Intern/86012"
   },
   {
-   "titel": "Praktikant*in im Sektorvorhaben Übergangshilfe als Instrument der Krisenbewältigung - UN Kooperation",
-   "firma": "GIZ",
-   "orte": [
-    {
-     "stadt": "Bonn",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Programm- & Projektarbeit",
+   "titel": "Accounting Internship (Maranello)",
+   "firma": "Ferrari",
+   "orte": [],
+   "fachbereich": "Finanzen & Controlling",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
    "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-12",
+   "datum_geschaetzt": true,
+   "link": "https://jobs.ferrari.com/job/Maranello-Accounting-Internship-%28Maranello%29/1376780055/"
+  },
+  {
+   "titel": "INTERNSHIP - HEINEKEN BRAND BUILDING CAPABILITIES",
+   "firma": "Heineken",
+   "orte": [],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
    "stunden": "Vollzeit",
    "stunden_num": null,
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": false,
-   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79607"
-  },
-  {
-   "titel": "Praktikant*in Head of Support im Innovationsmanagement der GIZ",
-   "firma": "GIZ",
-   "orte": [
-    {
-     "stadt": "Eschborn",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Business Development & Strategie",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.giz.de/index.php?ac=jobad&id=79611"
+   "link": "https://careers.theheinekencompany.com/job/heineken-netherlands/netherlands/internship-heineken-brand-building-capabilities"
   },
   {
    "titel": "Impulsa 2027 | Programa de Prácticas Naturgy",
@@ -4383,7 +4540,7 @@
    "stunden_num": null,
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": true,
-   "link": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d"
+   "link": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d"
   },
   {
    "titel": "Beca en Fiscalidad (Madrid)",
@@ -4404,7 +4561,7 @@
    "stunden_num": null,
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": true,
-   "link": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13541&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d"
+   "link": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13541&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d"
   },
   {
    "titel": "Programa de Prácticas 2026 - Finanzas y Contabilidad: Modelos (Madrid)",
@@ -4425,7 +4582,7 @@
    "stunden_num": 25.0,
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": true,
-   "link": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13477&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d"
+   "link": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13477&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d"
   },
   {
    "titel": "Prácticas en Servicios Jurídicos (Barcelona)",
@@ -4446,39 +4603,18 @@
    "stunden_num": null,
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": true,
-   "link": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13486&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d"
+   "link": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13486&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d"
   },
   {
-   "titel": "Beca Gestión de Terrenos Renovables – Madrid",
-   "firma": "Endesa",
-   "orte": [
-    {
-     "stadt": "Beca Gestión de Terrenos Renovables",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "9 Monate",
-   "dauer_wochen": 39.1,
-   "stunden": "35 Std.",
-   "stunden_num": 35.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.enel.com/en_US/careers/JobDetail/24669?team=RenewableEnergies"
-  },
-  {
-   "titel": "#Discover I 2027-2028 INTERNSHIP PROJECTS ASSEMBY LINE A400M RETRO",
+   "titel": "#Discover I 2027-2028 Supply Officer Services Intern",
    "firma": "Airbus",
    "orte": [
     {
-     "stadt": "k. A.",
+     "stadt": "Sevilla",
      "land": "ES"
     }
    ],
-   "fachbereich": "Projektmanagement",
+   "fachbereich": "Einkauf & Supply Chain",
    "arbeitsmodell": "k. A.",
    "start": "März 2027",
    "start_monat": "2027-03",
@@ -4488,28 +4624,7 @@
    "stunden_num": 40.0,
    "veroeffentlicht": "2026-11-12",
    "datum_geschaetzt": false,
-   "link": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-INTERNSHIP--PROJECTS-ASSEMBY-LINE-A400M-RETRO_JR10456367"
-  },
-  {
-   "titel": "#Discover I 2027-2028 PRODUCT MARKETING INTERN. #Discover I 2026-2027",
-   "firma": "Airbus",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Produktmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "11 Monate",
-   "dauer_wochen": 47.8,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-11-12",
-   "datum_geschaetzt": false,
-   "link": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-PRODUCT-MARKETING-INTERN--Discover-I-2026-2027_JR10456454"
+   "link": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-Supply-Officer-Services-Intern_JR10456670"
   },
   {
    "titel": "Beca Compras – Logística",
@@ -4596,6 +4711,27 @@
    "link": "https://careers.allianz.com/global/en/job/109882/Intern-AI-Project-Management-m-f-d"
   },
   {
+   "titel": "Intern (m/f/d) Global Certified Program Management & Process Excellence",
+   "firma": "DHL",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Bonn"
+    }
+   ],
+   "fachbereich": "Projektmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-11-11",
+   "datum_geschaetzt": false,
+   "link": "https://careers.dhl.com/global/en/job/AV-391356/Intern-m-f-d-Global-Certified-Program-Management-Process-Excellence"
+  },
+  {
    "titel": "Account Manager Intern Groceries Spain",
    "firma": "Glovo",
    "orte": [
@@ -4673,6 +4809,27 @@
    "veroeffentlicht": "2026-11-11",
    "datum_geschaetzt": false,
    "link": "https://careers.munichre.com/de/stellenbeschreibung/munchen/praktikum-fur-den-bereich-eventmanagement-m-w-d/3342/46820247104"
+  },
+  {
+   "titel": "Human Resources Internship - W Barcelona",
+   "firma": "Marriott International",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Barcelona"
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "k. A.",
+   "start": "Dezember 2026",
+   "start_monat": "2026-12",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "veroeffentlicht": "2026-11-11",
+   "datum_geschaetzt": false,
+   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26147419"
   },
   {
    "titel": "Marketing Intern (Part - Time) - London Marriott Hotel Grosvenor Square",
@@ -5097,48 +5254,6 @@
    "veroeffentlicht": "2026-11-11",
    "datum_geschaetzt": false,
    "link": "https://www.ferrerocareers.com/int/en/jobs/estagio-hrbp-comercial"
-  },
-  {
-   "titel": "Intern (m/f/d) Global Certified Program Management & Process Excellence",
-   "firma": "DHL",
-   "orte": [
-    {
-     "stadt": "Bonn",
-     "land": "DE"
-    }
-   ],
-   "fachbereich": "Projektmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-11-11",
-   "datum_geschaetzt": false,
-   "link": "https://careers.dhl.com/global/en/job/AV-391356/Intern-m-f-d-Global-Certified-Program-Management-Process-Excellence"
-  },
-  {
-   "titel": "Human Resources Internship - W Barcelona",
-   "firma": "Marriott International",
-   "orte": [
-    {
-     "stadt": "Barcelona",
-     "land": "ES"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Dezember 2026",
-   "start_monat": "2026-12",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "40 Std.",
-   "stunden_num": 40.0,
-   "veroeffentlicht": "2026-11-11",
-   "datum_geschaetzt": false,
-   "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/MI_CS_1/job/26147419"
   },
   {
    "titel": "#Discover I 2027-2028 Trainer Programme Operations & Data Analytics (Internship)",
@@ -5978,22 +6093,6 @@
    "veroeffentlicht": "2026-11-10",
    "datum_geschaetzt": false,
    "link": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Field-Sales---Trade-Marketing_R-1189154"
-  },
-  {
-   "titel": "Hotel Internship - J1 Visa",
-   "firma": "Hyatt",
-   "orte": [],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "k. A.",
-   "start": "Summer 2027",
-   "start_monat": "2027-06",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-10",
-   "datum_geschaetzt": false,
-   "link": "https://careers.hyatt.com/en-US/careers/jobdetails/10780/SAV003824?keyword=intern"
   },
   {
    "titel": "#BECA AHE Supply Chain Support",
@@ -7494,6 +7593,69 @@
    "link": "https://jobs.smartrecruiters.com/RedBull/744000160555059"
   },
   {
+   "titel": "Shopper Marketing Industrial Placement (12-Months)",
+   "firma": "Red Bull",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "London"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-09",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/RedBull/744000160569385"
+  },
+  {
+   "titel": "Category Industrial Placement (12-Months)",
+   "firma": "Red Bull",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "London"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-09",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/RedBull/744000160572014"
+  },
+  {
+   "titel": "Shopper Insights Industrial Placement (12-Months)",
+   "firma": "Red Bull",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "London"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "k. A.",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "stunden": "Teilzeit",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-09",
+   "datum_geschaetzt": false,
+   "link": "https://jobs.smartrecruiters.com/RedBull/744000160572389"
+  },
+  {
    "titel": "Internship Program in Record to Report Team",
    "firma": "Volvo Group",
    "orte": [
@@ -7788,69 +7950,6 @@
    "veroeffentlicht": "2026-11-09",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/93230412230206150-data-center-facilities-technician-intern-2027?q=intern&page=2"
-  },
-  {
-   "titel": "Shopper Marketing Industrial Placement (12-Months)",
-   "firma": "Red Bull",
-   "orte": [
-    {
-     "stadt": "London",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-09",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/RedBull/744000160569385"
-  },
-  {
-   "titel": "Shopper Insights Industrial Placement (12-Months)",
-   "firma": "Red Bull",
-   "orte": [
-    {
-     "stadt": "London",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "Teilzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-09",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/RedBull/744000160572389"
-  },
-  {
-   "titel": "Category Industrial Placement (12-Months)",
-   "firma": "Red Bull",
-   "orte": [
-    {
-     "stadt": "London",
-     "land": "GB"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "k. A.",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-09",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.smartrecruiters.com/RedBull/744000160572014"
   },
   {
    "titel": "Praktikum Marketing (m/w/d)",
@@ -8813,6 +8912,27 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Warsaw/Business-Finance---Insights-Intern_202611-128138-1"
   },
   {
+   "titel": "Industrial Placement Student - Data Expert, Compliance by Design, Data Capability, DDC, Computational Sciences Center of Excellence",
+   "firma": "Roche",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Recht & Compliance",
+   "arbeitsmodell": "k. A.",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "37,5 Std.",
+   "stunden_num": 37.5,
+   "veroeffentlicht": "2026-11-06",
+   "datum_geschaetzt": false,
+   "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533"
+  },
+  {
    "titel": "Credit & Collections Intern",
    "firma": "Salesforce",
    "orte": [
@@ -8850,33 +8970,12 @@
    "link": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/BECARIO---RECURSOS-HUMANOS_Req1632384"
   },
   {
-   "titel": "INTERNSHIP Finance: Kinder Controlling (Starting from March) Finance, Administration & Control Job ID: 78455 Luxembourg, L, LU (On-Site) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-06",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-finance-kinder-controlling-starting-march"
-  },
-  {
    "titel": "INTERNSHIP Accounting & Financial Reporting (Starting from March) Finance, Administration & Control Job ID: 78478 Luxembourg, LU (On-Site) Internship Details",
    "firma": "Ferrero",
    "orte": [
     {
-     "stadt": "k. A.",
-     "land": "LU"
+     "land": "LU",
+     "stadt": "k. A."
     }
    ],
    "fachbereich": "Finanzen & Controlling",
@@ -8892,30 +8991,35 @@
    "link": "https://www.ferrerocareers.com/int/en/jobs/internship-accounting-financial-reporting-starting-march"
   },
   {
-   "titel": "Industrial Placement Student - Data Expert, Compliance by Design, Data Capability, DDC, Computational Sciences Center of Excellence",
-   "firma": "Roche",
+   "titel": "INTERNSHIP Finance: Kinder Controlling (Starting from March) Finance, Administration & Control Job ID: 78455 Luxembourg, L, LU (On-Site) Internship Details",
+   "firma": "Ferrero",
    "orte": [
     {
-     "stadt": "k. A.",
-     "land": "GB"
+     "land": "LU",
+     "stadt": "k. A."
     }
    ],
-   "fachbereich": "Recht & Compliance",
-   "arbeitsmodell": "k. A.",
-   "start": "Juli 2027",
-   "start_monat": "2027-07",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "37,5 Std.",
-   "stunden_num": 37.5,
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
    "veroeffentlicht": "2026-11-06",
    "datum_geschaetzt": false,
-   "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533"
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-finance-kinder-controlling-starting-march"
   },
   {
    "titel": "Intern Digital Learning and Innovation",
    "firma": "Welthungerhilfe",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Innovation Anforderungskennung:",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Digitalisierung, Daten & KI",
    "arbeitsmodell": "Hybrid",
    "start": "Januar 2027",
@@ -8926,7 +9030,7 @@
    "stunden_num": 20.0,
    "veroeffentlicht": "2026-11-06",
    "datum_geschaetzt": false,
-   "link": "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=Y83Hz2u9%2frQtZnUzrmDsuvHR9f3boKvYsIYyfKZVX%2bY%3d"
+   "link": "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=Q5HP15zDLrsjlOy%2fZ%2fo51MTRu5PDi4U%2btFhZxk7LLEw%3d"
   },
   {
    "titel": "Beca Programas de Talento Joven STEM",
@@ -10016,6 +10120,174 @@
    "link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-Treasury-IHB-Operations---Resilience--Basel--12-months-_202611-128224"
   },
   {
+   "titel": "INTERNSHIP Area Operating Planning - Control Tower (starting from March) End to End Supply Chain Job ID: 78415 Luxembourg, L, LU (Hybrid) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-area-operating-planning-control-tower-starting-march"
+  },
+  {
+   "titel": "INTERNSHIP Customer Service Specialist - Levante (starting from March) End to End Supply Chain Job ID: 78400 Senningerberg, L, LU (Hybrid) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "Senningerberg"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-customer-service-specialist-levante-starting-march"
+  },
+  {
+   "titel": "INTERNSHIP Finance: Analysis & Planning (Starting from March) Finance, Administration & Control Job ID: 78422 Luxembourg city, LU (On-Site) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "Luxemburg"
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-finance-analysis-planning-starting-march"
+  },
+  {
+   "titel": "INTERNSHIP Finance: Packaging Controlling (Starting from March) Finance, Administration & Control Job ID: 78424 Luxembourg, LU (On-Site) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-finance-packaging-controlling-starting-march"
+  },
+  {
+   "titel": "INTERNSHIP Junior Category Planning Specialist (starting from March) End to End Supply Chain Job ID: 78325 Luxembourg, LU (Hybrid) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Einkauf & Supply Chain",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-junior-category-planning-specialist-starting-march"
+  },
+  {
+   "titel": "INTERNSHIP Junior People Business Partner Global Marketing (starting from March) People & Organization Job ID: 78471 Luxembourg, LU (On-Site) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Personal (HR)",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-junior-people-business-partner-global-marketing-starting-march"
+  },
+  {
+   "titel": "INTERNSHIP Travel Market Customer Service Supply Chain (starting from March) End to End Supply Chain Job ID: 78349 Senningerberg, L, LU (Hybrid) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "Senningerberg"
+    }
+   ],
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "arbeitsmodell": "Hybrid",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-travel-market-customer-service-supply-chain-starting-march"
+  },
+  {
+   "titel": "INTERNSHIP Treasury Risk Management (Starting from March) Finance, Administration & Control Job ID: 78425 Luxembourg, LU (On-Site) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "LU",
+     "stadt": "k. A."
+    }
+   ],
+   "fachbereich": "Finanzen & Controlling",
+   "arbeitsmodell": "Präsenz",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-05",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-treasury-risk-management-starting-march"
+  },
+  {
    "titel": "Learn more about Financial Analyst BS/MS Intern, 2027",
    "firma": "Google",
    "orte": [
@@ -10035,174 +10307,6 @@
    "veroeffentlicht": "2026-11-05",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/100315940037501638-financial-analyst-bsms-intern-2027?q=intern&page=3"
-  },
-  {
-   "titel": "INTERNSHIP Junior Category Planning Specialist (starting from March) End to End Supply Chain Job ID: 78325 Luxembourg, LU (Hybrid) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-junior-category-planning-specialist-starting-march"
-  },
-  {
-   "titel": "INTERNSHIP Customer Service Specialist - Levante (starting from March) End to End Supply Chain Job ID: 78400 Senningerberg, L, LU (Hybrid) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "Senningerberg",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-customer-service-specialist-levante-starting-march"
-  },
-  {
-   "titel": "INTERNSHIP Area Operating Planning - Control Tower (starting from March) End to End Supply Chain Job ID: 78415 Luxembourg, L, LU (Hybrid) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Einkauf & Supply Chain",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-area-operating-planning-control-tower-starting-march"
-  },
-  {
-   "titel": "INTERNSHIP Junior People Business Partner Global Marketing (starting from March) People & Organization Job ID: 78471 Luxembourg, LU (On-Site) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Personal (HR)",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-junior-people-business-partner-global-marketing-starting-march"
-  },
-  {
-   "titel": "INTERNSHIP Finance: Analysis & Planning (Starting from March) Finance, Administration & Control Job ID: 78422 Luxembourg city, LU (On-Site) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "Luxemburg",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-finance-analysis-planning-starting-march"
-  },
-  {
-   "titel": "INTERNSHIP Travel Market Customer Service Supply Chain (starting from March) End to End Supply Chain Job ID: 78349 Senningerberg, L, LU (Hybrid) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "Senningerberg",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Vertrieb & Kundenmanagement",
-   "arbeitsmodell": "Hybrid",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-travel-market-customer-service-supply-chain-starting-march"
-  },
-  {
-   "titel": "INTERNSHIP Finance: Packaging Controlling (Starting from March) Finance, Administration & Control Job ID: 78424 Luxembourg, LU (On-Site) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-finance-packaging-controlling-starting-march"
-  },
-  {
-   "titel": "INTERNSHIP Treasury Risk Management (Starting from March) Finance, Administration & Control Job ID: 78425 Luxembourg, LU (On-Site) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "k. A.",
-     "land": "LU"
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Präsenz",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-05",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/internship-treasury-risk-management-starting-march"
   },
   {
    "titel": "#BECA AHE - Quality Operations Support",
@@ -13901,6 +14005,27 @@
    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Warszawa/Marketing-Intern--all-genders-_592892"
   },
   {
+   "titel": "Estágio em Marketing | Premium Chocolate Marketing Job ID: 78365 São Paulo, SP, BR (Hybrid) Internship Details",
+   "firma": "Ferrero",
+   "orte": [
+    {
+     "land": "BR",
+     "stadt": "São Paulo"
+    }
+   ],
+   "fachbereich": "Marketing & Kommunikation",
+   "arbeitsmodell": "Hybrid",
+   "start": "k. A.",
+   "start_monat": null,
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "veroeffentlicht": "2026-11-03",
+   "datum_geschaetzt": false,
+   "link": "https://www.ferrerocareers.com/int/en/jobs/estagio-em-marketing-premium-chocolate"
+  },
+  {
    "titel": "Learn more about Associate Product Manager BS/MS Intern, 2027",
    "firma": "Google",
    "orte": [
@@ -14180,27 +14305,6 @@
    "veroeffentlicht": "2026-11-03",
    "datum_geschaetzt": true,
    "link": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027?q=intern"
-  },
-  {
-   "titel": "Estágio em Marketing | Premium Chocolate Marketing Job ID: 78365 São Paulo, SP, BR (Hybrid) Internship Details",
-   "firma": "Ferrero",
-   "orte": [
-    {
-     "stadt": "São Paulo",
-     "land": "BR"
-    }
-   ],
-   "fachbereich": "Marketing & Kommunikation",
-   "arbeitsmodell": "Hybrid",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-11-03",
-   "datum_geschaetzt": false,
-   "link": "https://www.ferrerocareers.com/int/en/jobs/estagio-em-marketing-premium-chocolate"
   },
   {
    "titel": "2027 Compliance Analyst Summer Internship Programme London",
@@ -18462,27 +18566,6 @@
    "veroeffentlicht": "2026-10-23",
    "datum_geschaetzt": false,
    "link": "https://jobs.pwc.de/de/de/job/1892/Praktikum-GenAI-Business-Development-w-m-d"
-  },
-  {
-   "titel": "SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates",
-   "firma": "SAP",
-   "orte": [
-    {
-     "land": "CN",
-     "stadt": "Peking"
-    }
-   ],
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "arbeitsmodell": "Präsenz",
-   "start": "k. A.",
-   "start_monat": null,
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-23",
-   "datum_geschaetzt": false,
-   "link": "https://jobs.sap.com/en/jobs/744000157432357/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates"
   },
   {
    "titel": "SAP iXP - Sales Intern (limited contract)",
@@ -25274,27 +25357,6 @@
    "veroeffentlicht": "2026-10-04",
    "datum_geschaetzt": false,
    "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Amsterdam-SOM-Building/Banking-Off-Cycle-Internship-Programme-2027-Amsterdam_JR-0000124409"
-  },
-  {
-   "titel": "UK Corporate Banking Summer Internship Programme 2027 Birmingham",
-   "firma": "Barclays",
-   "orte": [
-    {
-     "land": "GB",
-     "stadt": "k. A."
-    }
-   ],
-   "fachbereich": "Finanzen & Controlling",
-   "arbeitsmodell": "Hybrid",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "veroeffentlicht": "2026-10-04",
-   "datum_geschaetzt": false,
-   "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Birmingham-One-Snow-Hill/UK-Corporate-Banking-Summer-Internship-Programme-2027-Birmingham_JR-0000124204"
   },
   {
    "titel": "Quantitative Finance Associate Off Cycle Internship Programme 2027 London",

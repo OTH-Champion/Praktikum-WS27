@@ -1080,6 +1080,30 @@
    "title": "Praktikant (m/w/d) Human Resources",
    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Nordenham/Praktikant--m-w-d---Human-Resources_JR10453893"
   },
+  "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-Supply-Officer-Services-Intern_JR10456670": {
+   "arbeitsmodell": "k. A.",
+   "company": "Airbus",
+   "dauer": "11 Monate",
+   "dauer_wochen": 47.8,
+   "fachbereich": "Einkauf & Supply Chain",
+   "first_seen": "2026-11-12",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-12",
+   "orte": [
+    {
+     "land": "ES",
+     "stadt": "Sevilla"
+    }
+   ],
+   "posted": "2026-11-12",
+   "sprache": "en",
+   "start": "März 2027",
+   "start_monat": "2027-03",
+   "stunden": "40 Std.",
+   "stunden_num": 40.0,
+   "title": "#Discover I 2027-2028 Supply Officer Services Intern",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-Supply-Officer-Services-Intern_JR10456670"
+  },
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla-Area/XMLNAME--Discover-I-2027-2028-Commodity-manager-Detail-Parts-composites-Intern_JR10455550": {
    "arbeitsmodell": "k. A.",
    "company": "Airbus",
@@ -2808,30 +2832,6 @@
    "title": "Banking Off Cycle Internship Programme 2027 Amsterdam",
    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Amsterdam-SOM-Building/Banking-Off-Cycle-Internship-Programme-2027-Amsterdam_JR-0000124409"
   },
-  "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Birmingham-One-Snow-Hill/UK-Corporate-Banking-Summer-Internship-Programme-2027-Birmingham_JR-0000124204": {
-   "arbeitsmodell": "Hybrid",
-   "company": "Barclays",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Finanzen & Controlling",
-   "first_seen": "2026-11-03",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-12",
-   "orte": [
-    {
-     "land": "GB",
-     "stadt": "k. A."
-    }
-   ],
-   "posted": "2026-10-04",
-   "sprache": "en",
-   "start": "Juni 2027",
-   "start_monat": "2027-06",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "UK Corporate Banking Summer Internship Programme 2027 Birmingham",
-   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Birmingham-One-Snow-Hill/UK-Corporate-Banking-Summer-Internship-Programme-2027-Birmingham_JR-0000124204"
-  },
   "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685": {
    "arbeitsmodell": "Hybrid",
    "company": "Barclays",
@@ -4105,7 +4105,7 @@
    "title": "PROGRAMA PRÁCTICAS UNIVERSITARIAS 2027 RED COMERCIAL CONNECTA (BARCELONA)",
    "url": "https://caixabankcareers.com/job/Barcelona-PROGRAMA-PR%C3%81CTICAS-UNIVERSITARIAS-2027-RED-COMERCIAL-CONNECTA-%28BARCELONA%29/1453885233/"
   },
-  "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=Y83Hz2u9%2frQtZnUzrmDsuvHR9f3boKvYsIYyfKZVX%2bY%3d": {
+  "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=Q5HP15zDLrsjlOy%2fZ%2fo51MTRu5PDi4U%2btFhZxk7LLEw%3d": {
    "arbeitsmodell": "Hybrid",
    "company": "Welthungerhilfe",
    "dauer": "6 Monate",
@@ -4114,7 +4114,12 @@
    "first_seen": "2026-11-12",
    "grund": "NGO (gelockerter Filter)",
    "last_seen": "2026-11-12",
-   "orte": [],
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Innovation Anforderungskennung:"
+    }
+   ],
    "posted": "2026-11-06",
    "sprache": "en",
    "start": "Januar 2027",
@@ -4122,9 +4127,9 @@
    "stunden": "20 Std.",
    "stunden_num": 20.0,
    "title": "Intern Digital Learning and Innovation",
-   "url": "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=Y83Hz2u9%2frQtZnUzrmDsuvHR9f3boKvYsIYyfKZVX%2bY%3d"
+   "url": "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=Q5HP15zDLrsjlOy%2fZ%2fo51MTRu5PDi4U%2btFhZxk7LLEw%3d"
   },
-  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13477&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d": {
+  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13477&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d": {
    "arbeitsmodell": "k. A.",
    "company": "Naturgy",
    "dauer": "6 Monate",
@@ -4146,9 +4151,9 @@
    "stunden": "20–25 Std.",
    "stunden_num": 25.0,
    "title": "Programa de Prácticas 2026 - Finanzas y Contabilidad: Modelos (Madrid)",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13477&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d"
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13477&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d"
   },
-  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13486&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d": {
+  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13486&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d": {
    "arbeitsmodell": "Präsenz",
    "company": "Naturgy",
    "dauer": "k. A.",
@@ -4170,9 +4175,9 @@
    "stunden": "k. A.",
    "stunden_num": null,
    "title": "Prácticas en Servicios Jurídicos (Barcelona)",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13486&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d"
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13486&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d"
   },
-  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13541&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d": {
+  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13541&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d": {
    "arbeitsmodell": "k. A.",
    "company": "Naturgy",
    "dauer": "k. A.",
@@ -4194,9 +4199,9 @@
    "stunden": "k. A.",
    "stunden_num": null,
    "title": "Beca en Fiscalidad (Madrid)",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13541&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d"
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13541&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d"
   },
-  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d": {
+  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d": {
    "arbeitsmodell": "k. A.",
    "company": "Naturgy",
    "dauer": "k. A.",
@@ -4218,7 +4223,7 @@
    "stunden": "k. A.",
    "stunden_num": null,
    "title": "Impulsa 2027 | Programa de Prácticas Naturgy",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d"
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d"
   },
   "https://careers.allianz.com/global/en/job/102253/HR-Analytics-Intern": {
    "arbeitsmodell": "k. A.",
@@ -9918,25 +9923,6 @@
    "title": "Intern - Market & Competitive Insights (m/f/x)",
    "url": "https://careers.hilti.group/de-de/jobs/22503-en/intern-market-competitive-insights-m-f-x"
   },
-  "https://careers.hyatt.com/en-US/careers/jobdetails/10780/SAV003824?keyword=intern": {
-   "arbeitsmodell": "k. A.",
-   "company": "Hyatt",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Personal (HR)",
-   "first_seen": "2026-11-12",
-   "grund": "Text: 2 kaufmännische vs. 0 technische Begriffe",
-   "last_seen": "2026-11-12",
-   "orte": [],
-   "posted": "2026-11-10",
-   "sprache": "en",
-   "start": "Summer 2027",
-   "start_monat": "2027-06",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Hotel Internship - J1 Visa",
-   "url": "https://careers.hyatt.com/en-US/careers/jobdetails/10780/SAV003824?keyword=intern"
-  },
   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/GAY000095?keyword=intern": {
    "arbeitsmodell": "k. A.",
    "company": "Hyatt",
@@ -11945,6 +11931,25 @@
    "stunden_num": null,
    "title": "Rechtsreferendar*in in der Wahlstation (m/w/d)",
    "url": "https://careers.telekom.com/de/jobs/trainee-lawyer-at-the-polling-station-m-f-d-234492"
+  },
+  "https://careers.theheinekencompany.com/job/heineken-netherlands/netherlands/internship-heineken-brand-building-capabilities": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Heineken",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-12",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-12",
+   "orte": [],
+   "posted": "2026-11-12",
+   "sprache": "en",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "INTERNSHIP - HEINEKEN BRAND BUILDING CAPABILITIES",
+   "url": "https://careers.theheinekencompany.com/job/heineken-netherlands/netherlands/internship-heineken-brand-building-capabilities"
   },
   "https://careers.vestas.com/job/Aarhus-N-Finance-Intern-Regi-8200/1452600533": {
    "arbeitsmodell": "k. A.",
@@ -15472,6 +15477,25 @@
    "stunden_num": null,
    "title": "Female Excellence - Consulting Praktikum für Frauen E.ON Inhouse Consulting GmbH",
    "url": "https://jobs.eon.com/de/job/Female-Excellence-Consulting-Praktikum-fuer-Frauen-Essen/1623860"
+  },
+  "https://jobs.ferrari.com/job/Maranello-Accounting-Internship-%28Maranello%29/1376780055/": {
+   "arbeitsmodell": "k. A.",
+   "company": "Ferrari",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Finanzen & Controlling",
+   "first_seen": "2026-11-12",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-12",
+   "orte": [],
+   "posted": null,
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Accounting Internship (Maranello)",
+   "url": "https://jobs.ferrari.com/job/Maranello-Accounting-Internship-%28Maranello%29/1376780055/"
   },
   "https://jobs.ferrari.com/job/Maranello-HR-Technical-Engagement-Activities-Support-Internship-%28Maranello%29/1368285555/": {
    "arbeitsmodell": "k. A.",
@@ -24011,30 +24035,6 @@
    "title": "Praktikum Financial Services Consulting - Transformation (w/m/d)",
    "url": "https://jobs.pwc.de/de/de/job/981/Praktikum-Financial-Services-Consulting-Transformation-w-m-d"
   },
-  "https://jobs.sap.com/en/jobs/744000157432357/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates": {
-   "arbeitsmodell": "Präsenz",
-   "company": "SAP",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "first_seen": "2026-11-03",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-12",
-   "orte": [
-    {
-     "land": "CN",
-     "stadt": "Peking"
-    }
-   ],
-   "posted": "2026-10-23",
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates",
-   "url": "https://jobs.sap.com/en/jobs/744000157432357/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates"
-  },
   "https://jobs.sap.com/en/jobs/744000157511129/sap-ixp-sales-intern-limited-contract": {
    "arbeitsmodell": "Hybrid",
    "company": "SAP",
@@ -24774,30 +24774,6 @@
    "title": "Purchasing Intern",
    "url": "https://jobs.schaeffler.com/job/Cuautitl%C3%A1n-Izcalli-Purchasing-Intern-54769/1456235933/"
   },
-  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503103": {
-   "arbeitsmodell": "Präsenz",
-   "company": "Siemens",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "fachbereich": "Marketing & Kommunikation",
-   "first_seen": "2026-11-12",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-12",
-   "orte": [
-    {
-     "land": "GB",
-     "stadt": "Communications Internship"
-    }
-   ],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Communications Internship (12 months)",
-   "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503103"
-  },
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503105": {
    "arbeitsmodell": "Hybrid",
    "company": "Siemens",
@@ -24821,6 +24797,58 @@
    "stunden_num": null,
    "title": "Business Development Internship -12 Months",
    "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503105"
+  },
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504448": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Siemens",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "fachbereich": "Personal (HR)",
+   "first_seen": "2026-11-12",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-12",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "HR Internship"
+    }
+   ],
+   "posted": null,
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "HR Internship - 12 Months",
+   "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/504448"
+  },
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/506095": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Siemens",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "fachbereich": "Personal (HR)",
+   "first_seen": "2026-11-12",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-12",
+   "orte": [
+    {
+     "land": "HR",
+     "stadt": "k. A."
+    },
+    {
+     "land": "GB",
+     "stadt": "Inclusion Internship"
+    }
+   ],
+   "posted": null,
+   "sprache": "en",
+   "start": "ab sofort",
+   "start_monat": "2026-11",
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "HR and Diversity, Equity and Inclusion Internship (12 Months)",
+   "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/506095"
   },
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/526925": {
    "arbeitsmodell": "Hybrid",
@@ -34014,6 +34042,49 @@
    "title": "Schüler-/Praktikanten (m/w/d)",
    "url": "https://jobs.thyssenkrupp.com/de/job/Schueler-_Praktikanten-m_w_d-Oberhausen/937331"
   },
+  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Reporting-Analyst-Power-Cost-Efficiency-Intern/86012": {
+   "arbeitsmodell": "k. A.",
+   "company": "TotalEnergies",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Finanzen & Controlling",
+   "first_seen": "2026-11-12",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-12",
+   "orte": [
+    {
+     "land": "CH",
+     "stadt": "Cost Efficiency"
+    }
+   ],
+   "posted": null,
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Reporting Analyst: Power & Cost Efficiency – Intern",
+   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Reporting-Analyst-Power-Cost-Efficiency-Intern/86012"
+  },
+  "https://jobs.totalenergies.com/en_US/careers/JobDetail/TILT-Engagement-Coordinator-Intern/86010": {
+   "arbeitsmodell": "k. A.",
+   "company": "TotalEnergies",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-12",
+   "grund": "Text: 1 kaufmännische vs. 0 technische Begriffe",
+   "last_seen": "2026-11-12",
+   "orte": [],
+   "posted": null,
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "TILT Engagement Coordinator Intern",
+   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/TILT-Engagement-Coordinator-Intern/86010"
+  },
   "https://jobs.volvogroup.com/job/Wacol-Intern-Commercial-Operations-QLD-4076/1374498855/": {
    "arbeitsmodell": "k. A.",
    "company": "Volvo Group",
@@ -36557,14 +36628,14 @@
    "title": "Digital Asset Management (DAM) Operations Intern, 2027 Summer U.S.",
    "url": "https://www.atlassian.com/company/careers/details/27474"
   },
-  "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.192532.html": {
+  "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197378.html": {
    "arbeitsmodell": "k. A.",
    "company": "BMW",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "fachbereich": "Personal (HR)",
+   "fachbereich": "Marketing & Kommunikation",
    "first_seen": "2026-11-12",
-   "grund": "Titel/Abteilung kaufmännisch",
+   "grund": "Text: 5 kaufmännische vs. 1 technische Begriffe",
    "last_seen": "2026-11-12",
    "orte": [
     {
@@ -36578,15 +36649,15 @@
    "start_monat": "2027-01",
    "stunden": "Vollzeit",
    "stunden_num": null,
-   "title": "Praktikant HR Marketing Nachwuchszielgruppen (w/m/x) Veröffentlicht: 12.11.2026 Neu Personalmarketing und Employer Branding München",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.192532.html"
+   "title": "Praktikant Customer Experience BMW M (w/m/x) Veröffentlicht: 12.11.2026 Neu Kundenerlebnis München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197378.html"
   },
-  "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197182.html": {
+  "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197615.html": {
    "arbeitsmodell": "k. A.",
    "company": "BMW",
    "dauer": "6 Monate",
    "dauer_wochen": 26.1,
-   "fachbereich": "Personal (HR)",
+   "fachbereich": "Projektmanagement",
    "first_seen": "2026-11-12",
    "grund": "Titel/Abteilung kaufmännisch",
    "last_seen": "2026-11-12",
@@ -36602,8 +36673,8 @@
    "start_monat": "2026-12",
    "stunden": "Vollzeit",
    "stunden_num": null,
-   "title": "Praktikant Recruiting und Betreuung von Zeitarbeitskräften (w/m/x) Veröffentlicht: 12.11.2026 Neu Personalmanagement München",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197182.html"
+   "title": "Praktikant Projektmanagement Fahrzeugprojekt (w/m/x) Veröffentlicht: 12.11.2026 Neu Strategie / Projektmanagement München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197615.html"
   },
   "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198318.html": {
    "arbeitsmodell": "k. A.",
@@ -38159,11 +38230,13 @@
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/MASTER-IN-AIRFRAME-TECHNOLOGY-2027--MAIR2027--INTERNSHIP-_JR10448000": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--BECA-AHE---Mission-System-Design_JR10451269": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--BECA-AHE---SW-Design--Coding-and-Integration-Engineer_JR10452807": "2026-11-12",
+  "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Health-Management-and-Predictive-Analytics-Engineer-Internship_JR10457290": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Maintenance-Programs--Powerplant--Internship_JR10456318": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Real-Estate-Intern_JR10457525": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Safety-Engineer-Internship_JR10457408": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--XPLORER-2027-INTERNSHIP-PROGRAMME_JR10409263": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/Discover-I-2027-2028-Manufacturing-Engineering-A400M-Intern_JR10456431": "2026-11-12",
+  "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--DISCOVER---2027-2028-Electromagnetic-Engineer-for-material-characterization-and-RCS-measurements-Intern_JR10456533": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-High-Energy-Rigs-SW-Engineer-Intern_JR10456636": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-INTERNSHIP---Artificial-Intelligence-in-Communications-Development_JR10457394": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Software-Engineering-DevOps--Test-Automation---AI-Agents-Intern_JR10457634": "2026-11-12",
@@ -38177,6 +38250,7 @@
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Summer-Internship---Customs-Operations_JR10436880": "2026-11-09",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Summer-Internship---Tooling---Repair_JR10435956": "2026-11-09",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/INTERNSHIP---MASTER-ON-COMPOSITE-MATERIALS-2021---11th-Edition_JR10069906": "2026-11-12",
+  "https://ag.wd3.myworkdayjobs.com/Airbus/job/Illescas/XMLNAME--Discover-I-2027-2028-A350-WLC-Performance-Support-Internship_JR10456471": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m----Electrical-Engineering-and-Test_JR10454974": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m--in-Payload-Data-Processing-for-space-borne-Instruments_JR10454324": "2026-11-12",
   "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m--within-Digital-Twin-Spacecraft-Engineer_JR10455665": "2026-11-12",
@@ -38296,6 +38370,7 @@
   "https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Valladolid/Prcticas---BIOCOOLING_JOBREQ_50283091": "2026-11-12",
   "https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Valladolid/Prcticas---Sntesis-de-Cristales-Lquidos_JOBREQ_50283093": "2026-11-12",
   "https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Valladolid/Prcticas-Ingeniera-Procesos_JOBREQ_50241438": "2026-11-12",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Networking-Intern_R37894": "2026-11-12",
   "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Manila-Metro-Manila/Software-QA-Engineering-Intern_R29236": "2026-11-12",
   "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---AI-Developer-Engineer_R38604": "2026-11-12",
   "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Data-engineer_R37334": "2026-11-12",
@@ -38488,6 +38563,7 @@
   "https://career.sea.com/position/J02211894": "2026-11-12",
   "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=etfm00O2ZRaiSRfSoXD%2bX2FEMXT91S%2brXJvKRXWf4cw%3d": "2026-11-09",
   "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=i3pSO8Ic%2b%2bCUIm1nYZl0h0GQMQ2lwiEnVZ7Oj4SCqEo%3d": "2026-11-09",
+  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13544&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d": "2026-11-12",
   "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13544&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=gEukAEeWVipXWbZbwlEbbPNDdGsf9Crpi4soxBXqbGo%3d": "2026-11-12",
   "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13544&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=oM7IT9KxWNG3D4DnTgA3xUhathhg8c7zKvTisJnScGc%3d": "2026-11-09",
   "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13544&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=w%2f7s30lXBXLcHssk2rSY7YmY8E82jlGR9xwmiO5W5Yg%3d": "2026-11-12",
@@ -38634,6 +38710,7 @@
   "https://careers.hilti.group/de-de/jobs/22330-en/intern-materials-management-process-excellence-m-f-x": "2026-11-12",
   "https://careers.hilti.group/de-de/jobs/22372-en/finance-intern-via-espa-atlas": "2026-11-12",
   "https://careers.hilti.group/de-de/jobs/22390-it/procurement-process-excellence-digitalization-internship-program": "2026-11-12",
+  "https://careers.hyatt.com/en-US/careers/jobdetails/10880/LIS000265?keyword=intern": "2026-11-12",
   "https://careers.ing.com/en/job/amsterdam/data-and-ai-adoption-intern/3121/46824250816": "2026-11-12",
   "https://careers.ing.com/en/job/amsterdam/internship-asset-liability-management-model-development/3121/46651024320": "2026-11-12",
   "https://careers.ing.com/en/job/amsterdam/internship-software-development-java-and-ai/3121/46560300288": "2026-11-05",
@@ -39475,6 +39552,7 @@
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/517737": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/517934": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/517951": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/518242": "2026-11-12",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519062": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519075": "2026-11-09",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519076": "2026-11-09",
@@ -39522,7 +39600,7 @@
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/524538": "2026-11-09",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/524604": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/524628": "2026-11-04",
-  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/525197": "2026-11-05",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/525197": "2026-11-12",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/525238": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/525269": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/525422": "2026-11-12",
@@ -39990,10 +40068,11 @@
   "https://jobs.telefonica.com/job/MADRID-BECARIO-SOFTWARE-ENGINEER-AI-SOC/1455951333/": "2026-11-12",
   "https://jobs.thyssenkrupp.com/de/job/Praktikum-im-Bereich-HRD-m_w_d-fuer-6-Monate-Wadern-Lockweiler/970825": "2026-11-12",
   "https://jobs.thyssenkrupp.com/de/job/Praktikum-im-Bereich-Lean-Management_OPX-fuer-6-Monate-m_w_d-Muehlacker/967531": "2026-11-12",
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Accounting-Support-Internship/86024": "2026-11-09",
+  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Accounting-Support-Internship/86024": "2026-11-12",
   "https://jobs.totalenergies.com/en_US/careers/JobDetail/HSE-Intern-Renewables-Cape-Town/86198": "2026-11-12",
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/STAGE-STAGIAIRE-QUALITE-H-F/85881": "2026-11-05",
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/STAGIAIRE-ANALYSE-DES-FLUX-TRANSPORTS/85886": "2026-11-05",
+  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Power-Performance-Quantitative-Intern/85122": "2026-11-12",
+  "https://jobs.totalenergies.com/en_US/careers/JobDetail/STAGE-STAGIAIRE-QUALITE-H-F/85881": "2026-11-12",
+  "https://jobs.totalenergies.com/en_US/careers/JobDetail/STAGIAIRE-ANALYSE-DES-FLUX-TRANSPORTS/85886": "2026-11-12",
   "https://jobs.totalenergies.com/en_US/careers/JobDetail/Stage-IA-et-automatisation-appliqu-es-l-ing-nierie-H-F/86050": "2026-11-09",
   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=353121": "2026-11-04",
   "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=353274": "2026-11-04",
@@ -40440,6 +40519,7 @@
   "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.191125.html": "2026-11-05",
   "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.191769.html": "2026-11-05",
   "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196410.html": "2026-11-04",
+  "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197557.html": "2026-11-12",
   "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199211.html": "2026-11-09",
   "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199212.html": "2026-11-09",
   "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199213.html": "2026-11-09",
