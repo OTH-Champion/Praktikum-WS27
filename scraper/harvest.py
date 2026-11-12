@@ -299,9 +299,9 @@ def harvest(page: Page, company: dict, debug: dict | None = None) -> list[dict]:
 
     # Automatisch weiterblättern, wenn für die Firma nichts zum Blättern eingestellt ist:
     # Viele Seiten zeigen nur 10-20 Stellen und blättern per Knopf (z. B. "Go to next page").
-    # Abschalten mit auto_next: 0
+    # Höchstens 25 Seiten, abschalten mit auto_next: 0
     start_host = urlparse(page.url).netloc
-    auto_max = company.get("auto_next", 10)
+    auto_max = company.get("auto_next", 25)
     if auto_max and not (company.get("next_click") or company.get("follow") or pages_cfg) and raw_links:
         stale = 0
         for i in range(auto_max):

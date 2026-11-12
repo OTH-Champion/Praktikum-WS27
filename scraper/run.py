@@ -147,7 +147,7 @@ def search_warnings(comp: dict, ats: str, zahlen: dict, hstats: dict | None) -> 
     paging = comp.get("pages") or comp.get("next_click") or comp.get("follow") or hs.get("auto_next_neu")
     if ats == "browser" and hs.get("extra") and not any(hs["extra"]):
         out.append("alle Such-URLs liefern dieselben Stellen, der Suchbegriff wird vermutlich ignoriert")
-    if found in PAGE_SIZES and not paging:
+    if ats == "browser" and found in PAGE_SIZES and not paging:
         out.append(f"genau {found} Stellen und kein Praktikum, vermutlich nur die erste Seite gelesen")
     return out
 

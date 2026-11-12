@@ -132,6 +132,7 @@ def main() -> int:
     assert not tii("Placement Manager", settings)
     # Warnungen bei ignorierter Suche / nur erster Seite
     w = run.search_warnings({"name": "X"}, "browser", {"gefunden": 20, "praktika": 0}, {"extra": [0, 0], "auto_next_neu": 0})
+    assert not run.search_warnings({"name": "X"}, "workday", {"gefunden": 20, "praktika": 0}, None)
     assert len(w) == 2, w
     assert not run.search_warnings({"name": "X"}, "browser", {"gefunden": 20, "praktika": 3}, {"extra": [0]})
     print("Telekom- und Warnungs-Tests bestanden.")
