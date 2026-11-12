@@ -1,5 +1,5 @@
 {
- "aktualisiert": "2026-11-12T19:43+00:00",
+ "aktualisiert": "2026-11-12T19:44+00:00",
  "firmen": [
   {
    "name": "BMW",
@@ -2213,7 +2213,12 @@
   {
    "titel": "Praktikum Business Development & Organisationsentwicklung",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Business Development & Strategie",
    "arbeitsmodell": "k. A.",
    "start": "Januar 2027",
@@ -2229,7 +2234,12 @@
   {
    "titel": "Flexikum im Bereich Verwaltung – Change Management & Organisationsentwicklung",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Kiel",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Projektmanagement",
    "arbeitsmodell": "k. A.",
    "start": "Dezember 2026",
@@ -2245,7 +2255,12 @@
   {
    "titel": "Flexikum Social Media Content Creator (m/w/d/x)",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "k. A.",
    "start": "Februar 2027",
@@ -2263,8 +2278,8 @@
    "firma": "Deutsche Telekom",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Köln"
+     "stadt": "Köln",
+     "land": "DE"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -2284,8 +2299,20 @@
    "firma": "Deutsche Telekom",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Frankfurt am Main"
+     "stadt": "Bonn",
+     "land": "DE"
+    },
+    {
+     "stadt": "Darmstadt",
+     "land": "DE"
+    },
+    {
+     "stadt": "Frankfurt am Main",
+     "land": "DE"
+    },
+    {
+     "stadt": "Leinfelden-Echterdingen",
+     "land": "DE"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -2305,8 +2332,8 @@
    "firma": "Deutsche Telekom",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Hannover"
+     "stadt": "Hannover",
+     "land": "DE"
     }
    ],
    "fachbereich": "Marketing & Kommunikation",
@@ -2326,12 +2353,12 @@
    "firma": "Deutsche Telekom",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "München"
+     "stadt": "München",
+     "land": "DE"
     },
     {
-     "land": "DE",
-     "stadt": "Berlin"
+     "stadt": "Berlin",
+     "land": "DE"
     }
    ],
    "fachbereich": "Business Development & Strategie",
@@ -2349,7 +2376,12 @@
   {
    "titel": "Praktikum / Flexikum - IT & Telekommunikation",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Darmstadt",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "Hybrid",
    "start": "Januar 2027",
@@ -2365,7 +2397,12 @@
   {
    "titel": "Praktikum / Flexikum Strategisches Controlling & Performance Management",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Business Development & Strategie",
    "arbeitsmodell": "Hybrid",
    "start": "Januar 2027",
@@ -2383,8 +2420,20 @@
    "firma": "Deutsche Telekom",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Frankfurt am Main"
+     "stadt": "Leinfelden-Echterdingen",
+     "land": "DE"
+    },
+    {
+     "stadt": "Darmstadt",
+     "land": "DE"
+    },
+    {
+     "stadt": "Frankfurt am Main",
+     "land": "DE"
+    },
+    {
+     "stadt": "Bonn",
+     "land": "DE"
     }
    ],
    "fachbereich": "Personal (HR)",
@@ -2404,8 +2453,20 @@
    "firma": "Deutsche Telekom",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Frankfurt am Main"
+     "stadt": "Frankfurt am Main",
+     "land": "DE"
+    },
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    },
+    {
+     "stadt": "Leinfelden-Echterdingen",
+     "land": "DE"
+    },
+    {
+     "stadt": "Darmstadt",
+     "land": "DE"
     }
    ],
    "fachbereich": "Digitalisierung, Daten & KI",
@@ -2425,8 +2486,8 @@
    "firma": "Deutsche Telekom",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "k. A."
+     "stadt": "k. A.",
+     "land": "DE"
     }
    ],
    "fachbereich": "Einkauf & Supply Chain",
@@ -2444,7 +2505,12 @@
   {
    "titel": "Praktikum Key Account Management Direktvertrieb & KI",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Vertrieb & Kundenmanagement",
    "arbeitsmodell": "Hybrid",
    "start": "k. A.",
@@ -2462,8 +2528,8 @@
    "firma": "Deutsche Telekom",
    "orte": [
     {
-     "land": "HU",
-     "stadt": "Budapest"
+     "stadt": "Budapest",
+     "land": "HU"
     }
    ],
    "fachbereich": "Recht & Compliance",
@@ -2481,7 +2547,12 @@
   {
    "titel": "Praktikum Key Account Management GK / B2B",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Vertrieb & Kundenmanagement",
    "arbeitsmodell": "Hybrid",
    "start": "Januar 2027",
@@ -2497,7 +2568,12 @@
   {
    "titel": "Praktikum Media Production & Digital Events",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "Hybrid",
    "start": "Januar 2027",
@@ -2513,7 +2589,12 @@
   {
    "titel": "Praktikum Media Production & Digital Events",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "Hybrid",
    "start": "März 2027",
@@ -2529,7 +2610,12 @@
   {
    "titel": "Praktikum Media Productions & Digital Events",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Marketing & Kommunikation",
    "arbeitsmodell": "Hybrid",
    "start": "Februar 2027",
@@ -2545,7 +2631,12 @@
   {
    "titel": "Praktikum Telekom Strategy Consulting",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Bonn",
+     "land": "DE"
+    }
+   ],
    "fachbereich": "Business Development & Strategie",
    "arbeitsmodell": "k. A.",
    "start": "Januar 2027",
@@ -2563,12 +2654,12 @@
    "firma": "Deutsche Telekom",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "München"
+     "stadt": "München",
+     "land": "DE"
     },
     {
-     "land": "DE",
-     "stadt": "Berlin"
+     "stadt": "Berlin",
+     "land": "DE"
     }
    ],
    "fachbereich": "Projektmanagement",
@@ -2586,7 +2677,12 @@
   {
    "titel": "Technisches Praktikum (m/w/d) Kecskemét",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Kecskemét",
+     "land": "HU"
+    }
+   ],
    "fachbereich": "Vertrieb & Kundenmanagement",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
@@ -2602,7 +2698,12 @@
   {
    "titel": "Technisches Praktikum (m/w/d) Székesfehérvár",
    "firma": "Deutsche Telekom",
-   "orte": [],
+   "orte": [
+    {
+     "stadt": "Székesfehérvár",
+     "land": "HU"
+    }
+   ],
    "fachbereich": "Vertrieb & Kundenmanagement",
    "arbeitsmodell": "k. A.",
    "start": "k. A.",
@@ -2620,8 +2721,12 @@
    "firma": "Deutsche Telekom",
    "orte": [
     {
-     "land": "DE",
-     "stadt": "Frankfurt am Main"
+     "stadt": "Bonn",
+     "land": "DE"
+    },
+    {
+     "stadt": "Frankfurt am Main",
+     "land": "DE"
     }
    ],
    "fachbereich": "Recht & Compliance",
