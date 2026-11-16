@@ -1,5 +1,101 @@
 {
  "jobs": {
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/INTERN---Internal-communications_R38257": {
+   "arbeitsmodell": "k. A.",
+   "company": "Amadeus",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "k. A."
+    }
+   ],
+   "posted": "2026-10-23",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "INTERN - Internal communications",
+   "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/INTERN---Internal-communications_R38257"
+  },
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Business-strategy_R37340": {
+   "arbeitsmodell": "k. A.",
+   "company": "Amadeus",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Business Development & Strategie",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "k. A."
+    }
+   ],
+   "posted": "2026-10-17",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Internship - Business strategy",
+   "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Business-strategy_R37340"
+  },
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Communication_R37339": {
+   "arbeitsmodell": "k. A.",
+   "company": "Amadeus",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "k. A."
+    }
+   ],
+   "posted": "2026-10-17",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Internship - Communication",
+   "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Communication_R37339"
+  },
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Marketing-strategy_R37337": {
+   "arbeitsmodell": "k. A.",
+   "company": "Amadeus",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [
+    {
+     "land": "FR",
+     "stadt": "k. A."
+    }
+   ],
+   "posted": "2026-10-17",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Internship - Marketing strategy",
+   "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Marketing-strategy_R37337"
+  },
   "https://amnesty-international-deutschland.jobs.personio.de/job/2888506": {
    "arbeitsmodell": "k. A.",
    "company": "Amnesty International Deutschland",
@@ -677,6 +773,30 @@
    "title": "Deutsche Lufthansa AG Internship Change Management and Communication in Technical Fleet Management 11/13/2026 Frankfurt / Main Full time",
    "url": "https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136682"
   },
+  "https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136691": {
+   "arbeitsmodell": "k. A.",
+   "company": "Lufthansa",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Marketing & Kommunikation",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [
+    {
+     "land": "AT",
+     "stadt": "Vienna Airport"
+    }
+   ],
+   "posted": "2026-11-16",
+   "sprache": "en",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "stunden": "38,5 Std.",
+   "stunden_num": 38.5,
+   "title": "Austrian Airlines AG Internship Corporate Communications (all genders) 11/16/2026 Vienna Airport Full time",
+   "url": "https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136691"
+  },
   "https://apply.lufthansagroup.careers/index.php?ac=jobad&id=136715": {
    "arbeitsmodell": "k. A.",
    "company": "Lufthansa",
@@ -1269,7 +1389,7 @@
    "title": "PROGRAMA PRÁCTICAS UNIVERSITARIAS 2027 RED COMERCIAL CONNECTA (BARCELONA)",
    "url": "https://caixabankcareers.com/job/Barcelona-PROGRAMA-PR%C3%81CTICAS-UNIVERSITARIAS-2027-RED-COMERCIAL-CONNECTA-%28BARCELONA%29/1453885233/"
   },
-  "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=K1ew00PGWnwqfJUwNH%2fg%2bMryub4J34cXhdwFKOij8mA%3d": {
+  "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=N%2fCTN76xykBiCXJC%2fmVKrL6%2fC4LY2eNfTYfY3U5gz48%3d": {
    "arbeitsmodell": "Hybrid",
    "company": "Welthungerhilfe",
    "dauer": "6 Monate",
@@ -1291,9 +1411,9 @@
    "stunden": "20 Std.",
    "stunden_num": 20.0,
    "title": "Intern Digital Learning and Innovation",
-   "url": "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=K1ew00PGWnwqfJUwNH%2fg%2bMryub4J34cXhdwFKOij8mA%3d"
+   "url": "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=N%2fCTN76xykBiCXJC%2fmVKrL6%2fC4LY2eNfTYfY3U5gz48%3d"
   },
-  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13477&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=fmQVAAgTHB7%2boIP%2bQDs8AxP4emP%2fkf%2ffXodVOQNyFoc%3d": {
+  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13477&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=5gHlIC3RihUa7131nISiKhiiz1hltrC5VGrZktqeJOo%3d": {
    "arbeitsmodell": "k. A.",
    "company": "Naturgy",
    "dauer": "6 Monate",
@@ -1315,9 +1435,9 @@
    "stunden": "20–25 Std.",
    "stunden_num": 25.0,
    "title": "Programa de Prácticas 2026 - Finanzas y Contabilidad: Modelos (Madrid)",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13477&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=fmQVAAgTHB7%2boIP%2bQDs8AxP4emP%2fkf%2ffXodVOQNyFoc%3d"
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13477&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=5gHlIC3RihUa7131nISiKhiiz1hltrC5VGrZktqeJOo%3d"
   },
-  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13541&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=fmQVAAgTHB7%2boIP%2bQDs8AxP4emP%2fkf%2ffXodVOQNyFoc%3d": {
+  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13541&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=5gHlIC3RihUa7131nISiKhiiz1hltrC5VGrZktqeJOo%3d": {
    "arbeitsmodell": "k. A.",
    "company": "Naturgy",
    "dauer": "k. A.",
@@ -1339,9 +1459,9 @@
    "stunden": "k. A.",
    "stunden_num": null,
    "title": "Beca en Fiscalidad (Madrid)",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13541&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=fmQVAAgTHB7%2boIP%2bQDs8AxP4emP%2fkf%2ffXodVOQNyFoc%3d"
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13541&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=5gHlIC3RihUa7131nISiKhiiz1hltrC5VGrZktqeJOo%3d"
   },
-  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=fmQVAAgTHB7%2boIP%2bQDs8AxP4emP%2fkf%2ffXodVOQNyFoc%3d": {
+  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=5gHlIC3RihUa7131nISiKhiiz1hltrC5VGrZktqeJOo%3d": {
    "arbeitsmodell": "k. A.",
    "company": "Naturgy",
    "dauer": "k. A.",
@@ -1363,7 +1483,7 @@
    "stunden": "k. A.",
    "stunden_num": null,
    "title": "Impulsa 2027 | Programa de Prácticas Naturgy",
-   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=fmQVAAgTHB7%2boIP%2bQDs8AxP4emP%2fkf%2ffXodVOQNyFoc%3d"
+   "url": "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13572&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=5gHlIC3RihUa7131nISiKhiiz1hltrC5VGrZktqeJOo%3d"
   },
   "https://careers.allianz.com/global/en/job/102253/HR-Analytics-Intern": {
    "arbeitsmodell": "k. A.",
@@ -6947,25 +7067,6 @@
    "stunden_num": null,
    "title": "Intern – Talent Acquisition Headquarters (m/f/x)",
    "url": "https://careers.hilti.group/de-de/jobs/22465-en/intern-talent-acquisition-headquarters-m-f-x"
-  },
-  "https://careers.hilti.group/de-de/jobs/22466-de/praktikant-m-w-d-im-strategischen-einkauf-cost-engineering": {
-   "arbeitsmodell": "k. A.",
-   "company": "Hilti",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Business Development & Strategie",
-   "first_seen": "2026-11-12",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [],
-   "posted": "2026-11-11",
-   "sprache": "de",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Praktikant (m/w/d) im strategischen Einkauf & Cost Engineering",
-   "url": "https://careers.hilti.group/de-de/jobs/22466-de/praktikant-m-w-d-im-strategischen-einkauf-cost-engineering"
   },
   "https://careers.hilti.group/de-de/jobs/22503-en/intern-market-competitive-insights-m-f-x": {
    "arbeitsmodell": "Präsenz",
@@ -15846,6 +15947,82 @@
    "title": "Praktikum Nachhaltigkeit / Sustainability / ESG (w/m/d)",
    "url": "https://jobs.kpmg.de/job-invite/6782/?locale=de_DE"
   },
+  "https://jobs.lenovo.com/en_US/careers/JobDetail/Lenovo-Accelerated-Sales-Rotational-Program-Intern-LASR-CA-Summer-2027/81585": {
+   "arbeitsmodell": "k. A.",
+   "company": "Lenovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Vertrieb & Kundenmanagement",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [],
+   "posted": "2026-09-11",
+   "sprache": "en",
+   "start": "Summer 2027",
+   "start_monat": "2027-06",
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Lenovo Accelerated Sales Rotational Program Intern [LASR] CA - Summer 2027",
+   "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Lenovo-Accelerated-Sales-Rotational-Program-Intern-LASR-CA-Summer-2027/81585"
+  },
+  "https://jobs.lenovo.com/en_US/careers/JobDetail/Parent-Evergreen-Business-Analytics-Intern/83924": {
+   "arbeitsmodell": "k. A.",
+   "company": "Lenovo",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [],
+   "posted": "2026-11-10",
+   "sprache": "en",
+   "start": "Januar 2027",
+   "start_monat": "2027-01",
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Business Analytics Intern",
+   "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Parent-Evergreen-Business-Analytics-Intern/83924"
+  },
+  "https://jobs.lenovo.com/en_US/careers/JobDetail/Procurement-Intern/83689": {
+   "arbeitsmodell": "k. A.",
+   "company": "Lenovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Einkauf & Supply Chain",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [],
+   "posted": "2026-11-12",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Procurement Intern",
+   "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Procurement-Intern/83689"
+  },
+  "https://jobs.lenovo.com/en_US/careers/JobDetail/WW-Data-Analytics-Intern/82593": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Lenovo",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [],
+   "posted": "2026-10-13",
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "20 Std.",
+   "stunden_num": 20.0,
+   "title": "WW Data Analytics Intern",
+   "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/WW-Data-Analytics-Intern/82593"
+  },
   "https://jobs.lever.co/ashoka/c2b9e131-6bf2-4e59-8f5a-c5fd42fb9ed0": {
    "arbeitsmodell": "Hybrid",
    "company": "Ashoka",
@@ -19278,25 +19455,6 @@
    "stunden_num": null,
    "title": "Praktikum Data Analytics & Range Management",
    "url": "https://jobs.porsche.com/index.php?ac=jobad&id=18065"
-  },
-  "https://jobs.porsche.com/index.php?ac=jobad&id=18075": {
-   "arbeitsmodell": "k. A.",
-   "company": "Porsche",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Business Development & Strategie",
-   "first_seen": "2026-11-16",
-   "grund": "Text: 3 kaufmännische vs. 1 technische Begriffe",
-   "last_seen": "2026-11-16",
-   "orte": [],
-   "posted": null,
-   "sprache": "de",
-   "start": "April 2027",
-   "start_monat": "2027-04",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Praktikum Anforderungsmanagement",
-   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=18075"
   },
   "https://jobs.porsche.com/index.php?ac=jobad&id=18115": {
    "arbeitsmodell": "k. A.",
@@ -23687,30 +23845,6 @@
    "title": "Praktikum / Werkstudent Operations Transformation (w/m/d)",
    "url": "https://jobs.pwc.de/de/de/job/983/Praktikum-Werkstudent-Operations-Transformation-w-m-d"
   },
-  "https://jobs.sap.com/en/jobs/744000159612310/internship-partner-solution-enablement-associate-fm": {
-   "arbeitsmodell": "Hybrid",
-   "company": "SAP",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Digitalisierung, Daten & KI",
-   "first_seen": "2026-11-04",
-   "grund": "Text: 7 kaufmännische vs. 0 technische Begriffe",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "FR",
-     "stadt": "Levallois-Perret"
-    }
-   ],
-   "posted": "2026-11-04",
-   "sprache": "en",
-   "start": "Dezember 2026",
-   "start_monat": "2026-12",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Internship - Partner Solution Enablement Associate F/M",
-   "url": "https://jobs.sap.com/en/jobs/744000159612310/internship-partner-solution-enablement-associate-fm"
-  },
   "https://jobs.sap.com/en/jobs/744000159864772/concur-customer-marketing-intern": {
    "arbeitsmodell": "Hybrid",
    "company": "SAP",
@@ -24181,25 +24315,6 @@
    "title": "Intern Controlling",
    "url": "https://jobs.schaeffler.com/job/Irapuato-Intern-Controlling-36815/1442038133/"
   },
-  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/498819": {
-   "arbeitsmodell": "Hybrid",
-   "company": "Siemens",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Personal (HR)",
-   "first_seen": "2026-11-16",
-   "grund": "Text: 4 kaufmännische vs. 0 technische Begriffe",
-   "last_seen": "2026-11-16",
-   "orte": [],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Campus2Careers | Curricular Internships",
-   "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/498819"
-  },
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503103": {
    "arbeitsmodell": "Präsenz",
    "company": "Siemens",
@@ -24223,6 +24338,30 @@
    "stunden_num": null,
    "title": "Communications Internship (12 months)",
    "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503103"
+  },
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503105": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Siemens",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "fachbereich": "Business Development & Strategie",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Business Development Internship -12 Months London"
+    }
+   ],
+   "posted": null,
+   "sprache": "en",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "Vollzeit",
+   "stunden_num": null,
+   "title": "Business Development Internship -12 Months",
+   "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/503105"
   },
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/506095": {
    "arbeitsmodell": "Hybrid",
@@ -24252,29 +24391,24 @@
    "title": "HR and Diversity, Equity and Inclusion Internship (12 Months)",
    "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/506095"
   },
-  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519073": {
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527741": {
    "arbeitsmodell": "Präsenz",
    "company": "Siemens",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "fachbereich": "Digitalisierung, Daten & KI",
+   "dauer": "k. A.",
+   "dauer_wochen": null,
+   "fachbereich": "Einkauf & Supply Chain",
    "first_seen": "2026-11-16",
    "grund": "Titel/Abteilung kaufmännisch",
    "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "GB",
-     "stadt": "IT Project Intern"
-    }
-   ],
+   "orte": [],
    "posted": null,
    "sprache": "en",
    "start": "k. A.",
    "start_monat": null,
    "stunden": "Vollzeit",
    "stunden_num": null,
-   "title": "IT Project Intern (12 months)",
-   "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519073"
+   "title": "Procurement Intern",
+   "url": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527741"
   },
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/529005": {
    "arbeitsmodell": "Präsenz",
@@ -24841,30 +24975,6 @@
    "stunden_num": null,
    "title": "Internship Opportunities 2027",
    "url": "https://jobs.smartrecruiters.com/AccorHotel/744000160566204"
-  },
-  "https://jobs.smartrecruiters.com/AccorHotel/744000160569969": {
-   "arbeitsmodell": "k. A.",
-   "company": "Accor",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Finanzen & Controlling",
-   "first_seen": "2026-11-09",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "NL",
-     "stadt": "Amsterdam"
-    }
-   ],
-   "posted": "2026-11-09",
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Finance Intern - The Hoxton, Amsterdam",
-   "url": "https://jobs.smartrecruiters.com/AccorHotel/744000160569969"
   },
   "https://jobs.smartrecruiters.com/AccorHotel/744000160597989": {
    "arbeitsmodell": "k. A.",
@@ -26209,6 +26319,30 @@
    "stunden_num": null,
    "title": "Mandatory Internship - Application Engineering Excellence – Power BI and efficiency expert",
    "url": "https://jobs.smartrecruiters.com/Aumovio/744000159342667"
+  },
+  "https://jobs.smartrecruiters.com/Aumovio/744000161800179": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Aumovio",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "fachbereich": "Projektmanagement",
+   "first_seen": "2026-11-16",
+   "grund": "Text: 2 kaufmännische vs. 0 technische Begriffe",
+   "last_seen": "2026-11-16",
+   "orte": [
+    {
+     "land": "AT",
+     "stadt": "Wien"
+    }
+   ],
+   "posted": "2026-11-16",
+   "sprache": "de",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "25 Std.",
+   "stunden_num": 25.0,
+   "title": "Praktikant im Bereich Commercial & Special Vehicles (m/w/d)",
+   "url": "https://jobs.smartrecruiters.com/Aumovio/744000161800179"
   },
   "https://jobs.smartrecruiters.com/BoschGroup/743999833804247": {
    "arbeitsmodell": "k. A.",
@@ -27578,30 +27712,6 @@
    "title": "Praktikum im Bereich Controlling",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150287719"
   },
-  "https://jobs.smartrecruiters.com/BoschGroup/744000150393389": {
-   "arbeitsmodell": "Hybrid",
-   "company": "Bosch",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Recht & Compliance",
-   "first_seen": "2026-11-03",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "PT",
-     "stadt": "Lissabon"
-    }
-   ],
-   "posted": "2026-09-18",
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Extracurricular Internship – Compliance Support (f/m/div.)",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150393389"
-  },
   "https://jobs.smartrecruiters.com/BoschGroup/744000150988719": {
    "arbeitsmodell": "Präsenz",
    "company": "Bosch",
@@ -27866,30 +27976,6 @@
    "title": "Praktikum in der Transportlogistik",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152427823"
   },
-  "https://jobs.smartrecruiters.com/BoschGroup/744000152626969": {
-   "arbeitsmodell": "k. A.",
-   "company": "Bosch",
-   "dauer": "3–6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Recht & Compliance",
-   "first_seen": "2026-11-03",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Würzburg"
-    }
-   ],
-   "posted": "2026-09-30",
-   "sprache": "de",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Pflichtpraktikum Product Compliance and Environment, Health and Safety",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152626969"
-  },
   "https://jobs.smartrecruiters.com/BoschGroup/744000152643219": {
    "arbeitsmodell": "Hybrid",
    "company": "Bosch",
@@ -27961,30 +28047,6 @@
    "stunden_num": null,
    "title": "Internship in Logistics",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152696909"
-  },
-  "https://jobs.smartrecruiters.com/BoschGroup/744000152856093": {
-   "arbeitsmodell": "Hybrid",
-   "company": "Bosch",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Einkauf & Supply Chain",
-   "first_seen": "2026-11-03",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Lollar"
-    }
-   ],
-   "posted": "2026-10-01",
-   "sprache": "de",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Praktikum Technischer Einkauf",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152856093"
   },
   "https://jobs.smartrecruiters.com/BoschGroup/744000152921319": {
    "arbeitsmodell": "k. A.",
@@ -28105,30 +28167,6 @@
    "stunden_num": null,
    "title": "Digital Marketing Internship (1 Year)",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153521249"
-  },
-  "https://jobs.smartrecruiters.com/BoschGroup/744000153702724": {
-   "arbeitsmodell": "k. A.",
-   "company": "Bosch",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Einkauf & Supply Chain",
-   "first_seen": "2026-11-03",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Wernau"
-    }
-   ],
-   "posted": "2026-10-06",
-   "sprache": "de",
-   "start": "März 2027",
-   "start_monat": "2027-03",
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Praktikum Beschaffungslogistik",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153702724"
   },
   "https://jobs.smartrecruiters.com/BoschGroup/744000153764396": {
    "arbeitsmodell": "Hybrid",
@@ -32066,6 +32104,54 @@
    "title": "Praktikum Marketing und kreative CI-Gestaltung – Bosch Werkstattkonzepte",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161777040"
   },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000161793229": {
+   "arbeitsmodell": "Präsenz",
+   "company": "Bosch",
+   "dauer": "12 Monate",
+   "dauer_wochen": 52.1,
+   "fachbereich": "Digitalisierung, Daten & KI",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [
+    {
+     "land": "GB",
+     "stadt": "Denham"
+    }
+   ],
+   "posted": "2026-11-16",
+   "sprache": "en",
+   "start": "Juli 2027",
+   "start_monat": "2027-07",
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "PT Data Analysis & Marketing/Sales Intern",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161793229"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000161795030": {
+   "arbeitsmodell": "Hybrid",
+   "company": "Bosch",
+   "dauer": "6 Monate",
+   "dauer_wochen": 26.1,
+   "fachbereich": "Einkauf & Supply Chain",
+   "first_seen": "2026-11-16",
+   "grund": "Titel/Abteilung kaufmännisch",
+   "last_seen": "2026-11-16",
+   "orte": [
+    {
+     "land": "DE",
+     "stadt": "Karlsruhe"
+    }
+   ],
+   "posted": "2026-11-16",
+   "sprache": "de",
+   "start": "k. A.",
+   "start_monat": null,
+   "stunden": "k. A.",
+   "stunden_num": null,
+   "title": "Praktikum Internationaler Einkauf",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161795030"
+  },
   "https://jobs.smartrecruiters.com/Continental/744000128233531": {
    "arbeitsmodell": "k. A.",
    "company": "Continental",
@@ -32234,31 +32320,7 @@
    "title": "Business Development & CRM - Internship",
    "url": "https://jobs.smartrecruiters.com/Continental/744000161768434"
   },
-  "https://jobs.smartrecruiters.com/Continental/744000161773459": {
-   "arbeitsmodell": "Hybrid",
-   "company": "Continental",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Personal (HR)",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "DE",
-     "stadt": "Hannover"
-    }
-   ],
-   "posted": "2026-11-16",
-   "sprache": "de",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Pflichtpraktikum - Employer Branding & Employee Engagement (m/f/d) - REF100683S",
-   "url": "https://jobs.smartrecruiters.com/Continental/744000161773459"
-  },
-  "https://jobs.smartrecruiters.com/Continental/744000161773579": {
+  "https://jobs.smartrecruiters.com/Continental/744000161797449": {
    "arbeitsmodell": "Hybrid",
    "company": "Continental",
    "dauer": "6 Monate",
@@ -32280,7 +32342,7 @@
    "stunden": "k. A.",
    "stunden_num": null,
    "title": "Mandatory Internship - Employer Branding & Employee Engagement (m/f/d) - REF100683S",
-   "url": "https://jobs.smartrecruiters.com/Continental/744000161773579"
+   "url": "https://jobs.smartrecruiters.com/Continental/744000161797449"
   },
   "https://jobs.smartrecruiters.com/Grab/744000149795174": {
    "arbeitsmodell": "Präsenz",
@@ -33362,211 +33424,6 @@
    "title": "Schüler-/Praktikanten (m/w/d)",
    "url": "https://jobs.thyssenkrupp.com/de/job/Schueler-_Praktikanten-m_w_d-Oberhausen/937331"
   },
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Energy-Data-Portfolio-Intern/84977": {
-   "arbeitsmodell": "k. A.",
-   "company": "TotalEnergies",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Business Development & Strategie",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "CH",
-     "stadt": "Energy Data Portfolio Intern 23-10- Switzerland Internship TotalEnergies Gas"
-    }
-   ],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Energy Data Portfolio Intern",
-   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Energy-Data-Portfolio-Intern/84977"
-  },
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Environment-Sustainability-Intern-Trading-Shipping-Operations/84431": {
-   "arbeitsmodell": "k. A.",
-   "company": "TotalEnergies",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Einkauf & Supply Chain",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Environment & Sustainability Intern – Trading & Shipping Operations",
-   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Environment-Sustainability-Intern-Trading-Shipping-Operations/84431"
-  },
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/HR-Intern-Renewables-Cape-Town/84343": {
-   "arbeitsmodell": "k. A.",
-   "company": "TotalEnergies",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Personal (HR)",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "HR Intern Renewables - Cape Town",
-   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/HR-Intern-Renewables-Cape-Town/84343"
-  },
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Internship-Internal-Control-Finance-Audits/85197": {
-   "arbeitsmodell": "k. A.",
-   "company": "TotalEnergies",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Finanzen & Controlling",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Internship - Internal Control & Finance Audits",
-   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Internship-Internal-Control-Finance-Audits/85197"
-  },
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Legal-Intern/85382": {
-   "arbeitsmodell": "k. A.",
-   "company": "TotalEnergies",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Recht & Compliance",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Legal Intern",
-   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Legal-Intern/85382"
-  },
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Power-Trading-New-Ventures-Business-Development-Intern/85608": {
-   "arbeitsmodell": "k. A.",
-   "company": "TotalEnergies",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Business Development & Strategie",
-   "first_seen": "2026-11-12",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "CH",
-     "stadt": "Business Development Intern 30-10- Switzerland Internship TotalEnergies Gas"
-    }
-   ],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Power Trading – New Ventures & Business Development Intern",
-   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Power-Trading-New-Ventures-Business-Development-Intern/85608"
-  },
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Procurement-Analyst-Intern/85769": {
-   "arbeitsmodell": "Hybrid",
-   "company": "TotalEnergies",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Einkauf & Supply Chain",
-   "first_seen": "2026-11-12",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [],
-   "posted": null,
-   "sprache": "en",
-   "start": "Dezember 2026",
-   "start_monat": "2026-12",
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Procurement Analyst Intern",
-   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Procurement-Analyst-Intern/85769"
-  },
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Reporting-Analyst-Power-Cost-Efficiency-Intern/86012": {
-   "arbeitsmodell": "k. A.",
-   "company": "TotalEnergies",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Finanzen & Controlling",
-   "first_seen": "2026-11-12",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "CH",
-     "stadt": "Cost Efficiency"
-    }
-   ],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Reporting Analyst: Power & Cost Efficiency – Intern",
-   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Reporting-Analyst-Power-Cost-Efficiency-Intern/86012"
-  },
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/Supporto-Area-legale-stage/85674": {
-   "arbeitsmodell": "k. A.",
-   "company": "TotalEnergies",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Recht & Compliance",
-   "first_seen": "2026-11-12",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "Supporto Area legale – Internship",
-   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/Supporto-Area-legale-stage/85674"
-  },
-  "https://jobs.totalenergies.com/en_US/careers/JobDetail/TILT-Engagement-Coordinator-Intern/86010": {
-   "arbeitsmodell": "k. A.",
-   "company": "TotalEnergies",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Marketing & Kommunikation",
-   "first_seen": "2026-11-12",
-   "grund": "Text: 1 kaufmännische vs. 0 technische Begriffe",
-   "last_seen": "2026-11-16",
-   "orte": [],
-   "posted": null,
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "k. A.",
-   "stunden_num": null,
-   "title": "TILT Engagement Coordinator Intern",
-   "url": "https://jobs.totalenergies.com/en_US/careers/JobDetail/TILT-Engagement-Coordinator-Intern/86010"
-  },
   "https://jobs.volkswagen-group.com/Volkswagen/job/Hannover-Praktikum-Inboundlogistik-Just-in-Sequence-%28wmd%29-30419/1443606233/": {
    "arbeitsmodell": "Hybrid",
    "company": "Volkswagen",
@@ -34439,30 +34296,6 @@
    "title": "Global Political Internship 2027",
    "url": "https://workfor.international.greenpeace.org/o/global-political-internship-2027"
   },
-  "https://www.asml.com/en/careers/find-your-job/business-administration--project-management-internship-euv-program-management-office-j00356739": {
-   "arbeitsmodell": "Hybrid",
-   "company": "ASML",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Projektmanagement",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "NL",
-     "stadt": "Veldhoven"
-    }
-   ],
-   "posted": "2026-11-10",
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Business Administration | Project Management internship: EUV Program Management Office",
-   "url": "https://www.asml.com/en/careers/find-your-job/business-administration--project-management-internship-euv-program-management-office-j00356739"
-  },
   "https://www.asml.com/en/careers/find-your-job/business-administration-internship-project-and-finance-support-j00356420": {
    "arbeitsmodell": "Hybrid",
    "company": "ASML",
@@ -34559,7 +34392,7 @@
    "title": "Business Innovation | Security Management internship: physical security innovation funnel",
    "url": "https://www.asml.com/en/careers/find-your-job/business-innovation--security-management-internship-physical-security-innovation-funnel-j00341203"
   },
-  "https://www.asml.com/en/careers/find-your-job/communication--business-administration-internship-legal-operations-strategy-execution-j00356421": {
+  "https://www.asml.com/en/careers/find-your-job/communication--information-management-security-awareness-behavior-change-internship-j00356376": {
    "arbeitsmodell": "Hybrid",
    "company": "ASML",
    "dauer": "6 Monate",
@@ -34574,62 +34407,14 @@
      "stadt": "Veldhoven"
     }
    ],
-   "posted": "2026-11-09",
+   "posted": "2026-11-16",
    "sprache": "en",
-   "start": "September 2027",
-   "start_monat": "2027-09",
+   "start": "Februar 2027",
+   "start_monat": "2027-02",
    "stunden": "Vollzeit",
    "stunden_num": null,
-   "title": "Communication | Business Administration internship: legal operations & strategy execution",
-   "url": "https://www.asml.com/en/careers/find-your-job/communication--business-administration-internship-legal-operations-strategy-execution-j00356421"
-  },
-  "https://www.asml.com/en/careers/find-your-job/communications--marketing-internship-change-communications-content-creation-introduction-j00356302": {
-   "arbeitsmodell": "Präsenz",
-   "company": "ASML",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Marketing & Kommunikation",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "NL",
-     "stadt": "Veldhoven"
-    }
-   ],
-   "posted": "2026-11-08",
-   "sprache": "en",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Communications | Marketing Internship: change communications content creation Introduction",
-   "url": "https://www.asml.com/en/careers/find-your-job/communications--marketing-internship-change-communications-content-creation-introduction-j00356302"
-  },
-  "https://www.asml.com/en/careers/find-your-job/communications--marketing-internship-society-community-engagement-j00355078": {
-   "arbeitsmodell": "Präsenz",
-   "company": "ASML",
-   "dauer": "k. A.",
-   "dauer_wochen": null,
-   "fachbereich": "Marketing & Kommunikation",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "NL",
-     "stadt": "Veldhoven"
-    }
-   ],
-   "posted": "2026-11-06",
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Communications | Marketing internship: Society & Community Engagement",
-   "url": "https://www.asml.com/en/careers/find-your-job/communications--marketing-internship-society-community-engagement-j00355078"
+   "title": "Communication | Information management: Security Awareness & Behavior Change Internship",
+   "url": "https://www.asml.com/en/careers/find-your-job/communication--information-management-security-awareness-behavior-change-internship-j00356376"
   },
   "https://www.asml.com/en/careers/find-your-job/finance-internship-inventory-insights-j00356307": {
    "arbeitsmodell": "Hybrid",
@@ -34654,30 +34439,6 @@
    "stunden_num": null,
    "title": "Finance internship: inventory insights",
    "url": "https://www.asml.com/en/careers/find-your-job/finance-internship-inventory-insights-j00356307"
-  },
-  "https://www.asml.com/en/careers/find-your-job/hr--business-administration-internship-early-career-events-programs-and-talent-engagement-j00355639": {
-   "arbeitsmodell": "Hybrid",
-   "company": "ASML",
-   "dauer": "4 Monate",
-   "dauer_wochen": 17.4,
-   "fachbereich": "Personal (HR)",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "NL",
-     "stadt": "Veldhoven"
-    }
-   ],
-   "posted": "2026-11-09",
-   "sprache": "en",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "HR | Business Administration Internship: Early career Events, Programs and Talent Engagement",
-   "url": "https://www.asml.com/en/careers/find-your-job/hr--business-administration-internship-early-career-events-programs-and-talent-engagement-j00355639"
   },
   "https://www.asml.com/en/careers/find-your-job/hr--business-administration-internship-employee-experience-support-j00355027": {
    "arbeitsmodell": "Hybrid",
@@ -34726,126 +34487,6 @@
    "stunden_num": null,
    "title": "HR Communications Internship - Internal Communications & Employee Engagement",
    "url": "https://www.asml.com/en/careers/find-your-job/hr-communications-internship-internal-communications-employee-engagement-j00356570"
-  },
-  "https://www.asml.com/en/careers/find-your-job/industrial-engineering-internship-logistics-process-improvement-j00356515": {
-   "arbeitsmodell": "Hybrid",
-   "company": "ASML",
-   "dauer": "5 Monate",
-   "dauer_wochen": 21.7,
-   "fachbereich": "Einkauf & Supply Chain",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "NL",
-     "stadt": "Veldhoven"
-    }
-   ],
-   "posted": "2026-11-09",
-   "sprache": "en",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Industrial Engineering internship: logistics process improvement",
-   "url": "https://www.asml.com/en/careers/find-your-job/industrial-engineering-internship-logistics-process-improvement-j00356515"
-  },
-  "https://www.asml.com/en/careers/find-your-job/innovation-management--datascience-internship-innovation-partnerships-incentives-j00354391": {
-   "arbeitsmodell": "Hybrid",
-   "company": "ASML",
-   "dauer": "4 Monate",
-   "dauer_wochen": 17.4,
-   "fachbereich": "Business Development & Strategie",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "NL",
-     "stadt": "Veldhoven"
-    }
-   ],
-   "posted": "2026-11-06",
-   "sprache": "en",
-   "start": "k. A.",
-   "start_monat": null,
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Innovation Management | Datascience internship: innovation partnerships & incentives",
-   "url": "https://www.asml.com/en/careers/find-your-job/innovation-management--datascience-internship-innovation-partnerships-incentives-j00354391"
-  },
-  "https://www.asml.com/en/careers/find-your-job/law--business-internship-ethics-integrity-programs-j00354330": {
-   "arbeitsmodell": "Hybrid",
-   "company": "ASML",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Recht & Compliance",
-   "first_seen": "2026-11-16",
-   "grund": "Text: 2 kaufmännische vs. 0 technische Begriffe",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "NL",
-     "stadt": "Veldhoven"
-    }
-   ],
-   "posted": "2026-11-10",
-   "sprache": "en",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Law | Business internship: ethics & integrity programs",
-   "url": "https://www.asml.com/en/careers/find-your-job/law--business-internship-ethics-integrity-programs-j00354330"
-  },
-  "https://www.asml.com/en/careers/find-your-job/law-internship-supply-contracts-support-j00356769": {
-   "arbeitsmodell": "Hybrid",
-   "company": "ASML",
-   "dauer": "12 Monate",
-   "dauer_wochen": 52.1,
-   "fachbereich": "Einkauf & Supply Chain",
-   "first_seen": "2026-11-16",
-   "grund": "Titel/Abteilung kaufmännisch",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "NL",
-     "stadt": "Veldhoven"
-    }
-   ],
-   "posted": "2026-11-10",
-   "sprache": "en",
-   "start": "Januar 2027",
-   "start_monat": "2027-01",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Law internship: supply contracts support",
-   "url": "https://www.asml.com/en/careers/find-your-job/law-internship-supply-contracts-support-j00356769"
-  },
-  "https://www.asml.com/en/careers/find-your-job/security-awareness-behavior-change-internship-j00356376": {
-   "arbeitsmodell": "Hybrid",
-   "company": "ASML",
-   "dauer": "6 Monate",
-   "dauer_wochen": 26.1,
-   "fachbereich": "Marketing & Kommunikation",
-   "first_seen": "2026-11-16",
-   "grund": "Text: 3 kaufmännische vs. 0 technische Begriffe",
-   "last_seen": "2026-11-16",
-   "orte": [
-    {
-     "land": "NL",
-     "stadt": "Veldhoven"
-    }
-   ],
-   "posted": "2026-11-16",
-   "sprache": "en",
-   "start": "Februar 2027",
-   "start_monat": "2027-02",
-   "stunden": "Vollzeit",
-   "stunden_num": null,
-   "title": "Security Awareness & Behavior Change Internship",
-   "url": "https://www.asml.com/en/careers/find-your-job/security-awareness-behavior-change-internship-j00356376"
   },
   "https://www.atlassian.com/company/careers/details/26274": {
    "arbeitsmodell": "k. A.",
@@ -35902,7 +35543,7 @@
    "title": "Werkstudent (w/m/d) IHS - Facility Care End to End Supply Chain Job ID: 78470 Stadtallendorf, HE, DE (On-Site) Internship Details",
    "url": "https://www.ferrerocareers.com/int/en/jobs/werkstudent-wmd-ihs-facility-care"
   },
-  "https://www.google.com/about/careers/applications/jobs/results/107665861736571590-account-executive-business-intern-2027-english?q=intern&page=2": {
+  "https://www.google.com/about/careers/applications/jobs/results/107665861736571590-account-executive-business-intern-2027-english?q=intern&page=3": {
    "arbeitsmodell": "k. A.",
    "company": "Google",
    "dauer": "10–14 Wochen",
@@ -35924,7 +35565,7 @@
    "stunden": "Vollzeit",
    "stunden_num": null,
    "title": "Learn more about Account Executive, Business Intern, 2027 (English)",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/107665861736571590-account-executive-business-intern-2027-english?q=intern&page=2"
+   "url": "https://www.google.com/about/careers/applications/jobs/results/107665861736571590-account-executive-business-intern-2027-english?q=intern&page=3"
   },
   "https://www.google.com/about/careers/applications/jobs/results/109231596359295686-business-program-manager-mba-intern-2027?q=intern": {
    "arbeitsmodell": "k. A.",
@@ -36871,17 +36512,17 @@
   "https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Valladolid/Prcticas---Sntesis-de-Cristales-Lquidos_JOBREQ_50283093": "2026-11-12",
   "https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Valladolid/Prcticas-Ingeniera-Procesos_JOBREQ_50241438": "2026-11-12",
   "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Networking-Intern_R37894": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Manila-Metro-Manila/Software-QA-Engineering-Intern_R29236": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---AI-Developer-Engineer_R38604": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Data-engineer_R37334": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Data-scientist_R37333": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---DevOps-Engineer_R37332": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Product-Definition-Analyst_R38603": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Security-engineer_R37336": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Software-Engineer_R37331": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---UI-UX-Developer_R38696": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Cybersecurity-Intern_R31596": "2026-11-12",
-  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Software-Developer-Intern_R31590": "2026-11-12",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Manila-Metro-Manila/Software-QA-Engineering-Intern_R29236": "2026-11-16",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---AI-Developer-Engineer_R38604": "2026-11-16",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Data-engineer_R37334": "2026-11-16",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Data-scientist_R37333": "2026-11-16",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---DevOps-Engineer_R37332": "2026-11-16",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Product-Definition-Analyst_R38603": "2026-11-16",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Security-engineer_R37336": "2026-11-16",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Software-Engineer_R37331": "2026-11-16",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---UI-UX-Developer_R38696": "2026-11-16",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Cybersecurity-Intern_R31596": "2026-11-16",
+  "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Taguig-Metro-Manila/Software-Developer-Intern_R31590": "2026-11-16",
   "https://ambev.gupy.io/jobs/11634642?jobBoardSource=gupy_public_page": "2026-11-12",
   "https://ambev.gupy.io/jobs/12668474?jobBoardSource=gupy_public_page": "2026-11-12",
   "https://ambev.gupy.io/jobs/12826148?jobBoardSource=gupy_public_page": "2026-11-12",
@@ -37077,6 +36718,7 @@
   "https://career.sea.com/position/J02211894": "2026-11-16",
   "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=etfm00O2ZRaiSRfSoXD%2bX2FEMXT91S%2brXJvKRXWf4cw%3d": "2026-11-09",
   "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=WelthungerP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=14764&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=i3pSO8Ic%2b%2bCUIm1nYZl0h0GQMQ2lwiEnVZ7Oj4SCqEo%3d": "2026-11-09",
+  "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13544&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=5gHlIC3RihUa7131nISiKhiiz1hltrC5VGrZktqeJOo%3d": "2026-11-16",
   "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13544&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=7upLyKdaRpYbKfN7BkAYn8YOeA8OZFAKZN92SmexvRU%3d": "2026-11-12",
   "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13544&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=TdkjHL%2b5mJBJdF%2fZS0ZS2cdavZS%2bRFj0oBJgci2Q4dQ%3d": "2026-11-16",
   "https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=C0000880172P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=13544&selected_lang=es_ES&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=UTC&_s.crb=fmQVAAgTHB7%2boIP%2bQDs8AxP4emP%2fkf%2ffXodVOQNyFoc%3d": "2026-11-16",
@@ -37205,7 +36847,7 @@
   "https://careers.hilti.group/de-de/jobs/14767-en/purchase-to-pay-accountant-internship-program": "2026-11-16",
   "https://careers.hilti.group/de-de/jobs/14770-en/litigation-credit-collection-internship-program": "2026-11-16",
   "https://careers.hilti.group/de-de/jobs/14801-en/internship-it-business-analyst-product-it": "2026-11-05",
-  "https://careers.hilti.group/de-de/jobs/14995-en/internship-it-business-analyst-it-integrity": "2026-11-12",
+  "https://careers.hilti.group/de-de/jobs/14995-en/internship-it-business-analyst-it-integrity": "2026-11-16",
   "https://careers.hilti.group/de-de/jobs/15037-en/internship-it-infrastructure": "2026-11-16",
   "https://careers.hilti.group/de-de/jobs/16019-en/internship-it-business-analyst-it-finance-and-corporate-functions": "2026-11-05",
   "https://careers.hilti.group/de-de/jobs/16493-en/internship-software-developer-it-integrity": "2026-11-09",
@@ -37219,7 +36861,7 @@
   "https://careers.hilti.group/de-de/jobs/20968-en/credit-collection-intern": "2026-11-09",
   "https://careers.hilti.group/de-de/jobs/21141-en/operations-intern-order-management-intern-summer-2027": "2026-11-16",
   "https://careers.hilti.group/de-de/jobs/21152-en/operations-materials-management-intern-2027": "2026-11-16",
-  "https://careers.hilti.group/de-de/jobs/21417-en/engineering-intern": "2026-11-12",
+  "https://careers.hilti.group/de-de/jobs/21417-en/engineering-intern": "2026-11-16",
   "https://careers.hilti.group/de-de/jobs/21562-en/intern": "2026-11-16",
   "https://careers.hilti.group/de-de/jobs/21794-de/werkstudent-praktikant-getriebesimulation-m-w-d": "2026-11-16",
   "https://careers.hilti.group/de-de/jobs/22144-it/proposal-contract-management-internship-program": "2026-11-09",
@@ -37229,6 +36871,7 @@
   "https://careers.hilti.group/de-de/jobs/22330-en/intern-materials-management-process-excellence-m-f-x": "2026-11-12",
   "https://careers.hilti.group/de-de/jobs/22372-en/finance-intern-via-espa-atlas": "2026-11-12",
   "https://careers.hilti.group/de-de/jobs/22390-it/procurement-process-excellence-digitalization-internship-program": "2026-11-16",
+  "https://careers.hilti.group/de-de/jobs/22551-en/engineering-intern": "2026-11-16",
   "https://careers.hyatt.com/en-US/careers/jobdetails/10880/LIS000265?keyword=intern": "2026-11-12",
   "https://careers.ing.com/en/job/amsterdam/data-and-ai-adoption-intern/3121/46824250816": "2026-11-16",
   "https://careers.ing.com/en/job/amsterdam/internship-asset-liability-management-model-development/3121/46651024320": "2026-11-12",
@@ -37744,10 +37387,12 @@
   "https://jobs.kpmg.de/job-invite/6123/?locale=de_DE": "2026-11-16",
   "https://jobs.kpmg.de/job-invite/8201/?locale=de_DE": "2026-11-16",
   "https://jobs.kraussmaffei.com/job/Parsdorf-bei-M%C3%BCnchen-Praktikanten-Werkstudenten-%28mwd%29-Group-Transformation/1369127333/": "2026-11-16",
+  "https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Intern/81972": "2026-11-16",
   "https://jobs.lenovo.com/en_US/careers/JobDetail/Benefits-intern/83398": "2026-11-16",
-  "https://jobs.lenovo.com/en_US/careers/JobDetail/EMEA-Talent-Acquisition-Intern-CF/83058": "2026-11-05",
+  "https://jobs.lenovo.com/en_US/careers/JobDetail/EMEA-Talent-Acquisition-Intern-CF/83058": "2026-11-16",
+  "https://jobs.lenovo.com/en_US/careers/JobDetail/Finance-Intern/82935": "2026-11-16",
   "https://jobs.lenovo.com/en_US/careers/JobDetail/HR-Operations-Intern/83117": "2026-11-09",
-  "https://jobs.lenovo.com/en_US/careers/JobDetail/Parent-Evergreen-Future-X-Internship/83580": "2026-11-12",
+  "https://jobs.lenovo.com/en_US/careers/JobDetail/Parent-Evergreen-Future-X-Internship/83580": "2026-11-16",
   "https://jobs.lenovo.com/en_US/careers/JobDetail/SHPE-2026-Intern-Sourcing-Requisition-SHPE-Convention-Attendees-ONLY/83337": "2026-11-04",
   "https://jobs.lenovo.com/en_US/careers/JobDetail/University-Recruiting-Programs-Intern-Spring-and-Summer-2027/84019": "2026-11-16",
   "https://jobs.lever.co/ashoka/c2b9e131-6bf2-4e59-8f5a-c5fd42fb9ed0": "2026-11-04",
@@ -38192,6 +37837,7 @@
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519081": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519082": "2026-11-16",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519366": "2026-11-04",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/519367": "2026-11-16",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520278": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520291": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520437": "2026-11-05",
@@ -38257,6 +37903,7 @@
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527246": "2026-11-09",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527422": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527491": "2026-11-05",
+  "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527606": "2026-11-16",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527683": "2026-11-04",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527690": "2026-11-05",
   "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/527691": "2026-11-04",
@@ -38685,6 +38332,7 @@
   "https://jobs.smartrecruiters.com/BoschGroup/744000161511309": "2026-11-16",
   "https://jobs.smartrecruiters.com/BoschGroup/744000161731569": "2026-11-16",
   "https://jobs.smartrecruiters.com/BoschGroup/744000161765924": "2026-11-16",
+  "https://jobs.smartrecruiters.com/BoschGroup/744000161790039": "2026-11-16",
   "https://jobs.smartrecruiters.com/Continental/744000131426259": "2026-11-16",
   "https://jobs.smartrecruiters.com/Continental/744000160189273": "2026-11-16",
   "https://jobs.smartrecruiters.com/Continental/744000160620169": "2026-11-16",
@@ -39202,6 +38850,7 @@
   "https://www.asml.com/en/careers/find-your-job/internship-supply-chain-analytics-j00356114": "2026-11-16",
   "https://www.asml.com/en/careers/find-your-job/legal-and-compliance-internship-ai-compliance-privacy-office-j00356255": "2026-11-16",
   "https://www.asml.com/en/careers/find-your-job/mechatronics--systems-control-internship-diagnostic-data-capture-j00355537": "2026-11-16",
+  "https://www.asml.com/en/careers/find-your-job/physics--electrical-engineering-internship-image-based-height-detection-j00356504": "2026-11-16",
   "https://www.asml.com/en/careers/find-your-job/physics--optical-engineering-internship-next-generation-focus-sensor-j00354438": "2026-11-16",
   "https://www.asml.com/en/careers/find-your-job/physics--optical-engineering-internship-optical-column-optimization-j00355671": "2026-11-16",
   "https://www.asml.com/en/careers/find-your-job/real-estate--architecture-internship-nl-masterplan-development-j00357660": "2026-11-16",
@@ -39275,6 +38924,7 @@
   "https://www.google.com/about/careers/applications/jobs/results/136217193707643590-data-center-facilities-technician-intern-2027?q=intern&page=2": "2026-11-09",
   "https://www.google.com/about/careers/applications/jobs/results/136316541401473734-business-intern-2027-english-bahasa-indonesia?q=intern&page=3": "2026-11-16",
   "https://www.google.com/about/careers/applications/jobs/results/136316541401473734-business-intern-2027-english-bahasa-indonesia?q=intern&page=4": "2026-11-16",
+  "https://www.google.com/about/careers/applications/jobs/results/136501832733074118-product-design-engineering-intern-2027?q=intern&page=2": "2026-11-16",
   "https://www.google.com/about/careers/applications/jobs/results/139493738358416070-data-center-technician-intern-2027?q=intern": "2026-11-16",
   "https://www.google.com/about/careers/applications/jobs/results/139493738358416070-data-center-technician-intern-2027?q=intern&page=2": "2026-11-12",
   "https://www.google.com/about/careers/applications/jobs/results/140518143893086918-data-center-technician-intern-2027?q=intern&page=2": "2026-11-16",
@@ -39293,6 +38943,7 @@
   "https://www.google.com/about/careers/applications/jobs/results/85430979253936838-software-engineering-intern-summer-2027?q=intern": "2026-11-12",
   "https://www.google.com/about/careers/applications/jobs/results/90179993312600774-product-design-engineering-intern-2027?q=intern&page=3": "2026-11-12",
   "https://www.google.com/about/careers/applications/jobs/results/93230412230206150-data-center-facilities-technician-intern-2027?q=intern&page=2": "2026-11-09",
+  "https://www.google.com/about/careers/applications/jobs/results/94500213674123974-silicon-engineering-intern-2027?q=intern": "2026-11-16",
   "https://www.google.com/about/careers/applications/jobs/results/94724274870198982-silicon-engineering-intern-2027?q=intern": "2026-11-04",
   "https://www.google.com/about/careers/applications/jobs/results/94724274870198982-silicon-engineering-intern-2027?q=intern&page=2": "2026-11-12",
   "https://www.google.com/about/careers/applications/jobs/results/96299220855595718-forward-deployed-engineer-intern-2027?q=intern&page=2": "2026-11-16",
