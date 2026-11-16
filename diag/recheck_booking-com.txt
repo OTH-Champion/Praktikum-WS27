@@ -1,7 +1,8 @@
 Firmen (1): Booking.com
 
 == Booking.com ==
-  ! Fehler bei Booking.com: sequence item 0: expected str instance, dict found
+  58 Stellen gefunden, 0 davon Praktika (Titel)
+  0 nach Ortsfilter (Liste)
 
 Fertig: 1662 Praktika online.
-  ERR Booking.com: {} 1s Fehler: TypeError
+  OK  Booking.com: {'gefunden': 58, 'praktika': 0, 'ort_ok': 0} 2s 
