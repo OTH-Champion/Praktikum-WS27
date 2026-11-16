@@ -77,7 +77,7 @@ def browse():
                 try:
                     rt = resp.request.resource_type
                     ct = resp.headers.get("content-type", "")
-                    if rt in ("xhr", "fetch") or "json" in ct:
+                    if rt in ("xhr", "fetch") or "json" in ct or "myworkday" in resp.url:
                         body = ""
                         try:
                             body = resp.text()[:400] if ("json" in ct or "html" in ct) else ""
@@ -96,6 +96,12 @@ def browse():
                 html = page.content()
                 sigs = sorted({m for m in re.findall(r"(successfactors|jobs2web|rmkcdn|workday|myworkdayjobs|csod\.com|cornerstone|avature|phenom|eightfold|smartrecruiters|greenhouse|lever\.co|taleo|icims|oraclecloud|beesite|softgarden|dvinci|umantis|personio|recruitee|teamtailor|workable|join\.com|radancy|tmp\.com|talentsoft|cegid|jobvite|successfactors\.eu)", html, re.I)})
                 p(f"  Signaturen im HTML: {sigs}")
+                forms = page.evaluate("[...document.querySelectorAll('form')].map(f=>({action:f.action,method:f.method,inputs:[...f.querySelectorAll('input,select')].map(i=>i.name+'='+(i.value||'').slice(0,30)).slice(0,15)}))")
+                for f in forms[:6]:
+                    p(f"  Formular: {f}")
+                wd = sorted(set(re.findall(r"https?://[a-z0-9.-]*myworkday(?:jobs|site)\.com/[^\"'\s<>\\]*", html + " ".join(r[2] for r in reqs))))
+                if wd:
+                    p(f"  Workday-Adressen: {wd[:12]}")
                 links = page.evaluate("[...document.querySelectorAll('a[href]')].map(a=>[a.href,(a.innerText||'').trim().slice(0,70)])")
                 jobish = [l for l in links if re.search(r"job|stelle|karriere|career|vacanc|position|requisition", l[0], re.I)]
                 p(f"  Links gesamt {len(links)}, jobähnlich {len(jobish)}:")

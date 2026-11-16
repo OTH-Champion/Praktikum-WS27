@@ -1,17 +1,18 @@
 {
- "api": [
-  "dazn"
+ "api": [],
+ "http": [
+  "https://jobs.booking.com/api/jobs?keywords=intern&page=1",
+  "https://jobs.booking.com/api/jobs?keywords=internship&page=1&sortBy=relevance&descending=false&internal=false",
+  "https://jobs.booking.com/api/jobs?page=1&limit=100"
  ],
- "http": [],
  "browser": {
-  "Sky": "https://careers.sky.com/jobs?keywords=intern",
-  "Booking.com": "https://jobs.booking.com/booking/jobs?keywords=intern",
-  "Honda": "https://www.honda.de/useful-links/arbeiten-bei-honda/offene-stellen.html",
-  "ASML": "https://www.asml.com/en/careers/find-your-job?query=intern",
-  "Lenovo": "https://jobs.lenovo.com/en_US/careers/SearchJobs/?keyword=intern&jobRecordsPerPage=50",
-  "UniCredit": "https://careers.unicredit.eu/en_GB/jobsearch?keyword=intern",
-  "Maersk": "https://www.maersk.com/careers/vacancies?search=intern",
-  "Heineken": "https://careers.theheinekencompany.com/Job-Listing"
+  "Sky": "https://careers.sky.com/jobs",
+  "Sky Early Careers": "https://careers.sky.com/early-careers",
+  "Maersk": "https://www.maersk.com/careers/vacancies",
+  "Lenovo": "https://jobs.lenovo.com/en_US/careers/SearchJobs/intern",
+  "UniCredit": "https://careers.unicredit.eu/en_GB/jobsearch",
+  "ASML": "https://www.asml.com/en/careers/find-your-job?query=internship",
+  "Heineken": "https://careers.theheinekencompany.com/search/?q=intern"
  },
  "recheck": []
 }
