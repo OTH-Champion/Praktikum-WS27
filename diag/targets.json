@@ -1,11 +1,8 @@
 {
- "api": [
-  "booking.com"
- ],
+ "api": [],
  "http": [],
  "browser": {},
  "recheck": [
-  "booking-com",
   "sky"
  ]
 }
