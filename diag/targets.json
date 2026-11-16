@@ -1,20 +1,9 @@
 {
  "api": [],
- "http": [
-  "https://boards-api.greenhouse.io/v1/boards/unicef/jobs",
-  "https://boards-api.greenhouse.io/v1/boards/unicefcareers/jobs",
-  "https://jobs.unicef.org/en-us/listing/",
-  "https://jobs.unicef.org/"
- ],
- "browser": {
-  "UNICEF Start": "https://jobs.unicef.org/",
-  "UNICEF Suche": "https://jobs.unicef.org/en-us/listing/?search=intern"
- },
+ "http": [],
+ "browser": {},
  "recheck": [
-  "volvo-cars",
-  "panasonic",
-  "ryanair",
-  "wwf-deutschland",
-  "weltbank"
+  "unicef",
+  "wwf-deutschland"
  ]
 }

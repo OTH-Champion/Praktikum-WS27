@@ -118,7 +118,7 @@ def _click_load_more(page: Page) -> bool:
     return False
 
 
-GENERIC_LINK = re.compile(r"^\s*(jetzt )?(bewerben|mehr erfahren|mehr|details|zur stelle|apply( now)?|more|ansehen)\s*$|\s+(jetzt )?bewerben\s*$", re.I)
+GENERIC_LINK = re.compile(r"^\s*(jetzt )?(bewerben|mehr erfahren|mehr|details|zur stellenbeschreibung|zur stelle|read more|apply( now)?|more|ansehen)\s*$|\s+(jetzt )?bewerben\s*$", re.I)
 NEXT_PAGE = re.compile(r"(nächste( seite)?|next( page)?|weiter|^›$|^»$|^>$)", re.I)
 
 

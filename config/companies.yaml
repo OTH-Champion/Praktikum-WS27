@@ -830,8 +830,12 @@
   ngo: true   # gelockerter BWL-Filter
   ats: browser
   career_url: https://www.unicef.org/careers/
-  list_url: https://jobs.unicef.org/en-us/search/?search-keyword=intern
-  job_link: jobs\.unicef\.org/en-us/job/\d+/
+  # Neue Stellenbörse (seit Herbst 2026): jobs.unicef.org/jobs/search, Stellen unter /jobs/<titel>
+  list_url: https://jobs.unicef.org/jobs/search?search=intern
+  job_link: jobs\.unicef\.org/jobs/(?!search)[a-z0-9-]{12,}$
+  extra_urls:
+    - https://jobs.unicef.org/jobs/search?query=intern
+    - https://jobs.unicef.org/jobs/search?keywords=internship
   ort_aus_titel: true
 
 - name: UNDP
