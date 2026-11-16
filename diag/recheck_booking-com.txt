@@ -1,0 +1,7 @@
+Firmen (1): Booking.com
+
+== Booking.com ==
+  ! Fehler bei Booking.com: sequence item 0: expected str instance, dict found
+
+Fertig: 1662 Praktika online.
+  ERR Booking.com: {} 1s Fehler: TypeError

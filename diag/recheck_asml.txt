@@ -1,0 +1,56 @@
+Firmen (1): ASML
+
+== ASML ==
+    [auto-next] 3 Seite(n) weitergeblättert -> 25 neu
+    [extra] https://www.asml.com/en/careers/find-your-job?query=internship -> 5 neu
+  55 Stellen gefunden, 46 davon Praktika (Titel)
+  46 nach Ortsfilter (Liste)
+  + Security Awareness & Behavior Change Internship [Veldhoven NL; Marketing & Kommunikation; 6 Monate; Vollzeit; Start Februar 2027]
+  – Data Science | Artificial Intelligence internship: agentic AI adoption (kein BWL-Bezug (Titel technisch))
+  + Business Innovation | Security Management internship: physical securit [Veldhoven NL; Business Development & Strategie; 6 Monate; Vollzeit; Start Februar 2027]
+  – Data Science | Computer Science internship: Measurement analysis frame (kein BWL-Bezug (Titel technisch))
+  – Internship - Mechatronics Engineer (Ort fremd: Wilton, CT, US)
+  – Statistical method | Internship: Bayesian methods for system-level qua (kein BWL-Bezug (Text: 1 kaufmännische vs. 3 technische Begriffe))
+  – Internship - Engineer (Defectivity, Materials & Contamination Analysis (Ort fremd: Wilton, CT, US)
+  – Internship - EUV Data Science and Analytics (Ort fremd: Austin, TX, US)
+  + Business Economics | Finance Internship: Business Analyst Capital Effi [Veldhoven NL; Finanzen & Controlling; 6 Monate; 32 Std.; Start Februar 2027]
+  + HR | Business Administration internship: employee experience support [Veldhoven NL; Personal (HR); 12 Monate; Vollzeit; Start Februar 2027]
+  + Business administration internship: support the global mobility team [Veldhoven NL; Projektmanagement; 6 Monate; Vollzeit; Start Februar 2027]
+  + Business Administration internship: Project and Finance support [Veldhoven NL; Projektmanagement; 6 Monate; Vollzeit; Start Dezember 2026]
+  – Legal and compliance internship: AI Compliance & Privacy Office (kein BWL-Bezug (Text: 1 kaufmännische vs. 4 technische Begriffe))
+  – Internship - Data Scientist (Ort fremd: Wilton, CT, US)
+  + HR Communications Internship - Internal Communications & Employee Enga [Veldhoven NL; Personal (HR); 5 Monate; Vollzeit; Start Februar 2027]
+  – (Taiwan Pipeline) Internship - CS EUV UIR Team – Tainan/ Kaohsiung (Ort fremd: Tainan City, Taiwan)
+  – Physics | Optical Engineering internship: optical column optimization (kein BWL-Bezug (Titel technisch))
+  – Mechatronics | Systems & Control internship: diagnostic data capture (kein BWL-Bezug (Titel technisch))
+  + Finance internship: inventory insights [Veldhoven NL; Finanzen & Controlling; 6 Monate; Vollzeit; Start Februar 2027]
+  – Internship - Imaging Physics R&D (Ort fremd: San Jose, CA, US)
+  – Real Estate | Architecture Internship: NL Masterplan Development (kein BWL-Bezug (Titel technisch))
+  – Internship - CS Office Coordination team - Hsinchu (Ort fremd: Hsinchu City, Taiwan)
+  – Internship - CS Infrastructure, Architecture & Security Team - Hsinchu (Ort fremd: Hsinchu City, Taiwan)
+  + Law | Business internship: ethics & integrity programs [Veldhoven NL; Recht & Compliance; 6 Monate; Vollzeit; Start Februar 2027]
+  – Chemical | Mechanical Engineering | Resilience Engineering internship: (kein BWL-Bezug (Titel technisch))
+  – Internship- Configuration Management (Ort fremd: San Jose, CA, US)
+  – Internship - Electromechanical Engineer (Ort fremd: Wilton, CT, US)
+  – Computer Science | Artificial Intelligence internship: ai-assisted dia (kein BWL-Bezug (Titel technisch))
+  – Internship - Supply Chain Analytics (Ort fremd: Phoenix, AZ, US)
+  + Law internship: supply contracts support [Veldhoven NL; Einkauf & Supply Chain; 12 Monate; Vollzeit; Start Januar 2027]
+  – AI Internship: Intelligent Reticle Health Monitoring Using Reduced Mea (kein BWL-Bezug (Titel technisch))
+  + Business Administration | Project Management internship: EUV Program M [Veldhoven NL; Projektmanagement; k. A.; Vollzeit; Start k. A.]
+  – Data Analytics | Computer Science internship: quality intelligence das (kein BWL-Bezug (Text: 1 kaufmännische vs. 6 technische Begriffe))
+  + HR | Business Administration Internship: Early career Events, Programs [Veldhoven NL; Personal (HR); 4 Monate; Vollzeit; Start Februar 2027]
+  – Internship-Co-Op: AI Engineer (Ort fremd: San Diego, CA, US)
+  – Internship- Co-Op: AI Engineer (Ort fremd: San Diego, CA, US)
+  – Internship- Co-Op: AI Engineer (Ort fremd: San Diego, CA, US)
+  – Computer Science | Artificial intelligence internship: AI workflow opt (kein BWL-Bezug (Titel technisch))
+  + Communication | Business Administration internship: legal operations & [Veldhoven NL; Marketing & Kommunikation; 6 Monate; Vollzeit; Start September 2027]
+  + Industrial Engineering internship: logistics process improvement [Veldhoven NL; Einkauf & Supply Chain; 5 Monate; Vollzeit; Start Februar 2027]
+  – Data Science | Software Engineering internship: software automation de (kein BWL-Bezug (Titel technisch))
+  – Internship - CS HMI Operation Team - Hsinchu (Ort fremd: Hsinchu City, Taiwan)
+  + Communications | Marketing Internship: change communications content c [Veldhoven NL; Marketing & Kommunikation; 6 Monate; Vollzeit; Start Januar 2027]
+  + Communications | Marketing internship: Society & Community Engagement [Veldhoven NL; Marketing & Kommunikation; k. A.; Vollzeit; Start k. A.]
+  + Innovation Management | Datascience internship: innovation partnership [Veldhoven NL; Business Development & Strategie; 4 Monate; Vollzeit; Start k. A.]
+  – Physics | Optical Engineering internship: next-generation focus sensor (kein BWL-Bezug (Titel technisch))
+
+Fertig: 1684 Praktika online.
+  OK  ASML: {'gefunden': 55, 'praktika': 46, 'ort_ok': 46} 133s 

@@ -1,470 +1,52 @@
 
-######## HTTP: https://jobs.booking.com/api/jobs?keywords=intern&page=1
-  200 application/json; charset=utf-8 389 Zeichen, Ende-URL https://jobs.booking.com/api/jobs?keywords=intern&page=1
-  {"jobs":[],"locations":[],"totalCount":0,"request_id":false,"meta_data":{"ResponseMetadata":{"requestId":"4ce0d545-6b09-4959-aa8c-d5ca5c1a49e5:APAb7IR9uWrF54aRLE58FPCTseth/+d+AQ=="}},"languageCounts":{},"filter":{"displayLimit":10,"brands":{"all":[],"shortlist":[]},"categories":{"all":[],"shortlist":[]},"locations":{"all":[],"shortlist":[]},"experienceLevels":{"all":[],"shortlist":[]}}}
+######## HTTP: https://maersk.wd3.myworkdayjobs.com/Maersk_Careers
+  429 text/html; charset=UTF-8 28682 Zeichen, Ende-URL https://maersk.wd3.myworkdayjobs.com/Maersk_Careers
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-######## HTTP: https://jobs.booking.com/api/jobs?keywords=internship&page=1&sortBy=relevance&descending=false&internal=false
-  200 application/json; charset=utf-8 21721 Zeichen, Ende-URL https://jobs.booking.com/api/jobs?keywords=internship&page=1&sortBy=relevance&descending=false&internal=false
-  {"jobs":[{"data":{"slug":"30536","language":"en-us","languages":["en-us"],"req_id":"30536","title":"Booking Holdings Romania - Data Analytics Engineer I","description":"Booking Holdings Romania is a Center of Excellence based in Bucharest, Romania and was created to support the increasing business demands of the Booking Holdings Brands. The Center of Excellence provides access to specialized and highly skilled talent, leading industry best practices, and collaboration opportunities across all of our Brands. As part of our Booking Holdings Romania team, you will have the opportunity to be a part of the world’s leading provider of online travel, with a mission of making it easier for everyone to experience the world through six-primary consumer facing brands: Booking.com, Priceline, Agoda, KAYAK, OpenTable and Rentalcars.com. Role description The Data Analytics Engineer I operates as a developing contributor on data pipelines and data models of low to moderate complexity, supporting the cross-brand data, reporting and analytics needs of Booking Holdings. This role contributes to clearly scoped deliverables — from ingestion, through transformation, to enablement of reporting — under the guidance and framework set by senior peers and the Solutions Architect. Success in this role means consistent, reliable delivery on assigned tasks and components for the business areas served by the team (such as Finance, FP&A, Treasury, Procurement, Market Intelligence and others), while buildin
+######## HTTP: https://maersk.wd3.myworkdayjobs.com/maersk
+  429 text/html; charset=UTF-8 28658 Zeichen, Ende-URL https://maersk.wd3.myworkdayjobs.com/maersk
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-######## HTTP: https://jobs.booking.com/api/jobs?page=1&limit=100
-  200 application/json; charset=utf-8 1779512 Zeichen, Ende-URL https://jobs.booking.com/api/jobs?page=1&limit=100
-  {"jobs":[{"data":{"slug":"29990","language":"en-us","languages":["en-us"],"client_code":"workingatbooking","req_id":"29990","title":"Area Manager - Portugal (Lisbon, Faro or Porto based)","description":"<p><span style=\"font-size: 10pt;\"><strong><span style=\"font-family: verdana, geneva;\">About Us</span></strong></span></p><p> </p><p><span style=\"font-family: verdana, geneva; font-size: 10pt;\">At Booking.com, data drives our decisions. Technology is at our core. And innovation is everywhere. But our company is more than datasets, lines of code or A/B tests. We’re the thrill of the first night in a new place. The excitement of the next morning. The friends you encounter. The journeys you take. The sights you see. And the memories you make. Through our products, partners and people, we make it easier for everyone to experience the world.</span></p><p> </p><p><span style=\"font-size: 10pt;\"><strong><span style=\"font-family: verdana, geneva;\">Role Description</span></strong></span></p><p> </p><p><span style=\"font-size: 10pt; font-family: verdana, geneva; color: #000000;\">As the Area Manager for Portugal, based within daily commuting distance of Lisbon (preferred, Faro, or Porto, you will report to the Regional Manager for the Iberia Region and lead the Partner Services organisation in the market, helping a diverse portfolio of partners, from independent boutique hotels in Lisbon to large resort chains in the Algarve to grow their businesses through insight-led account m
+######## HTTP: https://maersk.wd3.myworkdayjobs.com/External
+  429 text/html; charset=UTF-8 28664 Zeichen, Ende-URL https://maersk.wd3.myworkdayjobs.com/External
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-######## Browser: Sky  https://careers.sky.com/jobs
-  Ende-URL: https://careers.sky.com/jobs | Titel: Sky Careers | Jobs
-  Signaturen im HTML: ['myworkdayjobs']
-  Workday-Adressen: ['https://sky.wd3.myworkdayjobs.com/sky_careers/job/Glasgow-Blythswood-Street/Freelance-Reporter_R0060978', 'https://sky.wd3.myworkdayjobs.com/sky_careers/job/Osterley/Director-of-Proposition---Product--Sky-Business_R0060873']
-  Links gesamt 36, jobähnlich 25:
-    https://careers.sky.com/jobs#main | Skip to main content
-    https://careers.sky.com/ | 
-    https://careers.sky.com/about | About Sky
-    https://careers.sky.com/lifeatsky | Life at Sky
-    https://careers.sky.com/teams | Our Teams
-    https://careers.sky.com/earlycareers | Early Careers
-    https://careers.sky.com/locations | Locations
-    https://careers.sky.com/application-journey | Application Journey
-    https://careers.sky.com/blog | Blogs
-    https://careers.sky.com/jobs/t-R0060919 | Legal Counsel
+######## HTTP: https://maersk.wd3.myworkdayjobs.com/MaerskCareers
+  429 text/html; charset=UTF-8 28679 Zeichen, Ende-URL https://maersk.wd3.myworkdayjobs.com/MaerskCareers
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-Legal and Regulatory
+######## HTTP: https://maersk.wd1.myworkdayjobs.com/Maersk_Careers
+  429 text/html; charset=UTF-8 28682 Zeichen, Ende-URL https://maersk.wd1.myworkdayjobs.com/Maersk_Careers
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-London
-    https://careers.sky.com/jobs/t-R0060121 | IT Field Service Technician
+######## HTTP: https://maersk.wd1.myworkdayjobs.com/maersk
+  429 text/html; charset=UTF-8 28637 Zeichen, Ende-URL https://maersk.wd1.myworkdayjobs.com/maersk
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-Product and Technology
+######## HTTP: https://maersk.wd1.myworkdayjobs.com/External
+  429 text/html; charset=UTF-8 28664 Zeichen, Ende-URL https://maersk.wd1.myworkdayjobs.com/External
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-London
-    https://careers.sky.com/jobs/t-R0061008 | Retail Sales Advisor - Bolton
+######## HTTP: https://maersk.wd1.myworkdayjobs.com/MaerskCareers
+  429 text/html; charset=UTF-8 28679 Zeichen, Ende-URL https://maersk.wd1.myworkdayjobs.com/MaerskCareers
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-Customer Services and Sales
+######## HTTP: https://maersk.wd103.myworkdayjobs.com/Maersk_Careers
+  429 text/html; charset=UTF-8 28684 Zeichen, Ende-URL https://maersk.wd103.myworkdayjobs.com/Maersk_Careers
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-Bolton
-    https://careers.sky.com/jobs/t-R0061052 | Retail Sales Advisor - Bristol
+######## HTTP: https://maersk.wd103.myworkdayjobs.com/maersk
+  429 text/html; charset=UTF-8 28660 Zeichen, Ende-URL https://maersk.wd103.myworkdayjobs.com/maersk
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-Customer Services and Sales
+######## HTTP: https://maersk.wd103.myworkdayjobs.com/External
+  429 text/html; charset=UTF-8 28666 Zeichen, Ende-URL https://maersk.wd103.myworkdayjobs.com/External
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-Bristol
-    https://careers.sky.com/jobs/t-R0060184 | Manager, Organisation Design & Transformation
+######## HTTP: https://maersk.wd103.myworkdayjobs.com/MaerskCareers
+  429 text/html; charset=UTF-8 28681 Zeichen, Ende-URL https://maersk.wd103.myworkdayjobs.com/MaerskCareers
+  <!DOCTYPE html> <html> <head> <style> body { text-align: center; margin: 0; height: 100%; width: 100%; font-family: 'Roboto', sans-serif; color: #333333; } .graphicsContainer { background-color: #0b77e3; } .wdayLogo, .signOutGraphic { display: block; margin: auto; } .wdayLogo { padding: 16px 0 8px; } .title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .zone-name-title { display: block; font-weight: 300; font-size: 34px; line-height: 1.24; margin: 32px auto 18px; max-width: 650px; } .bodyText { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .core-msg { display: block; margin: 0 auto 0; font-weight: 400; font-size: 16px; line-height: 1.25; padding-bottom: 42px; max-width: 850px; } .captcha-box { padding-bottom: 17px; display:
 
-People
-
-London
-    https://careers.sky.com/jobs/t-R0061023 | Retail Sales Advisor - Dundrum (12 month FTC)
-
-Customer Services and S
-    https://careers.sky.com/jobs/t-R0060030 | Senior Industrial Designer
-
-Product and Technology
-
-London
-    https://careers.sky.com/jobs/t-R0060666 | Customer Priority Specialist
-
-Customer Services and Sales
-
-Livingston
-    https://careers.sky.com/jobs/t-R0056225 | Sky Up Academy Team Leader - Livingston
-
-Corporate and External Relati
-    https://careers.sky.com/jobs/t-R0059912 | Make-Up Artist
-
-Broadcasting and Content
-
-London
-    https://careers.sky.com/ | 
-    https://careers.sky.com/cz | Sky Czechia
-    https://careers.sky.com/ie | Sky Careers Ireland
-    https://careers.sky.com/it | Sky Careers Italy
-    https://jobs.comcast.com/ | Comcast Careers
-    https://www.nbcunicareers.com/ | NBC Universal Careers
-  Seitentext: Skip to main content About Sky Life at Sky Our Teams Early Careers Locations Application Journey Blogs Jobs Explore opportunities at Sky Location All locations Team All teams Contract type All contract types 79 jobs match your criteria Legal Counsel Legal and Regulatory London IT Field Service Technician Product and Technology London Retail Sales Advisor - Bolton Customer Services and Sales Bolton Retail Sales Advisor - Bristol Customer Services and Sales Bristol Manager, Organisation Design & Transformation People London Retail Sales Advisor - Dundrum (12 month FTC) Customer Services and Sales Dublin Senior Industrial Designer Product and Technology London Customer Priority Specialist Customer Services and Sales Livingston Sky Up Academy Team Leader - Livingston Corporate and External Relations Livingston Make-Up Artist Broadcasting and Content London Showing 10 of 79 jobs See more jobs Sky Logo © 2025 Sky Career Links Sky Corporate Sky Czechia Sky Careers Ireland Sky Careers Italy Comcast Corporate Comcast Careers NBC Universal Careers Social Media Links Legal Links Terms & Conditions Accessibility Modern Slavery Privacy Options Privacy & Cookies
-  XHR/JSON-Antworten (22):
-    GET 200 https://careers.sky.com/ie?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://cdn.privacy-mgmt.com/wrapper/v2/meta-data?hasCsp=true&accountId=630&env=prod&metadata=%7B%22gdpr%22%3A%7B%7D%7D&propertyId=16129&scriptVersion=4.41.0&scriptType=unified [application/json; charset=utf-]
-      {"gdpr":{"additionsChangeDate":"2026-02-11T12:46:32.199Z","getMessageAlways":false,"googleConsentModeV2":true,"legalBasisChangeDate":"2026-02-11T12:46:32.199Z","sample":false,"version":29,"_id":"603f7c52a2286397ae77bb13","applies":true,"sampleRate":1}}
-    GET 302 https://careers.sky.com/it?_rsc=QsxRzy58luoz_qpw []
-    GET 200 https://careers.sky.com/cz?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://cdn.privacy-mgmt.com/wrapper/v2/messages?hasCsp=true&env=prod&body=%7B%22accountId%22%3A630%2C%22campaignEnv%22%3A%22prod%22%2C%22campaigns%22%3A%7B%22gdpr%22%3A%7B%22consentStatus%22%3A%7B%7D [application/json; charset=utf-]
-      {"propertyId":16129,"propertyPriorityData":{"stage_message_limit":1,"site_id":16129,"public_campaign_type_priority":[1],"multi_campaign_enabled":true,"stage_campaign_type_priority":[1],"public_message_limit":1},"campaigns":[{"type":"GDPR","message":{"message_json":{"message_json_string":"{\"type\":\
-    GET 200 https://careers.sky.com/it/en [text/x-component]
-    GET 200 https://careers.sky.com/about?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    POST 200 https://cdn.privacy-mgmt.com/wrapper/v2/pv-data?hasCsp=true&env=prod&ch=508491992508491992bb13&scriptVersion=4.41.0&scriptType=unified [application/json; charset=utf-] POST='{"gdpr":{"applies":true,"categoryId":1,"consentStatus":{"rejectedAny":false,"rejectedLI":false,"consentedAll":false,"granularStatus":{"vendorConsent":"NONE","vendorLegInt":"EMPTY_VL","purposeConsent":"NONE","purposeLegInt":"EMPTY_VL","previousOptInAll":false,"defaultConsent":true},"hasConsentData":f'
-      {"gdpr":{"uuid":"2b435841-2fb4-4fca-9031-4122ec9205f0","cookies":[{"key":"consentUUID","value":"2b435841-2fb4-4fca-9031-4122ec9205f0","maxAge":15552000,"shareRootDomain":false,"session":false}]}}
-    GET 200 https://cdn.privacy-mgmt.com/consent/tcfv2/vendor-list/categories?siteId=16129 [application/json; charset=utf-]
-      {"categories":[{"_id":"603f7c502f486867def44878","type":"IAB_PURPOSE","name":"Store and/or access information on a device","description":"Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other informa
-    GET 200 https://careers.sky.com/lifeatsky?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://careers.sky.com/teams?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://cdn.privacy-mgmt.com/consent/tcfv2/vendor-list/categories?siteId=16129&consentLanguage=en [application/json; charset=utf-]
-      {"categories":[{"_id":"603f7c502f486867def44878","type":"IAB_PURPOSE","name":"Store and/or access information on a device","description":"Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other informa
-    GET 200 https://careers.sky.com/locations?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://careers.sky.com/earlycareers?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://careers.sky.com/application-journey?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://careers.sky.com/blog?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://careers.sky.com/?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://careers.sky.com/jobs/t-R0060121?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://careers.sky.com/jobs/t-R0060919?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://careers.sky.com/jobs/t-R0061008?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://careers.sky.com/jobs/t-R0061052?_rsc=QsxRzy58luoz_qpw [text/x-component]
-    GET 200 https://careers.sky.com/jobs/t-R0060184?_rsc=QsxRzy58luoz_qpw [text/x-component]
-
-######## Browser: Sky Early Careers  https://careers.sky.com/early-careers
-  Ende-URL: https://careers.sky.com/early-careers | Titel: Sky Careers
-  Signaturen im HTML: []
-  Links gesamt 27, jobähnlich 16:
-    https://careers.sky.com/early-careers#main | Skip to main content
-    https://careers.sky.com/ | 
-    https://careers.sky.com/about | About Sky
-    https://careers.sky.com/lifeatsky | Life at Sky
-    https://careers.sky.com/teams | Our Teams
-    https://careers.sky.com/earlycareers | Early Careers
-    https://careers.sky.com/locations | Locations
-    https://careers.sky.com/application-journey | Application Journey
-    https://careers.sky.com/blog | Blogs
-    https://careers.sky.com/ | Home
-    https://careers.sky.com/ | 
-    https://careers.sky.com/cz | Sky Czechia
-    https://careers.sky.com/ie | Sky Careers Ireland
-    https://careers.sky.com/it | Sky Careers Italy
-    https://jobs.comcast.com/ | Comcast Careers
-    https://www.nbcunicareers.com/ | NBC Universal Careers
-  Seitentext: Skip to main content About Sky Life at Sky Our Teams Early Careers Locations Application Journey Blogs Jobs 404 - page not found Oops. You've run off course... Head back home to try a different route. Home Sky Logo © 2025 Sky Career Links Sky Corporate Sky Czechia Sky Careers Ireland Sky Careers Italy Comcast Corporate Comcast Careers NBC Universal Careers Social Media Links Legal Links Terms & Conditions Accessibility Modern Slavery Privacy Options Privacy & Cookies
-  XHR/JSON-Antworten (17):
-    GET 200 https://cdn.privacy-mgmt.com/wrapper/v2/meta-data?hasCsp=true&accountId=630&env=prod&metadata=%7B%22gdpr%22%3A%7B%7D%7D&propertyId=16129&scriptVersion=4.41.0&scriptType=unified [application/json; charset=utf-]
-      {"gdpr":{"additionsChangeDate":"2026-02-11T12:46:32.199Z","getMessageAlways":false,"googleConsentModeV2":true,"legalBasisChangeDate":"2026-02-11T12:46:32.199Z","sample":false,"version":29,"_id":"603f7c52a2286397ae77bb13","applies":true,"sampleRate":1}}
-    GET 200 https://careers.sky.com/ie?_rsc=0JRbJX4JgpfuvHsr [text/x-component]
-    GET 200 https://cdn.privacy-mgmt.com/wrapper/v2/messages?hasCsp=true&env=prod&body=%7B%22accountId%22%3A630%2C%22campaignEnv%22%3A%22prod%22%2C%22campaigns%22%3A%7B%22gdpr%22%3A%7B%22consentStatus%22%3A%7B%22 [application/json; charset=utf-]
-      {"propertyId":16129,"propertyPriorityData":{"stage_message_limit":1,"site_id":16129,"public_campaign_type_priority":[1],"multi_campaign_enabled":true,"stage_campaign_type_priority":[1],"public_message_limit":1},"campaigns":[{"type":"GDPR","message":{"message_json":{"message_json_string":"{\"type\":\
-    GET 302 https://careers.sky.com/it?_rsc=0JRbJX4JgpfuvHsr []
-    GET 200 https://careers.sky.com/cz?_rsc=0JRbJX4JgpfuvHsr [text/x-component]
-    GET 200 https://cdn.privacy-mgmt.com/consent/tcfv2/vendor-list/categories?siteId=16129 [application/json; charset=utf-]
-      {"categories":[{"_id":"603f7c502f486867def44878","type":"IAB_PURPOSE","name":"Store and/or access information on a device","description":"Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other informa
-    GET 200 https://cdn.privacy-mgmt.com/consent/tcfv2/vendor-list/categories?siteId=16129&consentLanguage=en [application/json; charset=utf-]
-      {"categories":[{"_id":"603f7c502f486867def44878","type":"IAB_PURPOSE","name":"Store and/or access information on a device","description":"Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other informa
-    GET 200 https://careers.sky.com/lifeatsky?_rsc=0JRbJX4JgpfuvHsr [text/x-component]
-    GET 200 https://careers.sky.com/about?_rsc=0JRbJX4JgpfuvHsr [text/x-component]
-    POST 200 https://cdn.privacy-mgmt.com/wrapper/v2/pv-data?hasCsp=true&env=prod&ch=508491992508491992bb13&scriptVersion=4.41.0&scriptType=unified [application/json; charset=utf-] POST='{"gdpr":{"applies":true,"categoryId":1,"consentStatus":{"rejectedAny":false,"rejectedLI":false,"consentedAll":false,"granularStatus":{"vendorConsent":"NONE","vendorLegInt":"EMPTY_VL","purposeConsent":"NONE","purposeLegInt":"EMPTY_VL","previousOptInAll":false,"defaultConsent":true},"hasConsentData":f'
-      {"gdpr":{"uuid":"2b435841-2fb4-4fca-9031-4122ec9205f0"}}
-    GET 200 https://careers.sky.com/it/en [text/x-component]
-    GET 200 https://careers.sky.com/teams?_rsc=0JRbJX4JgpfuvHsr [text/x-component]
-    GET 200 https://careers.sky.com/locations?_rsc=0JRbJX4JgpfuvHsr [text/x-component]
-    GET 200 https://careers.sky.com/blog?_rsc=0JRbJX4JgpfuvHsr [text/x-component]
-    GET 200 https://careers.sky.com/application-journey?_rsc=0JRbJX4JgpfuvHsr [text/x-component]
-    GET 200 https://careers.sky.com/earlycareers?_rsc=0JRbJX4JgpfuvHsr [text/x-component]
-    GET 200 https://careers.sky.com/?_rsc=0JRbJX4JgpfuvHsr [text/x-component]
-
-######## Browser: Maersk  https://www.maersk.com/careers/vacancies
-  Ende-URL: https://www.maersk.com/careers/vacancies | Titel: Vacancies | Careers at Maersk
-  Signaturen im HTML: ['myworkdayjobs']
-  Links gesamt 0, jobähnlich 0:
-  Seitentext: 
-  XHR/JSON-Antworten (0):
-
-######## Browser: Lenovo  https://jobs.lenovo.com/en_US/careers/SearchJobs/intern
-  Ende-URL: https://jobs.lenovo.com/en_US/careers/SearchJobs/intern# | Titel: Job Search | Lenovo
-  Signaturen im HTML: ['avature']
-  Formular: {'action': {'0': 'ref: <Node>', '1': 'ref: <Node>'}, 'method': 'post', 'inputs': ['jobSort=', 'jobSortDirection=', 'listFilterMode=true', 'search=intern', '13036[]=', '=', '13037[]=', '=', '13038[]=', '=', '1637[]=', '=', '7715[]=', '=', 'timeZone=GMT']}
-  Links gesamt 98, jobähnlich 90:
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern#main | Skip to content
-    https://jobs.lenovo.com/en_US/careers | Lenovo
-    https://jobs.lenovo.com/en_US/careers/Home#whyLenovo | WHY LENOVO
-    https://jobs.lenovo.com/en_US/careers/Perks | BENEFITS
-    https://jobs.lenovo.com/en_US/careers/Culture | CULTURE
-    https://jobs.lenovo.com/en_US/careers/Locations | LOCATIONS
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern# | UNIVERSITY
-    https://jobs.lenovo.com/en_US/careers/University | University
-    https://jobs.lenovo.com/en_US/careers/EarlyCareer | Early Career
-    https://jobs.lenovo.com/en_US/careers/Internship | Internships
-    https://jobs.lenovo.com/en_US/careers/Login | LOG IN
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern# | ENGLISH
-    https://jobs.lenovo.com/de_DE/careers/SearchJobs/intern | Deutsch
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern | English
-    https://jobs.lenovo.com/es_ES/careers/SearchJobs/intern | Español - ES
-    https://jobs.lenovo.com/fr_FR/careers/SearchJobs/intern | Français - France
-    https://jobs.lenovo.com/pt_BR/careers/SearchJobs/intern | Português - Brasil
-    https://jobs.lenovo.com/zh_CN/careers/SearchJobs/intern | 中文 - 简体
-    https://jobs.lenovo.com/zh_TW/careers/SearchJobs/intern | 中文 - 繁體
-    https://jobs.lenovo.com/ja_JP/careers/SearchJobs/intern | 日本語
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern# | 
-    https://jobs.lenovo.com/en_US/careers/RecommendationMethods | Get recommendations
-    https://jobs.lenovo.com/en_US/careers/SearchJobs | Reset
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern# | Sort by
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern/?jobRecordsPerPage=10&jobOffset=10 | 2
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern/?jobRecordsPerPage=10&jobOffset=20 | 3
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern/?jobRecordsPerPage=10&jobOffset=30 | 4
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern/?jobRecordsPerPage=10&jobOffset=40 | 5
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern/?jobRecordsPerPage=10&jobOffset=50 | 6
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern/?jobRecordsPerPage=10&jobOffset=10 | Next >>
-    https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Intern/81972 | AI Intern
-    https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Intern/81972 | Apply
-    https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2 | Share AI Intern with LinkedIn
-    mailto:?body=https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Intern/81972 | Share AI Intern with a friend via e-mail
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern# | 
-    https://jobs.lenovo.com/en_US/careers/JobDetail/Procurement-Intern/83689 | Procurement Intern
-    https://jobs.lenovo.com/en_US/careers/JobDetail/Procurement-Intern/83689 | Apply
-    https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2 | Share Procurement Intern with LinkedIn
-    mailto:?body=https://jobs.lenovo.com/en_US/careers/JobDetail/Procurement-Intern/83689 | Share Procurement Intern with a friend via e-mail
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern# | 
-    https://jobs.lenovo.com/en_US/careers/JobDetail/EMEA-Talent-Acquisition-Intern-CF/83058 | Talent Acquisition Intern
-    https://jobs.lenovo.com/en_US/careers/JobDetail/EMEA-Talent-Acquisition-Intern-CF/83058 | Apply
-    https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2 | Share Talent Acquisition Intern with LinkedIn
-    mailto:?body=https://jobs.lenovo.com/en_US/careers/JobDetail/EMEA-Talent-Acquisition-Intern-CF/83058 | Share Talent Acquisition Intern with a friend via e-mail
-    https://jobs.lenovo.com/en_US/careers/SearchJobs/intern# | 
-  Seitentext: Skip to content Lenovo WHY LENOVO BENEFITS CULTURE LOCATIONS UNIVERSITY LOG IN ENGLISH Smarter Takes You Search for open positions Keywords Search Reset Country/Region State City Career area Position type Not sure where to start? Get recommendations 1-10 of 546 jobs Filters applied (Reset) Sort by 1 2 3 4 5 6 Next >> AI Intern Hardware Engineering Malaysia, Wilayah Persekutuan Kuala Lumpur, Kuala Lumpur Req #: WD00105989 Posted 05-Oct-2026 Apply Share Procurement Intern Administrative Mexico, Nuevo León, Monterrey Req #: WD00108020 Posted 12-Nov-2026 Apply Share Talent Acquisition Intern Human Resources Slovakia, Bratislavský kraj, Bratislava Req #: WD00107635 Posted 27-Oct-2026 Apply Share Lenovo Accelerated Sales Rotational Program Intern [LASR] CA - Summer 2027 Sales Canada, Ontario, Markham Req #: WD00105289 Posted 11-Sep-2026 Apply Share Lenovo Future X - Summer Internship 2027 Artificial Intelligence Hong Kong, Hong Kong Req #: 100017851 Posted 03-Nov-2026 Apply Share Internal Sales Representative - Public Sector Sales United Kingdom, Hampshire, Farnborough Req #: WD00106427 Posted 29-Oct-2026 Apply Share University Recruiting Programs Intern - Spring and Summer 2027 Human Resources United States of America, North Carolina, Morrisville Req #: WD00108853 Posted 13-Nov-2026 Apply Share Business Analytics Intern Data Management and Analytics Singapore, Central Singapore, SINGAPORE Req #: 100017892 Posted 10-Nov-2026 Apply Share Finance Intern Accounting/Finance United States of America, Illinois, Chicago Req #: WD00107365 Posted 11-Nov-2026 Apply Share Sales Support Intern Sales Support Slovakia, Bratislavský kraj, Bratislava Req #: WD00107928 Posted 05-Nov-2026 Apply Share 1 2 3 4 5 6 Next >> Don’t see a fit at this time? Join our Talent Community to stay connected and hear the latest news at Lenovo. Join our talent community Lenovo.com | Privacy | Terms of use | FAQs | AI in Hiring Notice | Cookie Consent Tool Instagram Facebook Twitter LinkedIn YouTube © 2026 Lenovo. All rights reserved
-  XHR/JSON-Antworten (5):
-    GET 200 https://jobs.lenovo.com/4/_portalCookieUserConsent?method=getAll [application/json; charset=UTF-]
-      {"success":true,"data":[{"id":4,"name":"Analytics","languageId":1,"description":"We use analytics to improve our website by better understanding how often users visit the site, what pages they visit most, and how long they spend on our site. We'll rely on cookies and third-party partners to track th
-    GET 200 https://jobs.lenovo.com/4/_portalCookieUserConsent?method=shouldRequestConsent [application/json; charset=UTF-]
-      {"success":true,"data":{"shouldRequestConsent":true}}
-    POST 200 https://jobs.lenovo.com/4/_portalCookieUserConsent [application/json; charset=UTF-] POST='method=updateTypesConsent&data=%7B%221%22%3Atrue%2C%222%22%3Afalse%2C%223%22%3Afalse%2C%224%22%3Afalse%7D'
-    GET 200 https://jobs.lenovo.com/4/_portalCookieUserConsent?method=getAll [application/json; charset=UTF-]
-      {"success":true,"data":[{"id":4,"name":"Analytics","languageId":1,"description":"We use analytics to improve our website by better understanding how often users visit the site, what pages they visit most, and how long they spend on our site. We'll rely on cookies and third-party partners to track th
-    GET 200 https://jobs.lenovo.com/4/_portalCookieUserConsent?method=shouldRequestConsent [application/json; charset=UTF-]
-      {"success":true,"data":{"shouldRequestConsent":false}}
-
-######## Browser: UniCredit  https://careers.unicredit.eu/en_GB/jobsearch
-  Ende-URL: https://careers.unicredit.eu/en_GB/jobsearch | Titel: Job Search | UniCredit
-  Signaturen im HTML: ['avature']
-  Formular: {'action': 'ref: <Node>', 'method': 'post', 'inputs': ['jobSort=', 'jobSortDirection=', 'listFilterMode=true', 'search=', '1286[]=', '=', '15082_location_place=', '15082_location_radius=', '15082_location_coordinates=', '15082_hidden=1', '15083_location_place=', '15083_location_radius=', '15083_location_coordinates=', '12248[]=', '=']}
-  Links gesamt 241, jobähnlich 239:
-    https://careers.unicredit.eu/en_GB/jobsearch# | Accept all
-    https://careers.unicredit.eu/en_GB/jobsearch# | Reject all
-    https://careers.unicredit.eu/en_GB/jobsearch# | Advanced settings
-    https://careers.unicredit.eu/en_GB/jobsearch# | Advanced settings
-    https://careers.unicredit.eu/en_GB/jobsearch# | Save and close
-    https://careers.unicredit.eu/en_GB/jobsearch#main | Skip to content
-    https://careers.unicredit.eu/en_GB/jobsearch | UniCredit
-    https://careers.unicredit.eu/en_GB/jobsearch# | CAREERS
-    https://www.unicreditgroup.eu/en/careers/company-welfare.html | Company Welfare
-    https://www.unicreditgroup.eu/en/careers/learning-and-development.html | Learning and Development
-    https://www.unicreditgroup.eu/en/careers/compensation-and-benefits---.html | Compensation and Benefits
-    https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs | JOB SEARCH
-    https://careers.unicredit.eu/en_GB/jobsearch/TalentCommunity | TALENT COMMUNITY
-    https://careers.unicredit.eu/en_GB/jobsearch/Login | LOGIN
-    https://careers.unicredit.eu/en_GB/jobsearch# | ENGLISH - UK
-    https://careers.unicredit.eu/de_DE/jobsearch | Deutsch
-    https://careers.unicredit.eu/en_GB/jobsearch | English
-    https://careers.unicredit.eu/hr_HR/jobsearch | Hrvatski
-    https://careers.unicredit.eu/it_IT/jobsearch | Italiano
-    https://careers.unicredit.eu/hu_HU/jobsearch | Magyar
-    https://careers.unicredit.eu/pl_PL/jobsearch | Polski
-    https://careers.unicredit.eu/ro_RO/jobsearch | Romanian
-    https://careers.unicredit.eu/sr_RS/jobsearch | Serbian
-    https://careers.unicredit.eu/sl_SI/jobsearch | Slovenian
-    https://careers.unicredit.eu/sk_SK/jobsearch | Slovenština
-    https://careers.unicredit.eu/bs_BA/jobsearch | bosanski
-    https://careers.unicredit.eu/cs_CZ/jobsearch | Čeština
-    https://careers.unicredit.eu/bg_BG/jobsearch | Български
-    https://careers.unicredit.eu/en_GB/jobsearch# | 
-    https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs/?jobRecordsPerPage=15&jobOffset=15 | 2
-    https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs/?jobRecordsPerPage=15&jobOffset=30 | 3
-    https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs/?jobRecordsPerPage=15&jobOffset=45 | 4
-    https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs/?jobRecordsPerPage=15&jobOffset=60 | 5
-    https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs/?jobRecordsPerPage=15&jobOffset=75 | 6
-    https://careers.unicredit.eu/en_GB/jobsearch/SearchJobs/?jobRecordsPerPage=15&jobOffset=15 | Next >>
-    https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcareers.unicredit.eu%2Fen_GB%2Fjobsearch%2FJobDetail%2FMedior-Digital-Product-Spe | Facebook
-    https://careers.unicredit.eu/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.unicredit.eu%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers | LinkedIn
-    http://twitter.com/intent/tweet?url=https%3A%2F%2Fcareers.unicredit.eu%2Fen_GB%2Fjobsearch%2FJobDetail%2FMedior-Digital-Product-Specialist-C | X
-    https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fcareers.unicredit.eu%2Fen_GB%2Fjobsearch%2FJobDetail%2FMedior-Digital-Product-Speciali | Xing
-    mailto:?subject=Medior%2FDigital%20Product%20Specialist%20(Calypso%20%2F%20Securities)%20-%20Job%20search%20UniCredit%20Group&body=https%3A% | Email
-    https://careers.unicredit.eu/en_GB/jobsearch/JobDetail/Medior-Digital-Product-Specialist-Calypso-Securities/117561 | Digital Product Specialist (Calypso / Securities)
-    https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcareers.unicredit.eu%2Fen_GB%2Fjobsearch%2FJobDetail%2FMedior-Digital-Product-Spe | Facebook
-    https://careers.unicredit.eu/_linkedinApiv2?portalUrl=https%3A%2F%2Fcareers.unicredit.eu%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fcareers | LinkedIn
-    http://twitter.com/intent/tweet?url=https%3A%2F%2Fcareers.unicredit.eu%2Fen_GB%2Fjobsearch%2FJobDetail%2FMedior-Digital-Product-Specialist-C | X
-    https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fcareers.unicredit.eu%2Fen_GB%2Fjobsearch%2FJobDetail%2FMedior-Digital-Product-Speciali | Xing
-  Seitentext: This portal protects your privacy by adhering to the European Union General Data Protection Regulation (GDPR). We will not use your data for any purpose that you do not consent to. We request use of anonymized data to improve your experience on our site. Accept all Advanced settings UniCredit CAREERS JOB SEARCH TALENT COMMUNITY LOGIN ENGLISH - UK APPLY NOW TO A TOP EMPLOYER BUILDING THE BANK FOR EUROPE'S FUTURE Search for new vacancies Freetext search Country Location Select an option City Please specify the distance to show jobs around the city and enter at least 3 characters in the location field to receive valid results Distance 10 kilometers 20 kilometers 50 kilometers 100 kilometers Job Type Select an option Select an option Functional area Company Working time Model Search 1 - 15 of 532 results 1 2 3 4 5 6 Next >> Open Positions Digital Product Specialist (Calypso / Securities) Poland Digital & Data Full-time Share View More Apply Дистанционен консултант - ипотечно кредитиране Bulgaria Retail Banking Sales Full-time Share View More Apply Stručni saradnik za poslovanje sa malim privrednim društvima u Subotici Serbia Corporate Banking Sales Full-time Share View More Apply Bankar za male poduzetnike i obrtnike (m/ž) Croatia Retail Banking Sales Full-time Share View More Apply Specijalist za razvoj i implementaciju alata iz domene kreditnog rizika Bosnia and Herzegovina Risk Management Full-time Share View More Apply Мениджър бизнес клиенти, филиал Шумен Bulgaria Retail Banking Sales Full-time Share View More Apply Kis- és középvállalati tanácsadó - Szent István krt. Hungary Retail Banking Sales Full-time Share View More Apply (Старши) Мениджър корпоративни клиенти, Корпоративни клиенти, гр. София Bulgaria Corporate Banking Sales Full-time Share View More Apply Консултант клиенти (по зам.), ф-л Сандански Bulgaria Retail Banking Sales Full-time Share View More Apply Full Stack Developer (React+Java) Bulgaria Digital & Data Full-time Share View More Apply Saradnik za rad sa preduzetnicima i malim privrednim društvima u više gradova (Novi Sad, Inđija, Vršac, Kragujevac, Aranđelovac, Čačak) Serbia Retail Banking Sales Full-time Share View More Apply Касиер, ф-л София Надежда Bulgaria Retail Banking Sales Full-time Share View More Apply Stáž - prídite sa pozrieť 19.11 na centrálu UnicreditBank ! ( rezervácia nutná ) Slovakia People & Culture Full-time Share View More Apply Стажант "Обслужване на клиенти и продажби", ф-л София Аксаков Bulgaria Ret
-  XHR/JSON-Antworten (2):
-    GET 200 https://careers.unicredit.eu/4/_portalCookieUserConsent?method=getAll [application/json; charset=UTF-]
-      {"success":true,"data":[{"id":1,"name":"Essential","languageId":14,"description":"Cookies that are essential for the portal to function properly. They can't be switched off.","variableName":"essential","isBuiltin":1,"sortOrder":1,"canBeDisabled":false,"isEnabled":true},{"id":2,"name":"Functional","l
-    GET 200 https://careers.unicredit.eu/4/_portalCookieUserConsent?method=shouldRequestConsent [application/json; charset=UTF-]
-      {"success":true,"data":{"shouldRequestConsent":true}}
-
-######## Browser: ASML  https://www.asml.com/en/careers/find-your-job?query=internship
-  Ende-URL: https://www.asml.com/en/careers/find-your-job?query=internship | Titel: Find your job - Careers at ASML
-  Signaturen im HTML: []
-  Formular: {'action': 'https://www.asml.com/en/careers/find-your-job?query=internship', 'method': 'get', 'inputs': ['query=']}
-  Formular: {'action': 'https://www.asml.com/en/careers/find-your-job?query=internship', 'method': 'get', 'inputs': ['query=internship']}
-  Links gesamt 114, jobähnlich 34:
-    https://www.asml.com/en/careers/find-your-job?query=internship#content | Skip to main content
-    https://www.asml.com/en/careers/saved-jobs | 
-    https://www.asml.com/en/careers | 
-    https://www.asml.com/en/careers/find-your-job | 
-    https://www.asml.com/en/careers/interview-tips | 
-    https://www.asml.com/en/careers/working-at-asml | 
-    https://www.asml.com/en/careers/working-at-asml/netherlands | 
-    https://www.asml.com/en/careers/working-at-asml/united-states | 
-    https://www.asml.com/en/careers/working-at-asml/taiwan | 
-    https://www.asml.com/en/careers/working-at-asml/south-korea | 
-    https://www.asml.com/en/careers/working-at-asml/china | 
-    https://www.asml.com/en/careers/working-at-asml/japan | 
-    https://www.asml.com/en/careers/working-at-asml/germany | 
-    https://www.asml.com/en/careers/technical-fields | 
-    https://www.asml.com/en/careers/teams | 
-    https://www.asml.com/en/careers/students-new-graduates | 
-    https://www.asml.com/en/careers/students-new-graduates/early-career-programs | 
-    https://www.asml.com/en/careers/students-new-graduates/netherlands | 
-    https://www.asml.com/en/careers/students-new-graduates/us | 
-    https://www.asml.com/en/careers/students-new-graduates/taiwan | 
-    https://www.asml.com/en/careers/students-new-graduates/south-korea | 
-    https://www.asml.com/en/careers/students-new-graduates/china | 
-    https://www.asml.com/en/careers | Careers
-    https://www.asml.com/en/careers/job-alert-subscription?job_type=Fix | Create job alert
-    https://www.asml.com/en/careers/job-alert-subscription?job_type=Fix | Subscribe
-    https://www.asml.com/en/careers/find-your-job/nxe-production-engineer-first-line-support-j00353192 | NEW
-
-NXE Production Engineer First Line Support
-Wilton, CT, USManufact
-    https://www.asml.com/en/careers/find-your-job/production-engineer-tooling-asset-management-j00357511 | NEW
-
-Production Engineer Tooling Asset Management
-Wilton, CT, USManufa
-    https://www.asml.com/en/careers/find-your-job/exe-fls-production-engineer--mechanical-competency-j00353890 | NEW
-
-EXE FLS Production Engineer – Mechanical Competency
-Wilton, CT, U
-    https://www.asml.com/en/careers/find-your-job/duv-fls-production-engineer-j00346629 | NEW
-
-DUV FLS Production Engineer
-Wilton, CT, USDesign Engineering and 
-    https://www.asml.com/en/careers/find-your-job/fls-production-engineer-optical-alignment-metrology-competency-cww--n2-j00344928 | FLS Production Engineer - Optical Alignment & Metrology Competency (CW
-    https://www.asml.com/en/careers | Careers
-    https://www.asml.com/en/careers/find-your-job | Search jobs
-    https://www.asml.com/en/careers/find-your-job | Job search
-    https://www.asml.com/en/careers | Careers
-  Seitentext: Skip to main content Company Careers Technology Products News Investors Contact us SupplierNet CustomerNet Search SEARCH Home Careers Find your job Filter results Location Filter jobs by location China France Germany Ireland Japan Korea, Republic of Malaysia Netherlands Singapore Taiwan US Filter jobs by location Job Type Jobs Internships Team Applications Engineering Business Performance Improvement Communications Customer Support Data and Analytics Design Engineering and Architecture EHS Finance Human Resources IT Intellectual Property Interns and Trainees Learning and Knowledge Management Legal, Compliance, Risk and Assurance Management Support Manufacturing Marketing Planning Product Management Projects, Programs and Change Quality Real Estate and Facilities Management Research and Technology Development Sales & Customer Management Sourcing and Supply Chain Management Strategy Technical field About technical fields D&E Architects D&E Planner / Integrator Electrical Engineering Electron Optics Heat and Mass Transfer Lithography System Performance Management Design Engineering Mechanical Engineering Mechatronics Optical Optical Sensing Plasma and Laser Physics Software System Industrialization System Integration and Testing Degree Experience level Educational background SEARCH Search now Create job alert Sort by Relevance Newest on top 5 RESULTS PAGE 1 / 1 5 results found NEW NXE Production Engineer First Line Support Wilton, CT, USManufacturing NEW Production Engineer Tooling Asset Management Wilton, CT, USManufacturing NEW EXE FLS Production Engineer – Mechanical Competency Wilton, CT, USManufacturing NEW DUV FLS Production Engineer Wilton, CT, USDesign Engineering and Architecture FLS Production Engineer - Optical Alignment & Metrology Competency (CWW – N2) Wilton, CT, USDesign Engineering and Architecture Home Careers / Search jobs / LEARN History Products Technology Sustainability News WORK AT ASML Job search Careers Organization Locations INVEST Annual reports Quarterly results Capital Markets Days Share information GET IN TOUCH Contact information Contact Media Relations Contact Investor Relations CustomerNet SupplierNet SOCIAL MEDIA Manage cookie settings Copyright © 2019-2026 (ASML) All Rights Reserved Terms of usePrivacyCookiesTerms & conditionsAccessibility
-  XHR/JSON-Antworten (62):
-    POST 200 https://www.asml.com/api/search-token [application/json; charset=utf-] POST='{"force":false}'
-      {"accessToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhcGlLZXkvNjJmNThkOTMiLCJzY29wZSI6eyIxMjYyMDA0NzciOlsiMW85eW53Zjd1YyIsIm83dDVycmJqazAiXX0sInN0YWdlIjoicHJvZCIsInJlZ2lvbiI6ImV1LWNlbnRyYWwtMSIsImp0aSI6IjhiZTNiODg3LWMxNjYtNGFjNC1hY2YxLWFiMjI0OTViNGNhNyIsImlhdCI6MTc5NDgyNTMxMywiZXhwIjoxNzk
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en.json [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E30AA}","name":"Default"
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/technical-fields.json?path=careers&path=technical-fields [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers/technical-fields","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/euv-lithography-systems.json?path=products&path=euv-lithography-systems [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/products/euv-lithography-systems","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/company.json?path=company [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/company","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E30AA}","name":"D
-    GET 201 https://edge-platform.sitecorecloud.io/v1/events/v1.2/browser/create.json?client_key= [application/json]
-      {"status":"OK","version":"1.2","client_key":"e63017d42bd27b9a5391bb5fad1f0a02","ref":"6eaeeca0-3f61-492c-87fd-aa10cedd9221","customer_ref":"81bfc38a-f786-4008-ba95-469b5bf1deea"}
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job.json?path=en&path=careers&path=find-your-job [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers/find-your-job","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{05ECDE46-D5B3-4F37-A4BC-FBF9BF5368
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/company/stories.json?path=company&path=stories [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/company/stories","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E30AA}","
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/computational-lithography.json?path=products&path=computational-lithography [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/products/computational-lithography","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/refurbished-systems.json?path=products&path=refurbished-systems [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/products/refurbished-systems","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products.json?path=products [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/products","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E30AA}","name":"
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/technology.json?path=technology [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/technology","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E30AA}","name"
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/duv-lithography-systems.json?path=products&path=duv-lithography-systems [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/products/duv-lithography-systems","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/company/sustainability.json?path=company&path=sustainability [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/company/sustainability","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E3
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/technology/software.json?path=technology&path=software [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/technology/software","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E30AA
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/teams.json?path=careers&path=teams [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers/teams","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E30AA}","na
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers.json?path=careers [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E30AA}","name":"D
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job.json?path=careers&path=find-your-job [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers/find-your-job","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{05ECDE46-D5B3-4F37-A4BC-FBF9BF5368
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/saved-jobs.json?path=careers&path=saved-jobs [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers/saved-jobs","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/customer-support.json?path=products&path=customer-support [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/products/customer-support","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers.json?path=en&path=careers [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E30AA}","name":"D
-    POST 201 https://edge-platform.sitecorecloud.io/v1/events/v1.2/events?siteId=asmlcom [application/json] POST='{"browser_id":"6eaeeca0-3f61-492c-87fd-aa10cedd9221","channel":"WEB","client_key":"","currency":"EUR","language":"en","page":"Find Your Job","pos":"","requested_at":"2026-11-16T10:56:33.238Z","type":"VIEW","ext":{"pageVariantId":"2188a6a6fa98476cb698e3ac66eb1151_en_default"}}'
-      {"status":"OK","version":"1.2","client_key":"e63017d42bd27b9a5391bb5fad1f0a02","ref":"d597b07c-60cd-4aaa-9129-d887b056d3fe"}
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/interview-tips.json?path=careers&path=interview-tips [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers/interview-tips","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E3
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en.json?path=en [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-4905-8B17-141E1D1E30AA}","name":"Default"
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/metrology-and-inspection-systems.json?path=products&path=metrology-and-inspection-systems [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/products/metrology-and-inspection-systems","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{A2735DF5-E289-
-    POST 200 https://discover-euc1.sitecorecloud.io/discover/v2/126200477 [application/json; charset=utf-] POST='{"context":{"page":{"uri":"https://www.asml.com/en/careers/find-your-job?query=internship"},"locale":{"country":"us","language":"en"}},"widget":{"items":[{"entity":"content","rfk_id":"asml_job_search","search":{"limit":25,"offset":0,"facet":{"all":true}}}]}}'
-      {"widgets":[{"rfk_id":"asml_job_search","type":"content_grid","used_in":"common_across_pages","entity":"content","facet":[{"name":"job_teams","label":"Job Teams","value":[{"id":"facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoiam9iX3RlYW1zIiwidmFsdWUiOiJBcHBsaWNhdGlvbnMgRW5naW5lZXJpbmcifQ==","text":"Applications
-    POST 200 https://discover-euc1.sitecorecloud.io/discover/v2/126200477 [application/json; charset=utf-] POST='{"context":{"page":{"uri":"https://www.asml.com/en/careers/find-your-job?query=internship"},"locale":{"country":"us","language":"en"},"user":{"uuid":"126200477-o7-ns-4h-1p-j29gvjgw5y11j991uu8u-1794826593778"}},"widget":{"items":[{"entity":"content","rfk_id":"asml_job_search","search":{"limit":25,"of'
-      {"widgets":[{"rfk_id":"asml_job_search","type":"content_grid","used_in":"common_across_pages","entity":"content","content":[{"description":"<h2>Introduction to the Job</h2><br /><p>At ASML, your work helps enable the technology behind the world&#39;s most advanced microchips. As a Production Enginee
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/nxe-production-engineer-first-line-support-j00353192.json [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers/find-your-job/,-w-,","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{05ECDE46-D5B3-4F37-A4BC-FBF9
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/exe-fls-production-engineer--mechanical-competency-j00353890.json [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers/find-your-job/,-w-,","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{05ECDE46-D5B3-4F37-A4BC-FBF9
-    GET 200 https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/production-engineer-tooling-asset-management-j00357511.json [application/json; charset=utf-]
-      {"pageProps":{"page":{"layout":{"sitecore":{"context":{"pageEditing":false,"site":{"name":"asmlcom"},"pageState":"normal","editMode":"chromes","language":"en","itemPath":"/careers/find-your-job/,-w-,","siteId":"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}","pageDesign":{"id":"{05ECDE46-D5B3-4F37-A4BC-FBF9
-    GET 200 https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_orgid=0CCF34FA53DA88670A490D44%40AdobeOrg&d_nsid=0&ts=1794826594600 [application/json;charset=utf-8]
-      {"d_mid":"38553399967576059730397674879433121942","id_sync_ttl":604800,"d_blob":"6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y","dcs_region":9,"d_ottl":7200,"ibs":[{"id":"411","ttl":10080,"tag":"img","fireURLSync":1,"syncOnPage":1,"url":["//cm.everesttech.net/cm/dd?d_uuid=38578190927866053030
-    POST 200 https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_3Lkkre1uvWSeVIz&Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web [application/json] POST='Q_LOC=https%3A%2F%2Fwww.asml.com%2Fen%2Fcareers%2Ffind-your-job%3Fquery%3Dinternship&xmdRetryCount=0&hasAnalyticsConsent=null&Timestamp=2026-11-16T10%3A56%3A34.646Z'
-      {"Intercepts":[{"InterceptID":"SI_eOL9hG2QAQGHqOG","InterceptRevision":null,"Decision":{"ActionSetID":null,"Creative":null,"Target":{"Type":"","URL":"","OriginalURL":null,"OriginalURLOrigin":null,"DisplayType":null},"PopUnderTarget":null},"DistributionID":null,"DirectoryID":null,"ContactID":null,"Su
-    POST 200 https://discover-euc1.sitecorecloud.io/event/61398015-126200477/v4/publish [application/json; charset=utf-] POST='{"name":"widget","action":"view","client_time_ms":1794826594133,"uuid":"126200477-o7-ns-4h-1p-j29gvjgw5y11j991uu8u-1794826593778","value":{"context":{"page":{"locale_country":"us","locale_language":"en","uri":"https://www.asml.com/en/careers/find-your-job?query=internship"},"browser":{"user_agent":"'
-      {"success":true,"debug_object":{}} 
-    POST 200 https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_5mvWFI1g8Ili9HU&Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web [application/json] POST='Q_LOC=https%3A%2F%2Fwww.asml.com%2Fen%2Fcareers%2Ffind-your-job%3Fquery%3Dinternship&xmdRetryCount=0&hasAnalyticsConsent=null&Timestamp=2026-11-16T10%3A56%3A34.938Z'
-      {"Intercepts":[{"InterceptID":"SI_3EsqUpu0YMSmDoW","InterceptRevision":null,"Decision":{"ActionSetID":null,"Creative":null,"Target":{"Type":"","URL":"","OriginalURL":null,"OriginalURLOrigin":null,"DisplayType":null},"PopUnderTarget":null},"DistributionID":null,"DirectoryID":null,"ContactID":null,"Su
-    GET 200 https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_abCDrYds71dhxYi&Version=20&Q_InterceptID=SI_81jogMxCxSHrwtE&Q_ORIGIN=https://www.asml.com&Q_CLIENTVERSION=2.61.0&Q_CLIENTT [application/json; charset=utf-]
-      {"CreativeDefinition":{"CreativeID":"CR_abCDrYds71dhxYi","BrandID":"asmlcx","Revision":"20","Title":"Creative - Job Detail pages EN - Validate clarity","ZoneID":"ZN_5mvWFI1g8Ili9HU","Options":{"Questions":[{"SurveyQuestionId":"QID1","QID":"QID1","QuestionText":"Is this job information clear to you?"
-    GET 200 https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_81jogMxCxSHrwtE&Version=41&Q_ORIGIN=https://www.asml.com&Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BrandTier=RQqcwhV2J1&Q_ [application/json; charset=utf-]
-      {"InterceptDefinition":{"BrandID":"asmlcx","InterceptID":"SI_81jogMxCxSHrwtE","InterceptName":"Job Detail pages EN - Validate clarity","Revision":"41","DeletedDate":null,"ActionSets":{"AS_14328936":{"ID":"AS_14328936","Creative":"CR_abCDrYds71dhxYi","WeightedSampleRate":"","Target":{"PrimaryElement"
-    GET 200 https://pixel-config.reddit.com/pixels/t2_6cmitl35t/config [application/json]
-      {"aam":{},"esc":{"page_metadata":true}} 
-    POST 200 https://alb.reddit.com/rp?id=t2_6cmitl35t&event=PageVisit [text/plain; charset=utf-8] POST='ts=1794826595233&id=t2_6cmitl35t&event=PageVisit&uuid=9b9294d9-d315-4ff6-bae0-792b242c383c&integration=reddit&opt_out=0&sh=1366&sw=900&v=rdt_fe24cf0d&esurl=https%3A%2F%2Fwww.asml.com%2Fen%2Fcareers%2Ffind-your-job&db=tsc-0.iframe-0.isc-0.pp-0.mo-1.srv_cfg-0.src_pid-0.pms-2&mthd=POST'
-    GET 200 https://eu01.rec.mouseflow.com/init?v=19.22&p=440a9c59-1138-4069-8dbb-9b40001ac086&s=7a42cc0940e03b6d726c29925ee08642&page=11163308db1ce48b710c90000df1b11d578d9806&ret=0&u=0875b37cf7d44f9b36882d1caef4 [text/plain]
-
-######## Browser: Heineken  https://careers.theheinekencompany.com/search/?q=intern
-  Ende-URL: https://careers.theheinekencompany.com/search/?q=intern | Titel: Page not found | HEINEKEN Careers
-  Signaturen im HTML: ['successfactors']
-  Formular: {'action': 'https://careers.theheinekencompany.com/search/?q=intern', 'method': 'post', 'inputs': ['form_build_id=form-SLK8cAxe-YXO5PmnW1Yuv1R8Q', 'form_id=age_gate_form', 'country=US', 'dob_year=', 'dob_month=', 'dob_day=', 'op=Enter', 'remember_me=1', 'cookie_hidden_data=Replace with cookie default va']}
-  Formular: {'action': 'https://careers.theheinekencompany.com/search-result', 'method': 'get', 'inputs': ['q=']}
-  Formular: {'action': 'https://careers.theheinekencompany.com/search-result', 'method': 'get', 'inputs': ['q=']}
-  Links gesamt 154, jobähnlich 140:
-    https://careers.theheinekencompany.com/terms-and-conditions | Terms and Conditions
-    https://careers.theheinekencompany.com/privacy-policy | Privacy Policy
-    https://careers.theheinekencompany.com/search/?q=intern#main-content | Skip to main content
-    https://careers.theheinekencompany.com/ | 
-    https://careers.theheinekencompany.com/why-join-us | Why Join Us
-    https://careers.theheinekencompany.com/ | Go back to Global Careers
-    https://careers.theheinekencompany.com/what-we-do | What We Do
-    https://careers.theheinekencompany.com/Early-Careers | Students & Graduates
-    https://careers.theheinekencompany.com/Job-Listing | Job Search
-    https://careers.theheinekencompany.com/Francais/Tango | 
-    https://careers.theheinekencompany.com/KWAL | 
-    https://careers.theheinekencompany.com/BRALIRWA | 
-    https://careers.theheinekencompany.com/Brarudi | 
-    https://careers.theheinekencompany.com/Francais/Brasseries-de-Bourbon | 
-    https://careers.theheinekencompany.com/HBI | 
-    https://careers.theheinekencompany.com/Al-Ahram-Beverages | 
-    https://careers.theheinekencompany.com/Portugues/HEINEKEN-Mozambique | 
-    https://careers.theheinekencompany.com/HEINEKEN-Beverages | 
-    https://careers.theheinekencompany.com/HEINEKEN-Ethiopia | 
-    https://careers.theheinekencompany.com/Namibia-Breweries | 
-    https://careers.theheinekencompany.com/SONOBRA-Group | 
-    https://careers.theheinekencompany.com/Francais/Brassivoire | 
-    https://careers.theheinekencompany.com/Nigerian-Breweries | 
-    https://careers.theheinekencompany.com/Commonwealth-Brewery | 
-    https://careers.theheinekencompany.com/Red-Stripe | 
-    https://careers.theheinekencompany.com/HEINEKEN-Saint-Lucia | 
-    https://careers.theheinekencompany.com/HEINEKEN-Brasil | 
-    https://careers.theheinekencompany.com/Espanol/HEINEKEN-Mexico | 
-    https://careers.theheinekencompany.com/Nederlands/Surinaamse-Brouwerij | 
-    https://careers.theheinekencompany.com/HEINEKEN-Canada | 
-    https://careers.theheinekencompany.com/HEINEKEN-Panama | 
-    https://careers.theheinekencompany.com/HEINEKEN-USA | 
-    https://careers.theheinekencompany.com/HEINEKEN-Ecuador | 
-    https://careers.theheinekencompany.com/HEINEKEN-Peru | 
-    https://careers.theheinekencompany.com/Lagunitas | 
-    https://careers.theheinekencompany.com/Brana-Haiti | 
-    https://careers.theheinekencompany.com/Drinkworks | 
-    https://careers.theheinekencompany.com/HEINEKEN-Myanmar | 
-    https://careers.theheinekencompany.com/HEINEKEN-APAC | 
-    https://careers.theheinekencompany.com/HEINEKEN-Cambodia | 
-    https://careers.theheinekencompany.com/Grande-Brasserie-de-Nouvelle-Caledonie | 
-    https://careers.theheinekencompany.com/Solomon-Breweries | 
-    https://careers.theheinekencompany.com/United-Breweries-Limited | 
-    https://careers.theheinekencompany.com/heineken-business-services-india | 
-    https://careers.theheinekencompany.com/DB-Breweries | 
-  Seitentext: Great experience start with responsibility Verify your age and location to proceed Country Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bosnia and Herzegovina Botswana Bouvet Island Brasil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo (DROC) Cook Islands Costa Rica Cote d'Ivoire Croatia Cuba Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Macedonia Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Israel Italy Jamaica Japan Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia Moldova Monaco Mongolia Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Korea Northern Mariana Islands Norway Oman Pakistan Palau Palestinian Territory Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Islands Poland Portugal Puerto Rico Qatar Reunion Romania Russia Rwanda Saint Helena Saint Kitts and Nevis Saint Lucia Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia/Montenegro Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands United States o
-  XHR/JSON-Antworten (6):
-    GET 200 https://nexus.ensighten.com/heineken/careers/serverComponent.php?namespace=Bootstrapper&staticJsPath=nexus.ensighten.com/heineken/careers/code/&ClientID=2681&PageID=https%3A%2F%2Fcareers.theheinekenco [application/json]
-      {"pageFiles":[{"src":"https://nexus.ensighten.com/heineken/careers/code/8ae8ad4cb80e7087bda272e10aad21db.js?conditionId0=4825502"}],"dataDefinitionIds":[64016,65056,65057,65058,65060,65366,65055]}
-    POST 200 https://careers.theheinekencompany.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/f8df4d4a0cd6/0.29193646927797245:1794823833:gCvxeCBZnGcDW54vUFD2T8pv_wVG23XDPOxLIxWsfBc/a5b5f87b999fad05 [text/plain; charset=UTF-8] POST='8y7dKug2efmA129ocYZg$MKQG2rrswGxi0Nq04++gcj2cBLcvuR-9sKLMUmhXZcDieKRD8N0f1F-3GQWDGfVhkkcQ0nSR-km1oH177UGKycNzN1Q0xHgmhr06Sp20XNkG$V8w0+Ho-dyK0aIIuzu3NKLyaafNDtGwjFfrgP0ebNsNH1HHbL5R14W42IrpZMxnH57ixNy0D9-Tx4Q9nRgqRX0f1-nsrrLmLkK7kfzf1B92m7igLX-XHyyWMbTZmmGRQJgZZIZlLh0VaMi8814J-CkjMGVHulrjlqbLCDZ0001'
-    POST 200 https://careers.theheinekencompany.com/searchfacettag?q=intern [text/html; charset=UTF-8] POST='{"Handler":"facet","keyword":"intern","langcode":"en","querytype":"Exact"}'
-    POST 200 https://careers.theheinekencompany.com/solrSearch [text/html; charset=UTF-8] POST='{"Handler":"facet","keyword":"intern","langcode":"en","start":0,"page":1,"querytype":"Exact"}'
+######## HTTP: https://careers.theheinekencompany.com/search-result?q=intern
+  200 text/html; charset=UTF-8 205951 Zeichen, Ende-URL https://careers.theheinekencompany.com/search-result?q=intern
+   <!DOCTYPE html> <html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# schema: http://schema.org/ sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# "> <head> <meta charset="utf-8" /> <meta name="description" content="Search result" /> <link rel="canonical" href="https://careers.theheinekencompany.com/search-result" /> <meta property="og:site_name" content="HEINEKEN Careers" /> <meta property="og:type" content="article" /> <meta property="og:url" content="https://careers.theheinekencompany.com/search-result" /> <meta property="og:title" content="Search result" /> <meta property="og:description" content="Search result" /> <meta name="MobileOptimized" content="width" /> <meta name="HandheldFriendly" content="true" /> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /> <meta property="og:image" content="https://careers.theheinekencompany.com/sites/heineken-careers/files/heineken-careers/og-image/HEINEKEN.png" /> <meta property="og:image:url" content="https://careers.theheinekencompany.com/sites/heineken-careers/files/heineken-careers/og-image/HEINEKEN.png" /> <meta name="meta_solrsearch" content="noindex" /> <link rel="icon" href="/sites/heineken-careers/files/heineken-ca

@@ -1,0 +1,22 @@
+Firmen (1): Lenovo
+
+== Lenovo ==
+    [page] https://jobs.lenovo.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50&jobOf -> 10 neu
+    [page] https://jobs.lenovo.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50&jobOf -> 10 neu
+    [page] https://jobs.lenovo.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50&jobOf -> 10 neu
+    [page] https://jobs.lenovo.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50&jobOf -> 10 neu
+    [page] https://jobs.lenovo.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50&jobOf -> 10 neu
+  60 Stellen gefunden, 9 davon Praktika (Titel)
+  9 nach Ortsfilter (Liste)
+  – University Recruiting Programs Intern - Spring and Summer 2027 (Ort teils fremd: University Recruiting Programs Intern - Spring and Summer 2027 Human Resources U)
+  – AI Intern (kein BWL-Bezug (Titel technisch))
+  + Procurement Intern [Ort unbekannt; Einkauf & Supply Chain; k. A.; Vollzeit; Start k. A.]
+  + Talent Acquisition Intern [Ort unbekannt; Personal (HR); k. A.; 20 Std.; Start k. A.]
+  + Lenovo Accelerated Sales Rotational Program Intern [LASR] CA - Summer  [Ort unbekannt; Vertrieb & Kundenmanagement; k. A.; Vollzeit; Start Summer 2027]
+  – Lenovo Future X - Summer Internship 2027 (kein BWL-Bezug (Text: 0 kaufmännische vs. 0 technische Begriffe))
+  + Business Analytics Intern [Ort unbekannt; Digitalisierung, Daten & KI; 6 Monate; Vollzeit; Start Januar 2027]
+  – Finance Intern (Ort fremd: Finance Intern Accounting/Finance United States of America, Illinois, Chicago Re)
+  + Sales Support Intern [Ort unbekannt; Vertrieb & Kundenmanagement; k. A.; 20 Std.; Start k. A.]
+
+Fertig: 1667 Praktika online.
+  OK  Lenovo: {'gefunden': 60, 'praktika': 9, 'ort_ok': 9} 56s 

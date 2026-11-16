@@ -1,0 +1,11 @@
+Firmen (1): UniCredit
+
+== UniCredit ==
+    [extra] https://careers.unicredit.eu/en_GB/jobsearch?search=internship -> 0 neu
+    [extra] https://careers.unicredit.eu/de_DE/jobsearch?search=praktikum -> 10 neu
+    [extra] https://careers.unicredit.eu/en_GB/jobsearch?search=trainee -> 0 neu
+  31 Stellen gefunden, 0 davon Praktika (Titel)
+  0 nach Ortsfilter (Liste)
+
+Fertig: 1667 Praktika online.
+  OK  UniCredit: {'gefunden': 31, 'praktika': 0, 'ort_ok': 0} 35s 

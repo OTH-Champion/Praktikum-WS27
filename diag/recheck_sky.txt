@@ -1,0 +1,7 @@
+Firmen (1): Sky
+
+== Sky ==
+  ! Fehler bei Sky: HTTP 429
+
+Fertig: 1662 Praktika online.
+  ERR Sky: {} 14s Fehler: RuntimeError
