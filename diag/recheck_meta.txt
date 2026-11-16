@@ -1,0 +1,13 @@
+Firmen (1): Meta
+
+== Meta ==
+  10 Stellen gefunden, 5 davon Praktika (Titel)
+  5 nach Ortsfilter (Liste)
+  – Structural Design Engineer - FEA (Intern) Sunnyvale, CA ⋅ Redmond, WA  (Ort fremd: Sunnyvale, California, US; Redmond, Washington, US; Seattle, Washington, US)
+  – Optical Engineering Intern - Camera, Depth & Cover Window Optics Sunny (Ort fremd: Sunnyvale, California, US)
+  – Technical Program Manager Intern, Reality Labs — 2027 Sunnyvale, CA ⋅  (Ort fremd: Sunnyvale, California, US; Menlo Park, California, US; Seattle, Washington, US; )
+  – ASIC EDA Infrastructure Engineer Intern Sunnyvale, CA AI Infrastructur (Ort fremd: Sunnyvale, California, US)
+  – Enterprise Security Engineer, Intern (Summer 2027) Menlo Park, CA ⋅ Ne (Ort fremd: Menlo Park, California, US; New York, New York, US)
+
+Fertig: 1626 Praktika online.
+  OK  Meta: {'gefunden': 10, 'praktika': 5, 'ort_ok': 5} 26s 

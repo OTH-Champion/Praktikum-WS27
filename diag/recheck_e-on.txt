@@ -1,0 +1,10 @@
+Firmen (1): E.ON
+
+== E.ON ==
+    [extra] https://jobs.eon.com/de?search=internship -> 0 neu
+    [page] https://jobs.eon.com/de?search=praktikum&page=2 -> 0 neu
+  7 Stellen gefunden, 1 davon Praktika (Titel)
+  1 nach Ortsfilter (Liste)
+
+Fertig: 1626 Praktika online.
+  OK  E.ON: {'gefunden': 7, 'praktika': 1, 'ort_ok': 1} 18s 
