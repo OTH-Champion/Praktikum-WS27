@@ -1,0 +1,16 @@
+Firmen (1): UNICEF
+
+== UNICEF ==
+    [auto-next] 6 Seite(n) weitergeblättert -> 172 neu
+    [extra] https://jobs.unicef.org/jobs/search?query=intern -> 0 neu
+    [extra] https://jobs.unicef.org/jobs/search?keywords=internship -> 0 neu
+  202 Stellen gefunden, 5 davon Praktika (Titel)
+  5 nach Ortsfilter (Liste)
+  – Youth Participation Intern, Mbabane, ESwatini, 6 months (Ort fremd: Eswatini (formerly Swaziland), SZ)
+  – New Internship Recruitment (Ort fremd: United States, New York, US)
+  – Batch Recruitment of National Interns for UN Agencies in Tajikistan (Ort fremd: Tajikistan, TJ)
+  – Internship for Child Protection Programme, UNICEF Bhutan, 4 months (Op (Ort fremd: Bhutan, BT)
+  – Communication Internship, UNICEF China (for Chinese Nationals only), 6 (Ort fremd: China, CN)
+
+Fertig: 1652 Praktika online.
+  OK  UNICEF: {'gefunden': 202, 'praktika': 5, 'ort_ok': 5} 76s 

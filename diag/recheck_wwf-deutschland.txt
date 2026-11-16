@@ -1,8 +1,9 @@
 Firmen (1): WWF Deutschland
 
 == WWF Deutschland ==
-  6 Stellen gefunden, 0 davon Praktika (Titel)
-  0 nach Ortsfilter (Liste)
+  6 Stellen gefunden, 1 davon Praktika (Titel)
+  1 nach Ortsfilter (Liste)
+  + Praktikum in der Stiftung NordWest Natur Die Stiftung NordWest Natur i [Ort unbekannt; Projektmanagement; k. A.; k. A.; Start k. A.]
 
-Fertig: 1654 Praktika online.
-  OK  WWF Deutschland: {'gefunden': 6, 'praktika': 0, 'ort_ok': 0} 10s 
+Fertig: 1653 Praktika online.
+  OK  WWF Deutschland: {'gefunden': 6, 'praktika': 1, 'ort_ok': 1} 15s 
