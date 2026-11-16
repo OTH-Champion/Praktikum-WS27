@@ -1,7 +1,9 @@
 Firmen (1): Sky
 
 == Sky ==
-  ! Fehler bei Sky: HTTP 429
+    [page] https://careers.sky.com/jobs?page=2 -> 0 neu
+  10 Stellen gefunden, 0 davon Praktika (Titel)
+  0 nach Ortsfilter (Liste)
 
 Fertig: 1662 Praktika online.
-  ERR Sky: {} 14s Fehler: RuntimeError
+  OK  Sky: {'gefunden': 10, 'praktika': 0, 'ort_ok': 0} 18s 
