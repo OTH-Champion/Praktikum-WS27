@@ -30,7 +30,7 @@ LOAD_MORE = re.compile(
     re.I,
 )
 
-TITLE_KEYS = ("name", "title", "RecruitPostName", "jobTitle", "job_title", "positionTitle", "postingTitle", "displayName")
+TITLE_KEYS = ("name", "title", "displayJobTitle", "RecruitPostName", "jobTitle", "job_title", "positionTitle", "postingTitle", "displayName")
 ID_KEYS = ("id", "jobId", "PostId", "job_id", "jobReqId", "reqId", "requisitionId", "displayJobId", "ats_job_id")
 URL_KEYS = ("canonicalPositionUrl", "PostURL", "positionUrl", "jobUrl", "url", "applyUrl", "externalUrl", "link", "href")
 LOC_KEYS = ("location", "locations", "LocationName", "full_location", "short_location", "cityLabel", "city", "primaryLocation", "jobLocation", "locationName",
@@ -244,10 +244,21 @@ def harvest(page: Page, company: dict, debug: dict | None = None) -> list[dict]:
     def on_response(resp):
         try:
             ct = resp.headers.get("content-type", "")
-            if "json" in ct and resp.request.resource_type in ("xhr", "fetch"):
+            if resp.request.resource_type in ("xhr", "fetch") and ("json" in ct or "html" in ct or "javascript" in ct):
                 body = resp.text()
-                if len(body) < 5_000_000:
-                    payloads.append(json.loads(body))
+                if len(body) < 5_000_000 and body.lstrip()[:1] in "{[" and body.strip():
+                    # manche Schnittstellen (z. B. Meta GraphQL) senden JSON als text/html, teils mehrere Zeilen
+                    try:
+                        payloads.append(json.loads(body))
+                    except ValueError:
+                        for line in body.splitlines():
+                            if line.strip()[:1] in "{[":
+                                try:
+                                    payloads.append(json.loads(line))
+                                except ValueError:
+                                    pass
+                    if "json" not in ct and not payloads:
+                        return
                     if debug is not None:
                         debug.setdefault("network", []).append({"url": resp.url, "size": len(body), "sample": body[:8000]})
                         if len(body) > 8000:

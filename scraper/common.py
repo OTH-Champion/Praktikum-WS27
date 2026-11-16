@@ -32,6 +32,9 @@ def load_settings() -> dict:
     s = load_yaml("settings.yaml")
     s["_include"] = [re.compile(r"\b" + p, re.I) for p in s["include_title"]]
     s["_exclude"] = [re.compile(r"\b" + p, re.I) for p in s["exclude_title"]]
+    weich = set(s.get("exclude_ausser_mit_praktikum") or [])
+    s["_exclude_hart"] = [re.compile(r"\b" + p, re.I) for p in s["exclude_title"] if p not in weich]
+    s["_exclude_weich"] = [re.compile(r"\b" + p, re.I) for p in s["exclude_title"] if p in weich]
     return s
 
 
@@ -80,9 +83,13 @@ def html_to_text(raw: str) -> str:
 
 def title_is_internship(title: str, settings: dict) -> bool:
     t = clean(title)
-    if any(p.search(t) for p in settings["_exclude"]):
+    hart = settings.get("_exclude_hart", settings["_exclude"])
+    if any(p.search(t) for p in hart):
         return False
-    return any(p.search(t) for p in settings["_include"])
+    if not any(p.search(t) for p in settings["_include"]):
+        return False
+    # "Praktikant / Werkstudent (m/w/d)": Kombi-Ausschreibungen bleiben drin
+    return True
 
 
 # --------------------------------------------------------------------------- HTTP

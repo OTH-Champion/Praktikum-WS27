@@ -27,7 +27,7 @@ include_title:
   - pasantes?\b       # Pasante (Lateinamerika)
   - stagiaire
 
-# Diese Stellen fliegen immer raus
+# Diese Stellen fliegen raus ...
 exclude_title:
   - werks?stud
   - working student
@@ -52,6 +52,12 @@ exclude_title:
   - phd
   - postdoc
   - werkvertrag
+
+# ... außer diese Begriffe stehen zusammen mit einem Praktikum im Titel
+# (z. B. "Praktikant / Werkstudent (m/w/d)" oder "Internship / Working Student")
+exclude_ausser_mit_praktikum:
+  - werks?stud
+  - working student
 
 # Sprachen der Anzeige, die behalten werden (ISO-Codes). Alles andere fliegt raus.
 sprachen: [de, en, es]

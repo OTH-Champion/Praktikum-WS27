@@ -91,12 +91,17 @@
 - name: Volkswagen
   ats: successfactors
   url: https://jobs.volkswagen-group.com/Volkswagen
+  # Deutsche Stellen erscheinen nur mit locale de_DE (mit en_US nur USA/Kanada/Mexiko)
+  locales: [de_DE, en_US]
   career_url: https://jobs.volkswagen-group.com/
 
 - name: Audi
-  ats: successfactors
-  url: https://jobs.volkswagen-group.com/Audi
-  career_url: https://jobs.volkswagen-group.com/Audi
+  # Die AUDI AG schreibt nicht im VW-Konzernportal aus (dort 0 Treffer), sondern auf karriere.audi.de.
+  # Dessen Zertifikat ist derzeit ungültig (ERR_CERT_DATE_INVALID), daher vorerst nur die
+  # Audi Business Innovation GmbH (München) über Personio.
+  ats: personio
+  url: https://audi-business-innovation-gmbh.jobs.personio.de
+  career_url: https://www.audi.com/de/praktikum-17159
 
 - name: Porsche
   ats: browser
@@ -122,7 +127,8 @@
   ats: browser   # Stellenbörse des E.ON-Konzerns, Bayernwerk-Stellen werden getrennt geführt
   career_url: https://jobs.eon.com/de
   list_url: https://jobs.eon.com/de?search=praktikum
-  job_link: jobs\.eon\.com/de/job/[^/]+/\d+
+  # Stellen der enviaM-Gruppe (MITNETZ, enviaM) verlinken auf deren eigenes Portal
+  job_link: (jobs\.eon\.com/de/job/[^/]+/\d+|jobs\.enviam-gruppe\.de/job/[^/]+/\d+)
   pages:
     template: https://jobs.eon.com/de?search=praktikum&page={page}
     max_pages: 10
@@ -152,8 +158,11 @@
   next_click: 20
 
 - name: Bayer
-  enabled: false   # Karriereseite war beim Test im Wartungsmodus
-  career_url: https://career.bayer.com/en/jobs-search
+  # career.bayer.com blockiert Server-Abrufe als Bot; die Eightfold-Schnittstelle dahinter ist offen
+  ats: eightfold
+  url: https://talent.bayer.com/careers
+  domain: bayer.com
+  career_url: https://talent.bayer.com/careers
 
 - name: BASF
   ats: successfactors
@@ -200,8 +209,13 @@
   career_url: https://www.knorr-bremse.com/en/careers/
 
 - name: Linde
-  enabled: false   # keine öffentliche Stellenbörse gefunden
-  career_url: https://www.linde.com/careers
+  # Cornerstone (csod): Stellen kommen nur als JSON (rec-job-search), Links baut job_url
+  ats: browser
+  career_url: https://linde.csod.com/ux/ats/careersite/20/home?c=linde
+  list_url: https://linde.csod.com/ux/ats/careersite/20/home?c=linde
+  job_link: linde\.csod\.com/ux/ats/careersite/20/home/requisition/\d+
+  job_url: https://linde.csod.com/ux/ats/careersite/20/home/requisition/{requisitionId}?c=linde
+  auto_next: 40
 
 - name: ZF
   ats: successfactors
@@ -317,6 +331,8 @@
   career_url: https://www.metacareers.com/
   list_url: https://www.metacareers.com/jobsearch/?q=intern
   job_link: metacareers\.com/(profile/job_details|jobs)/\d+
+  # Die Seite zeigt nur 10 Stellen je Seite, die GraphQL-Antwort enthält aber die ganze Liste
+  job_url: https://www.metacareers.com/profile/job_details/{id}
 
 - name: Samsung
   ats: workday
@@ -349,9 +365,10 @@
 
 # ============================================================ Europa
 - name: OMV
-  enabled: false   # jobs.omv.com lässt Verbindungen vom Aktualisierungs-Server nicht zu (Timeout)
+  # jobs.omv.com lässt Server-Abrufe nicht zu (Timeout), die Stellenbörse liegt jetzt auf careers.omv.com
   ats: successfactors
-  url: https://jobs.omv.com
+  url: https://careers.omv.com
+  locales: [de_DE, en_GB]
   career_url: https://www.omv.com/en/careers
 
 - name: Red Bull

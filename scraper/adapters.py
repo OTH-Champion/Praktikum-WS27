@@ -274,9 +274,10 @@ class SuccessFactors:
         u = urlparse(comp["url"])
         base = f"{u.scheme}://{u.netloc}"
         prefix = u.path.rstrip("/")  # z. B. careers.ey.com/ey -> /ey/search/
-        locale = comp.get("locale", "en_US")
         out = []
-        for term in _search_terms(comp, settings):
+        # Manche Portale zeigen je Sprache andere Stellen (VW: deutsche Stellen nur mit de_DE)
+        for locale, term in [(lo, t) for lo in (comp.get("locales") or [comp.get("locale", "en_US")])
+                             for t in _search_terms(comp, settings)]:
             for start in range(0, comp.get("max_rows", 500), 25):
                 q = urlencode({"q": term, "locale": locale, "startrow": start,
                                "sortColumn": "referencedate", "sortDirection": "desc"})

@@ -1,19 +1,15 @@
 {
  "api": [],
- "http": [
-  "https://bayer.eightfold.ai/api/apply/v2/jobs?domain=bayer.com&start=0&num=10&query=intern",
-  "https://jobs.bayer.com/api/apply/v2/jobs?domain=bayer.com&start=0&num=10&query=intern",
-  "https://talent.bayer.com/api/apply/v2/jobs?domain=bayer.com&start=0&num=10&query=intern",
-  "https://karriere.audi.de/",
-  "https://eu-fra.api.csod.com/rec-job-search/external/jobs"
- ],
- "browser": {
-  "Audi Portal": "https://karriere.audi.de/",
-  "Audi Jobsuche": "https://www.audi.com/de/careers/jobs.html",
-  "Bayer talent": "https://talent.bayer.com/careers?query=intern",
-  "Bayer jobs": "https://jobs.bayer.com/",
-  "OMV jobboard": "https://www.omv.com/en/career/grow-with-us/jobboard",
-  "Linde alle": "https://linde.csod.com/ux/ats/careersite/20/home?c=linde"
- },
- "recheck": []
+ "http": [],
+ "browser": {},
+ "recheck": [
+  "volkswagen",
+  "audi",
+  "e-on",
+  "bayer",
+  "kraussmaffei",
+  "linde",
+  "omv",
+  "meta"
+ ]
 }
