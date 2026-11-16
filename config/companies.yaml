@@ -478,10 +478,11 @@
   career_url: https://www.renaultgroup.com/en/careers/
 
 - name: Ryanair
-  ats: browser
+  # careers.ryanair.com zeigt nur 10 Stellen; dahinter liegt SuccessFactors (jobs.ryanair.com)
+  ats: successfactors
+  url: https://jobs.ryanair.com
+  locale: en_GB
   career_url: https://careers.ryanair.com/
-  list_url: https://careers.ryanair.com/jobs/
-  job_link: careers\.ryanair\.com/jobs/[a-z0-9-]+/?$
 
 - name: Eni
   ats: oracle   # aktive Site ist CX_1004; Schnittstelle direkt beim Oracle-Server
@@ -557,6 +558,8 @@
 - name: Volvo Cars
   ats: successfactors
   url: https://jobs.volvocars.com
+  # mit en_US nur Stellen aus USA und der Slowakei; europäische Stellen je nach Sprache
+  locales: [en_GB, sv_SE, de_DE, en_US]
   career_url: https://jobs.volvocars.com/
 
 - name: H&M
@@ -692,8 +695,11 @@
   career_url: https://www.sony.com/en/SonyInfo/Careers/
 
 - name: Panasonic
-  enabled: false   # Karriereseite blockiert automatische Abrufe
-  career_url: https://www.panasonic.com/global/corporate/careers.html
+  # panasonic.com blockiert Server (Access Denied); erfasst wird Panasonic Industry Europe (Ottobrunn u. a.)
+  ats: browser
+  career_url: https://industry.panasonic.eu/careers/interns-students
+  list_url: https://industry.panasonic.eu/careers/job-listing
+  job_link: industry\.panasonic\.eu/careers/job-listing[^?#]*_jd\d+
 
 - name: Hyundai
   ats: browser
@@ -810,6 +816,16 @@
   career_url: https://www.greenpeace.org.uk/about-greenpeace/jobs/
 
 # ---------------------------------------------------------------- UN, Entwicklungszusammenarbeit, NGOs
+- name: Weltbank
+  # World Bank Group (Weltbank, IFC, MIGA): Cornerstone; Praktika "WBG Pioneers" meist Jan.–Feb. ausgeschrieben
+  ngo: true   # gelockerter BWL-Filter
+  ats: browser
+  career_url: https://www.worldbank.org/en/about/careers/WBG-Pioneers
+  list_url: https://worldbankgroup.csod.com/ux/ats/careersite/1/home?c=worldbankgroup
+  job_link: worldbankgroup\.csod\.com/ux/ats/careersite/1/home/requisition/\d+
+  job_url: https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/{requisitionId}?c=worldbankgroup
+  auto_next: 40
+
 - name: UNICEF
   ngo: true   # gelockerter BWL-Filter
   ats: browser
@@ -841,7 +857,7 @@
   ats: browser
   career_url: https://www.wwf.de/ueber-uns/stellenangebote
   list_url: https://www.wwf.de/ueber-uns/stellenangebote
-  job_link: wwf\.de/ueber-uns/stellenangebote/stellenangebot/stelle/
+  job_link: wwf\.de/ueber-uns/stellenangebote/(stellenangebot/stelle/|weitere-jobs/)
 
 - name: WWF International
   enabled: false   # Stellenseite (panda.org) sperrt automatische Abrufe

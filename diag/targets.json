@@ -1,20 +1,20 @@
 {
- "api": [
-  "volvo-cars"
+ "api": [],
+ "http": [
+  "https://boards-api.greenhouse.io/v1/boards/unicef/jobs",
+  "https://boards-api.greenhouse.io/v1/boards/unicefcareers/jobs",
+  "https://jobs.unicef.org/en-us/listing/",
+  "https://jobs.unicef.org/"
  ],
- "http": [],
  "browser": {
-  "Weltbank": "https://worldbankgroup.csod.com/ux/ats/careersite/1/home?c=worldbankgroup",
-  "Iberdrola SF": "https://career2.successfactors.eu/career?company=iberdrolas&career_ns=job_listing_summary",
-  "Iberdrola Seite": "https://www.iberdrola.com/trabaja-con-nosotros/empleo",
-  "Panasonic Industry": "https://industry.panasonic.eu/careers/interns-students",
-  "Panasonic EU": "https://www.panasonic.com/eu/corporate/careers.html",
-  "Schneider": "https://careers.se.com/jobs?keywords=intern",
-  "Mitsubishi Electric DE": "https://de.mitsubishielectric.com/de/about-us/careers/index.html",
-  "Ryanair": "https://careers.ryanair.com/jobs/",
-  "Kia": "https://kia-europe.hirehive.com/",
-  "UNICEF": "https://jobs.unicef.org/en-us/search/?search-keyword=intern",
-  "WWF": "https://www.wwf.de/ueber-uns/stellenangebote"
+  "UNICEF Start": "https://jobs.unicef.org/",
+  "UNICEF Suche": "https://jobs.unicef.org/en-us/listing/?search=intern"
  },
- "recheck": []
+ "recheck": [
+  "volvo-cars",
+  "panasonic",
+  "ryanair",
+  "wwf-deutschland",
+  "weltbank"
+ ]
 }
