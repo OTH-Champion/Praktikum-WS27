@@ -35,6 +35,7 @@ exclude_title:
   - trainee
   - graduate program
   - schülerprakt
+  - fachoberschul     # FOS-Praktikum (Schule)
   - schuelerprakt
   - berufsorientierung
   - schnupper
