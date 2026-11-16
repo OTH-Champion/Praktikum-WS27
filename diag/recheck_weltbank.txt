@@ -1,0 +1,9 @@
+Firmen (1): Weltbank
+
+== Weltbank ==
+    [auto-next] 2 Seite(n) weitergeblättert -> 37 neu
+  62 Stellen gefunden, 0 davon Praktika (Titel)
+  0 nach Ortsfilter (Liste)
+
+Fertig: 1654 Praktika online.
+  OK  Weltbank: {'gefunden': 62, 'praktika': 0, 'ort_ok': 0} 10s 

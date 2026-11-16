@@ -1,0 +1,9 @@
+Firmen (1): Ryanair
+
+== Ryanair ==
+  42 Stellen gefunden, 1 davon Praktika (Titel)
+  1 nach Ortsfilter (Liste)
+  + Prácticas en Recursos Humanos (Area Laboral) [Madrid ES; Personal (HR); k. A.; k. A.; Start k. A.]
+
+Fertig: 1654 Praktika online.
+  OK  Ryanair: {'gefunden': 42, 'praktika': 1, 'ort_ok': 1} 3s 

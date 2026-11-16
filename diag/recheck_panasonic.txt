@@ -1,0 +1,10 @@
+Firmen (1): Panasonic
+
+== Panasonic ==
+    [auto-next] 1 Seite(n) weitergeblättert -> 2 neu
+  12 Stellen gefunden, 1 davon Praktika (Titel)
+  1 nach Ortsfilter (Liste)
+  + Internship (m/f/d) Battery Products [Ort unbekannt; Recht & Compliance; k. A.; k. A.; Start k. A.]
+
+Fertig: 1653 Praktika online.
+  OK  Panasonic: {'gefunden': 12, 'praktika': 1, 'ort_ok': 1} 16s 

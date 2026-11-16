@@ -1,0 +1,8 @@
+Firmen (1): Volvo Cars
+
+== Volvo Cars ==
+  32 Stellen gefunden, 0 davon Praktika (Titel)
+  0 nach Ortsfilter (Liste)
+
+Fertig: 1652 Praktika online.
+  OK  Volvo Cars: {'gefunden': 32, 'praktika': 0, 'ort_ok': 0} 9s 
