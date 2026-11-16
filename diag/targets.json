@@ -1,6 +1,20 @@
 {
- "api": [],
+ "api": [
+  "volvo-cars"
+ ],
  "http": [],
- "browser": {},
+ "browser": {
+  "Weltbank": "https://worldbankgroup.csod.com/ux/ats/careersite/1/home?c=worldbankgroup",
+  "Iberdrola SF": "https://career2.successfactors.eu/career?company=iberdrolas&career_ns=job_listing_summary",
+  "Iberdrola Seite": "https://www.iberdrola.com/trabaja-con-nosotros/empleo",
+  "Panasonic Industry": "https://industry.panasonic.eu/careers/interns-students",
+  "Panasonic EU": "https://www.panasonic.com/eu/corporate/careers.html",
+  "Schneider": "https://careers.se.com/jobs?keywords=intern",
+  "Mitsubishi Electric DE": "https://de.mitsubishielectric.com/de/about-us/careers/index.html",
+  "Ryanair": "https://careers.ryanair.com/jobs/",
+  "Kia": "https://kia-europe.hirehive.com/",
+  "UNICEF": "https://jobs.unicef.org/en-us/search/?search-keyword=intern",
+  "WWF": "https://www.wwf.de/ueber-uns/stellenangebote"
+ },
  "recheck": []
 }
