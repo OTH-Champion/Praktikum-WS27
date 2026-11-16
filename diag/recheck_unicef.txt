@@ -13,4 +13,4 @@ Firmen (1): UNICEF
   – Communication Internship, UNICEF China (for Chinese Nationals only), 6 (Ort fremd: China, CN)
 
 Fertig: 1652 Praktika online.
-  OK  UNICEF: {'gefunden': 202, 'praktika': 5, 'ort_ok': 5} 76s 
+  OK  UNICEF: {'gefunden': 202, 'praktika': 5, 'ort_ok': 5} 54s 
