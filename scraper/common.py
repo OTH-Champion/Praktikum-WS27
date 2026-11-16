@@ -119,7 +119,11 @@ class Http:
                 r = self.s.request(method, url, **kw)
                 if r.status_code in (429, 500, 502, 503, 504):
                     err = RuntimeError(f"HTTP {r.status_code}")
-                    time.sleep(2 * (i + 1))
+                    if r.status_code == 429:  # Drosselung: länger warten (Retry-After beachten, max. 60 s)
+                        ra = r.headers.get("Retry-After", "")
+                        time.sleep(min(60, int(ra)) if ra.isdigit() else 15 * (i + 1))
+                    else:
+                        time.sleep(2 * (i + 1))
                     continue
                 if 400 <= r.status_code < 500:
                     r.raise_for_status()  # Client-Fehler: Wiederholen bringt nichts

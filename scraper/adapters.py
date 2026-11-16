@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import json
 import re
+import time
 import xml.etree.ElementTree as ET
 from urllib.parse import urlencode, urljoin, urlparse
 
@@ -53,7 +54,9 @@ class Workday:
             offset = 0
             while offset < 2000:
                 body = {"appliedFacets": comp.get("facets", {}), "limit": 20, "offset": offset, "searchText": term}
-                data = http.json(api, method="POST", json=body, headers={"Content-Type": "application/json"})
+                time.sleep(comp.get("pause", 1.0))  # Workday drosselt schnelle Abfolgen (HTTP 429)
+                data = http.json(api, method="POST", json=body, headers={"Content-Type": "application/json",
+                                                                         "Accept": "application/json"})
                 posts = data.get("jobPostings") or []
                 for p in posts:
                     if not p.get("externalPath"):

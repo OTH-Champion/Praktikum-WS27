@@ -134,6 +134,8 @@ def collect_http(comp: dict, http: Http, settings: dict) -> tuple[list[dict], ob
     return out, adapter
 
 
+KEEP_FAILED_RUNS = 4  # bei wöchentlichem Lauf ca. 2 Wochen (zwei Termine je Woche)
+
 PAGE_SIZES = {10, 12, 15, 20, 24, 25, 30, 40, 50, 100}
 
 
@@ -346,7 +348,8 @@ def main() -> int:
     by_name = {c["name"]: c for c in companies}
     failed = {n for s in company_status if not s["ok"] for n in names_of(by_name[s["name"]])}
     for url, j in state["jobs"].items():
-        if j["company"] in failed and url not in active_urls and j.get("kept_runs", 0) < 1:
+        # Bei Abruffehlern (z. B. Drosselung HTTP 429) Stellen bis zu KEEP_FAILED_RUNS Läufe behalten
+        if j["company"] in failed and url not in active_urls and j.get("kept_runs", 0) < KEEP_FAILED_RUNS:
             j["kept_runs"] = j.get("kept_runs", 0) + 1
             active_urls.add(url)
     queried = {n for c in companies for n in names_of(c)}
