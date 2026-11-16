@@ -6,5 +6,5 @@ Firmen (1): Audi
   + Internship People & Culture (m/f/d) [München DE; Personal (HR); 6 Monate; Vollzeit; Start Juni 2026]
   – Praktikum IT & Office Management (m/w/d) (Sprache pl)
 
-Fertig: 1641 Praktika online.
+Fertig: 1640 Praktika online.
   OK  Audi: {'gefunden': 4, 'praktika': 2, 'ort_ok': 2} 1s 

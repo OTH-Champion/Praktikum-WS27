@@ -11,5 +11,5 @@ Firmen (1): Bayer
   + Praktikant*in im Bereich Closing & External Reporting (alle Geschlecht [Leverkusen DE; Finanzen & Controlling; 3 Monate; Vollzeit; Start k. A.]
   – Praktikant*in im Bereich Qualitätskontrolle für 2027 (alle Geschlechte (kein BWL-Bezug (Text: 4 kaufmännische vs. 2 technische Begriffe))
 
-Fertig: 1644 Praktika online.
-  OK  Bayer: {'gefunden': 27, 'praktika': 10, 'ort_ok': 7} 8s 
+Fertig: 1643 Praktika online.
+  OK  Bayer: {'gefunden': 27, 'praktika': 10, 'ort_ok': 7} 9s 

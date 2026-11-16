@@ -5,5 +5,5 @@ Firmen (1): KraussMaffei
   1 nach Ortsfilter (Liste)
   – Praktikanten / Werkstudenten (m/w/d) - Group Transformation (kein BWL-Bezug (Text: 4 kaufmännische vs. 3 technische Begriffe))
 
-Fertig: 1644 Praktika online.
+Fertig: 1643 Praktika online.
   OK  KraussMaffei: {'gefunden': 16, 'praktika': 1, 'ort_ok': 1} 3s 

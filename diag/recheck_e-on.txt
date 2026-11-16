@@ -8,5 +8,5 @@ Firmen (1): E.ON
   – Initiativbewerbung Praktikum (m/w/d) enviaM-Gruppe (Ort fremd: Initiativbewerbung Praktikum (m/w/d) enviaM-Gruppe Chemnitz (SN), Markkleeberg ()
   – Praktikum Robotik & Data Analytics (m/w/d) MITNETZ STROM (Sprache pl)
 
-Fertig: 1641 Praktika online.
+Fertig: 1640 Praktika online.
   OK  E.ON: {'gefunden': 9, 'praktika': 3, 'ort_ok': 3} 27s 

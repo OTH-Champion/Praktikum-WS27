@@ -50,5 +50,5 @@ Firmen (1): Meta
   – Research Scientist Intern, Muse RL and Agents Team (MSc) (kein BWL-Bezug (Titel technisch))
   – Optical Engineering AI and Data Analytics Intern (Ort fremd: Sunnyvale, California, US)
 
-Fertig: 1647 Praktika online.
-  OK  Meta: {'gefunden': 624, 'praktika': 46, 'ort_ok': 46} 155s 
+Fertig: 1646 Praktika online.
+  OK  Meta: {'gefunden': 624, 'praktika': 46, 'ort_ok': 46} 149s 

@@ -8,5 +8,5 @@ Firmen (1): Linde
   – Internship - Design tools and methods for heat exchangers (m/f/d) (kein BWL-Bezug (Text: 2 kaufmännische vs. 3 technische Begriffe))
   – Unsolicited Application - Internship - Linde Kryotechnik AG (m/f/d) (kein BWL-Bezug (Text: 0 kaufmännische vs. 2 technische Begriffe))
 
-Fertig: 1645 Praktika online.
-  OK  Linde: {'gefunden': 236, 'praktika': 3, 'ort_ok': 3} 42s 
+Fertig: 1644 Praktika online.
+  OK  Linde: {'gefunden': 236, 'praktika': 3, 'ort_ok': 3} 39s 

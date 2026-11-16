@@ -9,5 +9,5 @@ Firmen (1): OMV
   + 6-Month Internship in Geoenergy & Technology (gn) [Wien AT; Marketing & Kommunikation; 6 Monate; k. A.; Start k. A.]
   – 6-Month Technical Internship at Refinery Schwechat - Females first! (g (kein BWL-Bezug (Text: 2 kaufmännische vs. 2 technische Begriffe))
 
-Fertig: 1647 Praktika online.
+Fertig: 1646 Praktika online.
   OK  OMV: {'gefunden': 50, 'praktika': 5, 'ort_ok': 5} 7s 
