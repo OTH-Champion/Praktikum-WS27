@@ -1,22 +1,19 @@
 {
- "api": [
-  "volkswagen",
-  "audi",
-  "kraussmaffei"
+ "api": [],
+ "http": [
+  "https://bayer.eightfold.ai/api/apply/v2/jobs?domain=bayer.com&start=0&num=10&query=intern",
+  "https://jobs.bayer.com/api/apply/v2/jobs?domain=bayer.com&start=0&num=10&query=intern",
+  "https://talent.bayer.com/api/apply/v2/jobs?domain=bayer.com&start=0&num=10&query=intern",
+  "https://karriere.audi.de/",
+  "https://eu-fra.api.csod.com/rec-job-search/external/jobs"
  ],
  "browser": {
-  "Volkswagen (Suche)": "https://jobs.volkswagen-group.com/Volkswagen/search/?q=praktikum&locale=de_DE",
-  "Audi (Suche)": "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum&locale=de_DE",
-  "KraussMaffei (Suche)": "https://jobs.kraussmaffei.com/search/?q=praktikum&locale=de_DE",
-  "E.ON (Suche)": "https://jobs.eon.com/de?search=praktikum",
-  "Bayernwerk": "https://www.bayernwerk.de/de/karriere.html",
-  "Bayer": "https://career.bayer.com/en/jobs-search?keyword=intern",
-  "Linde": "https://linde.csod.com/ux/ats/careersite/20/home?c=linde&country=de",
-  "OMV": "https://jobs.omv.com/search/?q=praktikum",
-  "Meta": "https://www.metacareers.com/jobsearch/?q=intern"
+  "Audi Portal": "https://karriere.audi.de/",
+  "Audi Jobsuche": "https://www.audi.com/de/careers/jobs.html",
+  "Bayer talent": "https://talent.bayer.com/careers?query=intern",
+  "Bayer jobs": "https://jobs.bayer.com/",
+  "OMV jobboard": "https://www.omv.com/en/career/grow-with-us/jobboard",
+  "Linde alle": "https://linde.csod.com/ux/ats/careersite/20/home?c=linde"
  },
- "recheck": [
-  "meta",
-  "e-on"
- ]
+ "recheck": []
 }

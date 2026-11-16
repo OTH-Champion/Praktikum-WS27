@@ -50,6 +50,17 @@ def api_titles(http, settings):
             p("  FEHLER " + traceback.format_exc()[-600:])
 
 
+def http_probe(http):
+    for url in CFG.get("http", []):
+        p(f"\n######## HTTP: {url}")
+        try:
+            r = http.s.get(url, timeout=30, headers={"Accept": "application/json, text/html"})
+            p(f"  {r.status_code} {r.headers.get('content-type', '')[:40]} {len(r.text)} Zeichen, Ende-URL {r.url[:150]}")
+            p("  " + re.sub(r"\s+", " ", r.text[:1500]))
+        except Exception as e:  # noqa: BLE001
+            p(f"  FEHLER {e.__class__.__name__}: {str(e)[:200]}")
+
+
 def browse():
     from playwright.sync_api import sync_playwright
     from scraper.common import UA
@@ -109,6 +120,7 @@ def main():
     settings = load_settings()
     http = Http()
     api_titles(http, settings)
+    http_probe(http)
     if CFG.get("browser"):
         browse()
     OUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
