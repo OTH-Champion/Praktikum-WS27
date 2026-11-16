@@ -1,0 +1,44 @@
+name: Diagnose (Hilfslauf)
+
+# Prüft einzelne Firmen ohne die Seite zu aktualisieren. Ziele stehen in diag/targets.json,
+# das Ergebnis landet in diag/result.txt (und diag/meta_*.txt).
+on:
+  push:
+    branches: [main]
+    paths:
+      - "diag/targets.json"
+      - "diag/diag.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: diagnose
+  cancel-in-progress: true
+
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt && python -m playwright install --with-deps chromium
+      - run: python diag/diag.py 2>&1 | tail -40
+      - name: Aussortierte Stellen neu bewerten (nur Diagnose, nichts wird veröffentlicht)
+        run: |
+          for f in $(python -c "import json;print(' '.join(json.load(open('diag/targets.json')).get('recheck', [])))"); do
+            python -m scraper.run --only "$f" --recheck-rejected --debug > "diag/recheck_$f.txt" 2>&1 || true
+            tail -60 "diag/recheck_$f.txt"
+          done
+      - name: Ergebnis speichern
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898248+github-actions[bot]@users.noreply.github.com"
+          git add diag/*.txt
+          git commit -m "Diagnose-Ergebnis" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

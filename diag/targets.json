@@ -1,0 +1,22 @@
+{
+ "api": [
+  "volkswagen",
+  "audi",
+  "kraussmaffei"
+ ],
+ "browser": {
+  "Volkswagen (Suche)": "https://jobs.volkswagen-group.com/Volkswagen/search/?q=praktikum&locale=de_DE",
+  "Audi (Suche)": "https://jobs.volkswagen-group.com/Audi/search/?q=praktikum&locale=de_DE",
+  "KraussMaffei (Suche)": "https://jobs.kraussmaffei.com/search/?q=praktikum&locale=de_DE",
+  "E.ON (Suche)": "https://jobs.eon.com/de?search=praktikum",
+  "Bayernwerk": "https://www.bayernwerk.de/de/karriere.html",
+  "Bayer": "https://career.bayer.com/en/jobs-search?keyword=intern",
+  "Linde": "https://linde.csod.com/ux/ats/careersite/20/home?c=linde&country=de",
+  "OMV": "https://jobs.omv.com/search/?q=praktikum",
+  "Meta": "https://www.metacareers.com/jobsearch/?q=intern"
+ },
+ "recheck": [
+  "meta",
+  "e-on"
+ ]
+}
