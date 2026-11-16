@@ -1,0 +1,33 @@
+Firmen (1): Volkswagen
+
+== Volkswagen ==
+  62 Stellen gefunden, 25 davon Praktika (Titel)
+  25 nach Ortsfilter (Liste)
+  + Praktikum Sportkommunikation (w/m/d) [Wolfsburg DE; Marketing & Kommunikation; 6 Monate; Vollzeit; Start k. A.]
+  + Praktikum Kooperationen Transporter (w/m/d) [Hannover DE; Einkauf & Supply Chain; k. A.; Vollzeit; Start k. A.]
+  + Praktikum Marktforschung (w/m/d) [Hannover DE; Business Development & Strategie; k. A.; Vollzeit; Start März 2027]
+  + Praktikum Konzernbeschaffung Produktanläufe MEB (w/m/d) [Wolfsburg DE; Einkauf & Supply Chain; k. A.; Vollzeit; Start k. A.]
+  + Praktikum Brand Experience & Mobility System (w/m/d) [Wolfsburg DE; Marketing & Kommunikation; k. A.; Vollzeit; Start k. A.]
+  – Praktikum Prozessdigitalisierung & KI (w/m/d) (kein BWL-Bezug (Text: 0 kaufmännische vs. 0 technische Begriffe))
+  – Praktikum Bereich Medienfabrik (w/m/d) (kein BWL-Bezug (Text: 0 kaufmännische vs. 0 technische Begriffe))
+  – Praktikum Produktionssystem (w/m/d) (kein BWL-Bezug (Titel technisch))
+  + Praktikum Design Interieur (w/m/d) [Wolfsburg DE; Recht & Compliance; k. A.; Vollzeit; Start k. A.]
+  – Praktikum Medienfabrik - CGI, Generative AI & 3D-Contentproduktion (w/ (kein BWL-Bezug (Titel technisch))
+  – Praktikum Datengetriebene Werkstoffentwicklung Karosseriebau (w/m/d) (kein BWL-Bezug (Titel technisch))
+  + Praktikum Inboundlogistik Just in Sequence (w/m/d) [Hannover DE; Einkauf & Supply Chain; k. A.; Vollzeit; Start k. A.]
+  + Praktikum Personal Technische Bereiche (w/m/d) [Wolfsburg DE; Personal (HR); k. A.; Vollzeit; Start k. A.]
+  + Praktikum Data Analytics & AI (w/m/d) [Wolfsburg DE; Vertrieb & Kundenmanagement; k. A.; Vollzeit; Start k. A.]
+  – Praktikum IT & Transformation (w/m/d) (kein BWL-Bezug (Text: 3 kaufmännische vs. 3 technische Begriffe))
+  – Praktikum FAS Entwicklung (w/m/d) (kein BWL-Bezug (Titel technisch))
+  + Praktikum Produktmanagement / Baureihe (w/m/d) [Wolfsburg DE; Produktmanagement; k. A.; Vollzeit; Start k. A.]
+  + Praktikum Global Assignments Steuern und Sozialversicherung (w/m/d) [Wolfsburg DE; Finanzen & Controlling; 4 Monate; Vollzeit; Start Februar 2027]
+  – Praktikum Qualitätssicherung (w/m/d) (kein BWL-Bezug (Text: 0 kaufmännische vs. 0 technische Begriffe))
+  + Praktikum Konzernbeschaffung Nachhaltigkeit (w/m/d) [Wolfsburg DE; Einkauf & Supply Chain; 5 Monate; Vollzeit; Start k. A.]
+  + Praktikum Fachoberschule kaufmännisch (w/m/d) [Baunatal DE; Recht & Compliance; k. A.; Teilzeit; Start August 2027]
+  – Praktikum Fachoberschule technisch (w/m/d) (kein BWL-Bezug (Text: 2 kaufmännische vs. 6 technische Begriffe))
+  – Praktikum Produktivitätssteuerung (w/m/d) (kein BWL-Bezug (Text: 2 kaufmännische vs. 2 technische Begriffe))
+  – Praktikum Montagelinie 1 & 4 (w/m/d) (kein BWL-Bezug (Titel technisch))
+  + Praktikum Digitalisierung Werklogistik (w/m/d) [Wolfsburg DE; Digitalisierung, Daten & KI; k. A.; Vollzeit; Start k. A.]
+
+Fertig: 1640 Praktika online.
+  OK  Volkswagen: {'gefunden': 62, 'praktika': 25, 'ort_ok': 25} 18s 

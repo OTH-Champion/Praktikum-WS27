@@ -1,0 +1,12 @@
+Firmen (1): Linde
+
+== Linde ==
+    [auto-next] 9 Seite(n) weitergeblättert -> 211 neu
+  236 Stellen gefunden, 3 davon Praktika (Titel)
+  3 nach Ortsfilter (Liste)
+  + Praktikum im Bereich Talent Management & People Development (m/w/d) [Pullach DE; Personal (HR); k. A.; k. A.; Start Februar 2027]
+  – Internship - Design tools and methods for heat exchangers (m/f/d) (kein BWL-Bezug (Text: 2 kaufmännische vs. 3 technische Begriffe))
+  – Unsolicited Application - Internship - Linde Kryotechnik AG (m/f/d) (kein BWL-Bezug (Text: 0 kaufmännische vs. 2 technische Begriffe))
+
+Fertig: 1645 Praktika online.
+  OK  Linde: {'gefunden': 236, 'praktika': 3, 'ort_ok': 3} 42s 

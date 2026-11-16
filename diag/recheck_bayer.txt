@@ -1,0 +1,15 @@
+Firmen (1): Bayer
+
+== Bayer ==
+  27 Stellen gefunden, 10 davon Praktika (Titel)
+  7 nach Ortsfilter (Liste)
+  + Intern in Integrated Process & Mathematical Solutions (all Genders) [Leverkusen DE; Personal (HR); 4 Monate; Vollzeit; Start k. A.]
+  – Intern - Drug Substance Digital Process Chemistry (all genders) (kein BWL-Bezug (Text: 4 kaufmännische vs. 12 technische Begriffe))
+  – Agentic AI Internship (All Genders) (kein BWL-Bezug (Titel technisch))
+  – Praktikant*in im Bereich Werkstoff- und Korrosionstechnik (alle Geschl (kein BWL-Bezug (Text: 3 kaufmännische vs. 2 technische Begriffe))
+  + Praktikum in der Herstellung & Verpackung (Halbfeste Formen) ab 2027 ( [Grenzach-Wyhlen DE; Business Development & Strategie; 6 Monate; Vollzeit; Start k. A.]
+  + Praktikant*in im Bereich Closing & External Reporting (alle Geschlecht [Leverkusen DE; Finanzen & Controlling; 3 Monate; Vollzeit; Start k. A.]
+  – Praktikant*in im Bereich Qualitätskontrolle für 2027 (alle Geschlechte (kein BWL-Bezug (Text: 4 kaufmännische vs. 2 technische Begriffe))
+
+Fertig: 1644 Praktika online.
+  OK  Bayer: {'gefunden': 27, 'praktika': 10, 'ort_ok': 7} 8s 

@@ -3,8 +3,10 @@ Firmen (1): E.ON
 == E.ON ==
     [extra] https://jobs.eon.com/de?search=internship -> 0 neu
     [page] https://jobs.eon.com/de?search=praktikum&page=2 -> 0 neu
-  7 Stellen gefunden, 1 davon Praktika (Titel)
-  1 nach Ortsfilter (Liste)
+  9 Stellen gefunden, 3 davon Praktika (Titel)
+  3 nach Ortsfilter (Liste)
+  – Initiativbewerbung Praktikum (m/w/d) enviaM-Gruppe (Ort fremd: Initiativbewerbung Praktikum (m/w/d) enviaM-Gruppe Chemnitz (SN), Markkleeberg ()
+  – Praktikum Robotik & Data Analytics (m/w/d) MITNETZ STROM (Sprache pl)
 
-Fertig: 1626 Praktika online.
-  OK  E.ON: {'gefunden': 7, 'praktika': 1, 'ort_ok': 1} 18s 
+Fertig: 1641 Praktika online.
+  OK  E.ON: {'gefunden': 9, 'praktika': 3, 'ort_ok': 3} 27s 

@@ -1,0 +1,13 @@
+Firmen (1): OMV
+
+== OMV ==
+  50 Stellen gefunden, 5 davon Praktika (Titel)
+  5 nach Ortsfilter (Liste)
+  – 6-Month Internship in Chemical Engineering (gn) (kein BWL-Bezug (Titel technisch))
+  + 6-Month Internship in Legal (gn) [Wien AT; Recht & Compliance; 6 Monate; k. A.; Start k. A.]
+  – 6-Month Internship in Industrial Engineering (gn) (kein BWL-Bezug (Titel technisch))
+  + 6-Month Internship in Geoenergy & Technology (gn) [Wien AT; Marketing & Kommunikation; 6 Monate; k. A.; Start k. A.]
+  – 6-Month Technical Internship at Refinery Schwechat - Females first! (g (kein BWL-Bezug (Text: 2 kaufmännische vs. 2 technische Begriffe))
+
+Fertig: 1647 Praktika online.
+  OK  OMV: {'gefunden': 50, 'praktika': 5, 'ort_ok': 5} 7s 
