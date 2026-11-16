@@ -1,26 +1,11 @@
 {
- "api": [],
- "http": [
-  "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers",
-  "https://maersk.wd3.myworkdayjobs.com/maersk",
-  "https://maersk.wd3.myworkdayjobs.com/External",
-  "https://maersk.wd3.myworkdayjobs.com/MaerskCareers",
-  "https://maersk.wd1.myworkdayjobs.com/Maersk_Careers",
-  "https://maersk.wd1.myworkdayjobs.com/maersk",
-  "https://maersk.wd1.myworkdayjobs.com/External",
-  "https://maersk.wd1.myworkdayjobs.com/MaerskCareers",
-  "https://maersk.wd103.myworkdayjobs.com/Maersk_Careers",
-  "https://maersk.wd103.myworkdayjobs.com/maersk",
-  "https://maersk.wd103.myworkdayjobs.com/External",
-  "https://maersk.wd103.myworkdayjobs.com/MaerskCareers",
-  "https://careers.theheinekencompany.com/search-result?q=intern"
+ "api": [
+  "booking.com"
  ],
+ "http": [],
  "browser": {},
  "recheck": [
-  "sky",
   "booking-com",
-  "lenovo",
-  "unicredit",
-  "asml"
+  "sky"
  ]
 }

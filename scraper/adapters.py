@@ -404,13 +404,16 @@ class Jibe:
                     slug = j.get("slug") or j.get("req_id")
                     if not slug:
                         continue
-                    loc = j.get("full_location") or ", ".join(x for x in (j.get("city"), j.get("state"), j.get("country")) if x)
+                    loc = j.get("full_location") or ", ".join(str(x) for x in (j.get("city"), j.get("state"), j.get("country"))
+                                                               if isinstance(x, str) and x)
                     out.append({
                         "url": f"{base}{jobs_path}/{slug}",
                         "title": clean(j.get("title")),
                         "locations": [loc] if loc else [],
                         "posted": parse_date(j.get("posted_date") or j.get("create_date") or ""),
-                        "department": clean(", ".join(j.get("categories") or []) if isinstance(j.get("categories"), list) else ""),
+                        "department": clean(", ".join(
+                            (c.get("name", "") if isinstance(c, dict) else str(c)) for c in (j.get("categories") or [])
+                        ) if isinstance(j.get("categories"), list) else ""),
                         "text": html_to_text(j.get("description") or "")[:12000],
                     })
                 if len(rows) < 100 or len(out) >= (data.get("totalCount") or 0):
