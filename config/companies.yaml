@@ -342,10 +342,10 @@
 - name: Lenovo
   ats: browser
   career_url: https://jobs.lenovo.com/
-  list_url: https://jobs.lenovo.com/en_US/careers/SearchJobs/?keyword=intern&jobRecordsPerPage=50
+  list_url: https://jobs.lenovo.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50
   job_link: /careers/JobDetail/[^/]+/\d+
   pages:
-    template: https://jobs.lenovo.com/en_US/careers/SearchJobs/?keyword=intern&jobRecordsPerPage=50&jobOffset={offset}
+    template: https://jobs.lenovo.com/en_US/careers/SearchJobs/?search=intern&jobRecordsPerPage=50&jobOffset={offset}
     step: 50
     max_pages: 6
 
@@ -390,8 +390,13 @@
 - name: UniCredit
   ats: browser
   career_url: https://careers.unicredit.eu/
-  list_url: https://careers.unicredit.eu/en_GB/jobsearch?keyword=intern
-  job_link: /JobDetail/
+  # Avature: Suchparameter heißt "search" (keyword wurde ignoriert)
+  list_url: https://careers.unicredit.eu/en_GB/jobsearch?search=intern
+  job_link: careers\.unicredit\.eu/[a-z]{2}_[A-Z]{2}/jobsearch/JobDetail/[^/?#]+/\d+
+  extra_urls:
+    - https://careers.unicredit.eu/en_GB/jobsearch?search=internship
+    - https://careers.unicredit.eu/de_DE/jobsearch?search=praktikum
+    - https://careers.unicredit.eu/en_GB/jobsearch?search=trainee
 
 - name: INA
   enabled: false   # keine Online-Stellenbörse gefunden
@@ -539,7 +544,9 @@
 - name: ASML
   ats: browser
   career_url: https://www.asml.com/en/careers/find-your-job
-  list_url: https://www.asml.com/en/careers/find-your-job?query=intern
+  list_url: https://www.asml.com/en/careers/find-your-job?job_type=Internship
+  extra_urls:
+    - https://www.asml.com/en/careers/find-your-job?query=internship
   job_link: /careers/find-your-job/[a-z0-9-]+-j\d+
 
 - name: Volvo Group
@@ -596,10 +603,10 @@
   career_url: https://search.jobs.barclays/
 
 - name: Sky
-  ats: browser
+  # careers.sky.com ignoriert Suchbegriffe; dahinter liegt Workday
+  ats: workday
+  url: https://sky.wd3.myworkdayjobs.com/sky_careers
   career_url: https://careers.sky.com/
-  list_url: https://careers.sky.com/jobs
-  job_link: careers\.sky\.com/jobs/t-R\d+
 
 - name: DAZN
   ats: pinpoint
@@ -1132,10 +1139,10 @@
   career_url: https://careers.adyen.com/vacancies
 
 - name: Booking.com
-  ats: browser
+  # Die Seite filtert per Voreinstellung auf einzelne Konzernteile (0 Treffer); die Schnittstelle ohne Filter liefert alle
+  ats: jibe
+  url: https://jobs.booking.com/booking/jobs
   career_url: https://careers.booking.com/
-  list_url: https://jobs.booking.com/booking/jobs?keywords=intern
-  job_link: /booking/jobs/\d+
 
 - name: Nestlé
   ats: successfactors

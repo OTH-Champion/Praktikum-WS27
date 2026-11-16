@@ -384,6 +384,43 @@ class Eightfold:
         return {"text": html_to_text(d.get("job_description"))}
 
 
+# --------------------------------------------------------------------------- Jibe (iCIMS-Karriereseiten)
+class Jibe:
+    """Karriereseiten auf Jibe/iCIMS (z. B. jobs.booking.com/booking/jobs): Schnittstelle /api/jobs.
+
+    Konfiguration: url = Stellenliste (…/<site>/jobs). Die Antwort enthält die ganze Beschreibung."""
+
+    def list(self, http, comp, settings):
+        u = urlparse(comp["url"])
+        base = f"{u.scheme}://{u.netloc}"
+        jobs_path = u.path.rstrip("/") or "/jobs"
+        out = []
+        for term in _search_terms(comp, settings):
+            for page in range(1, comp.get("max_pages", 10) + 1):
+                data = http.json(f"{base}/api/jobs?{urlencode({'keywords': term, 'page': page, 'limit': 100})}")
+                rows = data.get("jobs") or []
+                for row in rows:
+                    j = row.get("data") or row
+                    slug = j.get("slug") or j.get("req_id")
+                    if not slug:
+                        continue
+                    loc = j.get("full_location") or ", ".join(x for x in (j.get("city"), j.get("state"), j.get("country")) if x)
+                    out.append({
+                        "url": f"{base}{jobs_path}/{slug}",
+                        "title": clean(j.get("title")),
+                        "locations": [loc] if loc else [],
+                        "posted": parse_date(j.get("posted_date") or j.get("create_date") or ""),
+                        "department": clean(", ".join(j.get("categories") or []) if isinstance(j.get("categories"), list) else ""),
+                        "text": html_to_text(j.get("description") or "")[:12000],
+                    })
+                if len(rows) < 100 or len(out) >= (data.get("totalCount") or 0):
+                    break
+        return _uniq(out)
+
+    def detail(self, http, comp, job):
+        return fetch_html_detail(http, job["url"])
+
+
 # --------------------------------------------------------------------------- Telekom (Global Career Website)
 def _slugify(text: str) -> str:
     import unicodedata
@@ -750,7 +787,7 @@ ADAPTERS = {
     "radancy": Radancy(),
     "workday": Workday(), "greenhouse": Greenhouse(), "lever": Lever(), "smartrecruiters": SmartRecruiters(),
     "ashby": Ashby(), "personio": Personio(), "recruitee": Recruitee(), "successfactors": SuccessFactors(),
-    "eightfold": Eightfold(), "telekom": TelekomGCW(),
+    "eightfold": Eightfold(), "telekom": TelekomGCW(), "jibe": Jibe(),
 }
 
 
