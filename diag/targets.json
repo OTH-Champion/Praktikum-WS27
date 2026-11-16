@@ -2,7 +2,5 @@
  "api": [],
  "http": [],
  "browser": {},
- "recheck": [
-  "sky"
- ]
+ "recheck": []
 }

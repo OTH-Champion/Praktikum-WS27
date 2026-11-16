@@ -603,15 +603,12 @@
   career_url: https://search.jobs.barclays/
 
 - name: Sky
-  # careers.sky.com ignoriert Suchbegriffe und zeigt 10 Stellen je Seite (rund 80 insgesamt): alle Seiten lesen.
+  # careers.sky.com ignoriert Suchbegriffe und blättert nur per Skript (?page= wirkt nicht).
   # Die Workday-Schnittstelle dahinter (sky.wd3.myworkdayjobs.com/sky_careers) antwortet Servern mit HTTP 429.
   ats: browser
   career_url: https://careers.sky.com/
   list_url: https://careers.sky.com/jobs
   job_link: careers\.sky\.com/jobs/t-R\d+
-  pages:
-    template: https://careers.sky.com/jobs?page={page}
-    max_pages: 15
 
 - name: DAZN
   ats: pinpoint
